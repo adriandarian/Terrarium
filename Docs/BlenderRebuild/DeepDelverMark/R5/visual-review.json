@@ -1,0 +1,31 @@
+{
+  "revision": "r5_connected_cast_frame_and_relief",
+  "parts": 461,
+  "triangles": 51452,
+  "changes": [
+    "Physical hexagonal gold frame, continuous wall to the solid back plate, four corner clips and two gem sockets.",
+    "Recessed square cavern tiles and individual turned-square ledge columns.",
+    "Raised mineral crystal glyph and faceted turquoise gems.",
+    "Hidden sloping solid rear webs support the raised relief.",
+    "Reduced over-thick upper frame, joined the separated upper crystal branches and repaired the rear perimeter gap after rendered inspection."
+  ],
+  "studio_views": [
+    "front.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "visually_checked": true,
+  "accepted_fidelity": false,
+  "remaining": [
+    "Cavern ledges are too columnar and regular compared with the denser stepped source.",
+    "Upper gray shoulders are broad and smooth; source has finer fractured blocks.",
+    "Gold grain, reflective highlights, socket facets and corner profiles need closer matching.",
+    "Unreal shades the gold greener and cavern bluer than the concept.",
+    "Rear plate and support webs are inferred; full collision, pickup and performance remain untested."
+  ],
+  "presentation": "Blender Standard transform, Medium High Contrast, exposure -0.35; Unreal working sky fill 7 with manual bias -12. No added light or emissive material for this badge."
+}

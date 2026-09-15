@@ -1,0 +1,25 @@
+{
+  "reference_sha256": "07b407c28b7ada2ba440b12aa1ba67398dde25078aaaf2d61d3e7f22b1473212",
+  "dimensions": [
+    1254,
+    1254
+  ],
+  "method": "Reference excludes magenta RGB R>200,G<80,B>200. Render uses alpha>127. No rescaling or alignment.",
+  "measurements": [
+    {
+      "revision": "r5",
+      "image_sha256": "f1b4e4160a7f77368fc35fd6f710f0b76e104627e74295def79f0057cabe734d",
+      "intersection_over_union": 0.9285723463084213,
+      "outside_reference_pixels": 21695,
+      "missing_reference_pixels": 33898
+    },
+    {
+      "revision": "r9",
+      "image_sha256": "0055ec44eaca54a4eb924ace490729a246105349874840a6dcc4de78f81c606d",
+      "intersection_over_union": 0.9579559994290062,
+      "outside_reference_pixels": 6964,
+      "missing_reference_pixels": 25140
+    }
+  ],
+  "limits": "Front silhouette only. Does not measure internal relief, materials, lighting, rear geometry or gameplay. Not visual acceptance."
+}

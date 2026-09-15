@@ -1,0 +1,12 @@
+{
+  "asset": "DeepDelverMark",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "9abbc38cad726c192b094f3cff7821c359249f0cfb6519f2f1611b2402757285",
+  "sha256": "bcc0343b7fe83979597392d4a25236c8c2e0534f0289234a723b49ce138e3547",
+  "scene": "Terrarium_DeepDelverMark",
+  "parts": 461,
+  "packed_images": 3,
+  "active_camera": "Reference camera.002",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

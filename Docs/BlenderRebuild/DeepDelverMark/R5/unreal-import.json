@@ -1,0 +1,35 @@
+{
+  "asset": "DeepDelverMark",
+  "mesh": "/Game/Terrarium/Blender/DeepDelverMark/SM_Blender_DeepDelverMark.SM_Blender_DeepDelverMark",
+  "material": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark.M_DeepDelverMark",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/DeepDelverMark/T_DeepDelverMark_BaseColor.T_DeepDelverMark_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/DeepDelverMark/T_DeepDelverMark_Emission.T_DeepDelverMark_Emission",
+    "Roughness": "/Game/Terrarium/Blender/DeepDelverMark/T_DeepDelverMark_Roughness.T_DeepDelverMark_Roughness"
+  },
+  "source_fbx_sha256": "52621a0f09101a2f63bdf7fc41c1fe7caebb9359260706c80e82a8fcb0df14d9",
+  "dimensions_cm": [
+    95.07794952392578,
+    31.575151443481445,
+    130.5931966304779
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check",
+  "material_slots": [
+    {
+      "index": 0,
+      "imported_name": "M_DeepDelverMark_Frame_004",
+      "material": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark.M_DeepDelverMark"
+    },
+    {
+      "index": 1,
+      "imported_name": "M_DeepDelverMark_Cavern_004",
+      "material": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark.M_DeepDelverMark"
+    },
+    {
+      "index": 2,
+      "imported_name": "M_DeepDelverMark_Crystal_004",
+      "material": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark.M_DeepDelverMark"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "reload_verified": true,
+  "actor": "Blender_DeepDelverMark_MarketFront",
+  "materials_verified": 3,
+  "wall_samples": [
+    {
+      "xz": [
+        352,
+        596
+      ],
+      "y": 624.7999960184097
+    },
+    {
+      "xz": [
+        352,
+        607
+      ],
+      "y": 624.7999960184097
+    },
+    {
+      "xz": [
+        352,
+        618
+      ],
+      "y": 624.7999960184097
+    },
+    {
+      "xz": [
+        355,
+        596
+      ],
+      "y": 624.7999960184097
+    },
+    {
+      "xz": [
+        355,
+        607
+      ],
+      "y": 624.7999960184097
+    },
+    {
+      "xz": [
+        355,
+        618
+      ],
+      "y": 624.7999960184097
+    },
+    {
+      "xz": [
+        358,
+        596
+      ],
+      "y": 624.7999918460846
+    },
+    {
+      "xz": [
+        358,
+        607
+      ],
+      "y": 624.7999918460846
+    },
+    {
+      "xz": [
+        358,
+        618
+      ],
+      "y": 624.7999918460846
+    }
+  ],
+  "back_clearance_cm": 0.014999999999986358,
+  "source_hash_verified": true,
+  "limits": "Static mounting samples and shader persistence. Wall hardware, pickup gameplay, full collision and performance are not tested. Visual fidelity remains open."
+}

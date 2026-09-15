@@ -1,0 +1,38 @@
+{
+  "slots": [
+    {
+      "index": 0,
+      "imported_name": "M_DeepDelverMark_Frame_001",
+      "role": "Frame",
+      "material": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Frame.M_DeepDelverMark_Frame",
+      "parameters": {
+        "Metallic": 0.65,
+        "Specular": 0.5
+      },
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>"
+    },
+    {
+      "index": 1,
+      "imported_name": "M_DeepDelverMark_Cavern_007",
+      "role": "Cavern",
+      "material": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Cavern.M_DeepDelverMark_Cavern",
+      "parameters": {
+        "Metallic": 0.03,
+        "Specular": 0.5
+      },
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>"
+    },
+    {
+      "index": 2,
+      "imported_name": "M_DeepDelverMark_Crystal_007",
+      "role": "Crystal",
+      "material": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Crystal.M_DeepDelverMark_Crystal",
+      "parameters": {
+        "Metallic": 0.1,
+        "Specular": 0.5
+      },
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>"
+    }
+  ],
+  "emission": "None. Opaque mineral crystal and gold. No emission."
+}

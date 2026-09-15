@@ -1,0 +1,52 @@
+{
+  "asset": "DeepDelverMark",
+  "mesh": "SM_Blender_DeepDelverMark",
+  "source": "SourceAssets/Voxel/deep_delver_mark.png",
+  "source_sha256": "07b407c28b7ada2ba440b12aa1ba67398dde25078aaaf2d61d3e7f22b1473212",
+  "parts": 585,
+  "vertices": 33636,
+  "triangles": 64948,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 3,
+  "bounds_m": {
+    "min": [
+      -0.4753897488117218,
+      -0.17775148153305054,
+      -0.010689790360629559
+    ],
+    "max": [
+      0.4753897488117218,
+      0.1379999965429306,
+      1.2952558994293213
+    ]
+  },
+  "files": {
+    "DeepDelverMark_BaseColor.png": {
+      "bytes": 7187,
+      "sha256": "f0659ea28a76de98a3cb352f5a51882e09cadaf85ac44f3f026808630d973938"
+    },
+    "DeepDelverMark_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "DeepDelverMark_Roughness.png": {
+      "bytes": 5028,
+      "sha256": "7401ce0301432f5ac295b65a20a7f77d5af073158a7ed53532103f5d712edce6"
+    },
+    "SM_Blender_DeepDelverMark.fbx": {
+      "bytes": 1094412,
+      "sha256": "dccd40d8cf0c48baf009b2fa4ed3eecbee492d6c6f5b67637a08bb75c8a33890"
+    },
+    "SM_Blender_DeepDelverMark.glb": {
+      "bytes": 4926028,
+      "sha256": "8028ddaf7feda72d6348981581261276fa4f5c85880b1d7930a3e05cdb2e4b28"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "materials": [
+    "M_DeepDelverMark_Frame.001",
+    "M_DeepDelverMark_Cavern.007",
+    "M_DeepDelverMark_Crystal.007"
+  ]
+}

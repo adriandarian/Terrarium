@@ -1,0 +1,11 @@
+{
+  "asset": "DeepDelverMark",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_DeepDelverMark",
+  "parts": 461,
+  "packed_images": 3,
+  "material_slots": 3,
+  "triangles": 51452,
+  "sha256": "bcc0343b7fe83979597392d4a25236c8c2e0534f0289234a723b49ce138e3547",
+  "active_camera": "Reference camera.002"
+}
