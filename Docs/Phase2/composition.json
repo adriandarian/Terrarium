@@ -1,0 +1,35 @@
+{
+  "map": "/Game/Terrarium/Maps/Homestead",
+  "placed_meshes": {
+    "CliffWall": 1296,
+    "GrassTile": 734,
+    "WaterTile": 114,
+    "PathTile": 54,
+    "StoneStairs": 1,
+    "PlankBridge": 1,
+    "PerimeterWall": 16,
+    "Cottage": 1,
+    "Shed": 1,
+    "GardenBed": 4,
+    "FencePost": 39,
+    "FenceRails": 31,
+    "WheatPatch": 12,
+    "OrchardTree": 87,
+    "Bush": 637,
+    "RockCluster": 100,
+    "Wildflowers": 237,
+    "Reeds": 65
+  },
+  "total": 3430,
+  "camera": {
+    "pitch": -52,
+    "yaw": 135,
+    "ortho_width": 2650,
+    "aspect": 0.68
+  },
+  "terrain_heights_cm": [
+    60,
+    372,
+    684
+  ]
+}
