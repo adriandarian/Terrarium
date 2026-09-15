@@ -1,0 +1,12 @@
+{
+  "asset": "WheatField",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "45799bbac5a5f6ec3d82f6dca6c93fcdb8a775007fc29b07113fe67eda75af38",
+  "sha256": "3bfa4398a9dc71c62f07df3e160869f958894c9e97580eec01b5e2eb6b3b7e38",
+  "scene": "Terrarium_WheatField",
+  "parts": 7118,
+  "packed_images": 3,
+  "active_camera": "Reference camera.012",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

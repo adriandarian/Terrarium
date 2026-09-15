@@ -1,0 +1,17 @@
+[
+  {
+    "asset": "Cottage",
+    "packed_images": 1,
+    "saved": true
+  },
+  {
+    "asset": "Lantern",
+    "packed_images": 3,
+    "saved": true
+  },
+  {
+    "asset": "Sign",
+    "packed_images": 3,
+    "saved": true
+  }
+]

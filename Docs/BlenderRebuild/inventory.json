@@ -1,0 +1,896 @@
+{
+  "scope": "Every PNG in SourceAssets/Voxel; object models, texture materials, and associated view/animation references retain explicit coverage.",
+  "source_count": 77,
+  "blender_assets": 26,
+  "placement_variant_count": 7,
+  "accepted_count": 0,
+  "assets": [
+    {
+      "source": "brambit.png",
+      "sha256": "cd2c0d5a73f115998cdfa9386b3f7e61a7430b708aa1d48457bddc1b1472ee25",
+      "bytes": 1294543,
+      "family": "creatures_items",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Brambit_R3",
+      "blender_model": "SourceAssets/Blender/Brambit/Brambit.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "civic_hall.png",
+      "sha256": "429ff1f1a5a8ff49f9dd3f136d7c1508d83508e0c30d0ca2e1058da484d2cbdf",
+      "bytes": 1688958,
+      "family": "architecture",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R7",
+      "blender_model": "SourceAssets/Blender/CivicHall/CivicHall.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "cottage.png",
+      "sha256": "7e4fe9d0af9447dddaa3eea77edbdb68f316753fbf703eda16db8b3e595d2671",
+      "bytes": 1248391,
+      "family": "architecture",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Cottage_R3",
+      "blender_model": "SourceAssets/Blender/Cottage/Cottage.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "cottage_plaster_v5.png",
+      "sha256": "ed1033d54685a366aeab48dad9fc122a7b7cb57ebea8510c97b715ad2da94800",
+      "bytes": 2853974,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_plaster_v5_R2",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "cottage_roof_tile_v5.png",
+      "sha256": "134202889db1a5cbda67abaf9469aa2648d520e1b762b0e34437f9484eafc555",
+      "bytes": 1561426,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_roof_tile_v5_R2",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "cottage_roof_tile_v6_candidate.png",
+      "sha256": "c97b792e2105e51bcf43aea6cdb607318e7fa7eb285aa26a3514f52b21d6fe72",
+      "bytes": 1722239,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_roof_tile_v6_candidate_R2",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "deep_delver_mark.png",
+      "sha256": "07b407c28b7ada2ba440b12aa1ba67398dde25078aaaf2d61d3e7f22b1473212",
+      "bytes": 1527824,
+      "family": "creatures_items",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_DeepDelverMark_R12",
+      "blender_model": "SourceAssets/Blender/DeepDelverMark/DeepDelverMark.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "ember.png",
+      "sha256": "3f85b40cc0a2660e9ff7c52d7644e7b84e9ec593108a713cd5f0915019d8904c",
+      "bytes": 1256910,
+      "family": "creatures_items",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Ember_R3",
+      "blender_model": "SourceAssets/Blender/Ember/Ember.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "ember_crest.png",
+      "sha256": "c4f2a05d43b4ab257a0e1119e0a33cb5f6409b0f4b981fad352418413189c061",
+      "bytes": 1692285,
+      "family": "creatures_items",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_EmberCrest_R8",
+      "blender_model": "SourceAssets/Blender/EmberCrest/EmberCrest.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "grove.png",
+      "sha256": "4f35d656b970b32d39222da6f53bffcdfa5b5d7754c1df5756ba1ef4dd3684b3",
+      "bytes": 1273581,
+      "family": "creatures_items",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Grove_R6",
+      "blender_model": "SourceAssets/Blender/Grove/Grove.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "homestead_compound.png",
+      "sha256": "1d13bfaebc22c887f58849561cdb09f08a032e006c17d783ed9e80a72de8113f",
+      "bytes": 1496669,
+      "family": "compound",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_HomesteadCompound",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "homestead_riverbank_v2.png",
+      "sha256": "df6e07c0256a9b820c129e2dcdd9dbcd7cb367521be926c46df900ee0cf0d6cf",
+      "bytes": 1294817,
+      "family": "environment",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Riverbank_R6",
+      "blender_model": "SourceAssets/Blender/Riverbank/Riverbank.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "homestead_tree_v2.png",
+      "sha256": "afdea55889dacabf5849bc71dc3a96ae615f78bb20e20544fd4555e7a205ca5b",
+      "bytes": 1295254,
+      "family": "environment",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_HomesteadTree_R5",
+      "blender_model": "SourceAssets/Blender/HomesteadTree/HomesteadTree.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "kindlehorn.png",
+      "sha256": "07d8b56f777e5d5deea372313aca39868ab29aedf825094a75e5238e7f993988",
+      "bytes": 1467573,
+      "family": "creatures_items",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Kindlehorn_R6",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "lantern.png",
+      "sha256": "7161eb4c81534c8868faed6378d06231173e2749b2a4ac9a383c83ffc721b0e5",
+      "bytes": 1224824,
+      "family": "architecture",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Lantern_R3",
+      "blender_model": "SourceAssets/Blender/Lantern/Lantern.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "lodge.png",
+      "sha256": "7207d20eeb79a52d444393ca8c2a2569c53c29088031f04a98f84b1eb5da5f13",
+      "bytes": 1388815,
+      "family": "architecture",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Lodge_R3",
+      "blender_model": "SourceAssets/Blender/Lodge/Lodge.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "lodge_contact_shadow_v3.png",
+      "sha256": "04fd458025a8bcce5755ebadb94ccf6b12a6adaab2e248cceb768e53d50edff2",
+      "bytes": 952325,
+      "family": "architecture",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Lodge_R3",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "market_stall.png",
+      "sha256": "9daa8d8bb52648e8df438c659ac492c1ff5a59758e8f83455802d9eb870bd374",
+      "bytes": 1365612,
+      "family": "architecture",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MarketStall_R3",
+      "blender_model": "SourceAssets/Blender/MarketStall/MarketStall.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "meadow_shrub.png",
+      "sha256": "75bb5f4bab4f138d9115a3390a5e5056f452b98f8c50286c61f93cac4822fefb",
+      "bytes": 1230737,
+      "family": "environment",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MeadowShrub_R3",
+      "blender_model": "SourceAssets/Blender/MeadowShrub/MeadowShrub.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "moss_tonic.png",
+      "sha256": "a7dde90889ac3d965f296d0c33b95540c1d2943f0fafeaed91f968142e86e09f",
+      "bytes": 1334606,
+      "family": "creatures_items",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MossTonic_R3",
+      "blender_model": "SourceAssets/Blender/MossTonic/MossTonic.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "player_animation_atlas.png",
+      "sha256": "05b476b53fddb4757afbcf7da1662cf3ac066fbf91c63519ce114a6c3ea90bc9",
+      "bytes": 1673802,
+      "family": "humanoids",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Player_R3",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "player_back.png",
+      "sha256": "00c1284a110d07efa06a04c3cd0ac3ae7412648183ac2714c7dbe8e59bb23f8f",
+      "bytes": 1242208,
+      "family": "humanoids",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Player_R3",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "player_back_animation_atlas.png",
+      "sha256": "76dfe2f187d30b864b5c7d42028910bdaa4751c7d32ced235102c9245dcfa8af",
+      "bytes": 1464219,
+      "family": "humanoids",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Player_R3",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "player_front.png",
+      "sha256": "4d36fbbf2a7ed355652303d9a6b272729e495e16333c7b9dbe4578f077c81da0",
+      "bytes": 1403727,
+      "family": "humanoids",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Player_R3",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "ranger_sela.png",
+      "sha256": "eab3539421e94457e4e0c592ed6b9974cc7283b8e543f60a1f836d53b6c5e6c4",
+      "bytes": 1236040,
+      "family": "humanoids",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_RangerSela_R3",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "ranger_sela_animation_atlas.png",
+      "sha256": "3017230468b1459b6b9d0916985667e4917b0b04d4527105127d40c7cc41715d",
+      "bytes": 1533392,
+      "family": "humanoids",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_RangerSela_R3",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "rillip.png",
+      "sha256": "7278e5e09fb69cefd51a69ec0ef450fb46a781af64005837a7dd12419a82c5bd",
+      "bytes": 1325502,
+      "family": "creatures_items",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Rillip_R3",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "river_crossing.png",
+      "sha256": "81c83771fab9a42893dbb87b201709584c08fdd14099110fb7a78d10d707857a",
+      "bytes": 1296043,
+      "family": "environment",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_RiverCrossing_R3",
+      "blender_model": "SourceAssets/Blender/RiverCrossing/RiverCrossing.blend",
+      "placement_variants": [
+        {
+          "asset": "BridgeThreshold",
+          "variant_of": "RiverCrossing",
+          "purpose": "South bridge threshold: three tapered timber planks, two runners and a crosspiece fitted between the existing bank and bridge beams. Dimensions and shallow ramp are inferred site adaptations."
+        },
+        {
+          "asset": "RiverBridge",
+          "variant_of": "RiverCrossing",
+          "purpose": "Bridge module only; original planks and rails retained. Piles extend 0.82 m below the reference foot for the existing riverbed."
+        },
+        {
+          "asset": "StoneStairs",
+          "variant_of": "RiverCrossing",
+          "purpose": "Eight 35 cm rises over the existing terrace flight; source stone block and moss treatment. The canonical crossing retains four steps."
+        }
+      ],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "rock.png",
+      "sha256": "ee96dbe9dff393bc572720701b79729bbf4668be802d4b4f9aa9567d40ba0e91",
+      "bytes": 1389594,
+      "family": "environment",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MossRock_R3",
+      "blender_model": "SourceAssets/Blender/MossRock/MossRock.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "sign.png",
+      "sha256": "1e65687e2607eadbfa86ffe2d5cf3b270a29e595c18640a36da2a06dfed60e66",
+      "bytes": 1183618,
+      "family": "architecture",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Sign_R3",
+      "blender_model": "SourceAssets/Blender/Sign/Sign.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "storm.png",
+      "sha256": "b23e8784bc6f42c499d76fe7d156881101fc5ecfdeb2fc9df4c78895a1fe996c",
+      "bytes": 1176335,
+      "family": "creatures_items",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Storm_R3",
+      "blender_model": "SourceAssets/Blender/Storm/Storm.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_cliff_3d.png",
+      "sha256": "75d7677dd8f279a4ec8889c526cddb9121ac0c2a1a2ca871ec7ccaac4e1be303",
+      "bytes": 1646804,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_3d",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_cliff_face_v2.png",
+      "sha256": "4ce18814b9cc02761795195dbeaa33eec0353399e6c5a533947f3d94d6340bd7",
+      "bytes": 2194615,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v2",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_cliff_face_v4.png",
+      "sha256": "3dcfd770994bf6550f8bb9e7ac424108ec331b4a3d2d809e5bd4a12019fd59b1",
+      "bytes": 1302119,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v4",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_cliff_face_v5.png",
+      "sha256": "db90e5be49263430b0c8f761ac75622b53e2f1ebaf5a4ed95d06a0e15464fe43",
+      "bytes": 1499355,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v5",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_cliff_face_v6.png",
+      "sha256": "ac6457251cdbabc6d3fe45c0b5ec7c651df421703913dace0ae5ed4aeafafb15",
+      "bytes": 1480761,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v6",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_cliff_face_v7.png",
+      "sha256": "bbfbefe362ea664d83bdb79fa4a10e20871266b609d77e4c106e57454cc84dde",
+      "bytes": 1723422,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v7",
+      "blender_model": "SourceAssets/Blender/CliffFace/CliffFace.blend",
+      "placement_variants": [
+        {
+          "asset": "CliffColumn",
+          "variant_of": "CliffFace",
+          "purpose": "Four-sided 100 x 100 x 323.5 cm terrain module with clipped/repeated traced stone courses and a source-grass cap."
+        }
+      ],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_cliff_face_v8_candidate.png",
+      "sha256": "609ceb6947d1a797bf3ae16b0bfb33874e742f9d0cfabc102d1d328d7cb0fc9f",
+      "bytes": 1547509,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v8_candidate",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_cliff_face_v9_candidate.png",
+      "sha256": "ff9c7743e5bb075a38aee9edf877be5547aa8f15f1d66d0c03938f4cd2d03def",
+      "bytes": 1902694,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v9_candidate",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_foliage_v4.png",
+      "sha256": "2f4c7d51f923618328b6fd798c7c3b427e5fe4bd5caf6225a2461c50b042e889",
+      "bytes": 1247927,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v4",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_foliage_v5.png",
+      "sha256": "5f5bb26aa3c92ec57097198d8cfb58d9b661af62c6fd1d8c9773c6afe41e9b05",
+      "bytes": 1583319,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v5",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_foliage_v6.png",
+      "sha256": "5c89f4dad0b480eac28d4119e07c8baaa3dcee8423cc63c0383157bf5e2cbcbd",
+      "bytes": 1488051,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v6",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_foliage_v7_candidate.png",
+      "sha256": "b7653c72b9bd704341935cad35853365bfdf54fb26cf0662abb6ee03ffcdd1f9",
+      "bytes": 1257382,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v7_candidate",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_grass.png",
+      "sha256": "b035a54a4a2cc91e1b0659d972a99267850de2f103407f7479daf345e37dce24",
+      "bytes": 2017242,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_grass_3d.png",
+      "sha256": "9ddc5ca160919a3496e909361982f7e8a9640d4026d3dd920b689d7042b2ce06",
+      "bytes": 1746453,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_3d",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_grass_top_v2.png",
+      "sha256": "36e18c934f391a91561998d5936a780dbe660fb21ddaf7aee8f1204524ae5e4c",
+      "bytes": 1836199,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v2",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_grass_top_v3.png",
+      "sha256": "530c83566e1ac0e719bd33c4df9cb202f4514b5ac1f0baa02fad43f518add900",
+      "bytes": 1873312,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v3",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_grass_top_v4.png",
+      "sha256": "4c8042f29b004dc33a01c2ccb99132d1d88f0e0aa709c18e6125ab4fb04e3d82",
+      "bytes": 1790670,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v4",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_grass_top_v5.png",
+      "sha256": "41292df30737c7269a5a1e1acabf83049fcdddb14d1cb1d15563455e8ed71533",
+      "bytes": 1381244,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v5",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_grass_top_v6.png",
+      "sha256": "b9a2d5a16ae1f95ae33b0da86ca670a96da306cf06fbf029b93d4cc596693dae",
+      "bytes": 1737241,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v6",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_grass_top_v7.png",
+      "sha256": "d88cd6f526185630e9609ecfd4e63721c19cc489fa0fea96dc3e81480da03a9e",
+      "bytes": 2463277,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v7",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_grass_top_v8.png",
+      "sha256": "c10f2d12fa14fe694d3942c348c1f42f1eca3566a678172962bb9df5619d3adb",
+      "bytes": 2168048,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v8",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_grass_top_v9.png",
+      "sha256": "c1d9163a0b19a256e75ec1644fdb950c3c419e1144b2a59f9d38cab6e190f3db",
+      "bytes": 1655404,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v9",
+      "blender_model": "SourceAssets/Blender/GrassTerrain/GrassTerrain.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_moss_cap_v1.png",
+      "sha256": "c57c9bfb2e374e9200f23458405a359583052094eb0ce196213430c3a7d00ad4",
+      "bytes": 1950844,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_moss_cap_v1",
+      "blender_model": "SourceAssets/Blender/MossCap/MossCap.blend",
+      "placement_variants": [
+        {
+          "asset": "MossFringe",
+          "variant_of": "MossCap",
+          "purpose": "Cliff-lip cushion and connected hanging fingers using the source moss pattern; hanging silhouette and depth are inferred."
+        }
+      ],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_stair_paver_v1.png",
+      "sha256": "dbedad775ae84e52892ce9c48f30037e17947c106d4e3bc2c864b18bef7746f4",
+      "bytes": 1120243,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_stair_paver_v1",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_stair_paver_v2_candidate.png",
+      "sha256": "64bc59e07107f4e19fc0834d678c55f443312c6945856a46cab67861dc78644f",
+      "bytes": 1292115,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_stair_paver_v2_candidate",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_trail_3d.png",
+      "sha256": "1c95973b7e2510d8e493379d4714218f0b516b65674f1a9510f651ffb8c7410f",
+      "bytes": 2116432,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_3d",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_trail_top_v10_candidate.png",
+      "sha256": "65fa502dbdf3e244279fa5aefe74939d2407962182b139449a70c4366d67d273",
+      "bytes": 2904915,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v10_candidate",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_trail_top_v11_candidate.png",
+      "sha256": "8ec83c8505f93782a0845e3f344e33aa7a5829dac4404b13ba033e22d56f5a0a",
+      "bytes": 2567312,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v11_candidate",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_trail_top_v5.png",
+      "sha256": "b881fe7277ba7a4586b54043be915e49764aee52dca926a51a61adac4dcfbe7b",
+      "bytes": 2355326,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v5",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_trail_top_v6.png",
+      "sha256": "77f331a4daac74ec0474d14fc311435068e473654c5185099a27c94d1ca02e8d",
+      "bytes": 2273145,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v6",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_trail_top_v7.png",
+      "sha256": "c8d1f3a37928cf63afae08f0dae4448b247755e38273423a5e1cba9aa7d5d489",
+      "bytes": 2060381,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v7",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_trail_top_v8.png",
+      "sha256": "b0b2f1fc7c5d21fb37450c2cc38d18a754e4ed44f5f4ea32d0588f22dbce03f1",
+      "bytes": 1994885,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v8",
+      "blender_model": "SourceAssets/Blender/TrailTerrain/TrailTerrain.blend",
+      "placement_variants": [
+        {
+          "asset": "TrailPatch",
+          "variant_of": "TrailTerrain",
+          "purpose": "Clipped irregular outline for existing path segments, with the same 240 cm source scale."
+        }
+      ],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_trail_top_v9_candidate.png",
+      "sha256": "c600c5967d58afc0cc388b3ef50c256eb14425e9f0b5083a50e90a77ef793af5",
+      "bytes": 2192679,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v9_candidate",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_water.png",
+      "sha256": "66af0f347f455e79b63c18e9b7d545ee3b73cb9538042a54a7803c8049ccd38e",
+      "bytes": 1895641,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_water_3d.png",
+      "sha256": "a50024a21c94251ad64f7c0d3e21e1ffbe120e47e740f96dbcb188944a9ef450",
+      "bytes": 1642089,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_3d",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_water_v4.png",
+      "sha256": "320d8f846822bfffd60d6142b2da939162b6d1b54b983fae357c50d49592511c",
+      "bytes": 1082877,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v4",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_water_v5.png",
+      "sha256": "42114d7bff010d9d203bee102b65f61a17ea2cc6a9fcf9921dd89bb43a999374",
+      "bytes": 1029815,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v5",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_water_v6.png",
+      "sha256": "abdd67d0a8ce87e8a7dadc346e8a7527571e44b311b1b67450a6f7e99240e775",
+      "bytes": 1480000,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v6",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_water_v7.png",
+      "sha256": "b92bdb8a4a9f14e3e3967ae0b1a46c56ef36b70c256329622f5dfeceaff67a28",
+      "bytes": 1009006,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v7",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_water_v8.png",
+      "sha256": "2171a8f67e0d36826474a40fcc30947f37a811ae60bcb770c2f55f811dfa839d",
+      "bytes": 1197481,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v8",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_water_v9.png",
+      "sha256": "277d7efbffa2fe6243bd49385a4ae31add964b4dbad3148534ebaf97717df6c7",
+      "bytes": 948432,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v9",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "terrain_wood_3d.png",
+      "sha256": "cc66c773544371c19cbdbb99973df70e3b16d5d005f66a8cf5b6c4fc75ba04f7",
+      "bytes": 1228148,
+      "family": "surfaces",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_wood_3d",
+      "blender_model": null,
+      "placement_variants": [],
+      "status": "pending_blender_rebuild",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "tide.png",
+      "sha256": "c2902bf9d463ba38a6dd8bf7267994c03c151a94fbdd81a7f28812cdf701a8f1",
+      "bytes": 1200736,
+      "family": "creatures_items",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Tide_R3",
+      "blender_model": "SourceAssets/Blender/Tide/Tide.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "trail_prism.png",
+      "sha256": "ca4f6eb545330cef100ed76da86987e82f79cf1e9b681b6ec4c840eba73a5a09",
+      "bytes": 1290810,
+      "family": "creatures_items",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_TrailPrism_R3",
+      "blender_model": "SourceAssets/Blender/TrailPrism/TrailPrism.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "tree.png",
+      "sha256": "e9f86ea933f210002d4063876efb96786277d70f04b85e7aef6b31a873eec3fa",
+      "bytes": 1657280,
+      "family": "environment",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_AncientTree_R3",
+      "blender_model": "SourceAssets/Blender/AncientTree/AncientTree.blend",
+      "placement_variants": [],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    },
+    {
+      "source": "wheat_field.png",
+      "sha256": "a4016bd7591100c3f984a6e5f726599e285b38c0227df4c8ae1e683cb43c54f1",
+      "bytes": 1718624,
+      "family": "environment",
+      "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_WheatField_R3",
+      "blender_model": "SourceAssets/Blender/WheatField/WheatField.blend",
+      "placement_variants": [
+        {
+          "asset": "WheatPatch",
+          "variant_of": "WheatField",
+          "purpose": "Crop-only module using the canonical cuboid stalk design; border greenery omitted between adjacent world patches."
+        }
+      ],
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false
+    }
+  ]
+}

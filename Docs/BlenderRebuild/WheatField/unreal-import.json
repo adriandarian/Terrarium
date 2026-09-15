@@ -1,0 +1,18 @@
+{
+  "asset": "WheatField",
+  "mesh": "/Game/Terrarium/Blender/WheatField/SM_Blender_WheatField.SM_Blender_WheatField",
+  "material": "/Game/Terrarium/Blender/WheatField/M_WheatField.M_WheatField",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/WheatField/T_WheatField_BaseColor.T_WheatField_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/WheatField/T_WheatField_Emission.T_WheatField_Emission",
+    "Roughness": "/Game/Terrarium/Blender/WheatField/T_WheatField_Roughness.T_WheatField_Roughness"
+  },
+  "source_fbx_sha256": "a5847d82d98a1a6747183ef2540b192ee9bbde3c359a587a3e9eb65060b2f745",
+  "dimensions_cm": [
+    571.7842102050781,
+    363.9126281738281,
+    93.93772888183594
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}

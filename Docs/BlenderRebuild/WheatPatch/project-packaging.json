@@ -1,0 +1,12 @@
+{
+  "asset": "WheatPatch",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "8e90e24213d97db7f8ed6043bacf800159be8f69f08bf52c1ab0231be1bb2ea2",
+  "sha256": "79fcf248b75c0bb70c2c6cd930bb290dddd7e10c6d5eb29476f5b9809fb537f9",
+  "scene": "Terrarium_WheatPatch",
+  "parts": 560,
+  "packed_images": 3,
+  "active_camera": "Reference camera.013",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

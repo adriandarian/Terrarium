@@ -1,0 +1,11 @@
+{
+  "asset": "WheatField",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_WheatField",
+  "parts": 7118,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 85416,
+  "sha256": "3bfa4398a9dc71c62f07df3e160869f958894c9e97580eec01b5e2eb6b3b7e38",
+  "active_camera": "Reference camera.012"
+}

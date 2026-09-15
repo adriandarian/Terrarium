@@ -1,0 +1,68 @@
+[
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_1",
+    "mesh": "/Game/Terrarium/Blender/CliffColumn/SM_Blender_CliffColumn.SM_Blender_CliffColumn",
+    "instances": 668,
+    "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "visibility_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+    "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+    "profile": "BlockAll",
+    "mesh_collision_trace": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_22",
+    "mesh": "/Game/Terrarium/Meshes/SM_PathTile_v4_Detail.SM_PathTile_v4_Detail",
+    "instances": 61,
+    "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "visibility_response": "<CollisionResponseType.ECR_IGNORE: 0>",
+    "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+    "profile": "NoCollision",
+    "mesh_collision_trace": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_5",
+    "mesh": "/Game/Terrarium/Blender/GrassTerrain/SM_Blender_GrassTerrain.SM_Blender_GrassTerrain",
+    "instances": 755,
+    "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "visibility_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+    "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+    "profile": "BlockAll",
+    "mesh_collision_trace": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_6",
+    "mesh": "/Game/Terrarium/Blender/GrassTerrain/SM_Blender_GrassTerrain.SM_Blender_GrassTerrain",
+    "instances": 5086,
+    "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "visibility_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+    "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+    "profile": "BlockAll",
+    "mesh_collision_trace": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_7",
+    "mesh": "/Game/Terrarium/Blender/CliffColumn/SM_Blender_CliffColumn.SM_Blender_CliffColumn",
+    "instances": 665,
+    "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "visibility_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+    "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+    "profile": "BlockAll",
+    "mesh_collision_trace": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_8",
+    "mesh": "/Game/Terrarium/Blender/CliffColumn/SM_Blender_CliffColumn.SM_Blender_CliffColumn",
+    "instances": 743,
+    "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "visibility_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+    "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+    "profile": "BlockAll",
+    "mesh_collision_trace": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+  }
+]

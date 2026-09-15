@@ -1,0 +1,11 @@
+{
+  "asset": "WheatPatch",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_WheatPatch",
+  "parts": 560,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 6720,
+  "sha256": "79fcf248b75c0bb70c2c6cd930bb290dddd7e10c6d5eb29476f5b9809fb537f9",
+  "active_camera": "Reference camera.013"
+}
