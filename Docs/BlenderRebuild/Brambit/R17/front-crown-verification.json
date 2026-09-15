@@ -1,0 +1,66 @@
+{
+  "source_blend_sha256": "8f81a2b4e660f37fda2ade66f26efad304f82fabe1c3088d3d88e94772c110b2",
+  "courses": [
+    {
+      "reference_corner_px": [
+        455,
+        650
+      ],
+      "projected_corner_px": [
+        454.9997863769531,
+        650.0006291270256
+      ],
+      "error_pixels": 0.000664406216483415,
+      "palette_index": 9
+    },
+    {
+      "reference_corner_px": [
+        553,
+        657
+      ],
+      "projected_corner_px": [
+        552.9997794628143,
+        657.0006499886513
+      ],
+      "error_pixels": 0.000686383199859887,
+      "palette_index": 1
+    },
+    {
+      "reference_corner_px": [
+        505,
+        592
+      ],
+      "projected_corner_px": [
+        504.99978590011597,
+        592.0005683898926
+      ],
+      "error_pixels": 0.0006073761851834524,
+      "palette_index": 9
+    },
+    {
+      "reference_corner_px": [
+        593,
+        603
+      ],
+      "projected_corner_px": [
+        592.9997865557671,
+        603.0006011724472
+      ],
+      "error_pixels": 0.0006379394578277691,
+      "palette_index": 8
+    },
+    {
+      "reference_corner_px": [
+        800,
+        565
+      ],
+      "projected_corner_px": [
+        799.9997681379318,
+        565.0007121562958
+      ],
+      "error_pixels": 0.0007489503376545695,
+      "palette_index": 8
+    }
+  ],
+  "limits": "Five manually read front-course corners and one bark-colored course. This only verifies intended construction placement, not full surface visibility or overall likeness."
+}
