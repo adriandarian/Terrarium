@@ -1,0 +1,11 @@
+{
+  "asset": "Cottage",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_Cottage",
+  "parts": 2713,
+  "packed_images": 1,
+  "material_slots": 1,
+  "triangles": 293004,
+  "sha256": "1eb8910365bf14f0ae8c50019a5c7580244e999bc43e297655db5e424598071a",
+  "active_camera": "Concept comparison camera"
+}

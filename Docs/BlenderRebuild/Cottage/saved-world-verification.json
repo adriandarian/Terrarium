@@ -1,0 +1,10 @@
+{
+  "map": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "reopened": true,
+  "mesh_binding": "/Game/Terrarium/Blender/Cottage/SM_Blender_Cottage.SM_Blender_Cottage",
+  "material_binding": "/Game/Terrarium/Blender/Cottage/M_Cottage.M_Cottage",
+  "location_z_cm": 560,
+  "facing_yaw_degrees": -90,
+  "source_editable_blender": true,
+  "visual_status": "in_progress_not_exact_concept_parity"
+}

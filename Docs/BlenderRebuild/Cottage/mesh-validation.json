@@ -1,0 +1,38 @@
+{
+  "asset": "SM_Blender_Cottage",
+  "authoring": "Blender 5.2.1 via Blender Lab MCP",
+  "parts": 2713,
+  "vertices": 151928,
+  "triangles": 293004,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "all_parts_closed_positive_volume": true,
+  "bounds_m": {
+    "min": [
+      -2.4599997997283936,
+      -2.6000001430511475,
+      0.0
+    ],
+    "max": [
+      2.4499998092651367,
+      2.0299999713897705,
+      4.775000095367432
+    ]
+  },
+  "source_sha256": "7e4fe9d0af9447dddaa3eea77edbdb68f316753fbf703eda16db8b3e595d2671",
+  "files": {
+    "Cottage_BaseColor.png": {
+      "bytes": 161745,
+      "sha256": "18a43619bb58663600d0e7c058299de2fab0664a6b907bfe12ffbe692fd33252"
+    },
+    "SM_Blender_Cottage.fbx": {
+      "bytes": 3669644,
+      "sha256": "595e59414a02d06149d096351aeefb0b4f6d36a2d8c6674031b10c257f0bfb9c"
+    },
+    "SM_Blender_Cottage.glb": {
+      "bytes": 22431652,
+      "sha256": "257f1f4c2b9886955edcccbe52770cb9dfa81476731597e436246bca3537c58e"
+    }
+  },
+  "fidelity": "In progress. Importability and mesh checks do not establish concept parity."
+}

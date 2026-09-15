@@ -1,0 +1,12 @@
+{
+  "asset": "Cottage",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "2bcd09823bb68ad86a32837ffae58aeb1e888209812ca3b871558b4014ed2ae1",
+  "sha256": "1eb8910365bf14f0ae8c50019a5c7580244e999bc43e297655db5e424598071a",
+  "scene": "Terrarium_Cottage",
+  "parts": 2713,
+  "packed_images": 1,
+  "active_camera": "Concept comparison camera",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

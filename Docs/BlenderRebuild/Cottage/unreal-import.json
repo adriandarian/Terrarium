@@ -1,0 +1,24 @@
+{
+  "project": "C:\\Users\\hello\\Projects\\Terrarium",
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "imported": [
+    "/Game/Terrarium/Blender/Cottage/SM_Blender_Cottage.SM_Blender_Cottage"
+  ],
+  "texture": "/Game/Terrarium/Blender/Cottage/T_Cottage_BaseColor.T_Cottage_BaseColor",
+  "material": "/Game/Terrarium/Blender/Cottage/M_Cottage.M_Cottage",
+  "bounds_cm": {
+    "min": [
+      -245.99996948242188,
+      -203.00001525878906,
+      0.0
+    ],
+    "max": [
+      245.0,
+      260.0000305175781,
+      477.5
+    ]
+  },
+  "material_slots": 1,
+  "lods": 1,
+  "status": "imported_saved_pending_lit_visual_check"
+}

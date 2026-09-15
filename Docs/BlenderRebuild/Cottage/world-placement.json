@@ -1,0 +1,12 @@
+{
+  "level": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "actor": "Reference_Cottage",
+  "previous_mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_Cottage.SM_Env_Cottage",
+  "mesh": "/Game/Terrarium/Blender/Cottage/SM_Blender_Cottage.SM_Blender_Cottage",
+  "location": "<Struct 'Vector' (0x00000236FDE21320) {x: -204.950551, y: 53.276146, z: 560.000000}>",
+  "rotation": "<Struct 'Rotator' (0x00000236FDE21320) {pitch: 0.000000, yaw: -90.000000, roll: 0.000000}>",
+  "scale": "<Struct 'Vector' (0x00000236FDE21320) {x: 0.960000, y: 0.960000, z: 0.960000}>",
+  "camera": "Blender_Cottage_Review",
+  "status": "placed_pending_visual_check",
+  "original_world": "/Game/Terrarium/Maps/HomesteadReference"
+}
