@@ -1,0 +1,84 @@
+{
+  "method": "Evaluated surface nearest-normal interior test plus three-direction odd ray parity; witness at least 0.2 mm from both boundaries. Missing edges are inconclusive. Individually closed outward meshes are required.",
+  "edges": [
+    {
+      "a": "Central leafy shoot",
+      "b": "Joined moss crown",
+      "interior_witness_m": [
+        0.060271184891462326,
+        0.09908623993396759,
+        0.6956655979156494
+      ]
+    },
+    {
+      "a": "Left leafy shoot",
+      "b": "Joined moss crown",
+      "interior_witness_m": [
+        -0.17381960153579712,
+        0.12295443564653397,
+        0.6513116359710693
+      ]
+    },
+    {
+      "a": "Right leafy shoot",
+      "b": "Joined moss crown",
+      "interior_witness_m": [
+        0.13568449020385742,
+        -0.19529539346694946,
+        0.6827550530433655
+      ]
+    },
+    {
+      "a": "Joined moss crown",
+      "b": "Joined body face and feet",
+      "interior_witness_m": [
+        -0.0950000137090683,
+        -0.06799998879432678,
+        0.621649980545044
+      ]
+    },
+    {
+      "a": "Central leafy shoot",
+      "b": "Joined moss crown",
+      "interior_witness_m": [
+        0.043912388384342194,
+        0.07904119044542313,
+        0.693411111831665
+      ],
+      "sampling": "Measured stem base"
+    },
+    {
+      "a": "Left leafy shoot",
+      "b": "Joined moss crown",
+      "interior_witness_m": [
+        -0.17036233842372894,
+        0.11904119700193405,
+        0.6467227339744568
+      ],
+      "sampling": "Measured stem base"
+    },
+    {
+      "a": "Right leafy shoot",
+      "b": "Joined moss crown",
+      "interior_witness_m": [
+        0.10082882642745972,
+        -0.23448576033115387,
+        0.6798210740089417
+      ],
+      "sampling": "Measured stem base"
+    }
+  ],
+  "components": [
+    [
+      "Central leafy shoot",
+      "Joined body face and feet",
+      "Joined moss crown",
+      "Left leafy shoot",
+      "Right leafy shoot"
+    ]
+  ],
+  "source_blend_sha256": "8b9d28b644b7e22cf259a80a1f113691515fe771dbb8b70a273021b7f967400d",
+  "parts": 5,
+  "editable_construction_blocks": 271,
+  "limits": "Five closed union volumes overlap at their joins. Static geometry only; no character rig or physics simulation."
+}
