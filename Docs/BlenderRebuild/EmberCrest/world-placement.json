@@ -1,0 +1,87 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "actor": "Blender_EmberCrest_MarketFront",
+  "mesh": "/Game/Terrarium/Blender/EmberCrest/SM_Blender_EmberCrest.SM_Blender_EmberCrest",
+  "location_cm": [
+    184.0,
+    628.1750094509125,
+    592.0
+  ],
+  "scale": 0.24,
+  "yaw": 0,
+  "height_cm": 28.628184185028076,
+  "materials": [
+    "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Field.M_EmberCrest_Field",
+    "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Frame.M_EmberCrest_Frame",
+    "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Enamel.M_EmberCrest_Enamel"
+  ],
+  "camera": "Blender_EmberCrest_Review",
+  "support_actor": "Blender_MarketStall_UpperPath",
+  "wall_samples": [
+    {
+      "xz": [
+        181,
+        596
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        181,
+        607
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        181,
+        618
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        184,
+        596
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        184,
+        607
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        184,
+        618
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        187,
+        596
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        187,
+        607
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        187,
+        618
+      ],
+      "y": 624.8000085353851
+    }
+  ],
+  "back_clearance_cm": 0.015,
+  "status": "saved_reload_and_native_views_verified_fidelity_open"
+}

@@ -1,0 +1,37 @@
+{
+  "revision": "r4_measured_flame_and_textured_gold",
+  "parts": 582,
+  "triangles": 65624,
+  "changes": [
+    "Measured stepped shield and rim silhouette reconstructed as solids",
+    "Recessed charcoal tile field and continuous backing",
+    "Raised enamel flame blocks, corrected central gap and taller upper yellow tier",
+    "Four faceted red gems in thick gold sockets",
+    "Fine gold grain in packed albedo and roughness textures",
+    "Moved world mounting left to clear existing folded cloth"
+  ],
+  "studio_views": [
+    "front.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "../ColorManagement/EmberCrest/After/unreal-viewport.png",
+    "../ColorManagement/EmberCrest/AfterSide/unreal-viewport.png",
+    "../ColorManagement/EmberCrest/AfterContext/unreal-viewport.png"
+  ],
+  "visually_checked": true,
+  "remaining": [
+    "Exact flame color distribution and block depths",
+    "Lower rim courses and gem-bevel proportions",
+    "Gold microtexture scale and turquoise patina placement",
+    "World shading is much darker and cooler than the concept",
+    "Plain rear is inferred from a single front concept"
+  ],
+  "presentation": "Blender Standard color transform, medium high contrast, exposure -0.35. Unreal uses its existing world lighting and exposure. No emissive flame shader or added light.",
+  "accepted_fidelity": false,
+  "color_correction": {
+    "maps": "PNG8",
+    "evidence": "../ColorManagement/EmberCrest",
+    "finding": "Corrected missing sRGB decode measured in the previous PNG16 atlas import. Geometry and material factors preserved."
+  }
+}

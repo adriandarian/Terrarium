@@ -1,0 +1,12 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "reloaded_from_disk": true,
+  "shrub_count": 618,
+  "rock_count": 7,
+  "all_migrated_transforms_verified": true,
+  "source_foliage_asset_unchanged": true,
+  "material_bindings_verified": true,
+  "export_import_hashes_match": true,
+  "fidelity": "pending_visual_refinement",
+  "limits": "No character or performance test; anchoring and appearance require viewport inspection."
+}

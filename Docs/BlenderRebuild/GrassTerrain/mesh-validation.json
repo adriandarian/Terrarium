@@ -1,0 +1,47 @@
+{
+  "asset": "GrassTerrain",
+  "mesh": "SM_Blender_GrassTerrain",
+  "source": "SourceAssets/Voxel/terrain_grass_top_v9.png",
+  "source_sha256": "c1d9163a0b19a256e75ec1644fdb950c3c419e1144b2a59f9d38cab6e190f3db",
+  "parts": 1,
+  "vertices": 113,
+  "triangles": 222,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -1.0,
+      -1.0,
+      -0.11999999731779099
+    ],
+    "max": [
+      1.0,
+      1.0,
+      0.0
+    ]
+  },
+  "files": {
+    "GrassTerrain_BaseColor.png": {
+      "bytes": 1655404,
+      "sha256": "c1d9163a0b19a256e75ec1644fdb950c3c419e1144b2a59f9d38cab6e190f3db"
+    },
+    "GrassTerrain_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "GrassTerrain_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_GrassTerrain.fbx": {
+      "bytes": 26092,
+      "sha256": "b86554bb1a72b847f4db438edf0feadc8d19ce6c47683d291069753c7d9a3037"
+    },
+    "SM_Blender_GrassTerrain.glb": {
+      "bytes": 1682596,
+      "sha256": "309a9cc7d90a3780b0a58d3c55ac2c1c84cf2f8783cb9a7b62cd05d601ac48df"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}

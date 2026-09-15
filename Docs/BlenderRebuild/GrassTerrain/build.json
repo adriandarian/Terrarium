@@ -1,0 +1,7 @@
+{
+  "asset": "GrassTerrain",
+  "scene": "Terrarium_GrassTerrain",
+  "parts": 1,
+  "source": "SourceAssets/Voxel/terrain_grass_top_v9.png",
+  "status": "authored_pending_visual_review"
+}

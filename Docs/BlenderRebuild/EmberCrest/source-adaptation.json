@@ -1,0 +1,7 @@
+{
+  "source": "SourceAssets/Voxel/ember_crest.png",
+  "method": "Measured front outlines, rim rectangles and flame block regions rebuilt as beveled solid geometry. Depth is inferred from exposed lower faces. Front texture coordinates sample palette cells, not the full concept image.",
+  "unseen_rear": "Plain continuous minted metal face inferred.",
+  "status": "imported_with_visual_refinement_open",
+  "revision": "r4_measured_flame_and_textured_gold"
+}
