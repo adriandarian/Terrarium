@@ -1,0 +1,6 @@
+{
+  "intersection_over_union": 0.9263387084459135,
+  "mismatched_pixels": 29907,
+  "render_sha256": "f10d4ab72772e2414e2ace9a63c38559a8832e06d1d137894196c8d696fda957",
+  "limits": "Projected outline only. This does not measure internal features or prove fidelity."
+}

@@ -1,0 +1,23 @@
+{
+  "previous_revision": "R28",
+  "current_revision": "R32",
+  "source_blend_sha256": "e392f761707508489910b69ccec9c6b836de6aff9b34c4aaacc9136b7c814e09",
+  "source_concept_sha256": "b23e8784bc6f42c499d76fe7d156881101fc5ecfdeb2fc9df4c78895a1fe996c",
+  "limits": "Binary foreground outline only. Internal surfaces, shading and physical depth need visual inspection.",
+  "R21": {
+    "intersection_over_union": 0.9225968915416749,
+    "mismatched_pixels": 31629,
+    "render_sha256": "233d07e2eefa410415bc0e6347b7edb4e535c4f103c6c5cdcfdfee87718283e2"
+  },
+  "R28": {
+    "intersection_over_union": 0.9269650329670871,
+    "mismatched_pixels": 29653,
+    "render_sha256": "2c1373255e07bbe8e6152e6dca39afc417ee171339127d0262089c9de1dc03a5"
+  },
+  "R32": {
+    "intersection_over_union": 0.9263387084459135,
+    "mismatched_pixels": 29907,
+    "render_sha256": "f10d4ab72772e2414e2ace9a63c38559a8832e06d1d137894196c8d696fda957"
+  },
+  "changed_alpha_mask_pixels_since_R28": 266
+}

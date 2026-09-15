@@ -1,0 +1,57 @@
+{
+  "source_blend_sha256": "e392f761707508489910b69ccec9c6b836de6aff9b34c4aaacc9136b7c814e09",
+  "evaluated_closed": true,
+  "evaluated_volume_m3": 0.03270295035781686,
+  "control_bounds_x_m": [
+    0.014999999664723873,
+    0.17000000178813934
+  ],
+  "ridge_nodes": [
+    [
+      590,
+      446,
+      0.145
+    ],
+    [
+      630,
+      535,
+      0.16
+    ],
+    [
+      618,
+      596,
+      0.17
+    ],
+    [
+      590,
+      710,
+      0.17
+    ],
+    [
+      566,
+      807,
+      0.15
+    ],
+    [
+      544,
+      898,
+      0.13
+    ],
+    [
+      530,
+      964,
+      0.105
+    ],
+    [
+      512,
+      1044,
+      0.09
+    ],
+    [
+      490,
+      1090,
+      0.075
+    ]
+  ],
+  "limits": "The back is inferred from the longitudinal front structure; closure and volume do not establish concept fidelity."
+}

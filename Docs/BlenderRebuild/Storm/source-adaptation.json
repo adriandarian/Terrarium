@@ -1,0 +1,9 @@
+{
+  "revision": "r32_broad_upper_gold_column",
+  "source": "SourceAssets/Voxel/storm.png",
+  "source_sha256": "b23e8784bc6f42c499d76fe7d156881101fc5ecfdeb2fc9df4c78895a1fe996c",
+  "method": "A broad eight-corner gold column replaces two narrow overlapping crest boxes. Adjoining gold and cloud blocks are connected in depth, and the hidden core shoulder is narrowed to prevent protrusion through the visible column. Raised cream hexahedra reconstructed from visible corners, a broad faceted cream crossbar and angled lower cream solids, stepped gold body, four gold edge volumes rebuilt from measured ledge and bevel boundaries and closed with depth that tapers to their shared silhouette, connected cloud clusters, and ten detached source sparks. Reference elevation and cube seam anchors corrected to 30 degrees. A connected faceted rear ridge follows the cream spine and tapers into the lower gold wedge. Lower cream backs terminate closer to the visible surfaces. Uniform palette cells are sampled at their centers to prevent bevel UVs from wrapping into other colors. Pigment and roughness atlases shade actual geometry; source artwork is not projected onto the mesh.",
+  "inferred": "Depth, backs, cloud connections and lighting are inferred from one concept view.",
+  "status": "imported_with_visual_refinement_open",
+  "accepted_fidelity": false
+}
