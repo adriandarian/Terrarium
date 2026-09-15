@@ -1,0 +1,28 @@
+{
+  "revision": "r4_crest_cloud_depth",
+  "accepted_fidelity": false,
+  "visually_checked": true,
+  "parts": 37,
+  "triangles": 5072,
+  "connected_body_parts": 27,
+  "detached_source_sparks": 10,
+  "studio_views": [
+    "front.png",
+    "side.png",
+    "left.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "remaining": [
+    "The main bolt is a closed faceted extrusion, but its gold perimeter and cream ridge differ from the concept in width, bends and relief.",
+    "The 27 non-spark solids now form one connected group with positive interior overlap witnesses. They remain editable overlapping meshes, not a Boolean-unioned manifold.",
+    "Cloud cluster sizes, spacing and partial overlaps still differ from the source.",
+    "The removal of arbitrary triangular creases makes the caps cleaner, but the main gold body and cream ridge are now too flat. Deliberate stepped volumes and source-matched facets are still needed; the back remains slab-like.",
+    "Ten sparks follow the concept arrangement, with small remaining position and size differences.",
+    "Static tip contact and sampled post clearance passed; rigid-body balance, animation, gameplay and full collision have not been tested."
+  ]
+}

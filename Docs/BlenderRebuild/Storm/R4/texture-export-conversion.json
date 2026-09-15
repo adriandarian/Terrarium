@@ -1,0 +1,25 @@
+{
+  "asset": "Storm",
+  "changes": [
+    {
+      "map": "BaseColor",
+      "before_sha256": "828abadbee5fa6857e5cd9a9a7be5f19fdd71ebe3bbefa205f4afd5a0f6112de",
+      "after_sha256": "e550bf85b6257912c9e9ad393c6d20fe765111317b4f77d84ef4e7a1bbd3bb47",
+      "bit_depth": 8
+    },
+    {
+      "map": "Emission",
+      "before_sha256": "3d0c0bfd2c5437cbdc4f382593564b7ad0f09885073c0bff5322ab996c038e15",
+      "after_sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c",
+      "bit_depth": 8
+    },
+    {
+      "map": "Roughness",
+      "before_sha256": "e67f9965ce940fe6cc7bb713256cc5c8bee2d3ecfcd496e25e4e2ef3d3039a2a",
+      "after_sha256": "6aec26e1a143284e6ec1fabbf5ec88113f622ec515bec788f71fe733cc033832",
+      "bit_depth": 8
+    }
+  ],
+  "color_transform": "Standard sRGB for BaseColor and Emission; Raw for non-color Roughness. Exposure 0, gamma 1, no look.",
+  "reason": "These PNG16 atlas imports sampled encoded RGB in Unreal despite srgb=true. PNG8 was verified through an RGBA32F shader readback."
+}

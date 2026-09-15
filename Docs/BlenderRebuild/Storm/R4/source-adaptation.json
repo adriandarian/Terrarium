@@ -1,0 +1,9 @@
+{
+  "revision": "r4_crest_cloud_depth",
+  "source": "SourceAssets/Voxel/storm.png",
+  "source_sha256": "b23e8784bc6f42c499d76fe7d156881101fc5ecfdeb2fc9df4c78895a1fe996c",
+  "method": "Closed lightning prisms with deliberate planar caps, crest cubes moved in depth along the reference view, fuller cloud clusters, and ten detached source sparks. Pigment and roughness atlases shade actual geometry; source artwork is not projected onto the mesh.",
+  "inferred": "Depth, backs, cloud connections and lighting are inferred from one concept view.",
+  "status": "imported_with_visual_refinement_open",
+  "accepted_fidelity": false
+}
