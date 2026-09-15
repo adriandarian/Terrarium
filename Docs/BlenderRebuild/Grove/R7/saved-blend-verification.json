@@ -1,0 +1,11 @@
+{
+  "asset": "Grove",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_Grove",
+  "parts": 243,
+  "packed_images": 3,
+  "material_slots": 3,
+  "triangles": 26244,
+  "sha256": "0db52c3ea0e59f91196c549b53b40fcf217caf21bc94935b8d1ff8855a84697e",
+  "active_camera": "Reference camera"
+}

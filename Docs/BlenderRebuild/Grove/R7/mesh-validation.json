@@ -1,0 +1,52 @@
+{
+  "asset": "Grove",
+  "mesh": "SM_Blender_Grove",
+  "source": "SourceAssets/Voxel/grove.png",
+  "source_sha256": "4f35d656b970b32d39222da6f53bffcdfa5b5d7754c1df5756ba1ef4dd3684b3",
+  "parts": 243,
+  "vertices": 13608,
+  "triangles": 26244,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 3,
+  "bounds_m": {
+    "min": [
+      -0.5062721967697144,
+      -0.1352500021457672,
+      0.049800001084804535
+    ],
+    "max": [
+      0.5581201314926147,
+      0.40525001287460327,
+      1.1291286945343018
+    ]
+  },
+  "files": {
+    "Grove_BaseColor.png": {
+      "bytes": 5140,
+      "sha256": "8c8db7cbc9868931f5a042fc37db15b62a5155ab4b1f94be095b85d6712ed7dc"
+    },
+    "Grove_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "Grove_Roughness.png": {
+      "bytes": 5017,
+      "sha256": "d834fe315e7a911d9f116409c47886887da8b3b8e63cabd1b1c512347a75dece"
+    },
+    "SM_Blender_Grove.fbx": {
+      "bytes": 415708,
+      "sha256": "76cf3043828695e4548ab6d06dfbcc93b6698d29d286cb96d95f4c3b686bda53"
+    },
+    "SM_Blender_Grove.glb": {
+      "bytes": 1854728,
+      "sha256": "41a632fdc28f142a2e2896d1d00572a64ab42e521f8fbc33c3a874bfd627ffeb"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "materials": [
+    "M_Grove_Leaf.002",
+    "M_Grove_Stem.001",
+    "M_Grove_Soil.001"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "revision": "r7_smooth_blocks_and_8bit_color_export",
+  "parts": 243,
+  "triangles": 26244,
+  "studio_views": [
+    "front.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "visually_checked": true,
+  "accepted_fidelity": false,
+  "remaining": [
+    "Leaf depth, stepped side faces and bevel widths still differ from the concept.",
+    "The soil footprint, turf overhang and central mound remain too regular.",
+    "Unreal shade is darker and less yellow than the studio source.",
+    "Rear structure is inferred from one view; full collision, gameplay and performance remain untested."
+  ],
+  "changes": [
+    "Physical asymmetric leaves, solid fork and trunk, stepped turf and two soil courses.",
+    "Removed coarse color checker variation from the blocks.",
+    "Replaced exported PNG16 maps with color-managed PNG8 maps to correct measured Unreal sampling."
+  ]
+}
