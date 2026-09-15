@@ -1,0 +1,36 @@
+{
+  "backup": "/Game/Terrarium/Maps/HomesteadBeforeVoxelPass",
+  "replacements": {
+    "SM_CliffColumn_v6C": {
+      "new": "SM_VoxelCliff_C",
+      "instances": 743
+    },
+    "SM_Tree_v3": {
+      "new": "SM_VoxelTree",
+      "instances": 14
+    },
+    "SM_Bush_v2": {
+      "new": "SM_VoxelBush",
+      "instances": 620
+    },
+    "SM_CliffColumn_v6B": {
+      "new": "SM_VoxelCliff_B",
+      "instances": 665
+    },
+    "SM_CliffColumn_v6A": {
+      "new": "SM_VoxelCliff_A",
+      "instances": 668
+    }
+  },
+  "materials": {
+    "/Game/Terrarium/Maps/HomesteadFidelity.HomesteadFidelity:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_0": "/Game/Terrarium/Materials/M_VoxelGround.M_VoxelGround",
+    "/Game/Terrarium/Maps/HomesteadFidelity.HomesteadFidelity:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_1": "/Game/Terrarium/Materials/M_VoxelSurface.M_VoxelSurface",
+    "/Game/Terrarium/Maps/HomesteadFidelity.HomesteadFidelity:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_12": "/Game/Terrarium/Materials/M_VoxelSurface.M_VoxelSurface",
+    "/Game/Terrarium/Maps/HomesteadFidelity.HomesteadFidelity:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_13": "/Game/Terrarium/Materials/M_VoxelSurface.M_VoxelSurface",
+    "/Game/Terrarium/Maps/HomesteadFidelity.HomesteadFidelity:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_2": "/Game/Terrarium/Materials/M_VoxelSurface.M_VoxelSurface",
+    "/Game/Terrarium/Maps/HomesteadFidelity.HomesteadFidelity:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_3": "/Game/Terrarium/Materials/M_VoxelSurface.M_VoxelSurface",
+    "/Game/Terrarium/Maps/HomesteadFidelity.HomesteadFidelity:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_4": "/Game/Terrarium/Materials/M_VoxelGround.M_VoxelGround",
+    "/Game/Terrarium/Maps/HomesteadFidelity.HomesteadFidelity:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_8": "/Game/Terrarium/Materials/M_VoxelSurface.M_VoxelSurface"
+  },
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject"
+}
