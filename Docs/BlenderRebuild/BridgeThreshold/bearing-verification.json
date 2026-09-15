@@ -1,0 +1,63 @@
+{
+  "method": "Nearest oriented surface on individually closed Blender bearing parts; sample points are transformed using current Unreal placements, including FBX Y conversion.",
+  "checks": [
+    {
+      "kind": "bank_runner",
+      "runner": 1,
+      "sample_world_cm": [
+        888.8004760742188,
+        -1799.8172607421875,
+        267.8999938964844
+      ],
+      "inside_runner": true,
+      "inside_live_cliff_cores": [
+        {
+          "component": "FoliageInstancedStaticMeshComponent_1",
+          "index": 410
+        }
+      ]
+    },
+    {
+      "kind": "bank_runner",
+      "runner": 2,
+      "sample_world_cm": [
+        949.0603637695312,
+        -1804.031005859375,
+        267.8999938964844
+      ],
+      "inside_runner": true,
+      "inside_live_cliff_cores": [
+        {
+          "component": "FoliageInstancedStaticMeshComponent_1",
+          "index": 410
+        }
+      ]
+    },
+    {
+      "kind": "bridge_crosspiece",
+      "sample_world_cm": [
+        771.9260864257812,
+        -1714.45654296875,
+        260.0
+      ],
+      "inside_crosspiece": true,
+      "inside_bridge_beams": [
+        "Under-deck beam.002"
+      ]
+    },
+    {
+      "kind": "bridge_crosspiece",
+      "sample_world_cm": [
+        970.0422973632812,
+        -1728.3101806640625,
+        260.0
+      ],
+      "inside_crosspiece": true,
+      "inside_bridge_beams": [
+        "Under-deck beam.003"
+      ]
+    }
+  ],
+  "all_four_bearings_verified": true,
+  "limits": "Four interior contact samples prove geometric intersections at bearings, not structural engineering, gameplay traversal or complete surface contact."
+}

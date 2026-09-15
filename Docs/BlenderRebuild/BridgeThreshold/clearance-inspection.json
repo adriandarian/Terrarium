@@ -1,0 +1,857 @@
+{
+  "samples_with_underlying_path": 1060,
+  "minimum_clearance_cm": 0.5928993225097656,
+  "issues": [],
+  "threshold_transform": {
+    "translation": [
+      868.4032036437609,
+      -1758.2932047080294,
+      280.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation_xyzw": [
+      -0.0,
+      0.0,
+      -0.03489949670250097,
+      0.9993908270190959
+    ]
+  },
+  "bridge_transform": {
+    "translation": [
+      894.2828554028314,
+      -1388.1969420616347,
+      146.16564564564564
+    ],
+    "scale": [
+      2.1586186186186187,
+      2.1586186186186187,
+      2.1586186186186187
+    ],
+    "rotation_xyzw": [
+      -0.0,
+      0.0,
+      -0.03489949670250097,
+      0.9993908270190959
+    ]
+  },
+  "nearby_cliffs": [
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 378,
+      "transform": {
+        "translation": [
+          564.0,
+          -1952.0,
+          -10.0
+        ],
+        "scale": [
+          0.8785714507102969,
+          0.8785714507102969,
+          0.4667696952819824
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 410,
+      "transform": {
+        "translation": [
+          924.0,
+          -1808.0,
+          -10.0
+        ],
+        "scale": [
+          0.8785714507102969,
+          0.8785714507102969,
+          0.91190105676651
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          -0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 420,
+      "transform": {
+        "translation": [
+          1040.2012169770635,
+          -1696.4426773495395,
+          -10.0
+        ],
+        "scale": [
+          0.7055596113204956,
+          0.7055596113204956,
+          0.36187544465065
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 421,
+      "transform": {
+        "translation": [
+          1095.7987830229365,
+          -1696.4426773495395,
+          -10.0
+        ],
+        "scale": [
+          0.7055596113204956,
+          0.7055596113204956,
+          0.355051726102829
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 422,
+      "transform": {
+        "translation": [
+          1068.0,
+          -1736.0,
+          101.47900408575094
+        ],
+        "scale": [
+          0.8785714507102969,
+          0.8785714507102969,
+          0.5240216255187988
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 429,
+      "transform": {
+        "translation": [
+          1140.0,
+          -1808.0,
+          255.0
+        ],
+        "scale": [
+          0.8785714507102966,
+          0.8785714507102966,
+          0.09273570030927658
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 430,
+      "transform": {
+        "translation": [
+          1114.6363523741036,
+          -1701.7999752230278,
+          -10.0
+        ],
+        "scale": [
+          0.6437535285949704,
+          0.6437535285949704,
+          0.47621917724609375
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          1.0,
+          6.123233995736767e-17
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 431,
+      "transform": {
+        "translation": [
+          1165.3636476258964,
+          -1752.5272704748206,
+          -10.0
+        ],
+        "scale": [
+          0.6437535285949707,
+          0.6437535285949707,
+          0.48416614532470703
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 432,
+      "transform": {
+        "translation": [
+          1140.0,
+          -1736.0,
+          140.7613045740418
+        ],
+        "scale": [
+          0.8785714507102966,
+          0.8785714507102966,
+          0.39950138330459595
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 446,
+      "transform": {
+        "translation": [
+          1237.0059473361212,
+          -1752.5988105327756,
+          -10.0
+        ],
+        "scale": [
+          0.634674787521362,
+          0.634674787521362,
+          0.35930749773979187
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          1.0,
+          6.123233995736767e-17
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 461,
+      "transform": {
+        "translation": [
+          1242.4877112982786,
+          -1692.687403955328,
+          -10.0
+        ],
+        "scale": [
+          0.7281136512756344,
+          0.7281136512756344,
+          0.4965369403362274
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          1.0,
+          6.123233995736769e-17
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 654,
+      "transform": {
+        "translation": [
+          564.0,
+          -1805.5967684012867,
+          -12.0
+        ],
+        "scale": [
+          0.8445121645927429,
+          0.8445121645927429,
+          0.3563285768032074
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 655,
+      "transform": {
+        "translation": [
+          630.5469234539606,
+          -1938.6906153092077,
+          -12.0
+        ],
+        "scale": [
+          0.8445121645927431,
+          0.8445121645927431,
+          0.3467160761356354
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 656,
+      "transform": {
+        "translation": [
+          630.5469234539606,
+          -1805.5967684012867,
+          -12.0
+        ],
+        "scale": [
+          0.8445121645927431,
+          0.8445121645927431,
+          0.34930291771888733
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          -0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 388,
+      "transform": {
+        "translation": [
+          636.0,
+          -2024.0,
+          126.0
+        ],
+        "scale": [
+          0.8785714507102969,
+          0.8785714507102969,
+          0.4914992153644562
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 402,
+      "transform": {
+        "translation": [
+          708.0,
+          -2024.0,
+          118.0
+        ],
+        "scale": [
+          0.8785714507102969,
+          0.8785714507102969,
+          0.5162287354469299
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 407,
+      "transform": {
+        "translation": [
+          780.0,
+          -1952.0,
+          -10.0
+        ],
+        "scale": [
+          0.8785714507102969,
+          0.8785714507102969,
+          0.91190105676651
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 414,
+      "transform": {
+        "translation": [
+          852.0,
+          -1880.0,
+          -10.0
+        ],
+        "scale": [
+          0.8785714507102966,
+          0.8785714507102966,
+          0.91190105676651
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 419,
+      "transform": {
+        "translation": [
+          996.0,
+          -1736.0,
+          -10.0
+        ],
+        "scale": [
+          0.8785714507102969,
+          0.8785714507102969,
+          0.91190105676651
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          -0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 423,
+      "transform": {
+        "translation": [
+          1040.2012169770635,
+          -1752.0402433954125,
+          -10.0
+        ],
+        "scale": [
+          0.7055596113204953,
+          0.7055596113204953,
+          0.3644227683544159
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          1.0,
+          6.123233995736767e-17
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 424,
+      "transform": {
+        "translation": [
+          1095.7987830229365,
+          -1752.0402433954125,
+          -10.0
+        ],
+        "scale": [
+          0.7055596113204953,
+          0.7055596113204953,
+          0.36027583479881287
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          1.0,
+          6.123233995736767e-17
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 434,
+      "transform": {
+        "translation": [
+          1114.6363523741036,
+          -1752.5272704748206,
+          -10.0
+        ],
+        "scale": [
+          0.6437535285949708,
+          0.6437535285949708,
+          0.48706793785095215
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 435,
+      "transform": {
+        "translation": [
+          1165.3636476258964,
+          -1701.7999752230278,
+          -10.0
+        ],
+        "scale": [
+          0.6437535285949708,
+          0.6437535285949708,
+          0.47862374782562256
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          -0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 441,
+      "transform": {
+        "translation": [
+          1186.9940526638788,
+          -1752.5988105327756,
+          -10.0
+        ],
+        "scale": [
+          0.634674787521362,
+          0.634674787521362,
+          0.36205384135246277
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          1.0,
+          6.123233995736767e-17
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 442,
+      "transform": {
+        "translation": [
+          1212.0,
+          -1736.0,
+          101.89432807339577
+        ],
+        "scale": [
+          0.8785714507102969,
+          0.8785714507102969,
+          0.5289201736450195
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          -0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 649,
+      "transform": {
+        "translation": [
+          497.45307654603937,
+          -1872.1436918552472,
+          -12.0
+        ],
+        "scale": [
+          0.8445121645927426,
+          0.8445121645927426,
+          0.3468644917011261
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          1.0,
+          6.123233995736767e-17
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 650,
+      "transform": {
+        "translation": [
+          564.0,
+          -1872.1436918552472,
+          -12.0
+        ],
+        "scale": [
+          0.8445121645927431,
+          0.8445121645927431,
+          0.3505585193634033
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          -0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 429,
+      "transform": {
+        "translation": [
+          636.0,
+          -1952.0,
+          -10.0
+        ],
+        "scale": [
+          0.8785714507102969,
+          0.8785714507102969,
+          0.4667696952819824
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          -0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 435,
+      "transform": {
+        "translation": [
+          708.0,
+          -1952.0,
+          -10.0
+        ],
+        "scale": [
+          0.8785714507102969,
+          0.8785714507102969,
+          0.44204017519950867
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 458,
+      "transform": {
+        "translation": [
+          1068.0,
+          -1808.0,
+          256.0
+        ],
+        "scale": [
+          0.8785714507102962,
+          0.8785714507102962,
+          0.08964451402425766
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          1.0,
+          6.123233995736769e-17
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 482,
+      "transform": {
+        "translation": [
+          1212.0,
+          -1808.0,
+          258.0
+        ],
+        "scale": [
+          0.8785714507102969,
+          0.8785714507102969,
+          0.08346213400363922
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          -0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 483,
+      "transform": {
+        "translation": [
+          1186.9940526638788,
+          -1702.5869158605333,
+          -10.0
+        ],
+        "scale": [
+          0.6346747875213624,
+          0.6346747875213624,
+          0.35572269558906555
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          -0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 484,
+      "transform": {
+        "translation": [
+          1237.0059473361212,
+          -1702.5869158605333,
+          -10.0
+        ],
+        "scale": [
+          0.634674787521362,
+          0.634674787521362,
+          0.3615655303001404
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          1.0,
+          6.12323399573677e-17
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 494,
+      "transform": {
+        "translation": [
+          1242.4877112982786,
+          -1635.312596044672,
+          -10.0
+        ],
+        "scale": [
+          0.7281136512756344,
+          0.7281136512756344,
+          0.5039626359939575
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          1.0,
+          6.123233995736769e-17
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 719,
+      "transform": {
+        "translation": [
+          497.45307654603937,
+          -1805.5967684012867,
+          -12.0
+        ],
+        "scale": [
+          0.8445121645927431,
+          0.8445121645927431,
+          0.3497081696987152
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.7071067811865477,
+          0.7071067811865474
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 720,
+      "transform": {
+        "translation": [
+          564.0,
+          -1938.6906153092077,
+          -12.0
+        ],
+        "scale": [
+          0.8445121645927429,
+          0.8445121645927429,
+          0.356401264667511
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 721,
+      "transform": {
+        "translation": [
+          630.5469234539606,
+          -1872.1436918552472,
+          -12.0
+        ],
+        "scale": [
+          0.8445121645927429,
+          0.8445121645927429,
+          0.3520849347114563
+        ],
+        "rotation_xyzw": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      }
+    }
+  ]
+}

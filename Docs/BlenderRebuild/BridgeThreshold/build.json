@@ -1,0 +1,7 @@
+{
+  "asset": "BridgeThreshold",
+  "scene": "Terrarium_BridgeThreshold",
+  "parts": 14,
+  "source": "SourceAssets/Voxel/river_crossing.png",
+  "status": "authored_pending_visual_review"
+}

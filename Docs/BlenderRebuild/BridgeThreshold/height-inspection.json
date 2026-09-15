@@ -1,0 +1,137 @@
+{
+  "transform": {
+    "location": [
+      868.4032036437609,
+      -1758.2932047080294,
+      280.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rotation": [
+      -0.0,
+      0.0,
+      -0.03489949670250097,
+      0.9993908270190959
+    ]
+  },
+  "samples": [
+    {
+      "blender_local_y_cm": -39,
+      "world_xy_cm": [
+        916.0140883814738,
+        -1722.5272480663818
+      ],
+      "hits": [
+        {
+          "mesh": "SM_Blender_RiverBridge",
+          "height": 280.00000953674316
+        },
+        {
+          "mesh": "SM_Blender_BridgeThreshold",
+          "height": 266.99999809265137
+        }
+      ]
+    },
+    {
+      "blender_local_y_cm": -30,
+      "world_xy_cm": [
+        915.3862801177768,
+        -1731.5053245187203
+      ],
+      "hits": [
+        {
+          "mesh": "SM_Blender_BridgeThreshold",
+          "height": 281.78181886672974
+        }
+      ]
+    },
+    {
+      "blender_local_y_cm": -10,
+      "world_xy_cm": [
+        913.9911506428942,
+        -1751.4566055239168
+      ],
+      "hits": [
+        {
+          "mesh": "SM_Blender_TrailPatch",
+          "height": 285.9338188171387
+        },
+        {
+          "mesh": "SM_Blender_BridgeThreshold",
+          "height": 285.296972990036
+        }
+      ]
+    },
+    {
+      "blender_local_y_cm": 0,
+      "world_xy_cm": [
+        913.293585905453,
+        -1761.432246026515
+      ],
+      "hits": [
+        {
+          "mesh": "SM_Blender_TrailPatch",
+          "height": 285.30001282691956
+        },
+        {
+          "mesh": "SM_Blender_BridgeThreshold",
+          "height": 285.9999978542328
+        }
+      ]
+    },
+    {
+      "blender_local_y_cm": 15,
+      "world_xy_cm": [
+        912.2472387992912,
+        -1776.3957067804124
+      ],
+      "hits": [
+        {
+          "mesh": "SM_Blender_TrailPatch",
+          "height": 286.0150122642517
+        },
+        {
+          "mesh": "SM_Blender_BridgeThreshold",
+          "height": 285.9999978542328
+        }
+      ]
+    },
+    {
+      "blender_local_y_cm": 30,
+      "world_xy_cm": [
+        911.2008916931293,
+        -1791.3591675343098
+      ],
+      "hits": [
+        {
+          "mesh": "SM_Blender_TrailPatch",
+          "height": 285.30001282691956
+        },
+        {
+          "mesh": "SM_Blender_BridgeThreshold",
+          "height": 285.9999978542328
+        }
+      ]
+    },
+    {
+      "blender_local_y_cm": 39,
+      "world_xy_cm": [
+        910.5730834294321,
+        -1800.3372439866482
+      ],
+      "hits": [
+        {
+          "mesh": "SM_Blender_TrailPatch",
+          "height": 285.30001282691956
+        },
+        {
+          "mesh": "SM_Blender_BridgeThreshold",
+          "height": 285.70000767707825
+        }
+      ]
+    }
+  ]
+}

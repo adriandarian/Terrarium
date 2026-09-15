@@ -1,0 +1,28 @@
+{
+  "revision": "r20_raised_crown_terraces",
+  "accepted_fidelity": false,
+  "visually_checked": true,
+  "parts": 5,
+  "editable_construction_blocks": 185,
+  "triangles": 49430,
+  "studio_views": [
+    "front.png",
+    "left.png",
+    "side.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Rear/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "remaining": [
+    "The central crown now has two raised moss blocks beside the shoulder. Two saddle blocks, their green neighbor and a rear ridge block follow four additional measured concept corners. The broad footprint, regular lower terraces, saddle shading, rear overhang and stem exposure still need closer matching.",
+    "The forehead, surrounding front bark and belly now sit close to the tan face plane. The front body core is 2 mm behind the tan face, closing the deep backing recess. Sampled face-course offsets are 1-1.3 mm. Fine seams remain, and the block divisions and facial pigment boundaries still differ from the source.",
+    "The face and belly now use dedicated atlas regions, and their pigment boundaries are sharper in Blender and Unreal. The color blocks are still too regular and differ from the concept in placement and contrast. The Unreal face remains darker than the studio reference.",
+    "The body outline is closer after narrowing the middle rear section and adjusting two bark protrusions. Side and rear anatomy, bark pattern and coloration still differ from the concept. The rear is inferred from a single front view.",
+    "The leafy shoots retain a more regular surface pattern and different colors than the concept. Leaf seams, exposed stems and the unseen rear arrangement remain unresolved.",
+    "The model has four statically supported feet with twenty tested sole samples. It has no rig, animation, locomotion or physics validation. No perfect-fidelity approval is claimed."
+  ]
+}
