@@ -1,0 +1,206 @@
+{
+  "all_32_types_replaced": true,
+  "saved_reopened": true,
+  "instance_transforms_unchanged": true,
+  "static_landmarks_unchanged": true,
+  "counts": {
+    "SM_StoneStairs_v3_Detail": 1,
+    "SM_PlankBridge_v4_Detail": 1,
+    "SM_Cottage_v6_Detail": 1,
+    "SM_Shed_v2_Detail": 1,
+    "SM_GardenWell_v2_Detail": 1,
+    "SM_LanternPost_Detail": 1,
+    "SM_GardenBed_v3_Detail": 1,
+    "SM_GardenBed_v2_Detail": 1,
+    "SM_Traveler_v2_Detail": 1,
+    "SM_MeadowTile_Edge_v6_Detail2": 755,
+    "SM_CliffColumn_v6C_Detail": 743,
+    "SM_FenceRails_Detail": 12,
+    "SM_WheatPatch_v2_Detail": 40,
+    "SM_Tree_v3_Detail": 14,
+    "SM_Bush_v2_Detail": 620,
+    "SM_RockCluster_Detail": 58,
+    "SM_CliffMoss_v1_Detail": 209,
+    "SM_MeadowGrass_v2_Detail": 1414,
+    "SM_MeadowFlowers_v2_Detail": 369,
+    "SM_GroundPlants_v2_Detail": 1259,
+    "SM_ShoreOutcrop_Detail": 32,
+    "SM_CliffColumn_v6B_Detail": 665,
+    "SM_Reeds_Detail": 28,
+    "SM_ShoreOutcrop_v2_Detail": 8,
+    "SM_RiverStones_v2_Detail": 41,
+    "SM_CliffColumn_v6A_Detail": 668,
+    "SM_MeadowTile_v5_Detail2": 5086,
+    "SM_WaterShallow_v4_Detail": 166,
+    "SM_WaterTile_v4_Detail": 11,
+    "SM_WaterDeep_v4_Detail": 13,
+    "SM_PathTile_v4_Detail": 75,
+    "SM_FencePost_Detail": 18
+  },
+  "materials": {
+    "MatineeCam_SM": "/Engine/EditorMaterials/MatineeCam_mat.MatineeCam_mat",
+    "SM_StoneStairs_v3_Detail": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_PlankBridge_v4_Detail": "/Game/Terrarium/Materials/M_DetailCrafted.M_DetailCrafted",
+    "SM_Cottage_v6_Detail": "/Game/Terrarium/Materials/M_DetailCrafted.M_DetailCrafted",
+    "SM_Shed_v2_Detail": "/Game/Terrarium/Materials/M_DetailCrafted.M_DetailCrafted",
+    "SM_GardenWell_v2_Detail": "/Game/Terrarium/Materials/M_DetailCrafted.M_DetailCrafted",
+    "SM_LanternPost_Detail": "/Game/Terrarium/Materials/M_DetailCrafted.M_DetailCrafted",
+    "SM_GardenBed_v3_Detail": "/Game/Terrarium/Materials/M_DetailCrafted.M_DetailCrafted",
+    "SM_GardenBed_v2_Detail": "/Game/Terrarium/Materials/M_DetailCrafted.M_DetailCrafted",
+    "SM_Traveler_v2_Detail": "/Game/Terrarium/Materials/M_DetailCrafted.M_DetailCrafted",
+    "SM_MeadowTile_Edge_v6_Detail2": "/Game/Terrarium/Materials/M_DetailGround.M_DetailGround",
+    "SM_CliffColumn_v6C_Detail": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_FenceRails_Detail": "/Game/Terrarium/Materials/M_DetailCrafted.M_DetailCrafted",
+    "SM_WheatPatch_v2_Detail": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_Tree_v3_Detail": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_Bush_v2_Detail": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_RockCluster_Detail": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_CliffMoss_v1_Detail": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_MeadowGrass_v2_Detail": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_MeadowFlowers_v2_Detail": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_GroundPlants_v2_Detail": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_ShoreOutcrop_Detail": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_CliffColumn_v6B_Detail": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_Reeds_Detail": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_ShoreOutcrop_v2_Detail": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_RiverStones_v2_Detail": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_CliffColumn_v6A_Detail": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_MeadowTile_v5_Detail2": "/Game/Terrarium/Materials/M_DetailGround.M_DetailGround",
+    "SM_WaterShallow_v4_Detail": "/Game/Terrarium/Materials/M_Pass7_ContinuousRiver.M_Pass7_ContinuousRiver",
+    "SM_WaterTile_v4_Detail": "/Game/Terrarium/Materials/M_Pass7_ContinuousRiver.M_Pass7_ContinuousRiver",
+    "SM_WaterDeep_v4_Detail": "/Game/Terrarium/Materials/M_Pass7_ContinuousRiver.M_Pass7_ContinuousRiver",
+    "SM_PathTile_v4_Detail": "/Game/Terrarium/Materials/M_Pass7_Path.M_Pass7_Path",
+    "SM_FencePost_Detail": "/Game/Terrarium/Materials/M_DetailCrafted.M_DetailCrafted"
+  },
+  "geometry": {
+    "SM_Cottage_v6_Detail": {
+      "triangles": 41272,
+      "saved_normal_errors": 0
+    },
+    "SM_Shed_v2_Detail": {
+      "triangles": 10468,
+      "saved_normal_errors": 0
+    },
+    "SM_PlankBridge_v4_Detail": {
+      "triangles": 8522,
+      "saved_normal_errors": 0
+    },
+    "SM_GardenWell_v2_Detail": {
+      "triangles": 6132,
+      "saved_normal_errors": 0
+    },
+    "SM_GardenBed_v3_Detail": {
+      "triangles": 10190,
+      "saved_normal_errors": 0
+    },
+    "SM_GardenBed_v2_Detail": {
+      "triangles": 11016,
+      "saved_normal_errors": 0
+    },
+    "SM_LanternPost_Detail": {
+      "triangles": 752,
+      "saved_normal_errors": 0
+    },
+    "SM_FencePost_Detail": {
+      "triangles": 1024,
+      "saved_normal_errors": 0
+    },
+    "SM_FenceRails_Detail": {
+      "triangles": 528,
+      "saved_normal_errors": 0
+    },
+    "SM_Traveler_v2_Detail": {
+      "triangles": 2024,
+      "saved_normal_errors": 0
+    },
+    "SM_MeadowTile_v5_Detail2": {
+      "triangles": 1100,
+      "saved_normal_errors": 0
+    },
+    "SM_MeadowTile_Edge_v6_Detail2": {
+      "triangles": 892,
+      "saved_normal_errors": 0
+    },
+    "SM_Tree_v3_Detail": {
+      "triangles": 10716,
+      "saved_normal_errors": 0
+    },
+    "SM_Bush_v2_Detail": {
+      "triangles": 2832,
+      "saved_normal_errors": 0
+    },
+    "SM_WheatPatch_v2_Detail": {
+      "triangles": 32896,
+      "saved_normal_errors": 0
+    },
+    "SM_MeadowGrass_v2_Detail": {
+      "triangles": 1532,
+      "saved_normal_errors": 0
+    },
+    "SM_MeadowFlowers_v2_Detail": {
+      "triangles": 1708,
+      "saved_normal_errors": 0
+    },
+    "SM_GroundPlants_v2_Detail": {
+      "triangles": 3092,
+      "saved_normal_errors": 0
+    },
+    "SM_CliffMoss_v1_Detail": {
+      "triangles": 1952,
+      "saved_normal_errors": 0
+    },
+    "SM_CliffColumn_v6A_Detail": {
+      "triangles": 3400,
+      "saved_normal_errors": 0
+    },
+    "SM_CliffColumn_v6B_Detail": {
+      "triangles": 3416,
+      "saved_normal_errors": 0
+    },
+    "SM_CliffColumn_v6C_Detail": {
+      "triangles": 3268,
+      "saved_normal_errors": 0
+    },
+    "SM_StoneStairs_v3_Detail": {
+      "triangles": 15152,
+      "saved_normal_errors": 0
+    },
+    "SM_RockCluster_Detail": {
+      "triangles": 496,
+      "saved_normal_errors": 0
+    },
+    "SM_ShoreOutcrop_Detail": {
+      "triangles": 1646,
+      "saved_normal_errors": 0
+    },
+    "SM_ShoreOutcrop_v2_Detail": {
+      "triangles": 1118,
+      "saved_normal_errors": 0
+    },
+    "SM_RiverStones_v2_Detail": {
+      "triangles": 398,
+      "saved_normal_errors": 0
+    },
+    "SM_Reeds_Detail": {
+      "triangles": 2196,
+      "saved_normal_errors": 0
+    },
+    "SM_PathTile_v4_Detail": {
+      "triangles": 1360,
+      "saved_normal_errors": 0
+    },
+    "SM_WaterTile_v4_Detail": {
+      "triangles": 7296,
+      "saved_normal_errors": 0
+    },
+    "SM_WaterShallow_v4_Detail": {
+      "triangles": 7648,
+      "saved_normal_errors": 0
+    },
+    "SM_WaterDeep_v4_Detail": {
+      "triangles": 7296,
+      "saved_normal_errors": 0
+    }
+  },
+  "testing": "Native editor state and geometry checks; rendered review is separate; no gameplay testing."
+}

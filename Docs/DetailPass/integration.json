@@ -1,0 +1,162 @@
+{
+  "SM_StoneStairs_v3": {
+    "mesh": "SM_StoneStairs_v3_Detail",
+    "instances": 1,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone"
+  },
+  "SM_PlankBridge_v4": {
+    "mesh": "SM_PlankBridge_v4_Detail",
+    "instances": 1,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details"
+  },
+  "SM_Cottage_v6": {
+    "mesh": "SM_Cottage_v6_Detail",
+    "instances": 1,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details"
+  },
+  "SM_Shed_v2": {
+    "mesh": "SM_Shed_v2_Detail",
+    "instances": 1,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details"
+  },
+  "SM_GardenWell_v2": {
+    "mesh": "SM_GardenWell_v2_Detail",
+    "instances": 1,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details"
+  },
+  "SM_LanternPost": {
+    "mesh": "SM_LanternPost_Detail",
+    "instances": 1,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details"
+  },
+  "SM_GardenBed_v3": {
+    "mesh": "SM_GardenBed_v3_Detail",
+    "instances": 1,
+    "material": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+  },
+  "SM_GardenBed_v2": {
+    "mesh": "SM_GardenBed_v2_Detail",
+    "instances": 1,
+    "material": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+  },
+  "SM_Traveler_v2": {
+    "mesh": "SM_Traveler_v2_Detail",
+    "instances": 1,
+    "material": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+  },
+  "SM_MeadowTile_Edge_v6": {
+    "mesh": "SM_MeadowTile_Edge_v6_Detail",
+    "instances": 755,
+    "material": "/Game/Terrarium/Materials/M_DetailGround.M_DetailGround"
+  },
+  "SM_CliffColumn_v6C": {
+    "mesh": "SM_CliffColumn_v6C_Detail",
+    "instances": 743,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone"
+  },
+  "SM_FenceRails": {
+    "mesh": "SM_FenceRails_Detail",
+    "instances": 12,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details"
+  },
+  "SM_WheatPatch_v2": {
+    "mesh": "SM_WheatPatch_v2_Detail",
+    "instances": 40,
+    "material": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+  },
+  "SM_Tree_v3": {
+    "mesh": "SM_Tree_v3_Detail",
+    "instances": 14,
+    "material": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+  },
+  "SM_Bush_v2": {
+    "mesh": "SM_Bush_v2_Detail",
+    "instances": 620,
+    "material": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+  },
+  "SM_RockCluster": {
+    "mesh": "SM_RockCluster_Detail",
+    "instances": 58,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone"
+  },
+  "SM_CliffMoss_v1": {
+    "mesh": "SM_CliffMoss_v1_Detail",
+    "instances": 209,
+    "material": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+  },
+  "SM_MeadowGrass_v2": {
+    "mesh": "SM_MeadowGrass_v2_Detail",
+    "instances": 1414,
+    "material": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+  },
+  "SM_MeadowFlowers_v2": {
+    "mesh": "SM_MeadowFlowers_v2_Detail",
+    "instances": 369,
+    "material": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+  },
+  "SM_GroundPlants_v2": {
+    "mesh": "SM_GroundPlants_v2_Detail",
+    "instances": 1259,
+    "material": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+  },
+  "SM_ShoreOutcrop": {
+    "mesh": "SM_ShoreOutcrop_Detail",
+    "instances": 32,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone"
+  },
+  "SM_CliffColumn_v6B": {
+    "mesh": "SM_CliffColumn_v6B_Detail",
+    "instances": 665,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone"
+  },
+  "SM_Reeds": {
+    "mesh": "SM_Reeds_Detail",
+    "instances": 28,
+    "material": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+  },
+  "SM_ShoreOutcrop_v2": {
+    "mesh": "SM_ShoreOutcrop_v2_Detail",
+    "instances": 8,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone"
+  },
+  "SM_RiverStones_v2": {
+    "mesh": "SM_RiverStones_v2_Detail",
+    "instances": 41,
+    "material": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+  },
+  "SM_CliffColumn_v6A": {
+    "mesh": "SM_CliffColumn_v6A_Detail",
+    "instances": 668,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone"
+  },
+  "SM_MeadowTile_v5": {
+    "mesh": "SM_MeadowTile_v5_Detail",
+    "instances": 5086,
+    "material": "/Game/Terrarium/Materials/M_DetailGround.M_DetailGround"
+  },
+  "SM_WaterShallow_v4": {
+    "mesh": "SM_WaterShallow_v4_Detail",
+    "instances": 166,
+    "material": "/Game/Terrarium/Materials/M_Pass7_ContinuousRiver.M_Pass7_ContinuousRiver"
+  },
+  "SM_WaterTile_v4": {
+    "mesh": "SM_WaterTile_v4_Detail",
+    "instances": 11,
+    "material": "/Game/Terrarium/Materials/M_Pass7_ContinuousRiver.M_Pass7_ContinuousRiver"
+  },
+  "SM_WaterDeep_v4": {
+    "mesh": "SM_WaterDeep_v4_Detail",
+    "instances": 13,
+    "material": "/Game/Terrarium/Materials/M_Pass7_ContinuousRiver.M_Pass7_ContinuousRiver"
+  },
+  "SM_PathTile_v4": {
+    "mesh": "SM_PathTile_v4_Detail",
+    "instances": 75,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Path.M_Pass7_Path"
+  },
+  "SM_FencePost": {
+    "mesh": "SM_FencePost_Detail",
+    "instances": 18,
+    "material": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details"
+  }
+}

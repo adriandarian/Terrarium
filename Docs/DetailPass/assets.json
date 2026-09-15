@@ -1,0 +1,226 @@
+[
+  {
+    "original": "SM_Cottage_v6",
+    "asset": "SM_Cottage_v6_Detail",
+    "detail": "slatted shutters, planted sill boxes, plaster repair edges, stacked firewood, stave barrel, surface wear",
+    "triangles_before": 26880,
+    "triangles_after": 41272
+  },
+  {
+    "original": "SM_Shed_v2",
+    "asset": "SM_Shed_v2_Detail",
+    "detail": "barrel, hinge pins, trough boards and water, worn plank edges",
+    "triangles_before": 5944,
+    "triangles_after": 10468
+  },
+  {
+    "original": "SM_PlankBridge_v4",
+    "asset": "SM_PlankBridge_v4_Detail",
+    "detail": "rope lashings, embedded plank knots, grain and chipped end marks",
+    "triangles_before": 5764,
+    "triangles_after": 8522
+  },
+  {
+    "original": "SM_GardenWell_v2",
+    "asset": "SM_GardenWell_v2_Detail",
+    "detail": "open stave bucket, winding-rope strands, small moss rooted in stone joints",
+    "triangles_before": 2584,
+    "triangles_after": 6132
+  },
+  {
+    "original": "SM_GardenBed_v3",
+    "asset": "SM_GardenBed_v3_Detail",
+    "detail": "soil clods, plant labels, overlapping young leaves and vein accents",
+    "triangles_before": 9254,
+    "triangles_after": 10190
+  },
+  {
+    "original": "SM_GardenBed_v2",
+    "asset": "SM_GardenBed_v2_Detail",
+    "detail": "soil clods, plant labels, overlapping young leaves and vein accents",
+    "triangles_before": 10080,
+    "triangles_after": 11016
+  },
+  {
+    "original": "SM_LanternPost",
+    "asset": "SM_LanternPost_Detail",
+    "detail": "pane mullions and reflected strips, post collars, weathering",
+    "triangles_before": 400,
+    "triangles_after": 752
+  },
+  {
+    "original": "SM_FencePost",
+    "asset": "SM_FencePost_Detail",
+    "detail": "nails, split wood grain, rooted moss tuft",
+    "triangles_before": 176,
+    "triangles_after": 1024
+  },
+  {
+    "original": "SM_FenceRails",
+    "asset": "SM_FenceRails_Detail",
+    "detail": "pegged rail joints, elongated grain streaks, dark timber knot",
+    "triangles_before": 132,
+    "triangles_after": 528
+  },
+  {
+    "original": "SM_Traveler_v2",
+    "asset": "SM_Traveler_v2_Detail",
+    "detail": "diagonal satchel strap, fasteners, belt pouch, boot laces, bedroll stitching",
+    "triangles_before": 1452,
+    "triangles_after": 2024
+  },
+  {
+    "original": "SM_MeadowTile_v5",
+    "asset": "SM_MeadowTile_v5_Detail2",
+    "detail": "overlapping low turf leaves and embedded pebbles; taller grass remains in planted clusters",
+    "triangles_before": 296,
+    "triangles_after": 1100
+  },
+  {
+    "original": "SM_MeadowTile_Edge_v6",
+    "asset": "SM_MeadowTile_Edge_v6_Detail2",
+    "detail": "overlapping low turf leaves and embedded pebbles; taller grass remains in planted clusters",
+    "triangles_before": 88,
+    "triangles_after": 892
+  },
+  {
+    "original": "SM_Tree_v3",
+    "asset": "SM_Tree_v3_Detail",
+    "detail": "small overlapping leaf tips, bark ridges, berry and bud accents",
+    "triangles_before": 9108,
+    "triangles_after": 10716
+  },
+  {
+    "original": "SM_Bush_v2",
+    "asset": "SM_Bush_v2_Detail",
+    "detail": "small overlapping leaf tips, bark ridges, berry and bud accents",
+    "triangles_before": 1996,
+    "triangles_after": 2832
+  },
+  {
+    "original": "SM_WheatPatch_v2",
+    "asset": "SM_WheatPatch_v2_Detail",
+    "detail": "fallen straw, low green companion growth between existing grain stalks",
+    "triangles_before": 30968,
+    "triangles_after": 32896
+  },
+  {
+    "original": "SM_MeadowGrass_v2",
+    "asset": "SM_MeadowGrass_v2_Detail",
+    "detail": "broad leafy bases and intermediate blades around fine existing grass",
+    "triangles_before": 572,
+    "triangles_after": 1532
+  },
+  {
+    "original": "SM_MeadowFlowers_v2",
+    "asset": "SM_MeadowFlowers_v2_Detail",
+    "detail": "basal rosette leaves and unopened flower buds",
+    "triangles_before": 1288,
+    "triangles_after": 1708
+  },
+  {
+    "original": "SM_GroundPlants_v2",
+    "asset": "SM_GroundPlants_v2_Detail",
+    "detail": "upright young fern fronds and pale growing tips",
+    "triangles_before": 2772,
+    "triangles_after": 3092
+  },
+  {
+    "original": "SM_CliffMoss_v1",
+    "asset": "SM_CliffMoss_v1_Detail",
+    "detail": "layered small moss leaves over the original hanging fingers",
+    "triangles_before": 1364,
+    "triangles_after": 1952
+  },
+  {
+    "original": "SM_CliffColumn_v6A",
+    "asset": "SM_CliffColumn_v6A_Detail",
+    "detail": "small lichen colonies, moss transition clusters, mineral surface chips",
+    "triangles_before": 1244,
+    "triangles_after": 3400
+  },
+  {
+    "original": "SM_CliffColumn_v6B",
+    "asset": "SM_CliffColumn_v6B_Detail",
+    "detail": "small lichen colonies, moss transition clusters, mineral surface chips",
+    "triangles_before": 1304,
+    "triangles_after": 3416
+  },
+  {
+    "original": "SM_CliffColumn_v6C",
+    "asset": "SM_CliffColumn_v6C_Detail",
+    "detail": "small lichen colonies, moss transition clusters, mineral surface chips",
+    "triangles_before": 1244,
+    "triangles_after": 3268
+  },
+  {
+    "original": "SM_StoneStairs_v3",
+    "asset": "SM_StoneStairs_v3_Detail",
+    "detail": "polished foot-wear patches, small grasses growing from tread corners",
+    "triangles_before": 8096,
+    "triangles_after": 15152
+  },
+  {
+    "original": "SM_RockCluster",
+    "asset": "SM_RockCluster_Detail",
+    "detail": "surface-bound lichen flecks, mineral chips, weathering",
+    "triangles_before": 258,
+    "triangles_after": 496
+  },
+  {
+    "original": "SM_ShoreOutcrop",
+    "asset": "SM_ShoreOutcrop_Detail",
+    "detail": "surface-bound lichen flecks, mineral chips, weathering",
+    "triangles_before": 968,
+    "triangles_after": 1646
+  },
+  {
+    "original": "SM_ShoreOutcrop_v2",
+    "asset": "SM_ShoreOutcrop_v2_Detail",
+    "detail": "surface-bound lichen flecks, mineral chips, weathering",
+    "triangles_before": 616,
+    "triangles_after": 1118
+  },
+  {
+    "original": "SM_RiverStones_v2",
+    "asset": "SM_RiverStones_v2_Detail",
+    "detail": "surface-bound lichen flecks, mineral chips, weathering",
+    "triangles_before": 160,
+    "triangles_after": 398
+  },
+  {
+    "original": "SM_Reeds",
+    "asset": "SM_Reeds_Detail",
+    "detail": "curved secondary reed leaves and lighter leaf ribs",
+    "triangles_before": 1620,
+    "triangles_after": 2196
+  },
+  {
+    "original": "SM_PathTile_v4",
+    "asset": "SM_PathTile_v4_Detail",
+    "detail": "embedded gravel of mixed sizes, low verge leaves, broken soil texture",
+    "triangles_before": 480,
+    "triangles_after": 1360
+  },
+  {
+    "original": "SM_WaterTile_v4",
+    "asset": "SM_WaterTile_v4_Detail",
+    "detail": "paired broken ripple glints over the original continuous surface",
+    "triangles_before": 6416,
+    "triangles_after": 7296
+  },
+  {
+    "original": "SM_WaterShallow_v4",
+    "asset": "SM_WaterShallow_v4_Detail",
+    "detail": "paired broken ripple glints over the original continuous surface",
+    "triangles_before": 6768,
+    "triangles_after": 7648
+  },
+  {
+    "original": "SM_WaterDeep_v4",
+    "asset": "SM_WaterDeep_v4_Detail",
+    "detail": "paired broken ripple glints over the original continuous surface",
+    "triangles_before": 6416,
+    "triangles_after": 7296
+  }
+]
