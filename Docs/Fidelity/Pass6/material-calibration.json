@@ -1,0 +1,23 @@
+{
+  "ground_low_linear_multiplier": [
+    0.8,
+    0.7,
+    0.8
+  ],
+  "ground_upper_linear_multiplier": [
+    1.25,
+    1,
+    1.2
+  ],
+  "ground_elevation_range_cm": [
+    280,
+    880
+  ],
+  "water_linear_multiplier": [
+    0.93,
+    0.72,
+    0.68
+  ],
+  "normal_mapping": false,
+  "shading": "lit, single-sided, matte"
+}

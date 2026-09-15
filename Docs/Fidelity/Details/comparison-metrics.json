@@ -1,0 +1,41 @@
+{
+  "candidate": "Docs/Fidelity/Details/detail-update.png",
+  "comparison_resolution": [
+    481,
+    809
+  ],
+  "metrics": {
+    "full_frame": {
+      "before_rgb_mae": 28.668339633729005,
+      "current_rgb_mae": 28.553047960958963,
+      "exact_pixel_fraction": 3.0838102531551234e-05
+    },
+    "shed": {
+      "before_rgb_mae": 29.62692533803645,
+      "current_rgb_mae": 27.108583186360963,
+      "exact_pixel_fraction": 0.0003527336860670194
+    },
+    "bridge": {
+      "before_rgb_mae": 26.19349962207105,
+      "current_rgb_mae": 23.478987150415723,
+      "exact_pixel_fraction": 0.0
+    },
+    "wheat": {
+      "before_rgb_mae": 27.75954541020388,
+      "current_rgb_mae": 28.162374402497317,
+      "exact_pixel_fraction": 0.0
+    },
+    "garden": {
+      "before_rgb_mae": 30.074847870182555,
+      "current_rgb_mae": 29.70104800540906,
+      "exact_pixel_fraction": 0.0
+    },
+    "stairs": {
+      "before_rgb_mae": 31.598968932302267,
+      "current_rgb_mae": 33.9671686338353,
+      "exact_pixel_fraction": 0.0
+    }
+  },
+  "pixel_parity_achieved": false,
+  "limits": "RGB error is not perceptual equivalence. Full frame includes reference character and inset excluded from the static environment brief. No image warp or registration applied."
+}

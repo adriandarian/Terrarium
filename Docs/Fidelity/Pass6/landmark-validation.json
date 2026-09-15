@@ -1,0 +1,14 @@
+{
+  "bridge_scale": [
+    0.9,
+    1.4,
+    1.0
+  ],
+  "bridge_yaw": -4.0,
+  "bridge_pile_bottom_z": -18.0,
+  "water_z": 0,
+  "water_instances_with_calibrated_material": 190,
+  "traveler_actor": "Fidelity_Traveler_001",
+  "cottage_actor": "Fidelity_Cottage_v4_001",
+  "previous_scene_snapshot": "/Game/Terrarium/Maps/HomesteadBeforePass6"
+}

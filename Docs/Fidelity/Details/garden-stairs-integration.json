@@ -1,0 +1,56 @@
+{
+  "changes": [
+    {
+      "actor": "Fidelity_StoneStairs_001",
+      "old_mesh": "SM_StoneStairs",
+      "new_mesh": "SM_StoneStairs_v2",
+      "pose": [
+        859.3162562358392,
+        -316.1738468834,
+        280.0,
+        0.0,
+        2.000000000000001,
+        -0.0,
+        1.0,
+        0.75,
+        1.1244979919678715
+      ],
+      "transform_unchanged": true
+    },
+    {
+      "actor": "Fidelity_GardenBed_001",
+      "old_mesh": "SM_GardenBed",
+      "new_mesh": "SM_GardenBed_v2",
+      "pose": [
+        -0.6561780530696808,
+        -493.25790860573375,
+        570.0,
+        0.0,
+        0.0,
+        0.0,
+        1.03,
+        1.03,
+        1.03
+      ],
+      "transform_unchanged": true
+    },
+    {
+      "actor": "Fidelity_GardenBed_002",
+      "old_mesh": "SM_GardenBed",
+      "new_mesh": "SM_GardenBed_v2",
+      "pose": [
+        -358.89050314115633,
+        -609.4922336938205,
+        570.0,
+        0.0,
+        0.0,
+        0.0,
+        1.03,
+        1.03,
+        1.03
+      ],
+      "transform_unchanged": true
+    }
+  ],
+  "asset_detail_pass": 2
+}

@@ -1,0 +1,9 @@
+{
+  "sun_pitch": -50,
+  "sun_yaw": 145,
+  "sun_lux": 20500,
+  "sun_source_angle": 16,
+  "sky_intensity": 5,
+  "exposure_compensation": -0.65,
+  "reason": "The initial yaw 220 test over-shadowed both the cottage and wheat."
+}

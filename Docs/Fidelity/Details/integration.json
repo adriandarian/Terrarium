@@ -1,0 +1,64 @@
+{
+  "changes": [
+    {
+      "actor": "Fidelity_PlankBridge_001",
+      "previous_mesh": "SM_PlankBridge",
+      "mesh": "SM_PlankBridge_v2",
+      "pose_before": [
+        899.1155935132533,
+        -1416.364203951213,
+        215.0,
+        0.0,
+        2.000000000000001,
+        -0.0,
+        1.07,
+        1.07,
+        1.07
+      ],
+      "pose_after": [
+        899.1155935132533,
+        -1416.364203951213,
+        215.0,
+        0.0,
+        2.000000000000001,
+        -0.0,
+        1.07,
+        1.07,
+        1.07
+      ],
+      "transform_unchanged": true
+    },
+    {
+      "actor": "Fidelity_Shed_001",
+      "previous_mesh": "SM_Shed",
+      "mesh": "SM_Shed_v2",
+      "pose_before": [
+        529.3526233870313,
+        314.5793199591132,
+        568.0,
+        0.0,
+        89.99999999999999,
+        -0.0,
+        0.87,
+        0.87,
+        0.87
+      ],
+      "pose_after": [
+        529.3526233870313,
+        314.5793199591132,
+        568.0,
+        0.0,
+        89.99999999999999,
+        -0.0,
+        0.87,
+        0.87,
+        0.87
+      ],
+      "transform_unchanged": true
+    }
+  ],
+  "bridge_pile_bottom_world_z": -41.80000000000001,
+  "water_surface_z": 0,
+  "broad_scene_passes": 5,
+  "asset_detail_pass": 2
+}
