@@ -1,0 +1,12 @@
+{
+  "asset": "StoneStairs",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "532506af41429dfd41d5e1f44d5e52afebd41ff7da031714b777a262816a5f48",
+  "sha256": "579e8d0ae347e2b6c96ea0f64fd5c6638f242250b88563569cac600e1b057154",
+  "scene": "Terrarium_StoneStairs",
+  "parts": 24,
+  "packed_images": 3,
+  "active_camera": "Reference camera.011",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

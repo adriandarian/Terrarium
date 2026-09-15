@@ -1,0 +1,207 @@
+{
+  "tread_probes": [
+    {
+      "step": 1,
+      "x_cm": -85,
+      "top_cm": 315,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 1,
+      "x_cm": 0,
+      "top_cm": 315,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 1,
+      "x_cm": 85,
+      "top_cm": 315,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 2,
+      "x_cm": -85,
+      "top_cm": 350,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 2,
+      "x_cm": 0,
+      "top_cm": 350,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 2,
+      "x_cm": 85,
+      "top_cm": 350,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 3,
+      "x_cm": -85,
+      "top_cm": 385,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 3,
+      "x_cm": 0,
+      "top_cm": 385,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 3,
+      "x_cm": 85,
+      "top_cm": 385,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 4,
+      "x_cm": -85,
+      "top_cm": 420,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 4,
+      "x_cm": 0,
+      "top_cm": 420,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 4,
+      "x_cm": 85,
+      "top_cm": 420,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 5,
+      "x_cm": -85,
+      "top_cm": 455,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 5,
+      "x_cm": 0,
+      "top_cm": 455,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 5,
+      "x_cm": 85,
+      "top_cm": 455,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 6,
+      "x_cm": -85,
+      "top_cm": 490,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 6,
+      "x_cm": 0,
+      "top_cm": 490,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 6,
+      "x_cm": 85,
+      "top_cm": 490,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 7,
+      "x_cm": -85,
+      "top_cm": 525,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 7,
+      "x_cm": 0,
+      "top_cm": 525,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 7,
+      "x_cm": 85,
+      "top_cm": 525,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 8,
+      "x_cm": -85,
+      "top_cm": 560,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 8,
+      "x_cm": 0,
+      "top_cm": 560,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "step": 8,
+      "x_cm": 85,
+      "top_cm": 560,
+      "tolerance_cm": 0.04,
+      "passed": true
+    }
+  ],
+  "approaches": [
+    {
+      "offset_cm": -150,
+      "expected_terrain_cm": 280,
+      "collision_height_cm": 279.50572967529297
+    },
+    {
+      "offset_cm": 150,
+      "expected_terrain_cm": 560,
+      "collision_height_cm": 559.3652725219727
+    }
+  ],
+  "terrain_transform_checks": [
+    {
+      "component": "FoliageInstancedStaticMeshComponent_10",
+      "index": 465,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_10",
+      "index": 472,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_28",
+      "index": 403,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_28",
+      "index": 407,
+      "passed": true
+    }
+  ],
+  "limits": "Static visibility traces. Character traversal, step-up and performance have not been tested."
+}

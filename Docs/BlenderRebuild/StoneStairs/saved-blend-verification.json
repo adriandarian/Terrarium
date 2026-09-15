@@ -1,0 +1,11 @@
+{
+  "asset": "StoneStairs",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_StoneStairs",
+  "parts": 24,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 2592,
+  "sha256": "579e8d0ae347e2b6c96ea0f64fd5c6638f242250b88563569cac600e1b057154",
+  "active_camera": "Reference camera.011"
+}

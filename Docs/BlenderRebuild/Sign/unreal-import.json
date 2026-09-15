@@ -1,0 +1,18 @@
+{
+  "asset": "Sign",
+  "mesh": "/Game/Terrarium/Blender/Sign/SM_Blender_Sign.SM_Blender_Sign",
+  "material": "/Game/Terrarium/Blender/Sign/M_Sign.M_Sign",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/Sign/T_Sign_BaseColor.T_Sign_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/Sign/T_Sign_Emission.T_Sign_Emission",
+    "Roughness": "/Game/Terrarium/Blender/Sign/T_Sign_Roughness.T_Sign_Roughness"
+  },
+  "source_fbx_sha256": "1d4b0d0c5ad4fe41bcf4da19eaac591ec6794983155c405c8f4fc9ee3bf1a35a",
+  "dimensions_cm": [
+    233.75000762939453,
+    80.70001220703125,
+    268.3499996960163
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}

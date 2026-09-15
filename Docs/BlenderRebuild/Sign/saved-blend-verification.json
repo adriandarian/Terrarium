@@ -1,0 +1,11 @@
+{
+  "asset": "Sign",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_Sign",
+  "parts": 76,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 8208,
+  "sha256": "14759dffa3022507b3f26b36c6f57dd341b606f53cc5497c548cbf3bab01f687",
+  "active_camera": "Reference camera.001"
+}

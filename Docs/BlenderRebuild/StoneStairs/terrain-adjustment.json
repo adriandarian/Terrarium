@@ -1,0 +1,126 @@
+{
+  "purpose": "Seat the two overlapping meadow cells and two cliff columns at the lower terrace, exposing all eight stair treads.",
+  "instances": [
+    {
+      "component": "FoliageInstancedStaticMeshComponent_10",
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_MeadowTile.SM_Env_MeadowTile",
+      "index": 465,
+      "component_count": 755,
+      "before_cm": [
+        780.0,
+        -224.0,
+        560.0
+      ],
+      "after_cm": [
+        780.0,
+        -224.0,
+        280.0
+      ],
+      "scale": [
+        0.3689999878406523,
+        0.3689999878406523,
+        1.0
+      ],
+      "rotation_xyzw": [
+        0.0,
+        0.0,
+        1.0,
+        6.123233995736767e-17
+      ],
+      "replacement_component": "FoliageInstancedStaticMeshComponent_5",
+      "replacement_index": 465,
+      "replacement_mesh": "/Game/Terrarium/Blender/GrassTerrain/SM_Blender_GrassTerrain.SM_Blender_GrassTerrain"
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_10",
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_MeadowTile.SM_Env_MeadowTile",
+      "index": 472,
+      "component_count": 755,
+      "before_cm": [
+        852.0,
+        -224.0,
+        560.0
+      ],
+      "after_cm": [
+        852.0,
+        -224.0,
+        280.0
+      ],
+      "scale": [
+        0.3689999878406523,
+        0.3689999878406523,
+        1.0
+      ],
+      "rotation_xyzw": [
+        0.0,
+        0.0,
+        1.0,
+        6.123233995736767e-17
+      ],
+      "replacement_component": "FoliageInstancedStaticMeshComponent_5",
+      "replacement_index": 472,
+      "replacement_mesh": "/Game/Terrarium/Blender/GrassTerrain/SM_Blender_GrassTerrain.SM_Blender_GrassTerrain"
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_28",
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_Cliff_A_R2.SM_Env_Cliff_A_R2",
+      "index": 403,
+      "component_count": 668,
+      "before_cm": [
+        780.0,
+        -224.0,
+        270.0
+      ],
+      "after_cm": [
+        780.0,
+        -224.0,
+        -10.0
+      ],
+      "scale": [
+        0.8785714507102962,
+        0.8785714507102962,
+        0.91190105676651
+      ],
+      "rotation_xyzw": [
+        0.0,
+        0.0,
+        1.0,
+        6.123233995736769e-17
+      ],
+      "replacement_component": "FoliageInstancedStaticMeshComponent_1",
+      "replacement_index": 403,
+      "replacement_mesh": "/Game/Terrarium/Blender/CliffColumn/SM_Blender_CliffColumn.SM_Blender_CliffColumn"
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_28",
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_Cliff_A_R2.SM_Env_Cliff_A_R2",
+      "index": 407,
+      "component_count": 668,
+      "before_cm": [
+        852.0,
+        -224.0,
+        270.0
+      ],
+      "after_cm": [
+        852.0,
+        -224.0,
+        -10.0
+      ],
+      "scale": [
+        0.8785714507102969,
+        0.8785714507102969,
+        0.91190105676651
+      ],
+      "rotation_xyzw": [
+        0.0,
+        0.0,
+        0.7071067811865477,
+        0.7071067811865474
+      ],
+      "replacement_component": "FoliageInstancedStaticMeshComponent_1",
+      "replacement_index": 407,
+      "replacement_mesh": "/Game/Terrarium/Blender/CliffColumn/SM_Blender_CliffColumn.SM_Blender_CliffColumn"
+    }
+  ],
+  "status": "saved_pending_reload_check"
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "actor": "Reference_Bank_1",
+    "previous_root_z_cm": -9.0,
+    "new_root_z_cm": -3.636524165522835,
+    "water_geometry_upper_bound_cm": 2.3499999046325684,
+    "apron_top_cm": 2.8499999046325684
+  },
+  {
+    "actor": "Reference_Bank_3",
+    "previous_root_z_cm": -9.0,
+    "new_root_z_cm": -2.2384482198461537,
+    "water_geometry_upper_bound_cm": 2.3499999046325684,
+    "apron_top_cm": 2.8499999046325684
+  },
+  {
+    "actor": "Reference_Bank_5",
+    "previous_root_z_cm": -9.0,
+    "new_root_z_cm": -2.1529219921187677,
+    "water_geometry_upper_bound_cm": 2.3499999046325684,
+    "apron_top_cm": 2.8499999046325684
+  },
+  {
+    "actor": "Reference_Bank_7",
+    "previous_root_z_cm": -9.0,
+    "new_root_z_cm": -1.507486736927535,
+    "water_geometry_upper_bound_cm": 2.3499999046325684,
+    "apron_top_cm": 2.8499999046325684
+  },
+  {
+    "actor": "Reference_Bank_10",
+    "previous_root_z_cm": -9.0,
+    "new_root_z_cm": -1.6415945167099988,
+    "water_geometry_upper_bound_cm": 2.3499999046325684,
+    "apron_top_cm": 2.8499999046325684
+  },
+  {
+    "actor": "Reference_Bank_12",
+    "previous_root_z_cm": -9.0,
+    "new_root_z_cm": -2.317343593275302,
+    "water_geometry_upper_bound_cm": 2.3499999046325684,
+    "apron_top_cm": 2.8499999046325684
+  },
+  {
+    "actor": "Reference_Bank_13",
+    "previous_root_z_cm": -9.0,
+    "new_root_z_cm": -1.4639418806461286,
+    "water_geometry_upper_bound_cm": 2.3499999046325684,
+    "apron_top_cm": 2.8499999046325684
+  }
+]

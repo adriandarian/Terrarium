@@ -1,0 +1,11 @@
+{
+  "asset": "Riverbank",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_Riverbank",
+  "parts": 663,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 59508,
+  "sha256": "dcdf838f3cb0dc0f07259271cb5e2eb1292270ac163a8aadc6ca3d1e9926987a",
+  "active_camera": "Reference camera.014"
+}

@@ -1,0 +1,18 @@
+{
+  "asset": "Riverbank",
+  "mesh": "/Game/Terrarium/Blender/Riverbank/SM_Blender_Riverbank.SM_Blender_Riverbank",
+  "material": "/Game/Terrarium/Blender/Riverbank/M_Riverbank.M_Riverbank",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/Riverbank/T_Riverbank_BaseColor.T_Riverbank_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/Riverbank/T_Riverbank_Emission.T_Riverbank_Emission",
+    "Roughness": "/Game/Terrarium/Blender/Riverbank/T_Riverbank_Roughness.T_Riverbank_Roughness"
+  },
+  "source_fbx_sha256": "79b352568ea03418d9254bfea54ed1983dd3c1616a4b443aa78a92def560695e",
+  "dimensions_cm": [
+    225.0,
+    117.00001525878906,
+    116.0
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}

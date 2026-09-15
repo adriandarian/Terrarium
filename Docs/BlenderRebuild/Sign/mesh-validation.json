@@ -1,0 +1,47 @@
+{
+  "asset": "Sign",
+  "mesh": "SM_Blender_Sign",
+  "source": "SourceAssets/Voxel/sign.png",
+  "source_sha256": "1e65687e2607eadbfa86ffe2d5cf3b270a29e595c18640a36da2a06dfed60e66",
+  "parts": 76,
+  "vertices": 4256,
+  "triangles": 8208,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -1.1350001096725464,
+      -0.5375000238418579,
+      0.0015000030398368835
+    ],
+    "max": [
+      1.2024999856948853,
+      0.2695000171661377,
+      2.684999942779541
+    ]
+  },
+  "files": {
+    "Sign_BaseColor.png": {
+      "bytes": 8808,
+      "sha256": "48b6dfcf577da8057eb4cf0e3d6013f4de16c0d3fa4b3cabe7d72861deaefe42"
+    },
+    "Sign_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "Sign_Roughness.png": {
+      "bytes": 4602,
+      "sha256": "1d207e4223ff74bc5319ccb7d9ccdd8558503126d14b933a4a5a6a8f25d82daa"
+    },
+    "SM_Blender_Sign.fbx": {
+      "bytes": 148812,
+      "sha256": "1d4b0d0c5ad4fe41bcf4da19eaac591ec6794983155c405c8f4fc9ee3bf1a35a"
+    },
+    "SM_Blender_Sign.glb": {
+      "bytes": 593668,
+      "sha256": "7a3a51d8d2c1e749c78b953ef938be244f466289769a03de7a9ce72df5b94b7d"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}

@@ -1,0 +1,12 @@
+{
+  "asset": "Sign",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "32bbe69d7fd53f4e78e773248deb9761b72571d08ed34fde1cc314c7db91444f",
+  "sha256": "14759dffa3022507b3f26b36c6f57dd341b606f53cc5497c548cbf3bab01f687",
+  "scene": "Terrarium_Sign",
+  "parts": 76,
+  "packed_images": 3,
+  "active_camera": "Reference camera.001",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

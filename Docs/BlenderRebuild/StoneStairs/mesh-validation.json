@@ -1,0 +1,49 @@
+{
+  "asset": "StoneStairs",
+  "mesh": "SM_Blender_StoneStairs",
+  "source": "SourceAssets/Voxel/river_crossing.png",
+  "source_sha256": "81c83771fab9a42893dbb87b201709584c08fdd14099110fb7a78d10d707857a",
+  "parts": 24,
+  "vertices": 1344,
+  "triangles": 2592,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -1.246000051498413,
+      -1.2599999904632568,
+      0.0
+    ],
+    "max": [
+      1.246000051498413,
+      1.2599999904632568,
+      2.799999952316284
+    ]
+  },
+  "files": {
+    "SM_Blender_StoneStairs.fbx": {
+      "bytes": 68748,
+      "sha256": "eeafc283843de2e38c1c9110cc14fa3faca31f7351bf25606c6e7a4f414337a5"
+    },
+    "SM_Blender_StoneStairs.glb": {
+      "bytes": 233620,
+      "sha256": "6d4e812ba74d1b22369c32b39692dda88f010cceae41bf6901d675a91af649b3"
+    },
+    "StoneStairs_BaseColor.png": {
+      "bytes": 241334,
+      "sha256": "a7de771cd53ee0ffb6ebad41fbd63dd31ea53e247e6940571d34756d26d923ea"
+    },
+    "StoneStairs_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "StoneStairs_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "variant_of": "RiverCrossing",
+  "variant_purpose": "Eight 35 cm rises over the existing terrace flight; source stone block and moss treatment. The canonical crossing retains four steps."
+}

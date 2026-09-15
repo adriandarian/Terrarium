@@ -1,0 +1,24 @@
+{
+  "asset": "Sign",
+  "actor": "Blender_Sign_Courtyard",
+  "mesh": "/Game/Terrarium/Blender/Sign/SM_Blender_Sign.SM_Blender_Sign",
+  "location_cm": [
+    257,
+    -490,
+    560
+  ],
+  "scale": 0.62,
+  "yaw": -90,
+  "bounds_center": [
+    265.3080033111572,
+    -492.09249763488776,
+    643.281500094235
+  ],
+  "bounds_extent": [
+    25.01700378417972,
+    72.46250236511233,
+    83.18849990576507
+  ],
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "status": "placed_pending_visual_check"
+}
