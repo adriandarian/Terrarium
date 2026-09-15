@@ -1,0 +1,21 @@
+{
+  "asset": "StoneStairs",
+  "variant_of": "RiverCrossing",
+  "actor": "Fidelity_StoneStairs_v3_001",
+  "mesh": "/Game/Terrarium/Blender/StoneStairs/SM_Blender_StoneStairs.SM_Blender_StoneStairs",
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "location_cm": [
+    859.3162562358393,
+    -316.1738468834001,
+    280.0
+  ],
+  "scale": 1,
+  "yaw": 182,
+  "camera": "Blender_StoneStairs_Review",
+  "treads": 8,
+  "rise_cm": 35,
+  "run_cm": 31.5,
+  "bottom_cm": 280,
+  "top_cm": 560,
+  "status": "placed_pending_collision_and_visual_check"
+}

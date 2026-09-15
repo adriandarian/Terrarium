@@ -1,0 +1,12 @@
+{
+  "asset": "Storm",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "c039bcdfecd1dc26a7d86fa1ac4e5a69917ea2309616bd6c80bd1892475e2675",
+  "sha256": "fcd18224bc4e8c786ebfa2c2156658d408fb24d0246d429f06cb7daed05d35be",
+  "scene": "Terrarium_Storm",
+  "parts": 50,
+  "packed_images": 3,
+  "active_camera": "Reference camera",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}
