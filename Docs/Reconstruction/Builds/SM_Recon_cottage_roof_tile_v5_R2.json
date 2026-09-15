@@ -1,0 +1,50 @@
+{
+  "source": "cottage_roof_tile_v5.png",
+  "key": "cottage_roof_tile_v5",
+  "module": "surfaces",
+  "revision": 2,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_roof_tile_v5_R2",
+  "name": "SM_Recon_cottage_roof_tile_v5_R2",
+  "bounds_cm": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      100.0,
+      100.0,
+      4.501534905686013
+    ]
+  },
+  "triangles": 8316,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "d177fac6858fa94d3094dd4834e71f1796ecea1efd3d035734fc564e724d6cfe",
+  "seconds": 0.66,
+  "visual_acceptance": "pending_user_review_source_aligned_tiles",
+  "surface_geometry": "source_aligned_individual_roof_tiles",
+  "surface_details": {
+    "tile_count": 188,
+    "source_row_count": 13,
+    "layout_file": "Docs/Reconstruction/roof-tile-layout.json",
+    "source_texture_unchanged": true,
+    "full_source_uv_domain": [
+      0,
+      1
+    ],
+    "tile_width_range_cm": [
+      2.0813,
+      8.4689
+    ],
+    "foot_height_range_cm": [
+      4.435,
+      4.505
+    ],
+    "original_20_by_20_cube_grid_removed": true,
+    "original_every_third_row_height_reset_removed": true,
+    "tile_relief_authored_not_inferred_from_luminance": true
+  },
+  "visual_review_document": "Docs/Reconstruction/roof-tile-review.md",
+  "detail_recipe": "Scripts/Reconstruction/roof_surface.py",
+  "detail_recipe_sha256": "043fab6a1c48b4b3ed84f330c3bb5de554adcb630aa1147b94cb44ab36126eda"
+}

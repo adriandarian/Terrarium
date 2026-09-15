@@ -1,0 +1,26 @@
+{
+  "source": "wheat_field.png",
+  "key": "wheat_field",
+  "module": "environment",
+  "revision": 3,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_WheatField_R3",
+  "name": "SM_Recon_WheatField_R3",
+  "bounds_cm": {
+    "min": [
+      -125.74048114832766,
+      -80.78265584491368,
+      0.0
+    ],
+    "max": [
+      125.78921019154946,
+      80.74887341362965,
+      51.99388128845263
+    ]
+  },
+  "triangles": 422400,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "cfd92d87cad4b6e4864daab5a0e47157653b2947149d98d63327e56a3e57580b",
+  "seconds": 21.62,
+  "visual_acceptance": "reviewed_reconstruction_not_exact_parity",
+  "visual_review_document": "Docs/Reconstruction/visual-review.md"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "trail_prism.png",
+  "key": "trail_prism",
+  "module": "creatures_items",
+  "revision": 3,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_TrailPrism_R3",
+  "name": "SM_Recon_TrailPrism_R3",
+  "bounds_cm": {
+    "min": [
+      -36.5,
+      -38.5,
+      0.0
+    ],
+    "max": [
+      36.5,
+      38.5,
+      114.18
+    ]
+  },
+  "triangles": 16544,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "d44c8e262be248990238e4ae430535addcac95d8e149257c04787984f50925fb",
+  "seconds": 1.11,
+  "visual_acceptance": "reviewed_reconstruction_not_exact_parity",
+  "visual_review_document": "Docs/Reconstruction/visual-review.md"
+}

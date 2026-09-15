@@ -1,0 +1,27 @@
+{
+  "source": "cottage_plaster_v5.png",
+  "key": "cottage_plaster_v5",
+  "module": "surfaces",
+  "revision": 2,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_plaster_v5_R2",
+  "name": "SM_Recon_cottage_plaster_v5_R2",
+  "bounds_cm": {
+    "min": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "max": [
+      100.0,
+      100.0,
+      5.0
+    ]
+  },
+  "triangles": 44,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "6e6b26860c1b1fda8933ad54090337e1de50a49ee873bf33485b0dd26943556c",
+  "seconds": 0.24,
+  "visual_acceptance": "block_seams_removed_pending_user_review",
+  "surface_geometry": "continuous_flat_slab",
+  "visual_review_document": "Docs/Reconstruction/plaster-v5-review.md"
+}
