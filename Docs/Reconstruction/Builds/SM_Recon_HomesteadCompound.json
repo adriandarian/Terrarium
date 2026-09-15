@@ -1,0 +1,26 @@
+{
+  "source": "homestead_compound.png",
+  "key": "homestead_compound",
+  "module": "compound",
+  "revision": 1,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_HomesteadCompound",
+  "name": "SM_Recon_HomesteadCompound",
+  "bounds_cm": {
+    "min": [
+      -538.5,
+      -430.5,
+      0.0
+    ],
+    "max": [
+      630.5,
+      349.5,
+      477.0
+    ]
+  },
+  "triangles": 80816,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "4329b15610001f50dceb2fe52d549144c1a74cf013a7b300310278e0ce18d804",
+  "seconds": 9.39,
+  "visual_acceptance": "reviewed_reconstruction_not_exact_parity",
+  "visual_review_document": "Docs/Reconstruction/visual-review.md"
+}

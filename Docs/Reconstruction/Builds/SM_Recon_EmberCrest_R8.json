@@ -1,0 +1,27 @@
+{
+  "source": "ember_crest.png",
+  "key": "ember_crest",
+  "module": "creatures_items",
+  "revision": 8,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_EmberCrest_R8",
+  "name": "SM_Recon_EmberCrest_R8",
+  "bounds_cm": {
+    "min": [
+      -56.0,
+      -20.89,
+      0.0
+    ],
+    "max": [
+      56.0,
+      14.0,
+      136.5
+    ]
+  },
+  "triangles": 24076,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "4097b28efe74d002473134ae4bba78c1be10c65c70736d1e440491d0b88a9a9a",
+  "seconds": 2.11,
+  "visual_acceptance": "raised_bronze_rim_and_recessed_reverse_pending_user_review",
+  "visual_review_document": "Docs/Reconstruction/ember-crest-review.md",
+  "capture_profile": "Scripts/Reconstruction/capture_crest.py"
+}

@@ -1,0 +1,30 @@
+{
+  "source": "ember_crest.png",
+  "key": "ember_crest",
+  "module": "creatures_items",
+  "revision": 7,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_EmberCrest_R7",
+  "name": "SM_Recon_EmberCrest_R7",
+  "bounds_cm": {
+    "min": [
+      -56.0,
+      -20.89,
+      0.0
+    ],
+    "max": [
+      56.0,
+      9.5,
+      136.5
+    ]
+  },
+  "triangles": 22684,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "f3ba7b8cc7ef45d23557135b3f0c5983e7270a19f964c2867f5b30f2a4c5d9c4",
+  "seconds": 1.92,
+  "visual_acceptance": "darker_layered_flame_and_bronze_crest_back_pending_user_review",
+  "visual_review_document": "Docs/Reconstruction/ember-crest-review.md",
+  "capture_profile": "Scripts/Reconstruction/capture_crest.py",
+  "material": "/Game/Terrarium/Reconstruction/Materials/M_EmberCrest_Patina_R6",
+  "material_recipe_sha256": "95e2d7ed0223c55bd0178ece68678beba4caaa9b6dad1566dfb3769810bcba02",
+  "meshkit_sha256": "8a8fd64a0f8eae2078040570c3bd81f17a02038fcb24b93e2071e0184c4c4a91"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "ember.png",
+  "key": "ember",
+  "module": "creatures_items",
+  "revision": 1,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Ember",
+  "name": "SM_Recon_Ember",
+  "bounds_cm": {
+    "min": [
+      -45.521,
+      -16.66,
+      0.0
+    ],
+    "max": [
+      45.521,
+      14.021,
+      127.021
+    ]
+  },
+  "triangles": 24728,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "5eae6822e36eb26af2ed3f6222037b84c80b776dc78b824cc7cfd717f01cf6b6",
+  "seconds": 1.84,
+  "visual_acceptance": "pending_independent_comparison"
+}

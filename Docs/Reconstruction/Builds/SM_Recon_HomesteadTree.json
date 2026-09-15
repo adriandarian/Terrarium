@@ -1,0 +1,25 @@
+{
+  "source": "homestead_tree_v2.png",
+  "key": "homestead_tree_v2",
+  "module": "environment",
+  "revision": 1,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_HomesteadTree",
+  "name": "SM_Recon_HomesteadTree",
+  "bounds_cm": {
+    "min": [
+      -106.975,
+      -59.975,
+      0
+    ],
+    "max": [
+      99.975,
+      64.975,
+      329.935
+    ]
+  },
+  "triangles": 84304,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "0d9b01a94a2e973d14bfcead8c0e1fd03b0e6d54a9572d06918c5625db44dcfc",
+  "seconds": 10.48,
+  "visual_acceptance": "pending_independent_comparison"
+}

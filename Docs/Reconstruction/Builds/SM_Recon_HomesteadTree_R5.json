@@ -1,0 +1,35 @@
+{
+  "source": "homestead_tree_v2.png",
+  "key": "homestead_tree_v2",
+  "module": "environment",
+  "revision": 5,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_HomesteadTree_R5",
+  "name": "SM_Recon_HomesteadTree_R5",
+  "bounds_cm": {
+    "min": [
+      -101.86479355260462,
+      -115.08769036079306,
+      0
+    ],
+    "max": [
+      115.57570625607862,
+      103.42042847121503,
+      348.0275
+    ]
+  },
+  "triangles": 44000,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "10291f534b51e543e75dd0b495c906a9e3c817394dc28fb8f37dc69d3454c342",
+  "seconds": 4.16,
+  "visual_acceptance": "slim_trunk_exposed_branches_and_scattered_leaf_clusters_pending_user_review",
+  "visual_review_document": "Docs/Reconstruction/homestead-tree-review.md",
+  "capture_profile": "Scripts/Reconstruction/capture_homestead_tree.py",
+  "tree_structure": {
+    "nominal_trunk_width_cm": 26.4,
+    "branch_width_cm": 17.6,
+    "leaf_block_xy_cm": 17.6,
+    "leaf_clusters": 13,
+    "branch_paths": 8,
+    "previous_R3_asset_preserved": true
+  }
+}

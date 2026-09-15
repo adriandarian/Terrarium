@@ -1,0 +1,25 @@
+{
+  "source": "ember_crest.png",
+  "key": "ember_crest",
+  "module": "creatures_items",
+  "revision": 4,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_EmberCrest_R4",
+  "name": "SM_Recon_EmberCrest_R4",
+  "bounds_cm": {
+    "min": [
+      -56.0,
+      -20.89,
+      0.0
+    ],
+    "max": [
+      56.0,
+      9.5,
+      136.5
+    ]
+  },
+  "triangles": 22684,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "5ef09b6bda770f0a7a46afa5c355454b56461388b96104059758717928d0fa24",
+  "seconds": 1.81,
+  "visual_acceptance": "pending_independent_comparison"
+}

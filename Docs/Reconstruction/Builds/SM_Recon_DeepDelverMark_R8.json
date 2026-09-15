@@ -1,0 +1,31 @@
+{
+  "source": "deep_delver_mark.png",
+  "key": "deep_delver_mark",
+  "module": "creatures_items",
+  "revision": 8,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_DeepDelverMark_R8",
+  "name": "SM_Recon_DeepDelverMark_R8",
+  "bounds_cm": {
+    "min": [
+      -54.0,
+      -21.89,
+      0.0
+    ],
+    "max": [
+      54.0,
+      9.800000000000004,
+      125.02
+    ]
+  },
+  "triangles": 16692,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "c5a4831981fb08207243c9115a1e7e0e66731442dcb6f8f00bc3337c444072e5",
+  "seconds": 1.33,
+  "visual_acceptance": "back_approved_front_rejected_superseded_by_R12",
+  "visual_review_document": "Docs/Reconstruction/deep-delver-review.md",
+  "capture_profile": "Scripts/Reconstruction/capture_delver.py",
+  "view_acceptance": {
+    "back": "user_approved",
+    "front": "user_rejected_layering_and_palette"
+  }
+}

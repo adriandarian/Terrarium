@@ -1,0 +1,25 @@
+{
+  "source": "grove.png",
+  "key": "grove",
+  "module": "creatures_items",
+  "revision": 5,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Grove_R5",
+  "name": "SM_Recon_Grove_R5",
+  "bounds_cm": {
+    "min": [
+      -52.019999999999996,
+      -28.04,
+      0.0
+    ],
+    "max": [
+      52.019999999999996,
+      20.04,
+      104.035
+    ]
+  },
+  "triangles": 10120,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "807e0d4635542ff5135c1b511f9ae88c1a92e8fa40a23c400a0f146acc7e2150",
+  "seconds": 0.8,
+  "visual_acceptance": "pending_independent_comparison"
+}
