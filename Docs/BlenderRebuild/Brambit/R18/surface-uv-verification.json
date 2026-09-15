@@ -1,0 +1,41 @@
+{
+  "source_blend_sha256": "807156608a311c206578720f3f23ef4188b4da5b62704841cb77882011aa90db",
+  "parts": [
+    {
+      "part": "Central leafy shoot",
+      "surface_faces": 2526,
+      "faces_with_texture_area": 2526,
+      "total_uv_area": 0.004596547663726747,
+      "numerical_cleanup_merged_vertices": 0
+    },
+    {
+      "part": "Left leafy shoot",
+      "surface_faces": 1066,
+      "faces_with_texture_area": 1066,
+      "total_uv_area": 0.003406260889082302,
+      "numerical_cleanup_merged_vertices": 0
+    },
+    {
+      "part": "Right leafy shoot",
+      "surface_faces": 330,
+      "faces_with_texture_area": 330,
+      "total_uv_area": 0.002964334272166358,
+      "numerical_cleanup_merged_vertices": 0
+    },
+    {
+      "part": "Joined moss crown",
+      "surface_faces": 363,
+      "faces_with_texture_area": 363,
+      "total_uv_area": 0.022392504247852427,
+      "numerical_cleanup_merged_vertices": 101
+    },
+    {
+      "part": "Joined body face and feet",
+      "surface_faces": 2665,
+      "faces_with_texture_area": 2665,
+      "total_uv_area": 0.04430001446967311,
+      "numerical_cleanup_merged_vertices": 15
+    }
+  ],
+  "limits": "Usable planar texture coverage; does not measure likeness to the source."
+}

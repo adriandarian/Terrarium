@@ -1,0 +1,11 @@
+{
+  "asset": "Brambit",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_Brambit",
+  "parts": 5,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 48748,
+  "sha256": "807156608a311c206578720f3f23ef4188b4da5b62704841cb77882011aa90db",
+  "active_camera": "Reference camera"
+}
