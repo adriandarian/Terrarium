@@ -1,0 +1,25 @@
+{
+  "source": "lantern.png",
+  "key": "lantern",
+  "module": "architecture",
+  "revision": 2,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Lantern_R2",
+  "name": "SM_Recon_Lantern_R2",
+  "bounds_cm": {
+    "min": [
+      -103.5,
+      -40.5,
+      0.0
+    ],
+    "max": [
+      65.5,
+      37.0,
+      316.5
+    ]
+  },
+  "triangles": 9460,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "370bd03b6a69c9a8db8f21d56e05ba9ce2438b9d680b589effa05bddb66d32ed",
+  "seconds": 0.67,
+  "visual_acceptance": "pending_independent_comparison"
+}

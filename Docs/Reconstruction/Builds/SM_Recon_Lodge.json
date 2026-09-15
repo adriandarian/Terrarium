@@ -1,0 +1,25 @@
+{
+  "source": "lodge.png",
+  "key": "lodge",
+  "module": "architecture",
+  "revision": 1,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Lodge",
+  "name": "SM_Recon_Lodge",
+  "bounds_cm": {
+    "min": [
+      -296.5,
+      -257.5,
+      0.0
+    ],
+    "max": [
+      296.5,
+      198.5,
+      608.5
+    ]
+  },
+  "triangles": 82208,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "8f9ddbf6af20eaba9c4d39432853b4feebb530f061ffa011e7aa2673a1f45fbb",
+  "seconds": 11.98,
+  "visual_acceptance": "pending_independent_comparison"
+}

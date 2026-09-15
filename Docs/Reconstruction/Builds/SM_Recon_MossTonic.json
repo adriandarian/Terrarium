@@ -1,0 +1,25 @@
+{
+  "source": "moss_tonic.png",
+  "key": "moss_tonic",
+  "module": "creatures_items",
+  "revision": 1,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MossTonic",
+  "name": "SM_Recon_MossTonic",
+  "bounds_cm": {
+    "min": [
+      -23.1168,
+      -24.25,
+      0.0
+    ],
+    "max": [
+      34.15,
+      22.5,
+      89.3328
+    ]
+  },
+  "triangles": 44264,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "5eae6822e36eb26af2ed3f6222037b84c80b776dc78b824cc7cfd717f01cf6b6",
+  "seconds": 4.12,
+  "visual_acceptance": "pending_independent_comparison"
+}

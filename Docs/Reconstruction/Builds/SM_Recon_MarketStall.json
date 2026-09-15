@@ -1,0 +1,25 @@
+{
+  "source": "market_stall.png",
+  "key": "market_stall",
+  "module": "architecture",
+  "revision": 1,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MarketStall",
+  "name": "SM_Recon_MarketStall",
+  "bounds_cm": {
+    "min": [
+      -269.875,
+      -219.5,
+      0.0
+    ],
+    "max": [
+      301.0,
+      182.0,
+      314.4
+    ]
+  },
+  "triangles": 40700,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "8f9ddbf6af20eaba9c4d39432853b4feebb530f061ffa011e7aa2673a1f45fbb",
+  "seconds": 4.47,
+  "visual_acceptance": "pending_independent_comparison"
+}

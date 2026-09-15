@@ -1,0 +1,25 @@
+{
+  "source": "kindlehorn.png",
+  "key": "kindlehorn",
+  "module": "creatures_items",
+  "revision": 2,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Kindlehorn_R2",
+  "name": "SM_Recon_Kindlehorn_R2",
+  "bounds_cm": {
+    "min": [
+      -53.589999999999996,
+      -54.5,
+      0.0
+    ],
+    "max": [
+      53.589999999999996,
+      74.5875,
+      167.3563
+    ]
+  },
+  "triangles": 59228,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "1cb0c02ab75cb9ce924b48d6573d9da05b2a3fcb70d61bfcbd630b1282299ccc",
+  "seconds": 5.51,
+  "visual_acceptance": "pending_independent_comparison"
+}

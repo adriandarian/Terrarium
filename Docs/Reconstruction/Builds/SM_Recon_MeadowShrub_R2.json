@@ -1,0 +1,25 @@
+{
+  "source": "meadow_shrub.png",
+  "key": "meadow_shrub",
+  "module": "environment",
+  "revision": 2,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MeadowShrub_R2",
+  "name": "SM_Recon_MeadowShrub_R2",
+  "bounds_cm": {
+    "min": [
+      -66.7554956717667,
+      -48.0,
+      0
+    ],
+    "max": [
+      77.60396307428393,
+      42.45322886670403,
+      102.15685864430597
+    ]
+  },
+  "triangles": 81400,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "da46e6acfeb0ddfb851a20b448c26e9caf77081429930589f19429f2ad0edf8e",
+  "seconds": 8.86,
+  "visual_acceptance": "pending_independent_comparison"
+}

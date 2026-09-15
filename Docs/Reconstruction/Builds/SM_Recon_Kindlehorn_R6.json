@@ -1,0 +1,28 @@
+{
+  "source": "kindlehorn.png",
+  "key": "kindlehorn",
+  "module": "creatures_items",
+  "revision": 6,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Kindlehorn_R6",
+  "name": "SM_Recon_Kindlehorn_R6",
+  "bounds_cm": {
+    "min": [
+      -66.24,
+      -54.5,
+      0.0
+    ],
+    "max": [
+      53.589999999999996,
+      70.6,
+      166.3063
+    ]
+  },
+  "triangles": 55972,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "1a1d8192bc671fd4f34aaead4c72948efc081e6cd0990e38febad70a7ba79dbb",
+  "seconds": 5.83,
+  "visual_acceptance": "glowing_horn_animated_sparks_layered_belly_and_tail_revised_pending_user_review",
+  "blueprint": "/Game/Terrarium/Reconstruction/Blueprints/BP_Kindlehorn_R6",
+  "niagara_system": "/Game/Terrarium/Reconstruction/Effects/NS_KindlehornSparks_R4",
+  "review_notes": "Docs/Reconstruction/kindlehorn-review.md"
+}

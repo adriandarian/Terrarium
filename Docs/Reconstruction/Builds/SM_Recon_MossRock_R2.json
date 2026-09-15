@@ -1,0 +1,25 @@
+{
+  "source": "rock.png",
+  "key": "rock",
+  "module": "environment",
+  "revision": 2,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MossRock_R2",
+  "name": "SM_Recon_MossRock_R2",
+  "bounds_cm": {
+    "min": [
+      -81.19999999999999,
+      -93.07499999999999,
+      0
+    ],
+    "max": [
+      81.19999999999999,
+      74.95,
+      143.4464
+    ]
+  },
+  "triangles": 25696,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "da46e6acfeb0ddfb851a20b448c26e9caf77081429930589f19429f2ad0edf8e",
+  "seconds": 1.88,
+  "visual_acceptance": "pending_independent_comparison"
+}
