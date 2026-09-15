@@ -1,0 +1,14 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "Terrarium",
+  "Modules": [],
+  "Plugins": [
+    {"Name": "ModelContextProtocol", "Enabled": true, "TargetAllowList": ["Editor"]},
+    {"Name": "AllToolsets", "Enabled": true, "TargetAllowList": ["Editor"]},
+    {"Name": "PythonScriptPlugin", "Enabled": true, "TargetAllowList": ["Editor"]},
+    {"Name": "ModelingToolsEditorMode", "Enabled": true, "TargetAllowList": ["Editor"]},
+    {"Name": "GeometryScripting", "Enabled": true, "TargetAllowList": ["Editor"]}
+  ]
+}
