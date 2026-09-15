@@ -1,0 +1,56 @@
+{
+  "scales": {
+    "SM_Assembly_Cottage_v2": [
+      1.26,
+      1.26,
+      1.26
+    ],
+    "SM_Assembly_BlueShed_v2": [
+      1,
+      1,
+      1
+    ],
+    "SM_Assembly_Tower": [
+      1.08,
+      1.08,
+      1.22
+    ],
+    "SM_Assembly_Lantern": [
+      1.4,
+      1.4,
+      1.4
+    ],
+    "SM_Assembly_VegetableBed": [
+      1.1,
+      1.1,
+      1.1
+    ]
+  },
+  "passage": [
+    [
+      207,
+      346
+    ],
+    [
+      230,
+      359
+    ],
+    [
+      253,
+      361
+    ],
+    [
+      282,
+      348
+    ],
+    [
+      311,
+      332
+    ],
+    [
+      333,
+      319
+    ]
+  ],
+  "plants_cleared_from_footprints": 39
+}

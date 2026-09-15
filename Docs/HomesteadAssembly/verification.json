@@ -1,0 +1,80 @@
+{
+  "saved_reopened": true,
+  "showcase_matches_world_assembly": true,
+  "asset_types": 8,
+  "instance_counts": {
+    "SM_Assembly_FlowerBorder": 1,
+    "SM_Assembly_BlueShed_v2": 1,
+    "SM_Assembly_FencePost": 12,
+    "SM_Assembly_Tower": 1,
+    "SM_Assembly_VegetableBed": 1,
+    "SM_Assembly_Lantern": 1,
+    "SM_Assembly_Cottage_v2": 1,
+    "SM_Assembly_FenceRails": 10
+  },
+  "preserved_asset_types": [
+    "SM_StoneStairs_v3_Detail",
+    "SM_PlankBridge_v4_Detail",
+    "SM_Traveler_v2_Detail",
+    "SM_RockCluster_Detail",
+    "SM_MeadowTile_Edge_v6_Detail2",
+    "SM_CliffColumn_v6C_Detail",
+    "SM_WheatPatch_v2_Detail",
+    "SM_Tree_v3_Detail",
+    "SM_CliffMoss_v1_Detail",
+    "SM_ShoreOutcrop_Detail",
+    "SM_CliffColumn_v6B_Detail",
+    "SM_Reeds_Detail",
+    "SM_ShoreOutcrop_v2_Detail",
+    "SM_RiverStones_v2_Detail",
+    "SM_CliffColumn_v6A_Detail",
+    "SM_MeadowTile_v5_Detail2",
+    "SM_WaterShallow_v4_Detail",
+    "SM_WaterTile_v4_Detail",
+    "SM_WaterDeep_v4_Detail",
+    "SM_Shed_FlatStones"
+  ],
+  "geometry": {
+    "SM_Assembly_BlueShed_v2": {
+      "triangles": 21072,
+      "closed_components": true,
+      "saved_normal_errors": 0
+    },
+    "SM_Assembly_Cottage_v2": {
+      "triangles": 46592,
+      "closed_components": true,
+      "saved_normal_errors": 0
+    },
+    "SM_Assembly_FencePost": {
+      "triangles": 748,
+      "closed_components": true,
+      "saved_normal_errors": 0
+    },
+    "SM_Assembly_FenceRails": {
+      "triangles": 352,
+      "closed_components": true,
+      "saved_normal_errors": 0
+    },
+    "SM_Assembly_FlowerBorder": {
+      "triangles": 5940,
+      "closed_components": true,
+      "saved_normal_errors": 0
+    },
+    "SM_Assembly_Lantern": {
+      "triangles": 1584,
+      "closed_components": true,
+      "saved_normal_errors": 0
+    },
+    "SM_Assembly_Tower": {
+      "triangles": 6996,
+      "closed_components": true,
+      "saved_normal_errors": 0
+    },
+    "SM_Assembly_VegetableBed": {
+      "triangles": 9636,
+      "closed_components": true,
+      "saved_normal_errors": 0
+    }
+  },
+  "tested": "Native editor geometry, material rendering, object proportions, path clearance, saved transforms and material references. Packaged gameplay and collision not tested."
+}

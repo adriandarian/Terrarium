@@ -1,0 +1,40 @@
+{
+  "backup": "/Game/Terrarium/Maps/HomesteadBeforeAssemblyReference",
+  "asset_mapping": {
+    "SM_Cottage_Reference_v2": "SM_Assembly_Cottage",
+    "SM_Shed_Context_Reference": "SM_Assembly_BlueShed",
+    "SM_CourtyardTower_Reference": "SM_Assembly_Tower",
+    "SM_LanternPost_Detail": "SM_Assembly_Lantern",
+    "SM_GardenBed_v3_Detail": "SM_Assembly_VegetableBed",
+    "SM_CourtyardFlowerBed_Reference": "SM_Assembly_FlowerBorder"
+  },
+  "fence_runs": [
+    [
+      [
+        330,
+        397
+      ],
+      [
+        431,
+        345
+      ],
+      [
+        310,
+        292
+      ]
+    ],
+    [
+      [
+        144,
+        312
+      ],
+      [
+        208,
+        282
+      ]
+    ]
+  ],
+  "fence_posts": 12,
+  "fence_sections": 10,
+  "source_image": "codex-clipboard-9fcedba1-2186-4ac3-9363-19e0ee7d4446.png"
+}
