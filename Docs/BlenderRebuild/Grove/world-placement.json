@@ -1,0 +1,177 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "actor": "Blender_Grove_MarketCounter",
+  "mesh": "/Game/Terrarium/Blender/Grove/SM_Blender_Grove.SM_Blender_Grove",
+  "location_cm": [
+    371.75,
+    624.0,
+    635.0436862301826
+  ],
+  "scale": 0.24,
+  "yaw": 0,
+  "height_cm": 27.130779297351836,
+  "materials": [
+    "/Game/Terrarium/Blender/Grove/M_Grove_Leaf.M_Grove_Leaf",
+    "/Game/Terrarium/Blender/Grove/M_Grove_Stem.M_Grove_Stem",
+    "/Game/Terrarium/Blender/Grove/M_Grove_Soil.M_Grove_Soil"
+  ],
+  "camera": "Blender_Grove_Review",
+  "support_actor": "Blender_MarketStall_UpperPath",
+  "support_probes": [
+    {
+      "xy": [
+        365.8419750928879,
+        620.3920798301697
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course",
+      "local_underside_m": 0.08962494134902954
+    },
+    {
+      "xy": [
+        368.2782105207443,
+        621.532920062542
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.001",
+      "local_underside_m": 0.025323737412691116
+    },
+    {
+      "xy": [
+        370.5765289068222,
+        621.7737600803375
+      ],
+      "z": 634.9491429328918,
+      "source_part": "Irregular soil course.002",
+      "local_underside_m": 0.003561604768037796
+    },
+    {
+      "xy": [
+        372.6449847519398,
+        621.8946000337601
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.003",
+      "local_underside_m": -0.0013062246143817902
+    },
+    {
+      "xy": [
+        374.391633272171,
+        622.0154399871826
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.004",
+      "local_underside_m": -0.0013204142451286316
+    },
+    {
+      "xy": [
+        376.1229577064514,
+        622.0162800550461
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.005",
+      "local_underside_m": -0.0012801587581634521
+    },
+    {
+      "xy": [
+        377.7010403871536,
+        622.1371200084686
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.006",
+      "local_underside_m": 0.016618892550468445
+    },
+    {
+      "xy": [
+        379.07990860939026,
+        622.0179600119591
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.007",
+      "local_underside_m": 0.01914820820093155
+    },
+    {
+      "xy": [
+        367.2187032699585,
+        621.8988000154495
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.008",
+      "local_underside_m": 0.11200705170631409
+    },
+    {
+      "xy": [
+        368.5515995025635,
+        621.899640083313
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.009",
+      "local_underside_m": 0.09367519617080688
+    },
+    {
+      "xy": [
+        369.7925508618355,
+        621.7804800868034
+      ],
+      "z": 634.9619555473328,
+      "source_part": "Irregular soil course.010",
+      "local_underside_m": 0.08432717621326447
+    },
+    {
+      "xy": [
+        370.97220543026924,
+        622.0213199257851
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.011",
+      "local_underside_m": 0.07890716940164566
+    },
+    {
+      "xy": [
+        374.3891872763634,
+        621.9021599292755
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.012",
+      "local_underside_m": 0.0803784728050232
+    },
+    {
+      "xy": [
+        376.12051153182983,
+        621.902999997139
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.013",
+      "local_underside_m": 0.07918199896812439
+    },
+    {
+      "xy": [
+        377.82118797302246,
+        621.9038400650024
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.014",
+      "local_underside_m": 0.07685767859220505
+    },
+    {
+      "xy": [
+        379.3379735946655,
+        621.6646800041199
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.015",
+      "local_underside_m": 0.07642348110675812
+    },
+    {
+      "xy": [
+        380.7781388759613,
+        621.4255199432373
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Irregular soil course.016",
+      "local_underside_m": 0.07255131006240845
+    }
+  ],
+  "base_clearance_cm": 0.02,
+  "status": "saved_reload_and_native_views_verified_fidelity_open"
+}

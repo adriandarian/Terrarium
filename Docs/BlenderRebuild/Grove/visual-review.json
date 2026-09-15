@@ -1,0 +1,27 @@
+{
+  "revision": "r13_leaf_volume_and_seated_turf",
+  "parts": 109,
+  "triangles": 11772,
+  "studio_views": [
+    "front.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "visually_checked": true,
+  "accepted_fidelity": false,
+  "remaining": [
+    "Leaf front divisions, corner rounding and shade still differ from the concept; rear colors are inferred.",
+    "Some turf joints remain too recessed; soil block depths and underside profile still need refinement.",
+    "Unreal shade is darker and less yellow than the studio source.",
+    "Rear structure is inferred from one view; full collision, gameplay and performance remain untested."
+  ],
+  "changes": [
+    "Replaced the concentric grid base with individually modeled soil and turf courses, hanging grass and recessed solid core blocks; increased block bevel width.",
+    "Increased blade block depth and removed four narrow edge strips; seated two raised turf blocks farther into the mound.",
+    "Replaced exported PNG16 maps with color-managed PNG8 maps to correct measured Unreal sampling."
+  ]
+}

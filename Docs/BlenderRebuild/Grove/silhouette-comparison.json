@@ -1,0 +1,52 @@
+{
+  "source_sha256": "4f35d656b970b32d39222da6f53bffcdfa5b5d7754c1df5756ba1ef4dd3684b3",
+  "method": "Pixel silhouette intersection over union using source foreground against magenta and Blender alpha > 127, fixed matching 1254-pixel orthographic camera, no scaling/alignment optimization. Base crop rows 810 through 1199.",
+  "revisions": {
+    "r7": {
+      "full": {
+        "intersection_over_union": 0.8957269032069803,
+        "mismatched_pixels": 50742
+      },
+      "leaves_and_fork": {
+        "intersection_over_union": 0.9470966859873139,
+        "mismatched_pixels": 14704
+      },
+      "base_below_stem": {
+        "intersection_over_union": 0.845896843375414,
+        "mismatched_pixels": 27075
+      },
+      "render_sha256": "13544e18211183b716d28a1d1e532a18ab0c19bf6b1d4855725ea5c10e005a39"
+    },
+    "r11": {
+      "full": {
+        "intersection_over_union": 0.9548150185845067,
+        "mismatched_pixels": 21189
+      },
+      "leaves_and_fork": {
+        "intersection_over_union": 0.9436761314499856,
+        "mismatched_pixels": 15631
+      },
+      "base_below_stem": {
+        "intersection_over_union": 0.9778452459336211,
+        "mismatched_pixels": 3634
+      },
+      "render_sha256": "4a86900d533971a115be8054c46d828b6baa9d48441d40750961a186bb5e4c2e"
+    },
+    "r13": {
+      "full": {
+        "intersection_over_union": 0.9706077103395709,
+        "mismatched_pixels": 13805
+      },
+      "leaves_and_fork": {
+        "intersection_over_union": 0.9703624641524894,
+        "mismatched_pixels": 8247
+      },
+      "base_below_stem": {
+        "intersection_over_union": 0.9778452459336211,
+        "mismatched_pixels": 3634
+      },
+      "render_sha256": "10bedf0d4bfba26f1a0407eb089b42a1deda18b848572b5f3e71ef0f91f9284d"
+    }
+  },
+  "limits": "Projected outline only; excludes color, internal block divisions, depth and rear fidelity."
+}

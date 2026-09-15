@@ -1,0 +1,12 @@
+{
+  "asset": "Grove",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "cf8011f5a5d07b391a69408d1a78aee3428bdec786bbfb2272f4826ff880d653",
+  "sha256": "f9eb0d4c092e0c319c425381da7b8062ca2299092ebc3df46c90cbef1ae1d2d4",
+  "scene": "Terrarium_Grove",
+  "parts": 109,
+  "packed_images": 3,
+  "active_camera": "Reference camera",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}
