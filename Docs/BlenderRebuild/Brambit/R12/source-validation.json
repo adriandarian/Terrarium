@@ -1,0 +1,41 @@
+{
+  "source_blend_sha256": "929652da15404ad8d16970d7fc3fa9b827cbbc23631b4519b2a90c9d913289ab",
+  "union_volumes": [
+    {
+      "part": "Central leafy shoot",
+      "vertices": 4828,
+      "closed": true,
+      "volume_m3": 0.0030886952738069166
+    },
+    {
+      "part": "Left leafy shoot",
+      "vertices": 2386,
+      "closed": true,
+      "volume_m3": 0.0019537937031973286
+    },
+    {
+      "part": "Right leafy shoot",
+      "vertices": 864,
+      "closed": true,
+      "volume_m3": 0.0014030496248644162
+    },
+    {
+      "part": "Joined moss crown",
+      "vertices": 1821,
+      "closed": true,
+      "volume_m3": 0.017354358340307744
+    },
+    {
+      "part": "Joined body face and feet",
+      "vertices": 8817,
+      "closed": true,
+      "volume_m3": 0.10294413545466652
+    }
+  ],
+  "construction_blocks": 184,
+  "feet": 4,
+  "foot_samples": 20,
+  "camera_elevation_deg": 19.999999476790915,
+  "palette_uv_bounds_valid": true,
+  "limits": "Topology, source usability and sole geometry checks do not establish concept fidelity. Rear anatomy is inferred."
+}

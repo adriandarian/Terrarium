@@ -1,0 +1,231 @@
+{
+  "reload_verified": true,
+  "actor": "Blender_Brambit_Courtyard",
+  "source_fbx_sha256": "9b0878dd329302f6c125c34a8d0d9727f83107084237ac1428134763562db83f",
+  "source_blend_sha256": "929652da15404ad8d16970d7fc3fa9b827cbbc23631b4519b2a90c9d913289ab",
+  "material_verified": true,
+  "foot_samples": [
+    {
+      "foot": "Dark foot",
+      "xy": [
+        477.11999893188477,
+        6.4800004959106445
+      ],
+      "ground_z": 559.5102071762085,
+      "imported_sole_z": 559.7281991690397,
+      "clearance_cm": 0.21799199283123016,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot",
+      "xy": [
+        475.27999893188473,
+        8.560000495910646
+      ],
+      "ground_z": 559.5564663410187,
+      "imported_sole_z": 559.7281986661255,
+      "clearance_cm": 0.1717323251068592,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot",
+      "xy": [
+        475.27999893188473,
+        4.400000495910646
+      ],
+      "ground_z": 559.636378288269,
+      "imported_sole_z": 559.728199057281,
+      "clearance_cm": 0.09182076901197433,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot",
+      "xy": [
+        478.95999893188474,
+        8.560000495910646
+      ],
+      "ground_z": 559.5140337944031,
+      "imported_sole_z": 559.728198684752,
+      "clearance_cm": 0.21416489034891129,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot",
+      "xy": [
+        478.95999893188474,
+        4.400000495910646
+      ],
+      "ground_z": 559.4639658927917,
+      "imported_sole_z": 559.7281984426081,
+      "clearance_cm": 0.26423254981637,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.001",
+      "xy": [
+        479.20000076293945,
+        -18.00000023841858
+      ],
+      "ground_z": 559.4401121139526,
+      "imported_sole_z": 559.7281991131604,
+      "clearance_cm": 0.28808699920773506,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.001",
+      "xy": [
+        477.3600007629394,
+        -15.920000238418579
+      ],
+      "ground_z": 559.4951868057251,
+      "imported_sole_z": 559.7281991317868,
+      "clearance_cm": 0.23301232606172562,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.001",
+      "xy": [
+        477.3600007629394,
+        -20.080000238418577
+      ],
+      "ground_z": 559.4006836414337,
+      "imported_sole_z": 559.7281982190907,
+      "clearance_cm": 0.32751457765698433,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.001",
+      "xy": [
+        481.0400007629394,
+        -15.920000238418579
+      ],
+      "ground_z": 559.5396399497986,
+      "imported_sole_z": 559.7281989268959,
+      "clearance_cm": 0.18855897709727287,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.001",
+      "xy": [
+        481.0400007629394,
+        -20.080000238418577
+      ],
+      "ground_z": 559.4451367855072,
+      "imported_sole_z": 559.7281983681023,
+      "clearance_cm": 0.28306158259510994,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.002",
+      "xy": [
+        504.79999989271164,
+        8.0
+      ],
+      "ground_z": 559.5197021961212,
+      "imported_sole_z": 559.72819827497,
+      "clearance_cm": 0.2084960788488388,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.002",
+      "xy": [
+        502.95999989271166,
+        10.080000000000002
+      ],
+      "ground_z": 559.4595849514008,
+      "imported_sole_z": 559.7281984612346,
+      "clearance_cm": 0.2686135098338127,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.002",
+      "xy": [
+        502.95999989271166,
+        5.920000000000002
+      ],
+      "ground_z": 559.6004009246826,
+      "imported_sole_z": 559.7281983681023,
+      "clearance_cm": 0.1277974434196949,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.002",
+      "xy": [
+        506.6399998927116,
+        10.080000000000002
+      ],
+      "ground_z": 559.5089733600616,
+      "imported_sole_z": 559.7281987033784,
+      "clearance_cm": 0.21922534331679344,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.002",
+      "xy": [
+        506.6399998927116,
+        5.920000000000002
+      ],
+      "ground_z": 559.5798194408417,
+      "imported_sole_z": 559.7281987965107,
+      "clearance_cm": 0.1483793556690216,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.003",
+      "xy": [
+        502.7200001478195,
+        -16.480000138282776
+      ],
+      "ground_z": 559.5993638038635,
+      "imported_sole_z": 559.7281985357404,
+      "clearance_cm": 0.12883473187685013,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.003",
+      "xy": [
+        500.88000014781954,
+        -14.400000138282776
+      ],
+      "ground_z": 559.564995765686,
+      "imported_sole_z": 559.7281990386546,
+      "clearance_cm": 0.16320327296853065,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.003",
+      "xy": [
+        500.88000014781954,
+        -18.560000138282774
+      ],
+      "ground_z": 559.4711184501648,
+      "imported_sole_z": 559.7281986288726,
+      "clearance_cm": 0.25708017870783806,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.003",
+      "xy": [
+        504.5600001478195,
+        -14.400000138282776
+      ],
+      "ground_z": 559.6881985664368,
+      "imported_sole_z": 559.7281984426081,
+      "clearance_cm": 0.03999987617135048,
+      "passed": true
+    },
+    {
+      "foot": "Dark foot.003",
+      "xy": [
+        504.5600001478195,
+        -18.560000138282774
+      ],
+      "ground_z": 559.6022248268127,
+      "imported_sole_z": 559.7281986102462,
+      "clearance_cm": 0.12597378343343735,
+      "passed": true
+    }
+  ],
+  "max_clearance_cm": 0.32751457765698433,
+  "limits": "Static imported model, shader and sampled foot support. No rigging, animation, locomotion, rigid-body simulation, full collision or performance certification."
+}
