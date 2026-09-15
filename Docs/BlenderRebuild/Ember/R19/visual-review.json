@@ -1,0 +1,25 @@
+{
+  "revision": "r19_measured_core_depth",
+  "parts": 665,
+  "triangles": 71820,
+  "studio_views": [
+    "front.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "visually_checked": true,
+  "accepted_fidelity": false,
+  "remaining": [
+    "Ten cream cubes now form the measured cluster and central pair, but their spacing, lower recesses and neighboring yellow arrangement still differ from the concept.",
+    "The core depth is less extreme than R13, but the side profile and rear terraces still need refinement. Several upper orange and yellow sections retain incorrect stacks.",
+    "The native side view exposes an open recess behind the cream cluster, which still reads as projecting blocks rather than a cohesive flame volume. Connectivity checks do not resolve that visual defect.",
+    "Orange side tongues, yellow transitions, individual widths, bevels and shaded colors still need closer matching.",
+    "Rear structure and interior pigments are inferred from one view; a few small junctions remain visible.",
+    "World shade is darker than the concept. Palette sampling is verified separately from appearance.",
+    "The shared floor and sampled counter contact are verified, but no rigid-body stability, particle simulation, full collision or gameplay validation has been performed."
+  ]
+}
