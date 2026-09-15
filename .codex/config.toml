@@ -1,0 +1,15 @@
+[mcp_servers.unreal-mcp]
+url = "http://127.0.0.1:8000/mcp"
+startup_timeout_sec = 30
+tool_timeout_sec = 120
+
+[mcp_servers.blender]
+command = 'C:\Users\hello\Projects\Terrarium\Saved\BlenderMCP\lab-venv\Scripts\blender-mcp.exe'
+cwd = 'C:\Users\hello\Projects\Terrarium'
+startup_timeout_sec = 60
+tool_timeout_sec = 180
+
+[mcp_servers.blender.env]
+BLENDER_MCP_HOST = "127.0.0.1"
+BLENDER_MCP_PORT = "9876"
+BLENDER_PATH = 'C:\Program Files\Blender Foundation\Blender 5.2\blender.exe'
