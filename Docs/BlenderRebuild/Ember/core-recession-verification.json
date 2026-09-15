@@ -1,0 +1,218 @@
+{
+  "revision": "r41_core_depth_and_middle_column",
+  "previous_revision": "R34",
+  "parts": [
+    {
+      "part": "Flame cube.093",
+      "reference_rect": [
+        610,
+        712,
+        48,
+        62
+      ],
+      "previous_center_m": [
+        -0.0666496753692627,
+        -0.03779972344636917,
+        0.6000000238418579
+      ],
+      "current_center_m": [
+        -0.01357584074139595,
+        0.015274115838110447,
+        0.5649999976158142
+      ],
+      "recession_along_view_ray_m": 0.0828170645982027,
+      "perpendicular_error_m": 2.3853496601554932e-08
+    },
+    {
+      "part": "Flame cube.094",
+      "reference_rect": [
+        565,
+        796,
+        44,
+        62
+      ],
+      "previous_center_m": [
+        -0.15084032714366913,
+        -0.04562283679842949,
+        0.5180000066757202
+      ],
+      "current_center_m": [
+        -0.09776648879051208,
+        0.0074510034173727036,
+        0.4830000102519989
+      ],
+      "recession_along_view_ray_m": 0.08281705528497696,
+      "perpendicular_error_m": 3.725290298461914e-09
+    },
+    {
+      "part": "Flame cube.095",
+      "reference_rect": [
+        665,
+        796,
+        46,
+        62
+      ],
+      "previous_center_m": [
+        -0.06513898074626923,
+        -0.12962712347507477,
+        0.5180000066757202
+      ],
+      "current_center_m": [
+        -0.012065143324434757,
+        -0.07655328512191772,
+        0.4830000102519989
+      ],
+      "recession_along_view_ray_m": 0.08281705528497696,
+      "perpendicular_error_m": 3.725290298461914e-09
+    },
+    {
+      "part": "Flame cube.096",
+      "reference_rect": [
+        510,
+        866,
+        46,
+        62
+      ],
+      "previous_center_m": [
+        -0.21286162734031677,
+        -0.014306041412055492,
+        0.4359999895095825
+      ],
+      "current_center_m": [
+        -0.15978778898715973,
+        0.038767796009778976,
+        0.4009999930858612
+      ],
+      "recession_along_view_ray_m": 0.08281705528497696,
+      "perpendicular_error_m": 3.725290298461914e-09
+    },
+    {
+      "part": "Flame cube.097",
+      "reference_rect": [
+        620,
+        840,
+        44,
+        62
+      ],
+      "previous_center_m": [
+        -0.16521885991096497,
+        -0.1533394604921341,
+        0.5
+      ],
+      "current_center_m": [
+        -0.11214502155780792,
+        -0.10026562958955765,
+        0.4650000035762787
+      ],
+      "recession_along_view_ray_m": 0.08281705155968666,
+      "perpendicular_error_m": 5.268356063861754e-09
+    },
+    {
+      "part": "Flame cube.098",
+      "reference_rect": [
+        620,
+        902,
+        44,
+        42
+      ],
+      "previous_center_m": [
+        -0.16523520648479462,
+        -0.15335582196712494,
+        0.43116000294685364
+      ],
+      "current_center_m": [
+        -0.11216136813163757,
+        -0.1002819761633873,
+        0.3961600065231323
+      ],
+      "recession_along_view_ray_m": 0.08281705901026726,
+      "perpendicular_error_m": 9.125060374972142e-09
+    },
+    {
+      "part": "Flame cube.099",
+      "reference_rect": [
+        712,
+        902,
+        44,
+        48
+      ],
+      "previous_center_m": [
+        -0.05807426944375038,
+        -0.2023240476846695,
+        0.40799999237060547
+      ],
+      "current_center_m": [
+        -0.005000430624932051,
+        -0.14925020933151245,
+        0.37299999594688416
+      ],
+      "recession_along_view_ray_m": 0.08281705528497696,
+      "perpendicular_error_m": 3.725290298461914e-09
+    },
+    {
+      "part": "Flame cube.100",
+      "reference_rect": [
+        580,
+        960,
+        42,
+        59
+      ],
+      "previous_center_m": [
+        -0.2180541306734085,
+        -0.13829249143600464,
+        0.35499998927116394
+      ],
+      "current_center_m": [
+        -0.16498029232025146,
+        -0.0852186530828476,
+        0.3199999928474426
+      ],
+      "recession_along_view_ray_m": 0.08281705528497696,
+      "perpendicular_error_m": 3.725290298461914e-09
+    },
+    {
+      "part": "Flame cube.101",
+      "reference_rect": [
+        668,
+        958,
+        44,
+        58
+      ],
+      "previous_center_m": [
+        -0.13751566410064697,
+        -0.2070949673652649,
+        0.35499998927116394
+      ],
+      "current_center_m": [
+        -0.08444181829690933,
+        -0.15402112901210785,
+        0.3199999928474426
+      ],
+      "recession_along_view_ray_m": 0.08281705901026726,
+      "perpendicular_error_m": 9.125060374972142e-09
+    },
+    {
+      "part": "Flame cube.102",
+      "reference_rect": [
+        628,
+        1035,
+        39,
+        42
+      ],
+      "previous_center_m": [
+        -0.20596784353256226,
+        -0.20766489207744598,
+        0.2849999964237213
+      ],
+      "current_center_m": [
+        -0.1528940051794052,
+        -0.15459105372428894,
+        0.25
+      ],
+      "recession_along_view_ray_m": 0.08281705528497696,
+      "perpendicular_error_m": 3.725290298461914e-09
+    }
+  ],
+  "method": "All ten cream cubes move away along the reference camera ray. Their projected geometry is preserved while their side protrusion is reduced.",
+  "limits": "Projection preservation does not establish reference fidelity or correctness of inferred depth."
+}

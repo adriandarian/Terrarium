@@ -1,0 +1,23 @@
+{
+  "junctions": [
+    {
+      "between": [
+        "Flame cube.100",
+        "Flame cube.101"
+      ],
+      "gap_m": 0.0,
+      "center_m": [
+        -0.12555958330631256,
+        -0.11877136304974556,
+        0.3199999928474426
+      ],
+      "dimensions_m": [
+        0.025,
+        0.025,
+        0.05
+      ]
+    }
+  ],
+  "purpose": "Solid volume spanning short gaps between the measured front blocks. Four reference sparks are explicitly excluded.",
+  "limits": "Inferred hidden structure; no mechanical strength or rigid-body balance claim."
+}

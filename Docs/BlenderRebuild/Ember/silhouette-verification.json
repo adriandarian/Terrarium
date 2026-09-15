@@ -1,0 +1,61 @@
+{
+  "source_sha256": "3f85b40cc0a2660e9ff7c52d7644e7b84e9ec593108a713cd5f0915019d8904c",
+  "measurements": [
+    {
+      "revision": "R4",
+      "intersection_over_union": 0.9338525998334546,
+      "mismatched_pixels": 35269,
+      "render_sha256": "82d2a0cc8c47e2f880633d2ea03ece149e82d82bdfa6180d584946511a48c4f8"
+    },
+    {
+      "revision": "R9",
+      "intersection_over_union": 0.9338525998334546,
+      "mismatched_pixels": 35269,
+      "render_sha256": "0f28e6916262cfe3f9afe95553c0d58c9caaa15a8322d4db9ccdd3281713ba31"
+    },
+    {
+      "revision": "R10",
+      "intersection_over_union": 0.9482646277847875,
+      "mismatched_pixels": 27472,
+      "render_sha256": "88959d32439f94e0a99221c6655d76ef61fed6e9972dbda8e43f940d3f59f03c"
+    },
+    {
+      "revision": "R13",
+      "intersection_over_union": 0.9492966234157549,
+      "mismatched_pixels": 26924,
+      "render_sha256": "58305cd6699f69e3c35b553c9102ac72191c02063cfa9aef5bacb43184193507"
+    },
+    {
+      "revision": "R19",
+      "intersection_over_union": 0.9492966234157549,
+      "mismatched_pixels": 26924,
+      "render_sha256": "fb32e104af4b596205de4661f9a64fe947299d857a0f1a8b449898d5dd587852"
+    },
+    {
+      "revision": "R22",
+      "intersection_over_union": 0.9492966234157549,
+      "mismatched_pixels": 26924,
+      "render_sha256": "d09f5c81ec91b3f0cd071001e2ad5de470a2f6f526df773ea560dcd673736d9e"
+    },
+    {
+      "revision": "R29",
+      "intersection_over_union": 0.9484624418659275,
+      "mismatched_pixels": 27427,
+      "render_sha256": "252c55b5f0381e2a7bd8d934827c91bb514a772c5a704f3c976078ca19cae3cf"
+    },
+    {
+      "revision": "R34",
+      "intersection_over_union": 0.9483203891170702,
+      "mismatched_pixels": 27455,
+      "render_sha256": "092815cac3b725a1779c47bf7c49290cdeb734caf7126fc84235d25ad5e56c35"
+    },
+    {
+      "revision": "R41",
+      "intersection_over_union": 0.9483203891170702,
+      "mismatched_pixels": 27455,
+      "render_sha256": "dcc6881129631567e4280c14ee1b78f6d978919f4f7c75e19a156149b6fc958f"
+    }
+  ],
+  "method": "Unregistered fixed 1254-square camera; magenta-excluded source versus render alpha >127.",
+  "limits": "Projected outline only; does not measure cube arrangement, physical depth, colors or fidelity."
+}
