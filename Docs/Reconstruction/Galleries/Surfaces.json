@@ -1,0 +1,2030 @@
+{
+  "map": "/Game/Terrarium/Reconstruction/Maps/Surfaces",
+  "category": "Surfaces",
+  "expected_models": 45,
+  "saved_reopened_model_count": 45,
+  "saved_reopened_label_count": 45,
+  "all_meshes_and_materials_exist": true,
+  "all_model_footprints_separate": true,
+  "ground_tolerance_cm": 0.02,
+  "all_models_grounded": true,
+  "native_validation": "saved map reopened; actor counts, mesh paths, materials, scale and actual bounds verified",
+  "visual_acceptance": "not_asserted",
+  "studio": {
+    "floor_top_z_cm": 0.0,
+    "floor_material": "/Game/Terrarium/Reconstruction/Materials/M_StudioFloor",
+    "camera_label": "GalleryOverviewCamera",
+    "lights": [
+      {
+        "label": "GalleryKey",
+        "intensity": 3.2,
+        "casts_shadows": true
+      },
+      {
+        "label": "GalleryFrontFill",
+        "intensity": 1.5,
+        "casts_shadows": false
+      },
+      {
+        "label": "GalleryBackFill",
+        "intensity": 1.6,
+        "casts_shadows": false
+      },
+      {
+        "label": "GalleryRim",
+        "intensity": 1.0,
+        "casts_shadows": false
+      }
+    ],
+    "exposure": "fixed manual, physical camera exposure disabled",
+    "visual_acceptance": "not_asserted",
+    "camera_fitted_to_all_bounds": true
+  },
+  "models": [
+    {
+      "source": "cottage_plaster_v5.png",
+      "key": "cottage_plaster_v5",
+      "module": "surfaces",
+      "revision": 2,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_cottage_plaster_v5_R2.json",
+      "label": "Model_cottage_plaster_v5_R2",
+      "text_actor": "Label_cottage_plaster_v5",
+      "text": "cottage plaster v5  |  R2",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_plaster_v5_R2",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_cottage_plaster_v5"
+      ],
+      "location_cm": [
+        -749.9199914559722,
+        -0.010001068003475666,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -749.9199903877452,
+          -0.009999999776482582,
+          0.0
+        ],
+        "max": [
+          -649.9199903877452,
+          99.99000000022352,
+          5.0
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -699.9199914559722,
+        -32.0,
+        0.3
+      ],
+      "triangles": 44,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "cottage_roof_tile_v5.png",
+      "key": "cottage_roof_tile_v5",
+      "module": "surfaces",
+      "revision": 2,
+      "receipt": "Docs/Reconstruction/Builds/SM_Recon_cottage_roof_tile_v5_R2.json",
+      "label": "Model_cottage_roof_tile_v5_R2",
+      "text_actor": "Label_cottage_roof_tile_v5",
+      "text": "cottage roof tile v5  |  R2",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_roof_tile_v5_R2",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_cottage_roof_tile_v5"
+      ],
+      "location_cm": [
+        -574.9399925237522,
+        -0.009999999776482582,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -574.9399925237522,
+          -0.009999999776482582,
+          0.0
+        ],
+        "max": [
+          -474.93999252375215,
+          99.99000000022352,
+          4.501534938812256
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -524.9399935919791,
+        -32.0,
+        0.3
+      ],
+      "triangles": 8316,
+      "reopened_ground_error_cm": 0.0,
+      "surface_geometry": "source_aligned_individual_roof_tiles"
+    },
+    {
+      "source": "cottage_roof_tile_v6_candidate.png",
+      "key": "cottage_roof_tile_v6_candidate",
+      "module": "surfaces",
+      "revision": 2,
+      "receipt": "Docs/Reconstruction/Builds/SM_Recon_cottage_roof_tile_v6_candidate_R2.json",
+      "label": "Model_cottage_roof_tile_v6_candidate_R2",
+      "text_actor": "Label_cottage_roof_tile_v6_candidate",
+      "text": "cottage roof tile v6 candidate  |  R2",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_roof_tile_v6_candidate_R2",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_cottage_roof_tile_v6_candidate"
+      ],
+      "location_cm": [
+        -399.9599946597591,
+        -0.009999999776482582,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -399.9599946597591,
+          -0.009999999776482582,
+          0.0
+        ],
+        "max": [
+          -299.9599946597591,
+          99.99000000022352,
+          4.499783992767334
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -349.9599957279861,
+        -32.0,
+        0.3
+      ],
+      "triangles": 1760,
+      "reopened_ground_error_cm": 0.0,
+      "surface_geometry": "source_aligned_individual_roof_tiles"
+    },
+    {
+      "source": "terrain_cliff_3d.png",
+      "key": "terrain_cliff_3d",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_cliff_3d.json",
+      "label": "Model_terrain_cliff_3d_R1",
+      "text_actor": "Label_terrain_cliff_3d",
+      "text": "terrain cliff 3d  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_3d",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_3d"
+      ],
+      "location_cm": [
+        -224.97999679576606,
+        -0.009999999776482582,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -224.96999679598957,
+          0.0,
+          0.0
+        ],
+        "max": [
+          -124.98999893199652,
+          99.97999786399305,
+          12.5
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -174.97999786399305,
+        -32.0,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_cliff_face_v2.png",
+      "key": "terrain_cliff_face_v2",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_cliff_face_v2.json",
+      "label": "Model_terrain_cliff_face_v2_R1",
+      "text_actor": "Label_terrain_cliff_face_v2",
+      "text": "terrain cliff face v2  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v2",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v2"
+      ],
+      "location_cm": [
+        -49.99999893177301,
+        -0.009999999776482582,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -49.989998931996524,
+          0.0,
+          0.0
+        ],
+        "max": [
+          49.989998931996524,
+          99.97999786399305,
+          12.5
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        0.0,
+        -32.0,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_cliff_face_v4.png",
+      "key": "terrain_cliff_face_v4",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_cliff_face_v4.json",
+      "label": "Model_terrain_cliff_face_v4_R1",
+      "text_actor": "Label_terrain_cliff_face_v4",
+      "text": "terrain cliff face v4  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v4",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v4"
+      ],
+      "location_cm": [
+        124.97999893222004,
+        -0.009999999776482582,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          124.98999893199652,
+          0.0,
+          0.0
+        ],
+        "max": [
+          224.96999679598957,
+          99.97999786399305,
+          12.5
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        174.97999786399305,
+        -32.0,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_cliff_face_v5.png",
+      "key": "terrain_cliff_face_v5",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_cliff_face_v5.json",
+      "label": "Model_terrain_cliff_face_v5_R1",
+      "text_actor": "Label_terrain_cliff_face_v5",
+      "text": "terrain cliff face v5  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v5",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v5"
+      ],
+      "location_cm": [
+        299.9599967962131,
+        -0.009999999776482582,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          299.9699967959896,
+          0.0,
+          0.0
+        ],
+        "max": [
+          399.9499946599826,
+          99.97999786399305,
+          12.5
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        349.9599957279861,
+        -32.0,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_cliff_face_v6.png",
+      "key": "terrain_cliff_face_v6",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_cliff_face_v6.json",
+      "label": "Model_terrain_cliff_face_v6_R1",
+      "text_actor": "Label_terrain_cliff_face_v6",
+      "text": "terrain cliff face v6  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v6",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v6"
+      ],
+      "location_cm": [
+        474.93999466020614,
+        -0.009999999776482582,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          474.9499946599826,
+          0.0,
+          0.0
+        ],
+        "max": [
+          574.9299925239757,
+          99.97999786399305,
+          12.5
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        524.9399935919791,
+        -32.0,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_cliff_face_v7.png",
+      "key": "terrain_cliff_face_v7",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_cliff_face_v7.json",
+      "label": "Model_terrain_cliff_face_v7_R1",
+      "text_actor": "Label_terrain_cliff_face_v7",
+      "text": "terrain cliff face v7  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v7",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v7"
+      ],
+      "location_cm": [
+        649.9199925241992,
+        -0.009999999776482582,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          649.9299925239757,
+          0.0,
+          0.0
+        ],
+        "max": [
+          749.9099903879687,
+          99.97999786399305,
+          12.5
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        699.9199914559722,
+        -32.0,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_cliff_face_v8_candidate.png",
+      "key": "terrain_cliff_face_v8_candidate",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_cliff_face_v8_candidate.json",
+      "label": "Model_terrain_cliff_face_v8_candidate_R1",
+      "text_actor": "Label_terrain_cliff_face_v8_candidate",
+      "text": "terrain cliff face v8 candidate  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v8_candidate",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v8_candidate"
+      ],
+      "location_cm": [
+        -749.9199903877452,
+        209.96999786421657,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -749.9099903879687,
+          209.97999786399305,
+          0.0
+        ],
+        "max": [
+          -649.9299925239757,
+          309.9599957279861,
+          12.5
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -699.9199914559722,
+        177.97999786399305,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_cliff_face_v9_candidate.png",
+      "key": "terrain_cliff_face_v9_candidate",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_cliff_face_v9_candidate.json",
+      "label": "Model_terrain_cliff_face_v9_candidate_R1",
+      "text_actor": "Label_terrain_cliff_face_v9_candidate",
+      "text": "terrain cliff face v9 candidate  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v9_candidate",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v9_candidate"
+      ],
+      "location_cm": [
+        -574.9399925237522,
+        209.96999786421657,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -574.9299925239757,
+          209.97999786399305,
+          0.0
+        ],
+        "max": [
+          -474.9499946599826,
+          309.9599957279861,
+          12.5
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -524.9399935919791,
+        177.97999786399305,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_foliage_v4.png",
+      "key": "terrain_foliage_v4",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_foliage_v4.json",
+      "label": "Model_terrain_foliage_v4_R1",
+      "text_actor": "Label_terrain_foliage_v4",
+      "text": "terrain foliage v4  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v4",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_foliage_v4"
+      ],
+      "location_cm": [
+        -399.9599946597591,
+        209.96999786421657,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -399.9499946599826,
+          209.97999786399305,
+          0.0
+        ],
+        "max": [
+          -299.9699967959896,
+          309.9599957279861,
+          7.800000190734863
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -349.9599957279861,
+        177.97999786399305,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_foliage_v5.png",
+      "key": "terrain_foliage_v5",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_foliage_v5.json",
+      "label": "Model_terrain_foliage_v5_R1",
+      "text_actor": "Label_terrain_foliage_v5",
+      "text": "terrain foliage v5  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v5",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_foliage_v5"
+      ],
+      "location_cm": [
+        -224.97999679576606,
+        209.96999786421657,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -224.96999679598957,
+          209.97999786399305,
+          0.0
+        ],
+        "max": [
+          -124.98999893199652,
+          309.9599957279861,
+          7.800000190734863
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -174.97999786399305,
+        177.97999786399305,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_foliage_v6.png",
+      "key": "terrain_foliage_v6",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_foliage_v6.json",
+      "label": "Model_terrain_foliage_v6_R1",
+      "text_actor": "Label_terrain_foliage_v6",
+      "text": "terrain foliage v6  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v6",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_foliage_v6"
+      ],
+      "location_cm": [
+        -49.99999893177301,
+        209.96999786421657,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -49.989998931996524,
+          209.97999786399305,
+          0.0
+        ],
+        "max": [
+          49.989998931996524,
+          309.9599957279861,
+          7.800000190734863
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        0.0,
+        177.97999786399305,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_foliage_v7_candidate.png",
+      "key": "terrain_foliage_v7_candidate",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_foliage_v7_candidate.json",
+      "label": "Model_terrain_foliage_v7_candidate_R1",
+      "text_actor": "Label_terrain_foliage_v7_candidate",
+      "text": "terrain foliage v7 candidate  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v7_candidate",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_foliage_v7_candidate"
+      ],
+      "location_cm": [
+        124.97999893222004,
+        209.96999786421657,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          124.98999893199652,
+          209.97999786399305,
+          0.0
+        ],
+        "max": [
+          224.96999679598957,
+          309.9599957279861,
+          7.800000190734863
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        174.97999786399305,
+        177.97999786399305,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_grass.png",
+      "key": "terrain_grass",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_grass.json",
+      "label": "Model_terrain_grass_R1",
+      "text_actor": "Label_terrain_grass",
+      "text": "terrain grass  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass"
+      ],
+      "location_cm": [
+        299.9599967962131,
+        209.96999786421657,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          299.9699967959896,
+          209.97999786399305,
+          0.0
+        ],
+        "max": [
+          399.9499946599826,
+          309.9599957279861,
+          5.699999809265137
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        349.9599957279861,
+        177.97999786399305,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_grass_3d.png",
+      "key": "terrain_grass_3d",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_grass_3d.json",
+      "label": "Model_terrain_grass_3d_R1",
+      "text_actor": "Label_terrain_grass_3d",
+      "text": "terrain grass 3d  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_3d",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_3d"
+      ],
+      "location_cm": [
+        474.93999466020614,
+        209.96999786421657,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          474.9499946599826,
+          209.97999786399305,
+          0.0
+        ],
+        "max": [
+          574.9299925239757,
+          309.9599957279861,
+          5.699999809265137
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        524.9399935919791,
+        177.97999786399305,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_grass_top_v2.png",
+      "key": "terrain_grass_top_v2",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_grass_top_v2.json",
+      "label": "Model_terrain_grass_top_v2_R1",
+      "text_actor": "Label_terrain_grass_top_v2",
+      "text": "terrain grass top v2  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v2",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v2"
+      ],
+      "location_cm": [
+        649.9199925241992,
+        209.96999786421657,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          649.9299925239757,
+          209.97999786399305,
+          0.0
+        ],
+        "max": [
+          749.9099903879687,
+          309.9599957279861,
+          5.699999809265137
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        699.9199914559722,
+        177.97999786399305,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_grass_top_v3.png",
+      "key": "terrain_grass_top_v3",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_grass_top_v3.json",
+      "label": "Model_terrain_grass_top_v3_R1",
+      "text_actor": "Label_terrain_grass_top_v3",
+      "text": "terrain grass top v3  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v3",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v3"
+      ],
+      "location_cm": [
+        -749.9199903877452,
+        419.9499957282096,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -749.9099903879687,
+          419.9599957279861,
+          0.0
+        ],
+        "max": [
+          -649.9299925239757,
+          519.9399935919791,
+          5.699999809265137
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -699.9199914559722,
+        387.9599957279861,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_grass_top_v4.png",
+      "key": "terrain_grass_top_v4",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_grass_top_v4.json",
+      "label": "Model_terrain_grass_top_v4_R1",
+      "text_actor": "Label_terrain_grass_top_v4",
+      "text": "terrain grass top v4  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v4",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v4"
+      ],
+      "location_cm": [
+        -574.9399925237522,
+        419.9499957282096,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -574.9299925239757,
+          419.9599957279861,
+          0.0
+        ],
+        "max": [
+          -474.9499946599826,
+          519.9399935919791,
+          5.699999809265137
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -524.9399935919791,
+        387.9599957279861,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_grass_top_v5.png",
+      "key": "terrain_grass_top_v5",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_grass_top_v5.json",
+      "label": "Model_terrain_grass_top_v5_R1",
+      "text_actor": "Label_terrain_grass_top_v5",
+      "text": "terrain grass top v5  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v5",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v5"
+      ],
+      "location_cm": [
+        -399.9599946597591,
+        419.9499957282096,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -399.9499946599826,
+          419.9599957279861,
+          0.0
+        ],
+        "max": [
+          -299.9699967959896,
+          519.9399935919791,
+          5.699999809265137
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -349.9599957279861,
+        387.9599957279861,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_grass_top_v6.png",
+      "key": "terrain_grass_top_v6",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_grass_top_v6.json",
+      "label": "Model_terrain_grass_top_v6_R1",
+      "text_actor": "Label_terrain_grass_top_v6",
+      "text": "terrain grass top v6  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v6",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v6"
+      ],
+      "location_cm": [
+        -224.97999679576606,
+        419.9499957282096,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -224.96999679598957,
+          419.9599957279861,
+          0.0
+        ],
+        "max": [
+          -124.98999893199652,
+          519.9399935919791,
+          5.699999809265137
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -174.97999786399305,
+        387.9599957279861,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_grass_top_v7.png",
+      "key": "terrain_grass_top_v7",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_grass_top_v7.json",
+      "label": "Model_terrain_grass_top_v7_R1",
+      "text_actor": "Label_terrain_grass_top_v7",
+      "text": "terrain grass top v7  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v7",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v7"
+      ],
+      "location_cm": [
+        -49.99999893177301,
+        419.9499957282096,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -49.989998931996524,
+          419.9599957279861,
+          0.0
+        ],
+        "max": [
+          49.989998931996524,
+          519.9399935919791,
+          5.699999809265137
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        0.0,
+        387.9599957279861,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_grass_top_v8.png",
+      "key": "terrain_grass_top_v8",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_grass_top_v8.json",
+      "label": "Model_terrain_grass_top_v8_R1",
+      "text_actor": "Label_terrain_grass_top_v8",
+      "text": "terrain grass top v8  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v8",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v8"
+      ],
+      "location_cm": [
+        124.97999893222004,
+        419.9499957282096,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          124.98999893199652,
+          419.9599957279861,
+          0.0
+        ],
+        "max": [
+          224.96999679598957,
+          519.9399935919791,
+          5.699999809265137
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        174.97999786399305,
+        387.9599957279861,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_grass_top_v9.png",
+      "key": "terrain_grass_top_v9",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_grass_top_v9.json",
+      "label": "Model_terrain_grass_top_v9_R1",
+      "text_actor": "Label_terrain_grass_top_v9",
+      "text": "terrain grass top v9  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v9",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v9"
+      ],
+      "location_cm": [
+        299.9599967962131,
+        419.9499957282096,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          299.9699967959896,
+          419.9599957279861,
+          0.0
+        ],
+        "max": [
+          399.9499946599826,
+          519.9399935919791,
+          5.699999809265137
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        349.9599957279861,
+        387.9599957279861,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_moss_cap_v1.png",
+      "key": "terrain_moss_cap_v1",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_moss_cap_v1.json",
+      "label": "Model_terrain_moss_cap_v1_R1",
+      "text_actor": "Label_terrain_moss_cap_v1",
+      "text": "terrain moss cap v1  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_moss_cap_v1",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_moss_cap_v1"
+      ],
+      "location_cm": [
+        474.93999466020614,
+        419.9499957282096,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          474.9499946599826,
+          419.9599957279861,
+          0.0
+        ],
+        "max": [
+          574.9299925239757,
+          519.9399935919791,
+          7.800000190734863
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        524.9399935919791,
+        387.9599957279861,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_stair_paver_v1.png",
+      "key": "terrain_stair_paver_v1",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_stair_paver_v1.json",
+      "label": "Model_terrain_stair_paver_v1_R1",
+      "text_actor": "Label_terrain_stair_paver_v1",
+      "text": "terrain stair paver v1  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_stair_paver_v1",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_stair_paver_v1"
+      ],
+      "location_cm": [
+        649.9199925241992,
+        419.9499957282096,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          649.9299925239757,
+          419.9599957279861,
+          0.0
+        ],
+        "max": [
+          749.9099903879687,
+          519.9399935919791,
+          7.239999771118164
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        699.9199914559722,
+        387.9599957279861,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_stair_paver_v2_candidate.png",
+      "key": "terrain_stair_paver_v2_candidate",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_stair_paver_v2_candidate.json",
+      "label": "Model_terrain_stair_paver_v2_candidate_R1",
+      "text_actor": "Label_terrain_stair_paver_v2_candidate",
+      "text": "terrain stair paver v2 candidate  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_stair_paver_v2_candidate",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_stair_paver_v2_candidate"
+      ],
+      "location_cm": [
+        -749.9199903877452,
+        629.9299935922027,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -749.9099903879687,
+          629.9399935919791,
+          0.0
+        ],
+        "max": [
+          -649.9299925239757,
+          729.9199914559722,
+          7.239999771118164
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -699.9199914559722,
+        597.9399935919791,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_trail_3d.png",
+      "key": "terrain_trail_3d",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_trail_3d.json",
+      "label": "Model_terrain_trail_3d_R1",
+      "text_actor": "Label_terrain_trail_3d",
+      "text": "terrain trail 3d  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_3d",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_3d"
+      ],
+      "location_cm": [
+        -574.9399925237522,
+        629.9299935922027,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -574.9299925239757,
+          629.9399935919791,
+          0.0
+        ],
+        "max": [
+          -474.9499946599826,
+          729.9199914559722,
+          5.900000095367432
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -524.9399935919791,
+        597.9399935919791,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_trail_top_v10_candidate.png",
+      "key": "terrain_trail_top_v10_candidate",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_trail_top_v10_candidate.json",
+      "label": "Model_terrain_trail_top_v10_candidate_R1",
+      "text_actor": "Label_terrain_trail_top_v10_candidate",
+      "text": "terrain trail top v10 candidate  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v10_candidate",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v10_candidate"
+      ],
+      "location_cm": [
+        -399.9599946597591,
+        629.9299935922027,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -399.9499946599826,
+          629.9399935919791,
+          0.0
+        ],
+        "max": [
+          -299.9699967959896,
+          729.9199914559722,
+          5.900000095367432
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -349.9599957279861,
+        597.9399935919791,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_trail_top_v11_candidate.png",
+      "key": "terrain_trail_top_v11_candidate",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_trail_top_v11_candidate.json",
+      "label": "Model_terrain_trail_top_v11_candidate_R1",
+      "text_actor": "Label_terrain_trail_top_v11_candidate",
+      "text": "terrain trail top v11 candidate  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v11_candidate",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v11_candidate"
+      ],
+      "location_cm": [
+        -224.97999679576606,
+        629.9299935922027,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -224.96999679598957,
+          629.9399935919791,
+          0.0
+        ],
+        "max": [
+          -124.98999893199652,
+          729.9199914559722,
+          5.900000095367432
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -174.97999786399305,
+        597.9399935919791,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_trail_top_v5.png",
+      "key": "terrain_trail_top_v5",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_trail_top_v5.json",
+      "label": "Model_terrain_trail_top_v5_R1",
+      "text_actor": "Label_terrain_trail_top_v5",
+      "text": "terrain trail top v5  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v5",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v5"
+      ],
+      "location_cm": [
+        -49.99999893177301,
+        629.9299935922027,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -49.989998931996524,
+          629.9399935919791,
+          0.0
+        ],
+        "max": [
+          49.989998931996524,
+          729.9199914559722,
+          5.900000095367432
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        0.0,
+        597.9399935919791,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_trail_top_v6.png",
+      "key": "terrain_trail_top_v6",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_trail_top_v6.json",
+      "label": "Model_terrain_trail_top_v6_R1",
+      "text_actor": "Label_terrain_trail_top_v6",
+      "text": "terrain trail top v6  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v6",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v6"
+      ],
+      "location_cm": [
+        124.97999893222004,
+        629.9299935922027,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          124.98999893199652,
+          629.9399935919791,
+          0.0
+        ],
+        "max": [
+          224.96999679598957,
+          729.9199914559722,
+          5.900000095367432
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        174.97999786399305,
+        597.9399935919791,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_trail_top_v7.png",
+      "key": "terrain_trail_top_v7",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_trail_top_v7.json",
+      "label": "Model_terrain_trail_top_v7_R1",
+      "text_actor": "Label_terrain_trail_top_v7",
+      "text": "terrain trail top v7  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v7",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v7"
+      ],
+      "location_cm": [
+        299.9599967962131,
+        629.9299935922027,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          299.9699967959896,
+          629.9399935919791,
+          0.0
+        ],
+        "max": [
+          399.9499946599826,
+          729.9199914559722,
+          5.900000095367432
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        349.9599957279861,
+        597.9399935919791,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_trail_top_v8.png",
+      "key": "terrain_trail_top_v8",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_trail_top_v8.json",
+      "label": "Model_terrain_trail_top_v8_R1",
+      "text_actor": "Label_terrain_trail_top_v8",
+      "text": "terrain trail top v8  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v8",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v8"
+      ],
+      "location_cm": [
+        474.93999466020614,
+        629.9299935922027,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          474.9499946599826,
+          629.9399935919791,
+          0.0
+        ],
+        "max": [
+          574.9299925239757,
+          729.9199914559722,
+          5.900000095367432
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        524.9399935919791,
+        597.9399935919791,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_trail_top_v9_candidate.png",
+      "key": "terrain_trail_top_v9_candidate",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_trail_top_v9_candidate.json",
+      "label": "Model_terrain_trail_top_v9_candidate_R1",
+      "text_actor": "Label_terrain_trail_top_v9_candidate",
+      "text": "terrain trail top v9 candidate  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v9_candidate",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v9_candidate"
+      ],
+      "location_cm": [
+        649.9199925241992,
+        629.9299935922027,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          649.9299925239757,
+          629.9399935919791,
+          0.0
+        ],
+        "max": [
+          749.9099903879687,
+          729.9199914559722,
+          5.900000095367432
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        699.9199914559722,
+        597.9399935919791,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_water.png",
+      "key": "terrain_water",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_water.json",
+      "label": "Model_terrain_water_R1",
+      "text_actor": "Label_terrain_water",
+      "text": "terrain water  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water"
+      ],
+      "location_cm": [
+        -749.9199903877452,
+        839.9099914561957,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -749.9099903879687,
+          839.9199914559722,
+          0.0
+        ],
+        "max": [
+          -649.9299925239757,
+          939.8999893199652,
+          5.399929046630859
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -699.9199914559722,
+        807.9199914559722,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_water_3d.png",
+      "key": "terrain_water_3d",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_water_3d.json",
+      "label": "Model_terrain_water_3d_R1",
+      "text_actor": "Label_terrain_water_3d",
+      "text": "terrain water 3d  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_3d",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_3d"
+      ],
+      "location_cm": [
+        -574.9399925237522,
+        839.9099914561957,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -574.9299925239757,
+          839.9199914559722,
+          0.0
+        ],
+        "max": [
+          -474.9499946599826,
+          939.8999893199652,
+          5.399929046630859
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -524.9399935919791,
+        807.9199914559722,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_water_v4.png",
+      "key": "terrain_water_v4",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_water_v4.json",
+      "label": "Model_terrain_water_v4_R1",
+      "text_actor": "Label_terrain_water_v4",
+      "text": "terrain water v4  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v4",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v4"
+      ],
+      "location_cm": [
+        -399.9599946597591,
+        839.9099914561957,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -399.9499946599826,
+          839.9199914559722,
+          0.0
+        ],
+        "max": [
+          -299.9699967959896,
+          939.8999893199652,
+          5.399929046630859
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -349.9599957279861,
+        807.9199914559722,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_water_v5.png",
+      "key": "terrain_water_v5",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_water_v5.json",
+      "label": "Model_terrain_water_v5_R1",
+      "text_actor": "Label_terrain_water_v5",
+      "text": "terrain water v5  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v5",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v5"
+      ],
+      "location_cm": [
+        -224.97999679576606,
+        839.9099914561957,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -224.96999679598957,
+          839.9199914559722,
+          0.0
+        ],
+        "max": [
+          -124.98999893199652,
+          939.8999893199652,
+          5.399929046630859
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -174.97999786399305,
+        807.9199914559722,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_water_v6.png",
+      "key": "terrain_water_v6",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_water_v6.json",
+      "label": "Model_terrain_water_v6_R1",
+      "text_actor": "Label_terrain_water_v6",
+      "text": "terrain water v6  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v6",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v6"
+      ],
+      "location_cm": [
+        -49.99999893177301,
+        839.9099914561957,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -49.989998931996524,
+          839.9199914559722,
+          0.0
+        ],
+        "max": [
+          49.989998931996524,
+          939.8999893199652,
+          5.399929046630859
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        0.0,
+        807.9199914559722,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_water_v7.png",
+      "key": "terrain_water_v7",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_water_v7.json",
+      "label": "Model_terrain_water_v7_R1",
+      "text_actor": "Label_terrain_water_v7",
+      "text": "terrain water v7  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v7",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v7"
+      ],
+      "location_cm": [
+        124.97999893222004,
+        839.9099914561957,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          124.98999893199652,
+          839.9199914559722,
+          0.0
+        ],
+        "max": [
+          224.96999679598957,
+          939.8999893199652,
+          5.399929046630859
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        174.97999786399305,
+        807.9199914559722,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_water_v8.png",
+      "key": "terrain_water_v8",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_water_v8.json",
+      "label": "Model_terrain_water_v8_R1",
+      "text_actor": "Label_terrain_water_v8",
+      "text": "terrain water v8  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v8",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v8"
+      ],
+      "location_cm": [
+        299.9599967962131,
+        839.9099914561957,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          299.9699967959896,
+          839.9199914559722,
+          0.0
+        ],
+        "max": [
+          399.9499946599826,
+          939.8999893199652,
+          5.399929046630859
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        349.9599957279861,
+        807.9199914559722,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_water_v9.png",
+      "key": "terrain_water_v9",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_water_v9.json",
+      "label": "Model_terrain_water_v9_R1",
+      "text_actor": "Label_terrain_water_v9",
+      "text": "terrain water v9  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v9",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v9"
+      ],
+      "location_cm": [
+        474.93999466020614,
+        839.9099914561957,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          474.9499946599826,
+          839.9199914559722,
+          0.0
+        ],
+        "max": [
+          574.9299925239757,
+          939.8999893199652,
+          5.399929046630859
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        524.9399935919791,
+        807.9199914559722,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "terrain_wood_3d.png",
+      "key": "terrain_wood_3d",
+      "module": "surfaces",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_terrain_wood_3d.json",
+      "label": "Model_terrain_wood_3d_R1",
+      "text_actor": "Label_terrain_wood_3d",
+      "text": "terrain wood 3d  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_wood_3d",
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_wood_3d"
+      ],
+      "location_cm": [
+        649.9199925241992,
+        839.9099914561957,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          649.9299925239757,
+          839.9199914559722,
+          0.0
+        ],
+        "max": [
+          749.9099903879687,
+          939.8999893199652,
+          6.449999809265137
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        699.9199914559722,
+        807.9199914559722,
+        0.3
+      ],
+      "triangles": 17600,
+      "reopened_ground_error_cm": 0.0
+    }
+  ],
+  "latest_revisions_refreshed": true,
+  "lit_overview": "Surfaces.png",
+  "layout": "Native-scale rows; exact projected-bounds camera framing with 14 percent margin."
+}

@@ -1,0 +1,356 @@
+{
+  "map": "/Game/Terrarium/Reconstruction/Maps/Architecture",
+  "category": "Architecture",
+  "expected_models": 7,
+  "saved_reopened_model_count": 7,
+  "saved_reopened_label_count": 7,
+  "all_meshes_and_materials_exist": true,
+  "all_model_footprints_separate": true,
+  "ground_tolerance_cm": 0.02,
+  "all_models_grounded": true,
+  "native_validation": "saved map reopened; actor counts, mesh paths, materials, scale and actual bounds verified",
+  "visual_acceptance": "not_asserted",
+  "studio": {
+    "floor_top_z_cm": 0.0,
+    "floor_material": "/Game/Terrarium/Reconstruction/Materials/M_StudioFloor",
+    "camera_label": "GalleryOverviewCamera",
+    "lights": [
+      {
+        "label": "GalleryKey",
+        "intensity": 3.2,
+        "casts_shadows": true
+      },
+      {
+        "label": "GalleryFrontFill",
+        "intensity": 1.5,
+        "casts_shadows": false
+      },
+      {
+        "label": "GalleryBackFill",
+        "intensity": 1.6,
+        "casts_shadows": false
+      },
+      {
+        "label": "GalleryRim",
+        "intensity": 1.0,
+        "casts_shadows": false
+      }
+    ],
+    "exposure": "fixed manual, physical camera exposure disabled",
+    "visual_acceptance": "not_asserted",
+    "camera_fitted_to_all_bounds": true
+  },
+  "models": [
+    {
+      "source": "sign.png",
+      "key": "sign",
+      "module": "architecture",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_Sign_R3.json",
+      "label": "Model_sign_R3",
+      "text_actor": "Label_sign",
+      "text": "sign  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Sign_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        -542.0125007629395,
+        203.0625,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -668.0125007629395,
+          159.5625,
+          0.0
+        ],
+        "max": [
+          -493.01250076293945,
+          241.9375,
+          232.77999877929688
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -580.5125007629395,
+        127.5625,
+        0.3
+      ],
+      "triangles": 3784,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "market_stall.png",
+      "key": "market_stall",
+      "module": "architecture",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_MarketStall_R3.json",
+      "label": "Model_market_stall_R3",
+      "text_actor": "Label_market_stall",
+      "text": "market stall  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MarketStall_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        17.987499237060547,
+        219.5,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -283.01250076293945,
+          0.0,
+          0.0
+        ],
+        "max": [
+          287.86249923706055,
+          401.5,
+          314.3999938964844
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        2.424999237060547,
+        -32.0,
+        0.3
+      ],
+      "triangles": 40744,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "lantern.png",
+      "key": "lantern",
+      "module": "architecture",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_Lantern_R3.json",
+      "label": "Model_lantern_R3",
+      "text_actor": "Label_lantern",
+      "text": "lantern  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Lantern_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_Energy_lantern"
+      ],
+      "location_cm": [
+        564.5125007629395,
+        200.75,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          497.86249923706055,
+          156.0999984741211,
+          0.0
+        ],
+        "max": [
+          668.0125007629395,
+          245.4000015258789,
+          316.5
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        582.9375,
+        124.0999984741211,
+        0.3
+      ],
+      "triangles": 10516,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "homestead_compound.png",
+      "key": "homestead_compound",
+      "module": "compound",
+      "revision": 1,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_HomesteadCompound.json",
+      "label": "Model_homestead_compound_R1",
+      "text_actor": "Label_homestead_compound",
+      "text": "homestead compound  |  R1",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_HomesteadCompound",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        -831.8500061035156,
+        1077.0,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -1370.3500061035156,
+          646.5,
+          0.0
+        ],
+        "max": [
+          -201.35000610351562,
+          1426.5,
+          477.0
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -785.8500061035156,
+        614.5,
+        0.3
+      ],
+      "triangles": 80816,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "cottage.png",
+      "key": "cottage",
+      "module": "architecture",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_Cottage_R3.json",
+      "label": "Model_cottage_R3",
+      "text_actor": "Label_cottage",
+      "text": "cottage  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Cottage_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        288.0,
+        1065.25,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          8.649993896484375,
+          821.75,
+          0.0
+        ],
+        "max": [
+          567.3500061035156,
+          1251.25,
+          552.5
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        288.0,
+        789.75,
+        0.3
+      ],
+      "triangles": 59108,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "lodge.png",
+      "key": "lodge",
+      "module": "architecture",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_Lodge_R3.json",
+      "label": "Model_lodge_R3",
+      "text_actor": "Label_lodge",
+      "text": "lodge  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Lodge_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        1073.8500061035156,
+        1066.0,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          777.3500061035156,
+          808.5,
+          0.0
+        ],
+        "max": [
+          1370.3500061035156,
+          1264.5,
+          640.5
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        1073.8500061035156,
+        776.5,
+        0.3
+      ],
+      "triangles": 64432,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "civic_hall.png",
+      "key": "civic_hall",
+      "module": "architecture",
+      "revision": 7,
+      "receipt": "Docs/Reconstruction/Builds/SM_Recon_CivicHall_R7.json",
+      "label": "Model_civic_hall_R7",
+      "text_actor": "Label_civic_hall",
+      "text": "civic hall  |  R7",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R7",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_CivicHall_Warm_R4"
+      ],
+      "location_cm": [
+        0.0,
+        2022.0,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -511.5,
+          1672.0,
+          0.0
+        ],
+        "max": [
+          511.5,
+          2232.0,
+          1121.0
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        0.0,
+        1639.5,
+        0.3
+      ],
+      "triangles": 164620,
+      "reopened_ground_error_cm": 0.0
+    }
+  ],
+  "latest_revisions_refreshed": true,
+  "lit_overview": "Architecture.png",
+  "layout": "Ascending height from front to back; exact projected-bounds camera framing with 14 percent margin."
+}

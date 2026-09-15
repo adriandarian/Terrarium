@@ -1,0 +1,400 @@
+{
+  "map": "/Game/Terrarium/Reconstruction/Maps/Collectibles",
+  "category": "Collectibles",
+  "expected_models": 8,
+  "saved_reopened_model_count": 8,
+  "saved_reopened_label_count": 8,
+  "all_meshes_and_materials_exist": true,
+  "all_model_footprints_separate": true,
+  "ground_tolerance_cm": 0.02,
+  "all_models_grounded": true,
+  "native_validation": "saved map reopened; actor counts, mesh paths, materials, scale and actual bounds verified",
+  "visual_acceptance": "not_asserted",
+  "studio": {
+    "floor_top_z_cm": 0.0,
+    "floor_material": "/Game/Terrarium/Reconstruction/Materials/M_StudioFloor",
+    "camera_label": "GalleryOverviewCamera",
+    "lights": [
+      {
+        "label": "GalleryKey",
+        "intensity": 3.2,
+        "casts_shadows": true
+      },
+      {
+        "label": "GalleryFrontFill",
+        "intensity": 1.5,
+        "casts_shadows": false
+      },
+      {
+        "label": "GalleryBackFill",
+        "intensity": 1.6,
+        "casts_shadows": false
+      },
+      {
+        "label": "GalleryRim",
+        "intensity": 1.0,
+        "casts_shadows": false
+      }
+    ],
+    "exposure": "fixed manual, physical camera exposure disabled",
+    "visual_acceptance": "not_asserted",
+    "camera_fitted_to_all_bounds": true
+  },
+  "models": [
+    {
+      "source": "moss_tonic.png",
+      "key": "moss_tonic",
+      "module": "creatures_items",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_MossTonic_R3.json",
+      "label": "Model_moss_tonic_R3",
+      "text_actor": "Label_moss_tonic",
+      "text": "moss tonic  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MossTonic_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        -270.7112503051758,
+        39.19999980926514,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -293.88475036621094,
+          15.300000190734863,
+          0.0
+        ],
+        "max": [
+          -236.56124877929688,
+          61.69999980926514,
+          89.44349670410156
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -265.2229995727539,
+        -16.699999809265137,
+        0.3
+      ],
+      "triangles": 51472,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "trail_prism.png",
+      "key": "trail_prism",
+      "module": "creatures_items",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_TrailPrism_R3.json",
+      "label": "Model_trail_prism_R3",
+      "text_actor": "Label_trail_prism",
+      "text": "trail prism  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_TrailPrism_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_Energy_trail_prism"
+      ],
+      "location_cm": [
+        -115.06124877929688,
+        38.5,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -151.56124877929688,
+          0.0,
+          0.0
+        ],
+        "max": [
+          -78.56124877929688,
+          77.0,
+          114.18000030517578
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -115.06124877929688,
+        -32.0,
+        0.3
+      ],
+      "triangles": 16544,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "grove.png",
+      "key": "grove",
+      "module": "creatures_items",
+      "revision": 6,
+      "receipt": "Docs/Reconstruction/Builds/SM_Recon_Grove_R6.json",
+      "label": "Model_grove_R6",
+      "text_actor": "Label_grove",
+      "text": "grove  |  R6",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Grove_R6",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        62.063751220703125,
+        42.5,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          10.043750762939453,
+          14.459999084472656,
+          0.0
+        ],
+        "max": [
+          114.0837516784668,
+          62.540000915527344,
+          104.03500366210938
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        62.063751220703125,
+        -14.604999542236328,
+        0.3
+      ],
+      "triangles": 10120,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "ember.png",
+      "key": "ember",
+      "module": "creatures_items",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_Ember_R3.json",
+      "label": "Model_ember_R3",
+      "text_actor": "Label_ember",
+      "text": "ember  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Ember_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_Energy_ember"
+      ],
+      "location_cm": [
+        248.28675079345703,
+        39.18600034713745,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          202.68875122070312,
+          23.716000080108643,
+          0.0
+        ],
+        "max": [
+          293.88475036621094,
+          53.28399991989136,
+          127.0979995727539
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        248.28675079345703,
+        -8.283999919891357,
+        0.3
+      ],
+      "triangles": 24728,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "tide.png",
+      "key": "tide",
+      "module": "creatures_items",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_Tide_R3.json",
+      "label": "Model_tide_R3",
+      "text_actor": "Label_tide",
+      "text": "tide  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Tide_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        -281.5,
+        215.93600034713745,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -327.0979995727539,
+          200.46600008010864,
+          0.0
+        ],
+        "max": [
+          -235.9020004272461,
+          230.03399991989136,
+          119.19599914550781
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -281.5,
+        168.46600008010864,
+        0.3
+      ],
+      "triangles": 25168,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "storm.png",
+      "key": "storm",
+      "module": "creatures_items",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_Storm_R3.json",
+      "label": "Model_storm_R3",
+      "text_actor": "Label_storm",
+      "text": "storm  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Storm_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_Energy_storm"
+      ],
+      "location_cm": [
+        -104.4020004272461,
+        208.0,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -150.9020004272461,
+          197.0,
+          0.0
+        ],
+        "max": [
+          -57.902000427246094,
+          233.5,
+          136.0
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -104.4020004272461,
+        165.0,
+        0.3
+      ],
+      "triangles": 1972,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "ember_crest.png",
+      "key": "ember_crest",
+      "module": "creatures_items",
+      "revision": 8,
+      "receipt": "Docs/Reconstruction/Builds/SM_Recon_EmberCrest_R8.json",
+      "label": "Model_ember_crest_R8",
+      "text_actor": "Label_ember_crest",
+      "text": "ember crest  |  R8",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_EmberCrest_R8",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_EmberCrest_Patina_R6"
+      ],
+      "location_cm": [
+        80.5979995727539,
+        218.69499969482422,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          24.597999572753906,
+          197.80500030517578,
+          0.0
+        ],
+        "max": [
+          136.5979995727539,
+          232.69499969482422,
+          136.5
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        80.5979995727539,
+        167.44999980926514,
+        0.3
+      ],
+      "triangles": 24076,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "deep_delver_mark.png",
+      "key": "deep_delver_mark",
+      "module": "creatures_items",
+      "revision": 12,
+      "receipt": "Docs/Reconstruction/Builds/SM_Recon_DeepDelverMark_R12.json",
+      "label": "Model_deep_delver_mark_R12",
+      "text_actor": "Label_deep_delver_mark",
+      "text": "deep delver mark  |  R12",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_DeepDelverMark_R12",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        273.0979995727539,
+        221.2949995994568,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          219.0979995727539,
+          199.40500020980835,
+          0.0
+        ],
+        "max": [
+          327.0979995727539,
+          231.09499979019165,
+          125.0199966430664
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        273.0979995727539,
+        167.5950002670288,
+        0.3
+      ],
+      "triangles": 23504,
+      "reopened_ground_error_cm": 0.0
+    }
+  ],
+  "latest_revisions_refreshed": true,
+  "lit_overview": "Collectibles.png",
+  "layout": "Native-scale rows; exact projected-bounds camera framing with 14 percent margin."
+}

@@ -1,0 +1,24 @@
+{
+  "views": [
+    {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R5",
+      "name": "SM_Recon_CivicHall_R5-front",
+      "yaw": 115,
+      "pitch": -24,
+      "resolution": 1254
+    },
+    {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R5",
+      "name": "SM_Recon_CivicHall_R5-back",
+      "yaw": 295,
+      "pitch": -24,
+      "resolution": 1254
+    }
+  ],
+  "lighting": "unchanged saved ReviewStage",
+  "render": "native Unreal Lit; frames yielded between shots",
+  "resolution": [
+    1254,
+    1254
+  ]
+}

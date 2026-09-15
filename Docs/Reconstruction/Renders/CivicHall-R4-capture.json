@@ -1,0 +1,38 @@
+{
+  "views": [
+    {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R3",
+      "name": "SM_Recon_CivicHall_R3-baseline-front",
+      "yaw": 115,
+      "pitch": -24,
+      "resolution": 1254
+    },
+    {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R3",
+      "name": "SM_Recon_CivicHall_R3-baseline-back",
+      "yaw": 295,
+      "pitch": -24,
+      "resolution": 1254
+    },
+    {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R4",
+      "name": "SM_Recon_CivicHall_R4-front",
+      "yaw": 115,
+      "pitch": -24,
+      "resolution": 1254
+    },
+    {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R4",
+      "name": "SM_Recon_CivicHall_R4-back",
+      "yaw": 295,
+      "pitch": -24,
+      "resolution": 1254
+    }
+  ],
+  "lighting": "unchanged saved ReviewStage",
+  "render": "native Unreal Lit; frames yielded between shots",
+  "resolution": [
+    1254,
+    1254
+  ]
+}

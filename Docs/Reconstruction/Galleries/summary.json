@@ -1,0 +1,17 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "review_stage_preserved_first": true,
+  "review_stage_restored": true,
+  "maps": [
+    "/Game/Terrarium/Reconstruction/Maps/Architecture",
+    "/Game/Terrarium/Reconstruction/Maps/Characters",
+    "/Game/Terrarium/Reconstruction/Maps/Collectibles",
+    "/Game/Terrarium/Reconstruction/Maps/Environment",
+    "/Game/Terrarium/Reconstruction/Maps/Surfaces"
+  ],
+  "model_count": 72,
+  "expected_total_models": 72,
+  "completed": true,
+  "visual_acceptance": "not_asserted",
+  "failure": null
+}

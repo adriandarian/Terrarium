@@ -1,0 +1,270 @@
+{
+  "map": "/Game/Terrarium/Reconstruction/Maps/Characters",
+  "category": "Characters",
+  "expected_models": 5,
+  "saved_reopened_model_count": 5,
+  "saved_reopened_label_count": 5,
+  "all_meshes_and_materials_exist": true,
+  "all_model_footprints_separate": true,
+  "ground_tolerance_cm": 0.02,
+  "all_models_grounded": true,
+  "native_validation": "saved map reopened; actor counts, mesh paths, materials, scale and actual bounds verified",
+  "visual_acceptance": "not_asserted",
+  "studio": {
+    "floor_top_z_cm": 0.0,
+    "floor_material": "/Game/Terrarium/Reconstruction/Materials/M_StudioFloor",
+    "camera_label": "GalleryOverviewCamera",
+    "lights": [
+      {
+        "label": "GalleryKey",
+        "intensity": 3.2,
+        "casts_shadows": true
+      },
+      {
+        "label": "GalleryFrontFill",
+        "intensity": 1.5,
+        "casts_shadows": false
+      },
+      {
+        "label": "GalleryBackFill",
+        "intensity": 1.6,
+        "casts_shadows": false
+      },
+      {
+        "label": "GalleryRim",
+        "intensity": 1.0,
+        "casts_shadows": false
+      }
+    ],
+    "exposure": "fixed manual, physical camera exposure disabled",
+    "visual_acceptance": "not_asserted",
+    "camera_fitted_to_all_bounds": true
+  },
+  "models": [
+    {
+      "source": "player_front.png",
+      "key": "player_front",
+      "module": "humanoids",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_Player_R3.json",
+      "label": "Model_player_front_R3",
+      "text_actor": "Label_player_front",
+      "text": "player front  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Player_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        -412.9136447906494,
+        56.618751525878906,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -470.33998680114746,
+          33.868751525878906,
+          0.0
+        ],
+        "max": [
+          -366.2570972442627,
+          95.21875,
+          160.0
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -418.2985420227051,
+        1.8687515258789062,
+        0.3
+      ],
+      "triangles": 123596,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "ranger_sela.png",
+      "key": "ranger_sela",
+      "module": "humanoids",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_RangerSela_R3.json",
+      "label": "Model_ranger_sela_R3",
+      "text_actor": "Label_ranger_sela",
+      "text": "ranger sela  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_RangerSela_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        -231.16465187072754,
+        69.50912952423096,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -266.2570972442627,
+          40.00912952423096,
+          0.0
+        ],
+        "max": [
+          -191.88501167297363,
+          89.07837200164795,
+          160.0
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -229.07105445861816,
+        8.009129524230957,
+        0.3
+      ],
+      "triangles": 115148,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "brambit.png",
+      "key": "brambit",
+      "module": "creatures_items",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_Brambit_R3.json",
+      "label": "Model_brambit_R3",
+      "text_actor": "Label_brambit",
+      "text": "brambit  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Brambit_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        -38.98501014709473,
+        67.79375076293945,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -91.88501167297363,
+          23.793750762939453,
+          0.0
+        ],
+        "max": [
+          13.91499137878418,
+          105.29375076293945,
+          174.4853057861328
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -38.98501014709473,
+        -8.206249237060547,
+        0.3
+      ],
+      "triangles": 24140,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "kindlehorn.png",
+      "key": "kindlehorn",
+      "module": "creatures_items",
+      "revision": 6,
+      "receipt": "Docs/Reconstruction/Builds/SM_Recon_Kindlehorn_R6.json",
+      "label": "Model_kindlehorn_R6",
+      "text_actor": "Label_kindlehorn",
+      "text": "kindlehorn  |  R6",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Kindlehorn_R6",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_KindlehornGlow_R4"
+      ],
+      "location_cm": [
+        173.8299903869629,
+        56.493751525878906,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          107.58999252319336,
+          1.9937515258789062,
+          0.0
+        ],
+        "max": [
+          227.41999053955078,
+          127.09375,
+          166.30630493164062
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        167.50499153137207,
+        -32.0,
+        0.3
+      ],
+      "triangles": 55972,
+      "reopened_ground_error_cm": 0.0,
+      "blueprint": "/Game/Terrarium/Reconstruction/Blueprints/BP_Kindlehorn_R6",
+      "niagara_system": "/Game/Terrarium/Reconstruction/Effects/NS_KindlehornSparks_R4"
+    },
+    {
+      "source": "rillip.png",
+      "key": "rillip",
+      "module": "creatures_items",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_Rillip_R3.json",
+      "label": "Model_rillip_R3",
+      "text_actor": "Label_rillip",
+      "text": "rillip  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Rillip_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        395.7174892425537,
+        67.77375030517578,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          321.09499168395996,
+          25.173751831054688,
+          0.0
+        ],
+        "max": [
+          470.33998680114746,
+          103.91374969482422,
+          141.0
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        395.7174892425537,
+        -6.8262481689453125,
+        0.3
+      ],
+      "triangles": 39752,
+      "reopened_ground_error_cm": 0.0
+    }
+  ],
+  "latest_revisions_refreshed": true,
+  "lit_overview": "Characters.png",
+  "layout": "Native-scale rows; exact projected-bounds camera framing with 14 percent margin."
+}

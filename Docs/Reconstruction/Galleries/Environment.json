@@ -1,0 +1,356 @@
+{
+  "map": "/Game/Terrarium/Reconstruction/Maps/Environment",
+  "category": "Environment",
+  "expected_models": 7,
+  "saved_reopened_model_count": 7,
+  "saved_reopened_label_count": 7,
+  "all_meshes_and_materials_exist": true,
+  "all_model_footprints_separate": true,
+  "ground_tolerance_cm": 0.02,
+  "all_models_grounded": true,
+  "native_validation": "saved map reopened; actor counts, mesh paths, materials, scale and actual bounds verified",
+  "visual_acceptance": "not_asserted",
+  "studio": {
+    "floor_top_z_cm": 0.0,
+    "floor_material": "/Game/Terrarium/Reconstruction/Materials/M_StudioFloor",
+    "camera_label": "GalleryOverviewCamera",
+    "lights": [
+      {
+        "label": "GalleryKey",
+        "intensity": 3.2,
+        "casts_shadows": true
+      },
+      {
+        "label": "GalleryFrontFill",
+        "intensity": 1.5,
+        "casts_shadows": false
+      },
+      {
+        "label": "GalleryBackFill",
+        "intensity": 1.6,
+        "casts_shadows": false
+      },
+      {
+        "label": "GalleryRim",
+        "intensity": 1.0,
+        "casts_shadows": false
+      }
+    ],
+    "exposure": "fixed manual, physical camera exposure disabled",
+    "visual_acceptance": "not_asserted",
+    "camera_fitted_to_all_bounds": true
+  },
+  "models": [
+    {
+      "source": "wheat_field.png",
+      "key": "wheat_field",
+      "module": "environment",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_WheatField_R3.json",
+      "label": "Model_wheat_field_R3",
+      "text_actor": "Label_wheat_field",
+      "text": "wheat field  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_WheatField_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        -358.45409393310547,
+        80.78265380859375,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -484.19457244873047,
+          0.0,
+          0.0
+        ],
+        "max": [
+          -232.66488647460938,
+          161.53152465820312,
+          51.99388122558594
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -358.4297294616699,
+        -32.0,
+        0.3
+      ],
+      "triangles": 422400,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "meadow_shrub.png",
+      "key": "meadow_shrub",
+      "module": "environment",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_MeadowShrub_R3.json",
+      "label": "Model_meadow_shrub_R3",
+      "text_actor": "Label_meadow_shrub",
+      "text": "meadow shrub  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MeadowShrub_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        14.090606689453125,
+        83.53914833068848,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -52.664886474609375,
+          35.53914833068848,
+          0.0
+        ],
+        "max": [
+          91.69457244873047,
+          125.99237632751465,
+          102.1568603515625
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        19.514842987060547,
+        3.5391483306884766,
+        0.3
+      ],
+      "triangles": 81400,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "homestead_riverbank_v2.png",
+      "key": "homestead_riverbank_v2",
+      "module": "environment",
+      "revision": 6,
+      "receipt": "Docs/Reconstruction/Builds/SM_Recon_Riverbank_R6.json",
+      "label": "Model_homestead_riverbank_v2_R6",
+      "text_actor": "Label_homestead_riverbank_v2",
+      "text": "riverbank  |  R6",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Riverbank_R6",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        374.94457244873047,
+        80.2111930847168,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          287.92957305908203,
+          -6.803806304931641,
+          0.0
+        ],
+        "max": [
+          467.9595718383789,
+          168.33533096313477,
+          107.0
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        377.94457244873047,
+        -19.984237670898438,
+        0.3
+      ],
+      "triangles": 50160,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "river_crossing.png",
+      "key": "river_crossing",
+      "module": "environment",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_RiverCrossing_R3.json",
+      "label": "Model_river_crossing_R3",
+      "text_actor": "Label_river_crossing",
+      "text": "river crossing  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_RiverCrossing_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        -410.34452056884766,
+        520.0315246582031,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -479.34452056884766,
+          376.5315246582031,
+          0.0
+        ],
+        "max": [
+          -341.34452056884766,
+          772.4915313720703,
+          124.95999908447266
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -410.34452056884766,
+        344.5315246582031,
+        0.3
+      ],
+      "triangles": 48840,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "rock.png",
+      "key": "rock",
+      "module": "environment",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_MossRock_R3.json",
+      "label": "Model_rock_R3",
+      "text_actor": "Label_rock",
+      "text": "rock  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MossRock_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        -80.14452362060547,
+        583.5740280151367,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -161.34452056884766,
+          490.49903106689453,
+          0.0
+        ],
+        "max": [
+          1.0554733276367188,
+          658.5240249633789,
+          143.44639587402344
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        -80.14452362060547,
+        458.49903106689453,
+        0.3
+      ],
+      "triangles": 25696,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "homestead_tree_v2.png",
+      "key": "homestead_tree_v2",
+      "module": "environment",
+      "revision": 5,
+      "receipt": "Docs/Reconstruction/Builds/SM_Recon_HomesteadTree_R5.json",
+      "label": "Model_homestead_tree_v2_R5",
+      "text_actor": "Label_homestead_tree_v2",
+      "text": "homestead tree  |  R5",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_HomesteadTree_R5",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        323.344539642334,
+        580.3451614379883,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          221.4797477722168,
+          465.2574691772461,
+          0.0
+        ],
+        "max": [
+          438.9202461242676,
+          683.7655868530273,
+          348.0274963378906
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        330.1999969482422,
+        448.7333183288574,
+        0.3
+      ],
+      "triangles": 44000,
+      "reopened_ground_error_cm": 0.0
+    },
+    {
+      "source": "tree.png",
+      "key": "tree",
+      "module": "environment",
+      "revision": 3,
+      "receipt": "Docs\\Reconstruction\\Builds\\SM_Recon_AncientTree_R3.json",
+      "label": "Model_tree_R3",
+      "text_actor": "Label_tree",
+      "text": "tree  |  R3",
+      "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_AncientTree_R3",
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "location_cm": [
+        -1.98699951171875,
+        1072.4589462280273,
+        0.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "world_bounds_cm": {
+        "min": [
+          -245.65737915039062,
+          987.4915313720703,
+          0.0
+        ],
+        "max": [
+          245.65737915039062,
+          1163.8143310546875,
+          434.5447082519531
+        ]
+      },
+      "ground_error_cm": 0.0,
+      "label_location_cm": [
+        0.0,
+        955.4915313720703,
+        0.3
+      ],
+      "triangles": 205392,
+      "reopened_ground_error_cm": 0.0
+    }
+  ],
+  "latest_revisions_refreshed": true,
+  "lit_overview": "Environment.png",
+  "layout": "Ascending height from front to back; exact projected-bounds camera framing with 14 percent margin."
+}

@@ -1,0 +1,50 @@
+{
+  "views": [
+    {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R7",
+      "name": "SM_Recon_CivicHall_R7-front",
+      "yaw": 115,
+      "pitch": -24,
+      "resolution": 1254
+    },
+    {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R7",
+      "name": "SM_Recon_CivicHall_R7-back",
+      "yaw": 295,
+      "pitch": -24,
+      "resolution": 1254
+    },
+    {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R7",
+      "name": "SM_Recon_CivicHall_R7-entrance",
+      "focus": [
+        0,
+        -200,
+        180
+      ],
+      "distance": 1400,
+      "yaw": 105,
+      "pitch": -12,
+      "resolution": 1254
+    },
+    {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R7",
+      "name": "SM_Recon_CivicHall_R7-rear-stone",
+      "focus": [
+        0,
+        165,
+        92
+      ],
+      "distance": 2900,
+      "yaw": 280,
+      "pitch": -9,
+      "resolution": 1254
+    }
+  ],
+  "lighting": "unchanged saved ReviewStage",
+  "render": "native Unreal Lit; frames yielded between shots",
+  "resolution": [
+    1254,
+    1254
+  ]
+}
