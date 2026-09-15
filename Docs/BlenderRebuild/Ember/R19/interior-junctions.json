@@ -1,0 +1,108 @@
+{
+  "junctions": [
+    {
+      "between": [
+        "Flame cube.104",
+        "Flame cube.102"
+      ],
+      "gap_m": 0.004389733076095581,
+      "center_m": [
+        -0.28266438841819763,
+        -0.24617768079042435,
+        0.36180512607097626
+      ],
+      "dimensions_m": [
+        0.05,
+        0.025,
+        0.029389733076095582
+      ]
+    },
+    {
+      "between": [
+        "Flame cube.097",
+        "Flame cube.096"
+      ],
+      "gap_m": 0.007752358865188168,
+      "center_m": [
+        -0.18775998055934906,
+        -0.16569824516773224,
+        0.5700456500053406
+      ],
+      "dimensions_m": [
+        0.026333802938461305,
+        0.03263675570487976,
+        0.05
+      ]
+    },
+    {
+      "between": [
+        "Flame cube.100",
+        "Flame cube.102"
+      ],
+      "gap_m": 0.011280834674835205,
+      "center_m": [
+        -0.272941529750824,
+        -0.22542395442724228,
+        0.45175957679748535
+      ],
+      "dimensions_m": [
+        0.0372309684753418,
+        0.04883365333080292,
+        0.036280834674835206
+      ]
+    },
+    {
+      "between": [
+        "Flame cube.022",
+        "Solid flame interior.289"
+      ],
+      "gap_m": 0.016864001750946045,
+      "center_m": [
+        0.5398206412792206,
+        0.12956799566745758,
+        0.5040000081062317
+      ],
+      "dimensions_m": [
+        0.044358670711517334,
+        0.041864001750946046,
+        0.025
+      ]
+    },
+    {
+      "between": [
+        "Flame cube.095",
+        "Solid flame interior.334"
+      ],
+      "gap_m": 0.026492297649383545,
+      "center_m": [
+        -0.202671118080616,
+        -0.15524613857269287,
+        0.7130456566810608
+      ],
+      "dimensions_m": [
+        0.025,
+        0.051492297649383546,
+        0.05
+      ]
+    },
+    {
+      "between": [
+        "Flame cube.023",
+        "Flame cube.022"
+      ],
+      "gap_m": 0.03489512508332865,
+      "center_m": [
+        0.6138799786567688,
+        0.135310098528862,
+        0.546369731426239
+      ],
+      "dimensions_m": [
+        0.045348191261291505,
+        0.053348207473754884,
+        0.05
+      ]
+    }
+  ],
+  "purpose": "Solid volume spanning short gaps between the measured front blocks. Four reference sparks are explicitly excluded.",
+  "limits": "Inferred hidden structure; no mechanical strength or rigid-body balance claim."
+}
