@@ -1,0 +1,103 @@
+"""Bind Brambit's source, exports, captures and tested limits into one review."""
+import json,hashlib,html,ast,struct
+from pathlib import Path
+import numpy as np
+from PIL import Image
+root=Path(__file__).resolve().parents[2];out=root/'Docs/BlenderRebuild/Brambit';src=root/'SourceAssets/Blender/Brambit'
+def read(name):return json.loads((out/name).read_text())
+def sha(path):return hashlib.sha256(path.read_bytes()).hexdigest()
+mesh=read('mesh-validation.json');saved=read('saved-blend-verification.json');source=read('source-validation.json');world=read('saved-world-verification.json');placement=read('world-placement.json')
+assert sha(src/'Brambit.blend')==saved['sha256']==source['source_blend_sha256']==world['source_blend_sha256']
+assert saved['direct_project_open_in_independent_process'] and mesh['all_parts_closed_positive_volume']
+assert source['construction_blocks']==185 and len(source['union_volumes'])==5 and source['foot_samples']==20
+assert list(map(len,read('connection-verification.json')['components']))==[5]
+shoots=read('shoot-topology-verification.json');assert shoots['source_blend_sha256']==saved['sha256'] and len(shoots['shoots'])==3
+assert all(row['evaluated_connected_components']==1 and row['closed_positive_volume'] for row in shoots['shoots'])
+for filename,row in mesh['files'].items():assert sha(src/filename)==row['sha256']
+assert world['reload_verified'] and world['material_verified'] and len(world['foot_samples'])==20 and all(row['passed'] for row in world['foot_samples'])
+assert sha(src/'SM_Blender_Brambit.fbx')==world['source_fbx_sha256']==read('unreal-import.json')['source_fbx_sha256']
+assert all(p.read_bytes()[24]==8 for p in src.glob('*.png'))
+uv_report=read('surface-uv-verification.json');assert uv_report['source_blend_sha256']==saved['sha256'] and len(uv_report['parts'])==5
+assert all(row['faces_with_texture_area']==row['surface_faces'] for row in uv_report['parts'])
+landmarks=read('foot-landmark-verification.json');assert landmarks['source_blend_sha256']==saved['sha256'] and len(landmarks['landmarks'])==3
+assert all(row['error_pixels']<2 for row in landmarks['landmarks'])
+burrs=read('front-burr-verification.json');assert burrs['source_blend_sha256']==saved['sha256']
+assert len(burrs['burrs'])==4 and all(row['error_pixels']<.01 for row in burrs['burrs'])
+assert len(burrs['connected_sections'])==5 and all(row['connected_components']==1 for row in burrs['connected_sections'])
+crown=read('front-crown-verification.json');assert crown['source_blend_sha256']==saved['sha256']
+assert len(crown['courses'])==5 and all(row['error_pixels']<.01 for row in crown['courses'])
+bark=read('bark-envelope-verification.json');assert bark['source_blend_sha256']==saved['sha256']
+assert len(bark['patches'])==44 and bark['samples']>0 and bark['maximum_relief_m']<.003002
+texture_rows=[]
+for kind in ['BaseColor','Roughness']:
+    path=src/f'Brambit_{kind}.png';pixels=np.array(Image.open(path).convert('RGB'))[::-1];assert pixels.shape==(1024,1024,3)
+    counts=[]
+    for index in range(16):
+        cell=pixels[index//8*128:(index//8+1)*128,index%8*128:(index%8+1)*128]
+        counts.append(len(np.unique(cell.reshape(-1,3),axis=0)))
+    assert all(count>=8 for index,count in enumerate(counts) if kind!='BaseColor' or index!=7)
+    if kind=='BaseColor':
+        # The dark pigment has only 2% variation. PNG8 quantization legitimately
+        # merges shades; verify its small nonzero range instead of demanding
+        # the brighter cells' number of distinct encoded colors.
+        dark=pixels[:128,7*128:8*128].reshape(-1,3).astype(int)
+        assert counts[7]>=2 and 0<np.max(np.ptp(dark,axis=0))<=4
+        assert np.max(np.abs(np.mean(dark,axis=0)-np.array([61,56,39])))<2
+    texture_rows.append({'map':kind,'sha256':sha(path),'size':[1024,1024],'unique_colors_per_pigment_cell':counts})
+(out/'surface-texture-verification.json').write_text(json.dumps({'source_blend_sha256':saved['sha256'],'maps':texture_rows,'limits':'Stored pixel variation and source UV coverage. Does not establish visual fidelity.'},indent=2))
+paint=read('authored-pigment-regions.json');assert paint['atlas_size']==[1024,1024] and len(paint['regions'])==9
+pixels=np.array(Image.open(src/'Brambit_BaseColor.png').convert('RGB'))[::-1]
+lo=mesh['bounds_m']['min'];hi=mesh['bounds_m']['max'];paint_samples=[]
+for region in paint['regions']:
+    xmin,xmax,zmin,zmax=region['world_xz_bounds_m'];cell=region['palette_cell']
+    u=cell%8/8+.006+.113*((xmin+xmax)/2-lo[0])/(hi[0]-lo[0])
+    v=cell//8/8+.006+.113*((zmin+zmax)/2-lo[2])/(hi[2]-lo[2])
+    actual=pixels[int(v*1024),int(u*1024)].astype(int)
+    expected=np.array([int(region['pigment_srgb_hex'][i:i+2],16) for i in (0,2,4)])
+    error=int(np.max(np.abs(actual-expected)))
+    assert error<=7,(region['region'],actual,expected)
+    paint_samples.append({'region':region['region'],'encoded_rgb':actual.tolist(),'max_channel_error':error})
+(out/'authored-pigment-verification.json').write_text(json.dumps({'source_blend_sha256':saved['sha256'],'base_color_sha256':sha(src/'Brambit_BaseColor.png'),'samples':paint_samples,'limits':'Nine stored region-center samples after color-managed PNG export; does not establish overall concept fidelity.'},indent=2))
+data=(src/'SM_Blender_Brambit.glb').read_bytes();size=struct.unpack_from('<I',data,12)[0];glb=json.loads(data[20:20+size])
+assert len(glb['meshes'])==1 and len(glb['meshes'][0]['primitives'])==1 and len(glb['images'])==3
+assert all(m['pbrMetallicRoughness'].get('metallicFactor',1)==0 for m in glb['materials'])
+reference=np.array(Image.open(root/'SourceAssets/Voxel/brambit.png')).astype(int)
+mask=~((reference[:,:,0]>reference[:,:,1]+60)&(reference[:,:,2]>reference[:,:,1]+60))
+render=np.array(Image.open(out/'front.png'))[:,:,3]>127;assert mask.shape==render.shape==(1254,1254)
+(out/'silhouette-verification.json').write_text(json.dumps({'source_sha256':mesh['source_sha256'],'render_sha256':sha(out/'front.png'),'intersection_over_union':float(np.sum(mask&render)/np.sum(mask|render)),'mismatched_pixels':int(np.sum(mask^render)),'method':'Fixed reference camera, no image registration or optimization; source chroma foreground versus rendered alpha.','limits':'Projected outline only. Does not measure internal block layout, colors, face expression, depth or unseen anatomy.'},indent=2))
+previous_path=out/'R16/front.png';previous=np.array(Image.open(previous_path))[:,:,3]>127
+assert previous.shape==mask.shape
+def span(image,y):
+    xs=np.flatnonzero(image[y]);return [int(xs[0]),int(xs[-1])] if len(xs) else None
+contour={'source_sha256':sha(root/'SourceAssets/Voxel/brambit.png'),'source_blend_sha256':saved['sha256'],'previous_render_sha256':sha(previous_path),'render_sha256':sha(out/'front.png'),'previous_revision':'r16_surface_following_bark','revision':'r17_body_contour','previous_outline_iou':float(np.sum(mask&previous)/np.sum(mask|previous)),'current_outline_iou':float(np.sum(mask&render)/np.sum(mask|render)),'sampled_rows':[{'y':y,'concept_span':span(mask,y),'previous_span':span(previous,y),'current_span':span(render,y)} for y in range(660,881,20)],'method':'Same fixed 1254-pixel reference camera; magenta chroma foreground versus rendered alpha above 127. No image registration.','limits':'Outline overlap and row extents only, not a fidelity score. Does not evaluate colors, internal block layout, depth or unseen anatomy.'}
+(out/'body-contour-verification.json').write_text(json.dumps(contour,indent=2))
+remaining=[
+ 'The middle rear body section is narrower, the upper right bark shoulder extends to the source outline, and the far-left projecting knot is raised and slightly deeper. The body still differs from the reference; the cap now has a raised rear ridge, inset brown saddle, taller left shoulder and a descending moss block over the bark. Five front courses now follow measured concept corners, with a lower left lip, a short moss block beside the forehead, a brown interruption below it and a revised right-front step. The central shoulder has also been lowered. The overall footprint, overhang depth and remaining courses still need closer matching. The forehead now has physical depth, while its transition into surrounding moss remains too regular.',
+ 'Thirty side and fourteen rear bark regions now follow the stepped body surface with 2-3 mm relief, replacing rectangles that extended across changes in the body shape. Sparse projecting knots remain. Four front-edge protrusions now follow measured lower-face and outer-right corners, with the left one joined at the side-facing depth. The bark boundary layout and colors still differ from the source; rear anatomy is inferred because no rear concept was supplied.',
+ 'The main tan face follows measured source boundaries. The lower tan panels have been extended to remove the recessed bottom strip, but their divisions and colors still need closer matching. The feet are narrower and their three visible sole corners now follow measured concept landmarks; the hidden fourth foot remains inferred.',
+ 'The leaf joins now meet the front plane, closing the dark notches, and stay within the leaf depth to remove the protruding join ledges. Selected leaf faces have shallow physical relief. Their seam layout, color, stem exposure and inferred rear arrangement still differ from the concept.',
+ 'The 1024-pixel pigment and roughness maps now combine authored face and belly color regions with stronger rectangular variation in the bark and moss. The forehead recess has been filled and replaced with pigment on the face. Region boundaries and distribution still differ from the source; the Unreal face remains darker than the studio reference. The microscopic Boolean slivers have been removed; all current source faces pass the UV-area check.',
+ 'Four feet and twenty sole samples pass static support checks, with uneven-ground clearance below 5.5 mm. This model has no rig, animation, locomotion or physics validation.'
+]
+revision='r17_body_contour'
+review={'revision':revision,'accepted_fidelity':False,'visually_checked':True,'parts':5,'editable_construction_blocks':185,'triangles':mesh['triangles'],'studio_views':['front.png','left.png','side.png','rear.png'],'world_views':['World/unreal-viewport.png','Side/unreal-viewport.png','Rear/unreal-viewport.png','Context/unreal-viewport.png'],'remaining':remaining}
+(out/'visual-review.json').write_text(json.dumps(review,indent=2))
+adapt=read('source-adaptation.json');adapt.update(revision=revision,status='imported_with_visual_refinement_open')
+for node in ast.walk(ast.parse((root/'Scripts/BlenderRebuild/brambit.py').read_text())):
+    if isinstance(node,ast.Dict):
+        values={k.value:v for k,v in zip(node.keys,node.values) if isinstance(k,ast.Constant)}
+        if 'revision' in values and isinstance(values.get('method'),ast.Constant):adapt['method']=values['method'].value
+(out/'source-adaptation.json').write_text(json.dumps(adapt,indent=2))
+placement['status']='saved_reload_and_native_views_verified_fidelity_open';(out/'world-placement.json').write_text(json.dumps(placement,indent=2))
+detail=f'Brambit is now a physical Blender source with an asymmetric moss crown, a raised rear ridge behind the stems, an inset brown saddle with exposed vertical faces, a raised left shoulder and descending moss skirt, five individually positioned front crown courses with a short moss overhang and exposed brown course, a lower central shoulder, a deeper forehead block, stepped body, tan face and belly, charcoal eyes and nose, four short legs and three asymmetrical leafy shoots. Thirty side and fourteen rear bark regions follow the actual stepped body surface with 2-3 mm relief, with sparse chunky side knots. Ray checks at {bark["samples"]} outward face centers confirm their distance from the four original body sections. Four nanometre-width Boolean line faces were merged into neighboring surfaces; large body polygons are triangulated before beveling to remove the dark lower-step artifacts observed in the candidate render. The lower tan panels extend to the bottom face boundary. Five closed volumes retain 185 hidden editable construction blocks. Four front bark protrusions were moved and resized to the measured concept corners around the lower face and outer right edge. The crown shoulder was unioned into the moss section, and each of the five evaluated sections now forms a single connected solid. Each leafy shoot now uses planar boundary quads instead of complex Boolean polygons, removing the diagonal shading artifacts in the checked studio views. The leaf joins now meet the front plane without the earlier dark notches, and the join blocks no longer extend beyond the leaf depth. Selected leaf faces have shallow physical relief. All three shoots are individually connected closed solids and preserve their authored bounds within 1.1 micrometres. The model exports to {mesh["triangles"]:,} triangles with one opaque, nonmetallic material and three packed PNG8 maps. The 1024-pixel pigment and roughness maps include nine authored face and belly regions plus stronger block variation across bark and moss, sampled through planar UVs. The forehead mark is now painted on a continuous surface instead of recessed geometry, and the eyes sit closer to the face. Microscopic Boolean slivers were cleaned from the crown and body before beveling; every authored boundary face now has usable UV area. The feet have been narrowed and repositioned, and the legs shortened. Three visible lower foot corners project within one pixel of approximate landmarks read from the concept; this checks only those corners. The normal Blender project reopened independently. It is saved in HomesteadBlender at {placement["height_cm"]:.2f} cm tall, on courtyard grass near the existing explorer. Twenty imported sole samples across four feet match the source and clear the uneven ground by at most {world["max_clearance_cm"]*10:.2f} mm after map reload. The middle rear body section is narrower, a physical upper-right bark shoulder restores the missing outline step, and the far-left knot is raised and slightly deeper. Fixed-camera outline overlap is {contour["current_outline_iou"]:.4f}, compared with {contour["previous_outline_iou"]:.4f} in R16; this measures the silhouette only. Substantial fidelity work remains.'
+cards=[('Original concept','../../../SourceAssets/Voxel/brambit.png'),('Previous R16 reference view','R16/front.png'),('Previous R16 rear left','R16/left.png'),('Blender reference view','front.png'),('Blender opposite front','side.png'),('Blender rear left','left.png'),('Blender rear','rear.png'),('Unreal front','World/unreal-viewport.png'),('Unreal side','Side/unreal-viewport.png'),('Unreal rear','Rear/unreal-viewport.png'),('Unreal courtyard context','Context/unreal-viewport.png')]
+for _,path in cards:assert (out/path).resolve().is_file()
+figures=''.join(f'<figure><figcaption>{html.escape(title)}</figcaption><a href="{path}"><img src="{path}" alt="{html.escape(title)}"></a></figure>' for title,path in cards)
+(out/'comparison.html').write_text('<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Brambit concept and Blender model</title><style>body{margin:32px;background:#23251c;color:#f5ebd1;font:16px/1.5 system-ui}main{display:grid;grid-template-columns:repeat(auto-fit,minmax(350px,1fr));gap:18px}figure{margin:0;padding:12px;background:#343b28}img{width:100%;height:450px;object-fit:contain}p{max-width:1100px}a{color:inherit}</style><h1>Brambit - fidelity remains open</h1><p>'+detail+'</p><main>'+figures+'</main><ul>'+''.join('<li>'+html.escape(item)+'</li>' for item in remaining)+'</ul></html>',encoding='utf-8')
+readme=root/'Docs/BlenderRebuild/README.md';text=readme.read_text(encoding='utf-8')
+text=text.replace('All 32 currently authored Blender outputs (25 source concepts and seven placement variants)','All 33 currently authored Blender outputs (26 source concepts and seven placement variants)')
+start=text.find('\n## Brambit\n')
+if start!=-1:
+    end=text.find('\n## ',start+12);text=text[:start]+(text[end:] if end!=-1 else '')
+readme.write_text(text+'\n## Brambit\n\n'+detail+' See `Brambit/comparison.html` for the source, studio views and native Unreal captures.\n\n'+' '.join(remaining)+'\n',encoding='utf-8')
+print(json.dumps({'asset':'Brambit','volumes':5,'editable_blocks':185,'triangles':mesh['triangles'],'foot_samples':20,'accepted_fidelity':False}))
