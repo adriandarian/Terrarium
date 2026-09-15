@@ -1,0 +1,9 @@
+{
+  "revision": "r20_tapered_gold_tip",
+  "source": "SourceAssets/Voxel/storm.png",
+  "source_sha256": "b23e8784bc6f42c499d76fe7d156881101fc5ecfdeb2fc9df4c78895a1fe996c",
+  "method": "Raised cream hexahedra reconstructed from visible corners, a broad faceted cream crossbar and angled lower cream solids, stepped gold body, four sculpted gold edge solids, connected cloud clusters, and ten detached source sparks. Reference elevation and cube seam anchors corrected to 30 degrees. Pigment and roughness atlases shade actual geometry; source artwork is not projected onto the mesh.",
+  "inferred": "Depth, backs, cloud connections and lighting are inferred from one concept view.",
+  "status": "imported_with_visual_refinement_open",
+  "accepted_fidelity": false
+}

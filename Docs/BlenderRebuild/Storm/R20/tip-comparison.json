@@ -1,0 +1,20 @@
+{
+  "region_xyxy": [
+    430,
+    940,
+    650,
+    1130
+  ],
+  "source_sha256": "b23e8784bc6f42c499d76fe7d156881101fc5ecfdeb2fc9df4c78895a1fe996c",
+  "limits": "Fixed lower-tip crop, same reference camera. Binary outline overlap only; not surface, depth or overall fidelity approval.",
+  "R18": {
+    "intersection_over_union": 0.7525283797729618,
+    "mismatched_pixels": 5995,
+    "render_sha256": "63cb5e337b97270a4399b7c188a9f1bd2ab90da67947237900ed8fcaa5204c26"
+  },
+  "R20": {
+    "intersection_over_union": 0.9269984306181339,
+    "mismatched_pixels": 1442,
+    "render_sha256": "ce735574fc68398286f6224df36dab4603167e2d3175d1c0bdb8a327cb067b59"
+  }
+}
