@@ -1,0 +1,26 @@
+{
+  "source": "terrain_trail_top_v9_candidate.png",
+  "key": "terrain_trail_top_v9_candidate",
+  "module": "surfaces",
+  "revision": 1,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v9_candidate",
+  "name": "SM_Recon_terrain_trail_top_v9_candidate",
+  "bounds_cm": {
+    "min": [
+      0.009999999999999787,
+      0.009999999999999787,
+      0.0
+    ],
+    "max": [
+      99.99,
+      99.99,
+      5.9
+    ]
+  },
+  "triangles": 17600,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "660db6f77f2d9ef3f4f4cc74a55ae5d706ba9e02a6bc10cbe2eb6b712531d6da",
+  "seconds": 1.25,
+  "visual_acceptance": "reviewed_original_texture_on_authored_relief",
+  "visual_review_document": "Docs/Reconstruction/visual-review.md"
+}
