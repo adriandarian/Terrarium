@@ -1,0 +1,627 @@
+{
+  "method": "Evaluated surface nearest-normal interior test plus three-direction odd ray parity; witness at least 0.2 mm from both boundaries. Missing edges are inconclusive. Individually closed outward meshes are required.",
+  "edges": [
+    {
+      "a": "Golden lightning body",
+      "b": "Cream middle block",
+      "interior_witness_m": [
+        0.024155806750059128,
+        0.14729374647140503,
+        0.8384438753128052
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Cream crossbar and main face",
+      "interior_witness_m": [
+        0.04500000178813934,
+        0.11948253959417343,
+        0.6357581615447998
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Cream lower angled face",
+      "interior_witness_m": [
+        0.019999999552965164,
+        0.11415600031614304,
+        0.37847384810447693
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Lightning cube.003",
+      "interior_witness_m": [
+        0.03581909090280533,
+        -0.0869145467877388,
+        1.0177913904190063
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Lightning cube.004",
+      "interior_witness_m": [
+        0.025819091126322746,
+        -0.03903229534626007,
+        1.0003219842910767
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Lightning cube.005",
+      "interior_witness_m": [
+        0.024924978613853455,
+        0.19676735997200012,
+        0.791968047618866
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Lightning cube.009",
+      "interior_witness_m": [
+        0.04666762053966522,
+        0.14465689659118652,
+        0.9303610324859619
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Lightning cube.010",
+      "interior_witness_m": [
+        0.0429404117166996,
+        0.2811643183231354,
+        0.7563136219978333
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Lightning cube.011",
+      "interior_witness_m": [
+        0.038364674896001816,
+        0.33395540714263916,
+        0.5829596519470215
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Lightning cube.012",
+      "interior_witness_m": [
+        0.03331908956170082,
+        -0.017244070768356323,
+        0.933452308177948
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Lightning cube.013",
+      "interior_witness_m": [
+        0.05999999865889549,
+        -0.12328207492828369,
+        1.0302135944366455
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Lightning cube.014",
+      "interior_witness_m": [
+        0.03374335542321205,
+        0.19997915625572205,
+        0.3715749979019165
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Lightning cube.015",
+      "interior_witness_m": [
+        0.028227921575307846,
+        0.24495112895965576,
+        0.8385359048843384
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Gold upper diagonal ledge",
+      "interior_witness_m": [
+        0.04591578245162964,
+        -0.10121433436870575,
+        0.9391398429870605
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Gold middle bevel",
+      "interior_witness_m": [
+        0.06668893992900848,
+        -0.12940794229507446,
+        0.6979328393936157
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Gold lower bevel",
+      "interior_witness_m": [
+        0.06458795815706253,
+        -0.1506456732749939,
+        0.6425771713256836
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Gold tip shoulder",
+      "interior_witness_m": [
+        0.025550706312060356,
+        -0.009078413248062134,
+        0.42025983333587646
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Cloud cube.002",
+      "interior_witness_m": [
+        0.031622033566236496,
+        0.27337077260017395,
+        0.873408317565918
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Cloud cube.004",
+      "interior_witness_m": [
+        0.024970563128590584,
+        0.3371141850948334,
+        0.759978175163269
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Cloud cube.008",
+      "interior_witness_m": [
+        0.017091883346438408,
+        0.34958547353744507,
+        0.4888327121734619
+      ]
+    },
+    {
+      "a": "Golden lightning body",
+      "b": "Cloud cube.014",
+      "interior_witness_m": [
+        0.09648974239826202,
+        0.038292769342660904,
+        0.3614981770515442
+      ]
+    },
+    {
+      "a": "Cream upper block",
+      "b": "Lightning cube.004",
+      "interior_witness_m": [
+        -0.021209269762039185,
+        -0.023563124239444733,
+        1.0683287382125854
+      ]
+    },
+    {
+      "a": "Cream upper block",
+      "b": "Lightning cube.007",
+      "interior_witness_m": [
+        -0.009512213058769703,
+        -0.021041063591837883,
+        1.147782564163208
+      ]
+    },
+    {
+      "a": "Cream upper block",
+      "b": "Lightning cube.008",
+      "interior_witness_m": [
+        -0.022012213245034218,
+        0.0593174546957016,
+        1.127837061882019
+      ]
+    },
+    {
+      "a": "Cream middle block",
+      "b": "Lightning cube.005",
+      "interior_witness_m": [
+        0.004230828955769539,
+        0.18621844053268433,
+        0.7647637724876404
+      ]
+    },
+    {
+      "a": "Cream middle block",
+      "b": "Lightning cube.009",
+      "interior_witness_m": [
+        0.007994132116436958,
+        0.14405818283557892,
+        0.9309653043746948
+      ]
+    },
+    {
+      "a": "Cream crossbar and main face",
+      "b": "Cream lower angled face",
+      "interior_witness_m": [
+        0.007124984171241522,
+        0.11415600031614304,
+        0.46259257197380066
+      ]
+    },
+    {
+      "a": "Cream crossbar and main face",
+      "b": "Lightning cube.011",
+      "interior_witness_m": [
+        0.019999999552965164,
+        0.33395540714263916,
+        0.5829596519470215
+      ]
+    },
+    {
+      "a": "Cream crossbar and main face",
+      "b": "Lightning cube.014",
+      "interior_witness_m": [
+        0.048738040030002594,
+        0.16425007581710815,
+        0.4301820397377014
+      ]
+    },
+    {
+      "a": "Cream lower angled face",
+      "b": "Cream tip facets",
+      "interior_witness_m": [
+        -0.005156666040420532,
+        0.16551163792610168,
+        0.27506402134895325
+      ]
+    },
+    {
+      "a": "Cream lower angled face",
+      "b": "Lightning cube.014",
+      "interior_witness_m": [
+        0.0012566456571221352,
+        0.1905222088098526,
+        0.33564114570617676
+      ]
+    },
+    {
+      "a": "Lightning cube",
+      "b": "Lightning cube.001",
+      "interior_witness_m": [
+        0.08500000089406967,
+        -0.013429262675344944,
+        1.2989180088043213
+      ]
+    },
+    {
+      "a": "Lightning cube.001",
+      "b": "Lightning cube.006",
+      "interior_witness_m": [
+        0.04953015223145485,
+        -0.01156387384980917,
+        1.23954439163208
+      ]
+    },
+    {
+      "a": "Lightning cube.002",
+      "b": "Lightning cube.003",
+      "interior_witness_m": [
+        0.019999999552965164,
+        -0.12043140828609467,
+        1.1586933135986328
+      ]
+    },
+    {
+      "a": "Lightning cube.002",
+      "b": "Cloud cube.005",
+      "interior_witness_m": [
+        0.04999999701976776,
+        -0.16807173192501068,
+        1.2121407985687256
+      ]
+    },
+    {
+      "a": "Lightning cube.002",
+      "b": "Cloud cube.006",
+      "interior_witness_m": [
+        0.05636396259069443,
+        -0.17443569004535675,
+        1.1612184047698975
+      ]
+    },
+    {
+      "a": "Lightning cube.003",
+      "b": "Lightning cube.004",
+      "interior_witness_m": [
+        0.009999999776482582,
+        -0.06297342479228973,
+        1.063628077507019
+      ]
+    },
+    {
+      "a": "Lightning cube.003",
+      "b": "Lightning cube.007",
+      "interior_witness_m": [
+        0.019999999552965164,
+        -0.05127636343240738,
+        1.148993730545044
+      ]
+    },
+    {
+      "a": "Lightning cube.003",
+      "b": "Lightning cube.012",
+      "interior_witness_m": [
+        0.017500000074505806,
+        -0.06141311675310135,
+        0.9899543523788452
+      ]
+    },
+    {
+      "a": "Lightning cube.003",
+      "b": "Lightning cube.013",
+      "interior_witness_m": [
+        0.04169705510139465,
+        -0.10679536312818527,
+        1.0567514896392822
+      ]
+    },
+    {
+      "a": "Lightning cube.004",
+      "b": "Lightning cube.007",
+      "interior_witness_m": [
+        0.011697055771946907,
+        -0.027335237711668015,
+        1.1315243244171143
+      ]
+    },
+    {
+      "a": "Lightning cube.004",
+      "b": "Lightning cube.012",
+      "interior_witness_m": [
+        0.007500000298023224,
+        -0.03747199475765228,
+        0.9724849462509155
+      ]
+    },
+    {
+      "a": "Lightning cube.005",
+      "b": "Lightning cube.015",
+      "interior_witness_m": [
+        0.011697055771946907,
+        0.22382909059524536,
+        0.8155983686447144
+      ]
+    },
+    {
+      "a": "Lightning cube.006",
+      "b": "Lightning cube.007",
+      "interior_witness_m": [
+        0.019999999552965164,
+        0.01151471771299839,
+        1.1787850856781006
+      ]
+    },
+    {
+      "a": "Lightning cube.007",
+      "b": "Lightning cube.008",
+      "interior_witness_m": [
+        0.007500000298023224,
+        0.060108743607997894,
+        1.145343542098999
+      ]
+    },
+    {
+      "a": "Lightning cube.010",
+      "b": "Lightning cube.015",
+      "interior_witness_m": [
+        0.015287510119378567,
+        0.25457245111465454,
+        0.7963855266571045
+      ]
+    },
+    {
+      "a": "Lightning cube.012",
+      "b": "Gold upper diagonal ledge",
+      "interior_witness_m": [
+        0.015000000596046448,
+        -0.06918668001890182,
+        0.8975184559822083
+      ]
+    },
+    {
+      "a": "Lightning cube.015",
+      "b": "Cloud cube.002",
+      "interior_witness_m": [
+        0.014999998733401299,
+        0.2644672691822052,
+        0.8707520961761475
+      ]
+    },
+    {
+      "a": "Gold upper diagonal ledge",
+      "b": "Cloud cube.010",
+      "interior_witness_m": [
+        0.056752126663923264,
+        -0.2881517708301544,
+        0.8562895655632019
+      ]
+    },
+    {
+      "a": "Gold lower bevel",
+      "b": "Cloud cube.012",
+      "interior_witness_m": [
+        0.08952464163303375,
+        -0.16053350269794464,
+        0.614146888256073
+      ]
+    },
+    {
+      "a": "Cloud cube",
+      "b": "Cloud cube.001",
+      "interior_witness_m": [
+        -0.03999999910593033,
+        0.318078875541687,
+        0.99013751745224
+      ]
+    },
+    {
+      "a": "Cloud cube.001",
+      "b": "Cloud cube.002",
+      "interior_witness_m": [
+        -0.00868162326514721,
+        0.3018796741962433,
+        0.921957790851593
+      ]
+    },
+    {
+      "a": "Cloud cube.003",
+      "b": "Cloud cube.004",
+      "interior_witness_m": [
+        -0.027030151337385178,
+        0.3666869103908539,
+        0.7838259935379028
+      ]
+    },
+    {
+      "a": "Cloud cube.007",
+      "b": "Cloud cube.008",
+      "interior_witness_m": [
+        -0.038302943110466,
+        0.33335238695144653,
+        0.43726691603660583
+      ]
+    },
+    {
+      "a": "Cloud cube.009",
+      "b": "Cloud cube.010",
+      "interior_witness_m": [
+        0.12386395037174225,
+        -0.37507057189941406,
+        0.8601536750793457
+      ]
+    },
+    {
+      "a": "Cloud cube.010",
+      "b": "Cloud cube.011",
+      "interior_witness_m": [
+        0.07778750360012054,
+        -0.3549618422985077,
+        0.8052834272384644
+      ]
+    },
+    {
+      "a": "Cloud cube.012",
+      "b": "Cloud cube.016",
+      "interior_witness_m": [
+        0.11999999731779099,
+        -0.16086280345916748,
+        0.5338725447654724
+      ]
+    },
+    {
+      "a": "Cloud cube.013",
+      "b": "Cloud cube.017",
+      "interior_witness_m": [
+        0.06000000238418579,
+        -0.12497913837432861,
+        0.40965723991394043
+      ]
+    },
+    {
+      "a": "Cloud cube.015",
+      "b": "Cloud cube.016",
+      "interior_witness_m": [
+        0.1459396928548813,
+        -0.14547012746334076,
+        0.44375723600387573
+      ]
+    },
+    {
+      "a": "Cloud cube.016",
+      "b": "Cloud cube.017",
+      "interior_witness_m": [
+        0.09042426198720932,
+        -0.1327386498451233,
+        0.4693400263786316
+      ]
+    }
+  ],
+  "components": [
+    [
+      "Cloud cube",
+      "Cloud cube.001",
+      "Cloud cube.002",
+      "Cloud cube.003",
+      "Cloud cube.004",
+      "Cloud cube.005",
+      "Cloud cube.006",
+      "Cloud cube.007",
+      "Cloud cube.008",
+      "Cloud cube.009",
+      "Cloud cube.010",
+      "Cloud cube.011",
+      "Cloud cube.012",
+      "Cloud cube.013",
+      "Cloud cube.014",
+      "Cloud cube.015",
+      "Cloud cube.016",
+      "Cloud cube.017",
+      "Cream crossbar and main face",
+      "Cream lower angled face",
+      "Cream middle block",
+      "Cream tip facets",
+      "Cream upper block",
+      "Gold lower bevel",
+      "Gold middle bevel",
+      "Gold tip shoulder",
+      "Gold upper diagonal ledge",
+      "Golden lightning body",
+      "Lightning cube",
+      "Lightning cube.001",
+      "Lightning cube.002",
+      "Lightning cube.003",
+      "Lightning cube.004",
+      "Lightning cube.005",
+      "Lightning cube.006",
+      "Lightning cube.007",
+      "Lightning cube.008",
+      "Lightning cube.009",
+      "Lightning cube.010",
+      "Lightning cube.011",
+      "Lightning cube.012",
+      "Lightning cube.013",
+      "Lightning cube.014",
+      "Lightning cube.015"
+    ],
+    [
+      "Spark"
+    ],
+    [
+      "Spark.001"
+    ],
+    [
+      "Spark.002"
+    ],
+    [
+      "Spark.003"
+    ],
+    [
+      "Spark.004"
+    ],
+    [
+      "Spark.005"
+    ],
+    [
+      "Spark.006"
+    ],
+    [
+      "Spark.007"
+    ],
+    [
+      "Spark.008"
+    ],
+    [
+      "Spark.009"
+    ]
+  ],
+  "body_parts": 44,
+  "detached_sparks": 10,
+  "source_blend_sha256": "6551a4ca26b501be7a317dc95de5566768fd735f87f20b90bc1715d8d85b0304",
+  "limits": "Connected overlapping closed solids, not a Boolean-unioned manifold or a rigid-body balance certification."
+}

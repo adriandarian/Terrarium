@@ -1,0 +1,9 @@
+{
+  "previous_revision": "R20",
+  "current_revision": "R21",
+  "source_blend_sha256": "2d2078255f9a731a05dda198b0c6be689b87308fa90dc24e7e1c04489f94eaa4",
+  "changed_alpha_mask_pixels": 32,
+  "previous_render_sha256": "ce735574fc68398286f6224df36dab4603167e2d3175d1c0bdb8a327cb067b59",
+  "current_render_sha256": "233d07e2eefa410415bc0e6347b7edb4e535c4f103c6c5cdcfdfee87718283e2",
+  "limits": "Same reference camera and binary render silhouettes. This only checks whether the rear reconstruction changed the front outline."
+}

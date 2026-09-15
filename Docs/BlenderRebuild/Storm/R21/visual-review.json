@@ -1,0 +1,29 @@
+{
+  "revision": "r21_sculpted_back_core",
+  "accepted_fidelity": false,
+  "visually_checked": true,
+  "parts": 54,
+  "triangles": 6952,
+  "connected_body_parts": 44,
+  "detached_source_sparks": 10,
+  "studio_views": [
+    "front.png",
+    "side.png",
+    "left.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "remaining": [
+    "The stepped gold upper body and sculpted gold diagonal improve the volume, but their outlines, proportions and facet boundaries still differ from the concept.",
+    "The 44 non-spark solids now form one connected group with positive interior overlap witnesses. They remain editable overlapping meshes, not a Boolean-unioned manifold.",
+    "Cloud cluster sizes, spacing and partial overlaps still differ from the source.",
+    "The cream now has raised blocks, a broad crossbar and lower facets. Block depths and seam transitions still differ from the source. Shorter cream backs reduce the exposed lower rear patches, but a narrow edge of the tip remains visible from the rear.",
+    "The flat gold rear cap has been replaced with a continuous raised ridge and angular surfaces. This unseen back is inferred from the front spine; its facet layout and transitions still need visual refinement.",
+    "Ten sparks follow the concept arrangement, with small remaining position and size differences.",
+    "Static tip contact and sampled post clearance passed; rigid-body balance, animation, gameplay and full collision have not been tested."
+  ]
+}
