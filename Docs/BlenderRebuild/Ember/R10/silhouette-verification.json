@@ -1,0 +1,25 @@
+{
+  "source_sha256": "3f85b40cc0a2660e9ff7c52d7644e7b84e9ec593108a713cd5f0915019d8904c",
+  "measurements": [
+    {
+      "revision": "R4",
+      "intersection_over_union": 0.9338525998334546,
+      "mismatched_pixels": 35269,
+      "render_sha256": "82d2a0cc8c47e2f880633d2ea03ece149e82d82bdfa6180d584946511a48c4f8"
+    },
+    {
+      "revision": "R9",
+      "intersection_over_union": 0.9338525998334546,
+      "mismatched_pixels": 35269,
+      "render_sha256": "0f28e6916262cfe3f9afe95553c0d58c9caaa15a8322d4db9ccdd3281713ba31"
+    },
+    {
+      "revision": "R10",
+      "intersection_over_union": 0.9482646277847875,
+      "mismatched_pixels": 27472,
+      "render_sha256": "88959d32439f94e0a99221c6655d76ef61fed6e9972dbda8e43f940d3f59f03c"
+    }
+  ],
+  "method": "Unregistered fixed 1254-square camera; magenta-excluded source versus render alpha >127.",
+  "limits": "Projected outline only; does not measure cube arrangement, physical depth, colors or fidelity."
+}

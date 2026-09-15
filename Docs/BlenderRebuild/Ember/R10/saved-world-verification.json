@@ -1,0 +1,1666 @@
+{
+  "reload_verified": true,
+  "actor": "Blender_Ember_MarketCounter",
+  "materials": [
+    {
+      "role": "Flame",
+      "material": "/Game/Terrarium/Blender/Ember/M_Ember_Flame.M_Ember_Flame",
+      "passed": true
+    }
+  ],
+  "counter_support": [
+    {
+      "xy": [
+        350.2371608018875,
+        621.806289884448
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.165",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        349.6733889079094,
+        622.3120616608858
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.165",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        349.6733889079094,
+        621.3005181080102
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.165",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        350.80093269586564,
+        622.3120616608858
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.165",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        350.80093269586564,
+        621.3005181080102
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.165",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        347.7518182992935,
+        623.5780206650495
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.176",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        347.3110826408863,
+        623.9607559898495
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.176",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        347.3110826408863,
+        623.1952853402495
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.176",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        348.19255395770074,
+        623.9607559898495
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.176",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        348.19255395770074,
+        623.1952853402495
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.176",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        348.1701427102089,
+        623.8733084082603
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.177",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        347.60637081623076,
+        624.3790804007649
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.177",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        347.60637081623076,
+        623.3675364157557
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.177",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        348.733914604187,
+        624.3790804007649
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.177",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        348.733914604187,
+        623.3675364157557
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.177",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.36698255315423,
+        618.1246445059776
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.185",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.84012162707745,
+        618.5935051524639
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.185",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.84012162707745,
+        617.6557838594913
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.185",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.8938434252143,
+        618.5935051524639
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.185",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.8938434252143,
+        617.6557838594913
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.185",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        343.8927958756685,
+        626.034425984323
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.195",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        343.30441656172275,
+        626.5648052347451
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.195",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        343.30441656172275,
+        625.5040467339009
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.195",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        344.4811751896143,
+        626.5648052347451
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.195",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        344.4811751896143,
+        625.5040467339009
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.195",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        344.8433840870857,
+        626.2895962087612
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.196",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        344.3165233230591,
+        626.7584571903199
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.196",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        344.3165233230591,
+        625.8207352491468
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.196",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        345.3702448511124,
+        626.7584571903199
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.196",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        345.3702448511124,
+        625.8207352491468
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.196",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.7278573848307,
+        622.3161233544349
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.197",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.1886927487701,
+        622.7972879269719
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.197",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.1886927487701,
+        621.8349585658311
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.197",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.2670219668746,
+        622.7972879269719
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.197",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.2670219668746,
+        621.8349585658311
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.197",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.1461817957461,
+        623.0051280885934
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.198",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.87769764497875,
+        623.2156121218204
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.198",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.87769764497875,
+        622.7946440553665
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.198",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.41466583848,
+        623.2156121218204
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.198",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.41466583848,
+        622.7946440553665
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.198",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        341.1701333373785,
+        624.7707030169665
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.200",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        340.643272357285,
+        625.2395639875531
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.200",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        340.643272357285,
+        624.30184204638
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.200",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        341.69699410140515,
+        625.2395639875531
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.200",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        341.69699410140515,
+        624.30184204638
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.200",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        336.89772930182517,
+        622.9404927745461
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.201",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        336.3093500418961,
+        623.4708719709515
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.201",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        336.3093500418961,
+        622.4101133620738
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.201",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.48610856175424,
+        623.4708719709515
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.201",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.48610856175424,
+        622.4101133620738
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.201",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        340.9587166905403,
+        626.6308100495487
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.203",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        340.407248506546,
+        627.1242783320695
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.203",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        340.407248506546,
+        626.1373417670279
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.203",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        341.5101848745346,
+        627.1242783320695
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.203",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        341.5101848745346,
+        626.1373417670279
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.203",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        341.81746050715446,
+        626.9286100558936
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.204",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        341.2290811932087,
+        627.4589893603325
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.204",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        341.2290811932087,
+        626.3982308054715
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.204",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.40583982110024,
+        627.4589893603325
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.204",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.40583982110024,
+        626.3982308054715
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.204",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.6585626876913,
+        624.492747183144
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.205",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.020000054016691138,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.2793456467241,
+        624.8139641740918
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.205",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.020000054016691138,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.2793456467241,
+        624.1715301921963
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.205",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.020000054016691138,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.03777975566686,
+        624.8139641740918
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.205",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.020000054016691138,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.03777975566686,
+        624.1715301921963
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.205",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.020000054016691138,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.14565913006663,
+        625.7370628111064
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.206",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.5818871280551,
+        626.2428347495943
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.206",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.5818871280551,
+        625.2312909266352
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.206",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.7094311320782,
+        626.2428347495943
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.206",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.7094311320782,
+        625.2312909266352
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.206",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.5824389979243,
+        626.4322194812819
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.207",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.27704393327235,
+        626.6796145904436
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.207",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.27704393327235,
+        626.1848243721201
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.207",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.8878340625763,
+        626.6796145904436
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.207",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.8878340625763,
+        626.1848243721201
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.207",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.9162451457232,
+        625.8591475423425
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.208",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.3647768536955,
+        626.3526158248633
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.208",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.3647768536955,
+        625.3656793138384
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.208",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.46771338373424,
+        626.3526158248633
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.208",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.46771338373424,
+        625.3656793138384
+      ],
+      "z": 634.9919962882996,
+      "part": "Flame cube.208",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.9219619501382,
+        625.1152112178504
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.203",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.3089753782749,
+        625.6701977802068
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.203",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.3089753782749,
+        624.5602247095107
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.203",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.5349485220015,
+        625.6701977802068
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.203",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.5349485220015,
+        624.5602247095107
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.203",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.71342173963785,
+        624.5049026712775
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.224",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.1373461356759,
+        625.0229782657325
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.224",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.1373461356759,
+        623.986826968789
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.224",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        340.2894973435998,
+        625.0229782657325
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.224",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        340.2894973435998,
+        623.986826968789
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.224",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        345.6297671198845,
+        625.109496358037
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.296",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        345.0782989358902,
+        625.6029646405577
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.296",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        345.0782989358902,
+        624.6160280755162
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.296",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        346.1812353038788,
+        625.6029646405577
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.296",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        346.1812353038788,
+        624.6160280755162
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.296",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.6358745894395,
+        622.1039180636405
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.304",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.0721026549488,
+        622.6096900561452
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.304",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.0721026549488,
+        621.5981462872028
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.304",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.1996465509385,
+        622.6096900561452
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.304",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.1996465509385,
+        621.5981462872028
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.304",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        336.9264852050692,
+        619.7127858877182
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.324",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        336.36271325707435,
+        620.2185576641559
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.324",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        336.36271325707435,
+        619.2070141112804
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.324",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.490257153064,
+        620.2185576641559
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.324",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.490257153064,
+        619.2070141112804
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.324",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.6156080602668,
+        620.1309923261404
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.333",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.03953246980905,
+        620.649067812562
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.333",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.03953246980905,
+        619.6129168397188
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.333",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.19168367773295,
+        620.649067812562
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.333",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.19168367773295,
+        619.6129168397188
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.333",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.8245609998703,
+        625.3063266567885
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.346",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.273092815876,
+        625.7997949393093
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.346",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.273092815876,
+        624.8128583742678
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.346",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        343.3760291838646,
+        625.7997949393093
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.346",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        343.3760291838646,
+        624.8128583742678
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.346",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.41056798398495,
+        616.0721590697765
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.358",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.82218867003917,
+        616.6025382661819
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.358",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        338.82218867003917,
+        615.5417798733711
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.358",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.9989472979307,
+        616.6025382661819
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.358",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        339.9989472979307,
+        615.5417798733711
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.358",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        346.24134862422943,
+        625.0884896919131
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.372",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        345.8006129658222,
+        625.4712250167131
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.372",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        345.8006129658222,
+        624.7057543671131
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.372",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        346.68208428263665,
+        625.4712250167131
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.372",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        346.68208428263665,
+        624.7057543671131
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.372",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.61788572371006,
+        626.6449384169653
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.375",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.0910249596834,
+        627.1137993605435
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.375",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.0910249596834,
+        626.1760774463787
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.375",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        343.1447464877367,
+        627.1137993605435
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.375",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        343.1447464877367,
+        626.1760774463787
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.375",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.09388518333435,
+        626.0370025543496
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.377",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        341.5670244193077,
+        626.5058635249361
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.377",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        341.5670244193077,
+        625.5681416107714
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.377",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.620745947361,
+        626.5058635249361
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.377",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.620745947361,
+        625.5681416107714
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.377",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.0429184380919,
+        620.5314307242631
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.379",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        336.55296853393315,
+        620.9633806729316
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.379",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        336.55296853393315,
+        620.0994807755947
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.379",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.5328683962673,
+        620.9633806729316
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.379",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.5328683962673,
+        620.0994807755947
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.379",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.2365703936666,
+        621.4205003857612
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.380",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        336.6851021016389,
+        621.9139684522152
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.380",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        336.6851021016389,
+        620.9270323193073
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.380",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.78803868569435,
+        621.9139684522152
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.380",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        337.78803868569435,
+        620.9270323193073
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.380",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.9929500967264,
+        626.2698738616425
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.381",
+      "sample_kind": "center",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.46608933269977,
+        626.738734825477
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.381",
+      "sample_kind": "corner_0_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        342.46608933269977,
+        625.8010128843039
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.381",
+      "sample_kind": "corner_0_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        343.51981086075307,
+        626.738734825477
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.381",
+      "sample_kind": "corner_1_0",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        343.51981086075307,
+        625.8010128843039
+      ],
+      "z": 634.9919962882996,
+      "part": "Interior flame cube.381",
+      "sample_kind": "corner_1_1",
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    }
+  ],
+  "base_clearance_cm": 0.01999999999998181,
+  "source_hash_verified": true,
+  "limits": "Sampled static support and shader bindings; no gameplay, full collision or performance validation. Visual refinement remains open."
+}

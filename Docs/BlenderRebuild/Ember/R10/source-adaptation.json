@@ -1,0 +1,7 @@
+{
+  "source": "SourceAssets/Voxel/ember.png",
+  "revision": "r10_grounded_volume",
+  "method": "Closed measured flame blocks placed in real vertical courses with a shared floor, solid interior cubes and four detached sparks. Each block uses a uniform palette pigment; the PNG is not projected onto geometry.",
+  "inferred": "Depth and hidden volume are inferred from the one-view concept. Interior cube pigments are estimated from coarse source color regions. No simulation or physical balance claim.",
+  "status": "imported_with_visual_refinement_open"
+}
