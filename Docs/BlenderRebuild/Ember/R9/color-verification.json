@@ -1,0 +1,9 @@
+{
+  "source_sha256": "dd7be8416c6d7693c282494cd23b64acc40f43f48c446407767544bfd27d352a",
+  "samples": 32,
+  "unique_source_colors": 8,
+  "mean_linear_channel_error": 0.002514046793825981,
+  "max_linear_channel_error": 0.007413621078030674,
+  "method": "Transient texture-sampling material rendered into RGBA32F, read without normalization and compared to decoded source PNG pixels. Production shaders are unchanged.",
+  "limits": "Sampling and compression check only; shaded appearance is not expected to match source pixels exactly."
+}

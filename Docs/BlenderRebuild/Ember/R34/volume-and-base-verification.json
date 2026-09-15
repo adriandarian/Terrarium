@@ -1,0 +1,39 @@
+{
+  "previous_depth_m": 0.24414987862110138,
+  "current_depth_m": 0.9913764297962189,
+  "depth_ratio": 4.060523951088036,
+  "flat_base_parts": 96,
+  "counter_contact_samples": 480,
+  "ground_elevation_range_m": [
+    -0.0020000003278255463,
+    -0.001999996602535248
+  ],
+  "method": "Evaluated exported mesh extents; every floor-course cube underside and five native counter traces per cube after saved-map reload.",
+  "limits": "Physical volume and sampled contact only; no reference fidelity or balance certification.",
+  "outer_bounds_unchanged_from_r10": false,
+  "previous_bounds_m": {
+    "min": [
+      -0.3572854995727539,
+      -0.32186824083328247,
+      -0.0020000003278255463
+    ],
+    "max": [
+      0.922305703163147,
+      0.7469462156295776,
+      1.3440912961959839
+    ]
+  },
+  "current_bounds_m": {
+    "min": [
+      -0.2576923072338104,
+      -0.24443021416664124,
+      -0.0020000003278255463
+    ],
+    "max": [
+      0.922305703163147,
+      0.7469462156295776,
+      1.3440912961959839
+    ]
+  },
+  "added_interior_cells": 317
+}

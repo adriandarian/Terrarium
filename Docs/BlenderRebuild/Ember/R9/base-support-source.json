@@ -1,0 +1,23 @@
+{
+  "method": "Center samples of flame-body cubes within 2.5 cm of the lowest point before scaling. Floating reference sparks and interior junctions excluded.",
+  "samples": [
+    {
+      "part": "Flame block.096",
+      "center_m": [
+        0.31297895312309265,
+        0.051632292568683624,
+        -0.0007666181772947311
+      ],
+      "bottom_m": -0.05509456992149353
+    },
+    {
+      "part": "Flame block.097",
+      "center_m": [
+        0.3952611982822418,
+        0.05415287986397743,
+        -0.0219309963285923
+      ],
+      "bottom_m": -0.07030071318149567
+    }
+  ]
+}
