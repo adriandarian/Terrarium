@@ -1,0 +1,1625 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "reloaded_from_disk": true,
+  "actor_and_material_binding_verified": true,
+  "nearby_bearing_transforms_verified": true,
+  "import_export_hash_match": true,
+  "material_atlas_matches_bridge_bytes": true,
+  "modeled_surface_probes": [
+    {
+      "blender_xy_cm": [
+        -57.8974358974359,
+        -35.0
+      ],
+      "height_cm": 1.7599999904632568,
+      "actual_local_height_cm": 1.759999692440033,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        12.051282051282053,
+        -35.0
+      ],
+      "height_cm": 1.7599985003471375,
+      "actual_local_height_cm": 1.7599980533123016,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        82.0,
+        -35.0
+      ],
+      "height_cm": 1.7599985003471375,
+      "actual_local_height_cm": 1.7599964141845703,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        -51.743589743589745,
+        -28.999999999999996
+      ],
+      "height_cm": 3.64999920129776,
+      "actual_local_height_cm": 3.6500008404254913,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        15.12820512820513,
+        -28.999999999999996
+      ],
+      "height_cm": 3.64999920129776,
+      "actual_local_height_cm": 3.64999920129776,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        82.0,
+        -28.999999999999996
+      ],
+      "height_cm": 3.64999920129776,
+      "actual_local_height_cm": 3.6499975621700287,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        -45.5897435897436,
+        -23.0
+      ],
+      "height_cm": 5.539999902248383,
+      "actual_local_height_cm": 5.54000198841095,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        18.2051282051282,
+        -23.0
+      ],
+      "height_cm": 5.539999902248383,
+      "actual_local_height_cm": 5.540000349283218,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        82.0,
+        -23.0
+      ],
+      "height_cm": 5.539999902248383,
+      "actual_local_height_cm": 5.539998710155487,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        -37.38461538461539,
+        -15.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        22.307692307692307,
+        -15.0
+      ],
+      "height_cm": 6.799998879432678,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        82.0,
+        -15.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        -27.12820512820513,
+        -5.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        27.435897435897438,
+        -5.0
+      ],
+      "height_cm": 6.799998879432678,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        82.0,
+        -5.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        -16.871794871794876,
+        5.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        32.56410256410256,
+        5.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        82.0,
+        5.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        -6.615384615384618,
+        15.0
+      ],
+      "height_cm": 6.800001859664917,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        37.69230769230769,
+        15.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        82.0,
+        15.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        3.641025641025636,
+        25.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        42.82051282051282,
+        25.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        82.0,
+        25.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        13.897435897435889,
+        35.0
+      ],
+      "height_cm": 6.800001859664917,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        47.94871794871794,
+        35.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    },
+    {
+      "blender_xy_cm": [
+        82.0,
+        35.0
+      ],
+      "height_cm": 6.800000369548798,
+      "actual_local_height_cm": 6.800000295042992,
+      "passed": true
+    }
+  ],
+  "bearing_samples": 4,
+  "path_overlap_samples": 1060,
+  "minimum_path_clearance_cm": 0.5928993225097656,
+  "supported_lanes": [
+    {
+      "lateral_offset_cm": -24,
+      "samples": [
+        {
+          "along_cm": -430,
+          "across_cm": 26,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -428,
+          "across_cm": 26,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -426,
+          "across_cm": 26,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -424,
+          "across_cm": 26,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -422,
+          "across_cm": 26,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -420,
+          "across_cm": 26,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -418,
+          "across_cm": 25.0,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -416,
+          "across_cm": 24.0,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -414,
+          "across_cm": 23.0,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -412,
+          "across_cm": 22.0,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -410,
+          "across_cm": 21.0,
+          "top": {
+            "height_cm": 286.500004529953,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -408,
+          "across_cm": 20.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -406,
+          "across_cm": 19.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -404,
+          "across_cm": 18.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -402,
+          "across_cm": 17.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -400,
+          "across_cm": 16.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -398,
+          "across_cm": 15.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -396,
+          "across_cm": 14.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -394,
+          "across_cm": 13.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -392,
+          "across_cm": 12.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -390,
+          "across_cm": 11.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -388,
+          "across_cm": 10.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -386,
+          "across_cm": 9.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -384,
+          "across_cm": 8.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -382,
+          "across_cm": 7.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -380,
+          "across_cm": 6.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -378,
+          "across_cm": 4.9999999999999964,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -376,
+          "across_cm": 4.0000000000000036,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -374,
+          "across_cm": 3.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -372,
+          "across_cm": 2.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -370,
+          "across_cm": 1.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -368,
+          "across_cm": 0.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -366,
+          "across_cm": -1.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -364,
+          "across_cm": -2.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -362,
+          "across_cm": -3.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -360,
+          "across_cm": -4.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -358,
+          "across_cm": -5.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -356,
+          "across_cm": -6.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -354,
+          "across_cm": -7.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -352,
+          "across_cm": -8.0,
+          "top": {
+            "height_cm": 286.50000154972076,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -350,
+          "across_cm": -9.0,
+          "top": {
+            "height_cm": 286.1700004339218,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -348,
+          "across_cm": -9.999999999999998,
+          "top": {
+            "height_cm": 285.5400002002716,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -346,
+          "across_cm": -11.0,
+          "top": {
+            "height_cm": 284.9099999666214,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -344,
+          "across_cm": -12.0,
+          "top": {
+            "height_cm": 284.2799997329712,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -342,
+          "across_cm": -13.0,
+          "top": {
+            "height_cm": 283.649999499321,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -340,
+          "across_cm": -14.0,
+          "top": {
+            "height_cm": 283.0199992656708,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -338,
+          "across_cm": -15.0,
+          "top": {
+            "height_cm": 282.38999903202057,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -336,
+          "across_cm": -16.0,
+          "top": {
+            "height_cm": 281.75999879837036,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -334,
+          "across_cm": -17.0,
+          "top": {
+            "height_cm": 281.12999856472015,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -332,
+          "across_cm": -18.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -330,
+          "across_cm": -19.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -328,
+          "across_cm": -20.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -326,
+          "across_cm": -21.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -324,
+          "across_cm": -22.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -322,
+          "across_cm": -23.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -320,
+          "across_cm": -24,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        }
+      ],
+      "maximum_adjacent_height_change_cm": 1.199987530708313
+    },
+    {
+      "lateral_offset_cm": 0,
+      "samples": [
+        {
+          "along_cm": -430,
+          "across_cm": 50,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -428,
+          "across_cm": 50,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -426,
+          "across_cm": 50,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -424,
+          "across_cm": 50,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -422,
+          "across_cm": 50,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -420,
+          "across_cm": 50,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -418,
+          "across_cm": 49.0,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -416,
+          "across_cm": 48.0,
+          "top": {
+            "height_cm": 286.01501643657684,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -414,
+          "across_cm": 47.0,
+          "top": {
+            "height_cm": 286.01501643657684,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -412,
+          "across_cm": 46.0,
+          "top": {
+            "height_cm": 286.01501643657684,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -410,
+          "across_cm": 45.0,
+          "top": {
+            "height_cm": 286.50000900030136,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -408,
+          "across_cm": 44.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -406,
+          "across_cm": 43.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -404,
+          "across_cm": 42.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -402,
+          "across_cm": 41.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -400,
+          "across_cm": 40.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -398,
+          "across_cm": 39.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -396,
+          "across_cm": 38.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -394,
+          "across_cm": 37.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -392,
+          "across_cm": 36.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -390,
+          "across_cm": 35.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -388,
+          "across_cm": 34.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -386,
+          "across_cm": 33.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -384,
+          "across_cm": 32.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -382,
+          "across_cm": 31.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -380,
+          "across_cm": 30.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -378,
+          "across_cm": 28.999999999999996,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -376,
+          "across_cm": 28.000000000000004,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -374,
+          "across_cm": 27.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -372,
+          "across_cm": 26.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -370,
+          "across_cm": 25.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -368,
+          "across_cm": 24.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -366,
+          "across_cm": 23.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -364,
+          "across_cm": 22.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -362,
+          "across_cm": 21.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -360,
+          "across_cm": 20.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -358,
+          "across_cm": 19.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -356,
+          "across_cm": 18.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -354,
+          "across_cm": 17.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -352,
+          "across_cm": 16.0,
+          "top": {
+            "height_cm": 286.500004529953,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -350,
+          "across_cm": 15.0,
+          "top": {
+            "height_cm": 286.1700004339218,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -348,
+          "across_cm": 14.000000000000002,
+          "top": {
+            "height_cm": 285.5399987101555,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -346,
+          "across_cm": 13.0,
+          "top": {
+            "height_cm": 284.9099999666214,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -344,
+          "across_cm": 12.0,
+          "top": {
+            "height_cm": 284.2799997329712,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -342,
+          "across_cm": 11.0,
+          "top": {
+            "height_cm": 283.649999499321,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -340,
+          "across_cm": 10.0,
+          "top": {
+            "height_cm": 283.0199992656708,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -338,
+          "across_cm": 9.0,
+          "top": {
+            "height_cm": 282.38999903202057,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -336,
+          "across_cm": 8.0,
+          "top": {
+            "height_cm": 281.75999879837036,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -334,
+          "across_cm": 7.000000000000001,
+          "top": {
+            "height_cm": 281.12999856472015,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -332,
+          "across_cm": 6.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -330,
+          "across_cm": 5.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -328,
+          "across_cm": 4.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -326,
+          "across_cm": 3.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -324,
+          "across_cm": 2.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -322,
+          "across_cm": 1.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -320,
+          "across_cm": 0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        }
+      ],
+      "maximum_adjacent_height_change_cm": 1.1299937963485718
+    },
+    {
+      "lateral_offset_cm": 24,
+      "samples": [
+        {
+          "along_cm": -430,
+          "across_cm": 74,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -428,
+          "across_cm": 74,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -426,
+          "across_cm": 74,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -424,
+          "across_cm": 74,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -422,
+          "across_cm": 74,
+          "top": {
+            "height_cm": 286.01501643657684,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -420,
+          "across_cm": 74,
+          "top": {
+            "height_cm": 286.01501643657684,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -418,
+          "across_cm": 73.0,
+          "top": {
+            "height_cm": 286.01501643657684,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -416,
+          "across_cm": 72.0,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -414,
+          "across_cm": 71.0,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -412,
+          "across_cm": 70.0,
+          "top": {
+            "height_cm": 285.3000169992447,
+            "mesh": "SM_Blender_TrailPatch"
+          }
+        },
+        {
+          "along_cm": -410,
+          "across_cm": 69.0,
+          "top": {
+            "height_cm": 286.5000134706497,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -408,
+          "across_cm": 68.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -406,
+          "across_cm": 67.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -404,
+          "across_cm": 66.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -402,
+          "across_cm": 65.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -400,
+          "across_cm": 64.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -398,
+          "across_cm": 63.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -396,
+          "across_cm": 62.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -394,
+          "across_cm": 61.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -392,
+          "across_cm": 60.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -390,
+          "across_cm": 59.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -388,
+          "across_cm": 58.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -386,
+          "across_cm": 57.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -384,
+          "across_cm": 56.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -382,
+          "across_cm": 55.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -380,
+          "across_cm": 54.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -378,
+          "across_cm": 53.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -376,
+          "across_cm": 52.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -374,
+          "across_cm": 51.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -372,
+          "across_cm": 50.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -370,
+          "across_cm": 49.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -368,
+          "across_cm": 48.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -366,
+          "across_cm": 47.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -364,
+          "across_cm": 46.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -362,
+          "across_cm": 45.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -360,
+          "across_cm": 44.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -358,
+          "across_cm": 43.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -356,
+          "across_cm": 42.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -354,
+          "across_cm": 41.0,
+          "top": {
+            "height_cm": 286.7999991774559,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -352,
+          "across_cm": 40.0,
+          "top": {
+            "height_cm": 286.50000900030136,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -350,
+          "across_cm": 39.0,
+          "top": {
+            "height_cm": 286.1700004339218,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -348,
+          "across_cm": 38.0,
+          "top": {
+            "height_cm": 285.5399987101555,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -346,
+          "across_cm": 37.0,
+          "top": {
+            "height_cm": 284.9099999666214,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -344,
+          "across_cm": 36.0,
+          "top": {
+            "height_cm": 284.2799997329712,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -342,
+          "across_cm": 35.0,
+          "top": {
+            "height_cm": 283.649999499321,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -340,
+          "across_cm": 34.0,
+          "top": {
+            "height_cm": 283.0199992656708,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -338,
+          "across_cm": 33.0,
+          "top": {
+            "height_cm": 282.38999903202057,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -336,
+          "across_cm": 32.0,
+          "top": {
+            "height_cm": 281.75999879837036,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -334,
+          "across_cm": 31.0,
+          "top": {
+            "height_cm": 281.12999856472015,
+            "mesh": "SM_Blender_BridgeThreshold"
+          }
+        },
+        {
+          "along_cm": -332,
+          "across_cm": 30.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -330,
+          "across_cm": 29.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -328,
+          "across_cm": 28.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -326,
+          "across_cm": 27.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -324,
+          "across_cm": 26.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -322,
+          "across_cm": 25.0,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        },
+        {
+          "along_cm": -320,
+          "across_cm": 24,
+          "top": {
+            "height_cm": 280.0000047683716,
+            "mesh": "SM_Blender_RiverBridge"
+          }
+        }
+      ],
+      "maximum_adjacent_height_change_cm": 1.1999964714050293
+    }
+  ],
+  "capsule_sweeps": 110,
+  "capsule_radius_cm": 34,
+  "capsule_half_height_cm": 88,
+  "capsule_foot_clearance_cm": 4,
+  "limits": "Surface support sampled every 2 cm across three lanes; not every point of the wider banks. Capsule sweeps follow the measured surface with 4 cm clearance, in both directions. These are collision checks, not a character-controller playtest or performance test. The threshold is a site adaptation; canonical river_crossing reference and visual fidelity remain separate."
+}

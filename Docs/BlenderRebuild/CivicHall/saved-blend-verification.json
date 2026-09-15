@@ -1,0 +1,11 @@
+{
+  "asset": "CivicHall",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_CivicHall",
+  "parts": 5779,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 624240,
+  "sha256": "f3356ff6afd70cc6bbe5bff607c06523d01138d2ec09094e7694b2a391104079",
+  "active_camera": "Reference camera.004"
+}

@@ -1,0 +1,2468 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender.HomesteadBlender",
+  "bridge_actor": "Fidelity_PlankBridge_v4_001",
+  "bridge_mesh": "/Game/Terrarium/Blender/RiverBridge/SM_Blender_RiverBridge.SM_Blender_RiverBridge",
+  "bridge_location_cm": [
+    894.2828554028314,
+    -1388.1969420616347,
+    146.16564564564564
+  ],
+  "bridge_yaw": -4.0,
+  "bridge_scale": [
+    2.1586186186186187,
+    2.1586186186186187,
+    2.1586186186186187
+  ],
+  "samples": [
+    {
+      "along_cm": -450,
+      "samples": [
+        {
+          "across_cm": -130,
+          "hits": []
+        },
+        {
+          "across_cm": -120,
+          "hits": []
+        },
+        {
+          "across_cm": -110,
+          "hits": []
+        },
+        {
+          "across_cm": -100,
+          "hits": []
+        },
+        {
+          "across_cm": -90,
+          "hits": []
+        },
+        {
+          "across_cm": -80,
+          "hits": []
+        },
+        {
+          "across_cm": -70,
+          "hits": []
+        },
+        {
+          "across_cm": -60,
+          "hits": []
+        },
+        {
+          "across_cm": -50,
+          "hits": []
+        },
+        {
+          "across_cm": -40,
+          "hits": []
+        },
+        {
+          "across_cm": -30,
+          "hits": []
+        },
+        {
+          "across_cm": -20,
+          "hits": []
+        },
+        {
+          "across_cm": -10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 0,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 20,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 30,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.8265039920807
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 40,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.78580886125565
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.72532719373703
+            }
+          ]
+        },
+        {
+          "across_cm": 50,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.75819432735443
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.74939942359924
+            }
+          ]
+        },
+        {
+          "across_cm": 60,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.79738742113113
+            }
+          ]
+        },
+        {
+          "across_cm": 70,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.8951241374016
+            }
+          ]
+        },
+        {
+          "across_cm": 80,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.8552095890045
+            }
+          ]
+        },
+        {
+          "across_cm": 90,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.94249880313873
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.9894604086876
+            }
+          ]
+        },
+        {
+          "across_cm": 100,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.96886789798737
+            }
+          ]
+        },
+        {
+          "across_cm": 110,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.99213069677353
+            }
+          ]
+        },
+        {
+          "across_cm": 120,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.916670024395
+            }
+          ]
+        },
+        {
+          "across_cm": 130,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.87748354673386
+            }
+          ]
+        },
+        {
+          "across_cm": 140,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.67432886362076
+            }
+          ]
+        },
+        {
+          "across_cm": 150,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.8861202597618
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "along_cm": -430,
+      "samples": [
+        {
+          "across_cm": -130,
+          "hits": []
+        },
+        {
+          "across_cm": -120,
+          "hits": []
+        },
+        {
+          "across_cm": -110,
+          "hits": []
+        },
+        {
+          "across_cm": -100,
+          "hits": []
+        },
+        {
+          "across_cm": -90,
+          "hits": []
+        },
+        {
+          "across_cm": -80,
+          "hits": []
+        },
+        {
+          "across_cm": -70,
+          "hits": []
+        },
+        {
+          "across_cm": -60,
+          "hits": []
+        },
+        {
+          "across_cm": -50,
+          "hits": []
+        },
+        {
+          "across_cm": -40,
+          "hits": []
+        },
+        {
+          "across_cm": -30,
+          "hits": []
+        },
+        {
+          "across_cm": -20,
+          "hits": []
+        },
+        {
+          "across_cm": -10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 0,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 20,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 30,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.79175478219986
+            }
+          ]
+        },
+        {
+          "across_cm": 40,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.69086170196533
+            }
+          ]
+        },
+        {
+          "across_cm": 50,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.66744244098663
+            }
+          ]
+        },
+        {
+          "across_cm": 60,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.3212980031967
+            }
+          ]
+        },
+        {
+          "across_cm": 70,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.4402426481247
+            }
+          ]
+        },
+        {
+          "across_cm": 80,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.6411234140396
+            }
+          ]
+        },
+        {
+          "across_cm": 90,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.6119213104248
+            }
+          ]
+        },
+        {
+          "across_cm": 100,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.7473904490471
+            }
+          ]
+        },
+        {
+          "across_cm": 110,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.9701672196388
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.50729191303253
+            }
+          ]
+        },
+        {
+          "across_cm": 120,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.6814802289009
+            }
+          ]
+        },
+        {
+          "across_cm": 130,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.8517173528671
+            }
+          ]
+        },
+        {
+          "across_cm": 140,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.4206076860428
+            }
+          ]
+        },
+        {
+          "across_cm": 150,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.63867008686066
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "along_cm": -410,
+      "samples": [
+        {
+          "across_cm": -130,
+          "hits": []
+        },
+        {
+          "across_cm": -120,
+          "hits": []
+        },
+        {
+          "across_cm": -110,
+          "hits": []
+        },
+        {
+          "across_cm": -100,
+          "hits": []
+        },
+        {
+          "across_cm": -90,
+          "hits": []
+        },
+        {
+          "across_cm": -80,
+          "hits": []
+        },
+        {
+          "across_cm": -70,
+          "hits": []
+        },
+        {
+          "across_cm": -60,
+          "hits": []
+        },
+        {
+          "across_cm": -50,
+          "hits": []
+        },
+        {
+          "across_cm": -40,
+          "hits": []
+        },
+        {
+          "across_cm": -30,
+          "hits": []
+        },
+        {
+          "across_cm": -20,
+          "hits": []
+        },
+        {
+          "across_cm": -10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 0,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 20,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 30,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.4178977608681
+            }
+          ]
+        },
+        {
+          "across_cm": 40,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.88267183303833
+            }
+          ]
+        },
+        {
+          "across_cm": 50,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.5725095272064
+            }
+          ]
+        },
+        {
+          "across_cm": 60,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.3339964747429
+            }
+          ]
+        },
+        {
+          "across_cm": 70,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.60537284612656
+            }
+          ]
+        },
+        {
+          "across_cm": 80,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.4187155365944
+            }
+          ]
+        },
+        {
+          "across_cm": 90,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.6014654636383
+            }
+          ]
+        },
+        {
+          "across_cm": 100,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.56887125968933
+            }
+          ]
+        },
+        {
+          "across_cm": 110,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.3914556503296
+            }
+          ]
+        },
+        {
+          "across_cm": 120,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.4765314459801
+            }
+          ]
+        },
+        {
+          "across_cm": 130,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.8030409216881
+            }
+          ]
+        },
+        {
+          "across_cm": 140,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.20408487319946
+            }
+          ]
+        },
+        {
+          "across_cm": 150,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.6701377630234
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "along_cm": -395,
+      "samples": [
+        {
+          "across_cm": -130,
+          "hits": []
+        },
+        {
+          "across_cm": -120,
+          "hits": []
+        },
+        {
+          "across_cm": -110,
+          "hits": []
+        },
+        {
+          "across_cm": -100,
+          "hits": []
+        },
+        {
+          "across_cm": -90,
+          "hits": []
+        },
+        {
+          "across_cm": -80,
+          "hits": []
+        },
+        {
+          "across_cm": -70,
+          "hits": []
+        },
+        {
+          "across_cm": -60,
+          "hits": []
+        },
+        {
+          "across_cm": -50,
+          "hits": []
+        },
+        {
+          "across_cm": -40,
+          "hits": []
+        },
+        {
+          "across_cm": -30,
+          "hits": []
+        },
+        {
+          "across_cm": -20,
+          "hits": []
+        },
+        {
+          "across_cm": -10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 0,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            }
+          ]
+        },
+        {
+          "across_cm": 20,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 30,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.6395441889763
+            }
+          ]
+        },
+        {
+          "across_cm": 40,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.4829213619232
+            }
+          ]
+        },
+        {
+          "across_cm": 50,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.44409996271133
+            }
+          ]
+        },
+        {
+          "across_cm": 60,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.6141514182091
+            }
+          ]
+        },
+        {
+          "across_cm": 70,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.47046905755997
+            }
+          ]
+        },
+        {
+          "across_cm": 80,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.63867008686066
+            }
+          ]
+        },
+        {
+          "across_cm": 90,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.78332459926605
+            }
+          ]
+        },
+        {
+          "across_cm": 100,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.8178064227104
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.7934925556183
+            }
+          ]
+        },
+        {
+          "across_cm": 110,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.5568799972534
+            }
+          ]
+        },
+        {
+          "across_cm": 120,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.708950817585
+            }
+          ]
+        },
+        {
+          "across_cm": 130,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.7196966409683
+            }
+          ]
+        },
+        {
+          "across_cm": 140,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.7490927577019
+            }
+          ]
+        },
+        {
+          "across_cm": 150,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.3894299864769
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "along_cm": -380,
+      "samples": [
+        {
+          "across_cm": -130,
+          "hits": []
+        },
+        {
+          "across_cm": -120,
+          "hits": []
+        },
+        {
+          "across_cm": -110,
+          "hits": []
+        },
+        {
+          "across_cm": -100,
+          "hits": []
+        },
+        {
+          "across_cm": -90,
+          "hits": []
+        },
+        {
+          "across_cm": -80,
+          "hits": []
+        },
+        {
+          "across_cm": -70,
+          "hits": []
+        },
+        {
+          "across_cm": -60,
+          "hits": []
+        },
+        {
+          "across_cm": -50,
+          "hits": []
+        },
+        {
+          "across_cm": -40,
+          "hits": []
+        },
+        {
+          "across_cm": -30,
+          "hits": []
+        },
+        {
+          "across_cm": -20,
+          "hits": []
+        },
+        {
+          "across_cm": -10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 0,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            }
+          ]
+        },
+        {
+          "across_cm": 20,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            }
+          ]
+        },
+        {
+          "across_cm": 30,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 40,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 50,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 60,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.9728274345398
+            }
+          ]
+        },
+        {
+          "across_cm": 70,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.94306832551956
+            }
+          ]
+        },
+        {
+          "across_cm": 80,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.8290929198265
+            }
+          ]
+        },
+        {
+          "across_cm": 90,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.9999997019768
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 100,
+          "hits": [
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            },
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.81445640325546
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 110,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.720276594162
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 120,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.9450981616974
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 130,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.6815302968025
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 140,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.5909449458122
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 150,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.97587740421295
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "along_cm": -365,
+      "samples": [
+        {
+          "across_cm": -130,
+          "hits": []
+        },
+        {
+          "across_cm": -120,
+          "hits": []
+        },
+        {
+          "across_cm": -110,
+          "hits": []
+        },
+        {
+          "across_cm": -100,
+          "hits": []
+        },
+        {
+          "across_cm": -90,
+          "hits": []
+        },
+        {
+          "across_cm": -80,
+          "hits": []
+        },
+        {
+          "across_cm": -70,
+          "hits": []
+        },
+        {
+          "across_cm": -60,
+          "hits": []
+        },
+        {
+          "across_cm": -50,
+          "hits": []
+        },
+        {
+          "across_cm": -40,
+          "hits": []
+        },
+        {
+          "across_cm": -30,
+          "hits": []
+        },
+        {
+          "across_cm": -20,
+          "hits": []
+        },
+        {
+          "across_cm": -10,
+          "hits": []
+        },
+        {
+          "across_cm": 0,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 286.0150155425072
+            }
+          ]
+        },
+        {
+          "across_cm": 20,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 30,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 40,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 50,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 60,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 70,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 80,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            }
+          ]
+        },
+        {
+          "across_cm": 90,
+          "hits": [
+            {
+              "mesh": "SM_Blender_TrailPatch",
+              "z_cm": 285.30001670122147
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 100,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.38821375370026
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 110,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.5413339138031
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 120,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.41452234983444
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 130,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.66436952352524
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 140,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.5066139101982
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 150,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.4874566793442
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "along_cm": -350,
+      "samples": [
+        {
+          "across_cm": -130,
+          "hits": []
+        },
+        {
+          "across_cm": -120,
+          "hits": []
+        },
+        {
+          "across_cm": -110,
+          "hits": []
+        },
+        {
+          "across_cm": -100,
+          "hits": []
+        },
+        {
+          "across_cm": -90,
+          "hits": []
+        },
+        {
+          "across_cm": -80,
+          "hits": []
+        },
+        {
+          "across_cm": -70,
+          "hits": []
+        },
+        {
+          "across_cm": -60,
+          "hits": []
+        },
+        {
+          "across_cm": -50,
+          "hits": []
+        },
+        {
+          "across_cm": -40,
+          "hits": []
+        },
+        {
+          "across_cm": -30,
+          "hits": []
+        },
+        {
+          "across_cm": -20,
+          "hits": []
+        },
+        {
+          "across_cm": -10,
+          "hits": []
+        },
+        {
+          "across_cm": 0,
+          "hits": []
+        },
+        {
+          "across_cm": 10,
+          "hits": []
+        },
+        {
+          "across_cm": 20,
+          "hits": []
+        },
+        {
+          "across_cm": 30,
+          "hits": []
+        },
+        {
+          "across_cm": 40,
+          "hits": []
+        },
+        {
+          "across_cm": 50,
+          "hits": []
+        },
+        {
+          "across_cm": 60,
+          "hits": []
+        },
+        {
+          "across_cm": 70,
+          "hits": []
+        },
+        {
+          "across_cm": 80,
+          "hits": []
+        },
+        {
+          "across_cm": 90,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.95954900979996
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 100,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.3304291367531
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 110,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.4143137335777
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 120,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.4185799360275
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 130,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.2647045850754
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 140,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.61397409439087
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 150,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.78690654039383
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "along_cm": -335,
+      "samples": [
+        {
+          "across_cm": -130,
+          "hits": []
+        },
+        {
+          "across_cm": -120,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 279.7397258877754
+            }
+          ]
+        },
+        {
+          "across_cm": -110,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -100,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -90,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -80,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -70,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -60,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -50,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -40,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -30,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -20,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 0,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 20,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 30,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 40,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 50,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 60,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 70,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 80,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 90,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.8861703276634
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 100,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.6223124861717
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 110,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.74142611026764
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 120,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 279.7397029399872
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.578694999218
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 130,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.4965335726738
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 140,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.7714960575104
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 150,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.53278064727783
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "along_cm": -320,
+      "samples": [
+        {
+          "across_cm": -130,
+          "hits": []
+        },
+        {
+          "across_cm": -120,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 279.7397258877754
+            }
+          ]
+        },
+        {
+          "across_cm": -110,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -100,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -90,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -80,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -70,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -60,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -50,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -40,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -30,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -20,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": -10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 0,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 10,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 20,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 30,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 40,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 50,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 60,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 70,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 80,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            }
+          ]
+        },
+        {
+          "across_cm": 90,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.83505725860596
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 100,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.5669373869896
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 110,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 280.0000059604645
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.5059213042259
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 120,
+          "hits": [
+            {
+              "mesh": "SM_Blender_RiverBridge",
+              "z_cm": 279.7397029399872
+            },
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.3938484787941
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 130,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.3991097807884
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 140,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.5067724585533
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        },
+        {
+          "across_cm": 150,
+          "hits": [
+            {
+              "mesh": "SM_Blender_GrassTerrain",
+              "z_cm": 279.40005898475647
+            },
+            {
+              "mesh": "SM_Blender_CliffColumn",
+              "z_cm": 285.0000014901161
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "purpose": "Fit a timber threshold using the existing bridge language; canonical river_crossing geometry remains separate."
+}

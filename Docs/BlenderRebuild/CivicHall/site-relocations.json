@@ -1,0 +1,482 @@
+[
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_12",
+    "index": 45,
+    "before_cm": [
+      -740.1293072447968,
+      1413.269308240514,
+      561.0
+    ],
+    "after_cm": [
+      -723.0,
+      1558.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_12",
+    "index": 46,
+    "before_cm": [
+      -785.955075953217,
+      1394.8950031159277,
+      561.0
+    ],
+    "after_cm": [
+      -701.0,
+      1558.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_12",
+    "index": 56,
+    "before_cm": [
+      -321.07371226007206,
+      1439.055809723981,
+      561.0
+    ],
+    "after_cm": [
+      -238.0,
+      1558.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_12",
+    "index": 142,
+    "before_cm": [
+      -527.3950369326656,
+      1258.2962244179232,
+      561.0
+    ],
+    "after_cm": [
+      -679.0,
+      1558.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_13",
+    "index": 57,
+    "before_cm": [
+      -756.3958369222554,
+      1436.6411373342096,
+      561.0
+    ],
+    "after_cm": [
+      -657.0,
+      1558.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_13",
+    "index": 67,
+    "before_cm": [
+      -224.51701484036323,
+      1422.2747625921447,
+      561.0
+    ],
+    "after_cm": [
+      -216.0,
+      1558.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_13",
+    "index": 68,
+    "before_cm": [
+      -296.59513311200556,
+      1425.9801586861818,
+      561.0
+    ],
+    "after_cm": [
+      -194.0,
+      1558.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_13",
+    "index": 214,
+    "before_cm": [
+      -258.5123411461533,
+      1427.0201827068895,
+      561.0
+    ],
+    "after_cm": [
+      -172.0,
+      1558.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_13",
+    "index": 215,
+    "before_cm": [
+      -297.81917520178683,
+      1534.2293643408009,
+      561.0
+    ],
+    "after_cm": [
+      -238.0,
+      1576.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_13",
+    "index": 216,
+    "before_cm": [
+      -222.65890504195477,
+      1548.959753586992,
+      561.0
+    ],
+    "after_cm": [
+      -216.0,
+      1576.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_13",
+    "index": 217,
+    "before_cm": [
+      -430.3430048090442,
+      1263.0328763480184,
+      561.0
+    ],
+    "after_cm": [
+      -194.0,
+      1576.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_13",
+    "index": 218,
+    "before_cm": [
+      -697.2631048958615,
+      1270.097244074234,
+      561.0
+    ],
+    "after_cm": [
+      -723.0,
+      1576.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_14",
+    "index": 20,
+    "before_cm": [
+      -171.25608819297838,
+      1501.9546196891079,
+      561.0
+    ],
+    "after_cm": [
+      -172.0,
+      1576.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_15",
+    "index": 4,
+    "before_cm": [
+      -413.8952483425041,
+      1387.1864082372663,
+      561.0
+    ],
+    "after_cm": [
+      -238.0,
+      1594.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_15",
+    "index": 27,
+    "before_cm": [
+      -177.04335050372117,
+      1467.128973179153,
+      561.0
+    ],
+    "after_cm": [
+      -216.0,
+      1594.0,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 95,
+    "before_cm": [
+      -777.7729598367791,
+      1370.6398536016688,
+      563.0
+    ],
+    "after_cm": [
+      -701.0,
+      1576.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 96,
+    "before_cm": [
+      -766.2741426071533,
+      1393.8777719546922,
+      563.0
+    ],
+    "after_cm": [
+      -679.0,
+      1576.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 158,
+    "before_cm": [
+      -233.4028055522623,
+      1437.7143671718695,
+      563.0
+    ],
+    "after_cm": [
+      -194.0,
+      1594.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 159,
+    "before_cm": [
+      -198.67270591335512,
+      1381.064532209547,
+      563.0
+    ],
+    "after_cm": [
+      -172.0,
+      1594.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 160,
+    "before_cm": [
+      -238.05500866226225,
+      1343.195522255229,
+      563.0
+    ],
+    "after_cm": [
+      -238.0,
+      1612.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 161,
+    "before_cm": [
+      -233.4584188957583,
+      1373.0009629157062,
+      563.0
+    ],
+    "after_cm": [
+      -216.0,
+      1612.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 162,
+    "before_cm": [
+      -266.8688587995765,
+      1428.801803888648,
+      563.0
+    ],
+    "after_cm": [
+      -194.0,
+      1612.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 163,
+    "before_cm": [
+      -194.50290117691327,
+      1413.9118203341009,
+      563.0
+    ],
+    "after_cm": [
+      -172.0,
+      1612.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 164,
+    "before_cm": [
+      -205.88693551656252,
+      1447.5774040716271,
+      563.0
+    ],
+    "after_cm": [
+      -238.0,
+      1630.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 165,
+    "before_cm": [
+      -279.88913270246167,
+      1377.439795419058,
+      563.0
+    ],
+    "after_cm": [
+      -216.0,
+      1630.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 166,
+    "before_cm": [
+      -250.15685666911781,
+      1402.9220382671015,
+      563.0
+    ],
+    "after_cm": [
+      -194.0,
+      1630.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 167,
+    "before_cm": [
+      -169.667087483641,
+      1422.0856766345923,
+      563.0
+    ],
+    "after_cm": [
+      -172.0,
+      1630.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 168,
+    "before_cm": [
+      -198.32274141151424,
+      1346.1283556452138,
+      563.0
+    ],
+    "after_cm": [
+      -238.0,
+      1648.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 170,
+    "before_cm": [
+      -209.2017680732048,
+      1266.4545660279173,
+      563.0
+    ],
+    "after_cm": [
+      -216.0,
+      1648.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 173,
+    "before_cm": [
+      -177.3498606199397,
+      1244.9482955479207,
+      563.0
+    ],
+    "after_cm": [
+      -194.0,
+      1648.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 177,
+    "before_cm": [
+      -237.14205028680112,
+      1271.836615417677,
+      563.0
+    ],
+    "after_cm": [
+      -172.0,
+      1648.0,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 546,
+    "before_cm": [
+      -709.8185031712405,
+      1554.72699548663,
+      563.0
+    ],
+    "after_cm": [
+      -657.0,
+      1576.0,
+      563.0
+    ]
+  }
+]

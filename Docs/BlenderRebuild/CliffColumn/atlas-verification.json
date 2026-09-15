@@ -1,0 +1,12 @@
+{
+  "source_images": [
+    "terrain_cliff_face_v7.png",
+    "terrain_grass_top_v9.png"
+  ],
+  "dimensions_px": [
+    2508,
+    1254
+  ],
+  "both_rgb_regions_pixel_identical": true,
+  "atlas_sha256": "e4aa7d6c84a70c1d54b56cb48a0b574c56d577cdbcb30bc86c064e77e97f9812"
+}

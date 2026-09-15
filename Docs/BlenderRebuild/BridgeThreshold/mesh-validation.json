@@ -1,0 +1,49 @@
+{
+  "asset": "BridgeThreshold",
+  "mesh": "SM_Blender_BridgeThreshold",
+  "source": "SourceAssets/Voxel/river_crossing.png",
+  "source_sha256": "81c83771fab9a42893dbb87b201709584c08fdd14099110fb7a78d10d707857a",
+  "parts": 14,
+  "vertices": 784,
+  "triangles": 1512,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -1.1699999570846558,
+      -0.48500001430511475,
+      -0.2800000011920929
+    ],
+    "max": [
+      1.1699999570846558,
+      0.4300000071525574,
+      0.07099999487400055
+    ]
+  },
+  "files": {
+    "BridgeThreshold_BaseColor.png": {
+      "bytes": 25284,
+      "sha256": "f51443077f577dcad69413f0066764ef71051b52afb6b3a61c9f011e99447c33"
+    },
+    "BridgeThreshold_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "BridgeThreshold_Roughness.png": {
+      "bytes": 4648,
+      "sha256": "ad7d74f81960248b488b79e7097840b419d86adf1e8cb7dca671347dc1090b28"
+    },
+    "SM_Blender_BridgeThreshold.fbx": {
+      "bytes": 51852,
+      "sha256": "b5ceee51d2a631d4985aeb3c59c450e593d105cc18920410d4ad7694b79664e1"
+    },
+    "SM_Blender_BridgeThreshold.glb": {
+      "bytes": 141544,
+      "sha256": "4acfc90a0acfc68247b4a1bdfa1884492c1302b69539df4a83407a160f697698"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "variant_of": "RiverCrossing",
+  "variant_purpose": "South bridge threshold: three tapered timber planks, two runners and a crosspiece fitted between the existing bank and bridge beams. Dimensions and shallow ramp are inferred site adaptations."
+}

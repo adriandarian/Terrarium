@@ -1,0 +1,96 @@
+{
+  "asset": "BridgeThreshold",
+  "variant_of": "RiverCrossing",
+  "concept": "SourceAssets/Voxel/river_crossing.png",
+  "role": "Close the measured south joint using the bridge timber language; canonical reference is unchanged.",
+  "atlas_sources": {
+    "BaseColor": {
+      "source": "SourceAssets\\Blender\\RiverBridge\\RiverBridge_BaseColor.png",
+      "sha256": "f51443077f577dcad69413f0066764ef71051b52afb6b3a61c9f011e99447c33",
+      "byte_identical": true
+    },
+    "Emission": {
+      "source": "SourceAssets\\Blender\\RiverBridge\\RiverBridge_Emission.png",
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c",
+      "byte_identical": true
+    },
+    "Roughness": {
+      "source": "SourceAssets\\Blender\\RiverBridge\\RiverBridge_Roughness.png",
+      "sha256": "ad7d74f81960248b488b79e7097840b419d86adf1e8cb7dca671347dc1090b28",
+      "byte_identical": true
+    }
+  },
+  "planks": [
+    {
+      "name": "Threshold plank 1",
+      "footprint_m": [
+        [
+          -0.8,
+          -0.39
+        ],
+        [
+          1.0,
+          -0.39
+        ],
+        [
+          1.0,
+          -0.19
+        ],
+        [
+          -0.5948717948717949,
+          -0.19
+        ]
+      ]
+    },
+    {
+      "name": "Threshold plank 2",
+      "footprint_m": [
+        [
+          -0.5948717948717949,
+          -0.19
+        ],
+        [
+          1.0,
+          -0.19
+        ],
+        [
+          1.0,
+          0.1
+        ],
+        [
+          -0.2974358974358975,
+          0.1
+        ]
+      ]
+    },
+    {
+      "name": "Threshold plank 3",
+      "footprint_m": [
+        [
+          -0.2974358974358975,
+          0.1
+        ],
+        [
+          1.0,
+          0.1
+        ],
+        [
+          1.0,
+          0.39
+        ],
+        [
+          1.1102230246251565e-16,
+          0.39
+        ]
+      ]
+    }
+  ],
+  "anchor_along_cm": -371,
+  "anchor_z_cm": 280,
+  "bank_edge_along_cm": -410,
+  "deck_edge_along_cm": -332,
+  "bank_top_cm": 286.8,
+  "deck_top_cm": 280.5,
+  "support_design": "Two runners enter the bank around across 26 and 84 cm. The crosspiece seats into the existing under-deck beams at across approximately +/-99 cm.",
+  "fidelity_accepted": false
+}

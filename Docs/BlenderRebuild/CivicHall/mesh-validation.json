@@ -1,0 +1,47 @@
+{
+  "asset": "CivicHall",
+  "mesh": "SM_Blender_CivicHall",
+  "source": "SourceAssets/Voxel/civic_hall.png",
+  "source_sha256": "429ff1f1a5a8ff49f9dd3f136d7c1508d83508e0c30d0ca2e1058da484d2cbdf",
+  "parts": 5779,
+  "vertices": 323676,
+  "triangles": 624240,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -3.990000009536743,
+      -2.884999990463257,
+      0.0
+    ],
+    "max": [
+      3.990000009536743,
+      1.7990000247955322,
+      8.6899995803833
+    ]
+  },
+  "files": {
+    "CivicHall_BaseColor.png": {
+      "bytes": 8509,
+      "sha256": "435785c372cd79557608094d640de1e77b326179bf2d4879b32ac48a40f623c7"
+    },
+    "CivicHall_Emission.png": {
+      "bytes": 4080,
+      "sha256": "cd2f20c1c461b6a4a5a494e3de7626193ae7e947673d2844e79637f0d8525fd7"
+    },
+    "CivicHall_Roughness.png": {
+      "bytes": 4797,
+      "sha256": "c5abce62d9da1e86359ce36afcba7523ee2e1328f3cfe636822ae86b01e34ce1"
+    },
+    "SM_Blender_CivicHall.fbx": {
+      "bytes": 7644060,
+      "sha256": "5a4284bdb37550513da6696497b6a93f5d819a11781d371236b2a30d47b0ce6e"
+    },
+    "SM_Blender_CivicHall.glb": {
+      "bytes": 47461668,
+      "sha256": "2dc532269869268f200cdeb38f96ee003c4ba71c492bdad08a2696a0b56d7d81"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}

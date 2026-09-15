@@ -1,0 +1,20 @@
+{
+  "asset": "BridgeThreshold",
+  "variant_of": "RiverCrossing",
+  "actor": "Blender_BridgeThreshold_South",
+  "mesh": "/Game/Terrarium/Blender/BridgeThreshold/SM_Blender_BridgeThreshold.SM_Blender_BridgeThreshold",
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "location_cm": [
+    868.4032036437609,
+    -1758.2932047080294,
+    280.0
+  ],
+  "yaw": -4.0,
+  "scale": 1,
+  "anchor_along_cm": -371.0,
+  "bank_edge_along_cm": -410,
+  "deck_edge_along_cm": -332,
+  "bank_top_cm": 286.8,
+  "deck_top_cm": 280.5,
+  "status": "saved_collision_and_sampled_contact_verified_visual_refinement_open"
+}

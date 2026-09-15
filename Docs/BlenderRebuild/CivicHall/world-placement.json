@@ -1,0 +1,27 @@
+{
+  "asset": "CivicHall",
+  "actor": "Blender_CivicHall_NorthPath",
+  "mesh": "/Game/Terrarium/Blender/CivicHall/SM_Blender_CivicHall.SM_Blender_CivicHall",
+  "location_cm": [
+    -450,
+    1400,
+    560
+  ],
+  "scale": 0.85,
+  "yaw": 0,
+  "bounds_center": [
+    -449.9999870300293,
+    1446.154983139038,
+    929.3249740600586
+  ],
+  "bounds_extent": [
+    339.1500129699707,
+    199.0700168609619,
+    369.3249740600586
+  ],
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "camera": "Blender_CivicHall_Review",
+  "collision": "complex_as_simple",
+  "status": "placed_pending_visual_check",
+  "site": "Main terrace facing northern walking path; original path and trees retained"
+}

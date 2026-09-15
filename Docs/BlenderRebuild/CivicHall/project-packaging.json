@@ -1,0 +1,12 @@
+{
+  "asset": "CivicHall",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "ffff7e54aefd49b8aba694539bfffea9c13a178324cc5beb5ea70a27b72c2dbb",
+  "sha256": "f3356ff6afd70cc6bbe5bff607c06523d01138d2ec09094e7694b2a391104079",
+  "scene": "Terrarium_CivicHall",
+  "parts": 5779,
+  "packed_images": 3,
+  "active_camera": "Reference camera.004",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

@@ -1,0 +1,11 @@
+{
+  "asset": "BridgeThreshold",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_BridgeThreshold",
+  "parts": 14,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 1512,
+  "sha256": "31af08a11473eb540927e296ae50f862fde116fd346e4afcbc8b0f851f26c4b8",
+  "active_camera": "Reference camera.022"
+}
