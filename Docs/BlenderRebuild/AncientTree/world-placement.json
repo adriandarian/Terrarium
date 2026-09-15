@@ -1,0 +1,128 @@
+{
+  "asset": "AncientTree",
+  "actor": "Blender_AncientTree_NorthMeadow",
+  "mesh": "/Game/Terrarium/Blender/AncientTree/SM_Blender_AncientTree.SM_Blender_AncientTree",
+  "location_cm": [
+    564,
+    1792,
+    558.8362495541572
+  ],
+  "scale": 0.85,
+  "yaw": 180,
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "camera": "Blender_AncientTree_Review",
+  "bounds_center": [
+    565.1220451354981,
+    1792.4861923217773,
+    747.3343669950962
+  ],
+  "bounds_extent": [
+    132.63881912231443,
+    129.49295272827158,
+    188.43436699509618
+  ],
+  "status": "placed_pending_visual_refinement",
+  "site": "Open meadow northeast of civic hall; no original ancient tree instance existed in this world; no plants moved",
+  "root_base_below_nominal_meadow_cm": 1.1,
+  "support_checks": [
+    {
+      "xy_cm": [
+        474,
+        1702
+      ],
+      "support_tile_cm": [
+        492.0,
+        1720.0,
+        560.0
+      ]
+    },
+    {
+      "xy_cm": [
+        474,
+        1792
+      ],
+      "support_tile_cm": [
+        492.0,
+        1792.0,
+        560.0
+      ]
+    },
+    {
+      "xy_cm": [
+        474,
+        1882
+      ],
+      "support_tile_cm": [
+        492.0,
+        1864.0,
+        560.0
+      ]
+    },
+    {
+      "xy_cm": [
+        564,
+        1702
+      ],
+      "support_tile_cm": [
+        564.0,
+        1720.0,
+        560.0
+      ]
+    },
+    {
+      "xy_cm": [
+        564,
+        1792
+      ],
+      "support_tile_cm": [
+        564.0,
+        1792.0,
+        560.0
+      ]
+    },
+    {
+      "xy_cm": [
+        564,
+        1882
+      ],
+      "support_tile_cm": [
+        564.0,
+        1864.0,
+        560.0
+      ]
+    },
+    {
+      "xy_cm": [
+        654,
+        1702
+      ],
+      "support_tile_cm": [
+        636.0,
+        1720.0,
+        560.0
+      ]
+    },
+    {
+      "xy_cm": [
+        654,
+        1792
+      ],
+      "support_tile_cm": [
+        636.0,
+        1792.0,
+        560.0
+      ]
+    },
+    {
+      "xy_cm": [
+        654,
+        1882
+      ],
+      "support_tile_cm": [
+        636.0,
+        1864.0,
+        560.0
+      ]
+    }
+  ]
+}

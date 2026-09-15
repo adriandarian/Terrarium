@@ -1,0 +1,12 @@
+{
+  "asset": "AncientTree",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "e2658824087f8a8fa1b554749af87b222059e20ea3afc0588adced359beb4dba",
+  "sha256": "b93312f239ea5806807c71d9c5dc47aac66b5e783015f92e588e086052674b11",
+  "scene": "Terrarium_AncientTree",
+  "parts": 2321,
+  "packed_images": 3,
+  "active_camera": "Reference camera.008",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}
