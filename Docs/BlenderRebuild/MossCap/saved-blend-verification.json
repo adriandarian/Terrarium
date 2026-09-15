@@ -1,0 +1,11 @@
+{
+  "asset": "MossCap",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_MossCap",
+  "parts": 1,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 110592,
+  "sha256": "e2ef9761a6b428af8c058fdd7cb2723b1a12c34c6c2630eae2557a63f2197d7c",
+  "active_camera": "Reference camera.018"
+}

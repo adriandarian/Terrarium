@@ -1,0 +1,47 @@
+{
+  "asset": "MossCap",
+  "mesh": "SM_Blender_MossCap",
+  "source": "SourceAssets/Voxel/terrain_moss_cap_v1.png",
+  "source_sha256": "c57c9bfb2e374e9200f23458405a359583052094eb0ce196213430c3a7d00ad4",
+  "parts": 1,
+  "vertices": 73728,
+  "triangles": 110592,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.3199999928474426,
+      -0.3199999928474426,
+      -0.012000000104308128
+    ],
+    "max": [
+      0.3199999928474426,
+      0.3199999928474426,
+      0.012000000104308128
+    ]
+  },
+  "files": {
+    "MossCap_BaseColor.png": {
+      "bytes": 1950844,
+      "sha256": "c57c9bfb2e374e9200f23458405a359583052094eb0ce196213430c3a7d00ad4"
+    },
+    "MossCap_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "MossCap_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_MossCap.fbx": {
+      "bytes": 1102172,
+      "sha256": "fc45cbcb5182adb4af9203acd3d8eefdca2945faab5a30aa82ca8bf4161c3718"
+    },
+    "SM_Blender_MossCap.glb": {
+      "bytes": 10366172,
+      "sha256": "b0c827bb5c0af13445175f7eccced85e1d12960b32f9a0c5de06a252d21c3c08"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}

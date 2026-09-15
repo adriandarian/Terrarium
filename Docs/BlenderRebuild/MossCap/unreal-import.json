@@ -1,0 +1,18 @@
+{
+  "asset": "MossCap",
+  "mesh": "/Game/Terrarium/Blender/MossCap/SM_Blender_MossCap.SM_Blender_MossCap",
+  "material": "/Game/Terrarium/Blender/MossCap/M_MossCap.M_MossCap",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/MossCap/T_MossCap_BaseColor.T_MossCap_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/MossCap/T_MossCap_Emission.T_MossCap_Emission",
+    "Roughness": "/Game/Terrarium/Blender/MossCap/T_MossCap_Roughness.T_MossCap_Roughness"
+  },
+  "source_fbx_sha256": "fc45cbcb5182adb4af9203acd3d8eefdca2945faab5a30aa82ca8bf4161c3718",
+  "dimensions_cm": [
+    64.00000762939453,
+    64.00000762939453,
+    2.4000000953674316
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}

@@ -1,0 +1,12 @@
+{
+  "asset": "MossCap",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "b798244ed530a036ac55a003d082f29cf7447544fc0b054b2f20cee05261388f",
+  "sha256": "e2ef9761a6b428af8c058fdd7cb2723b1a12c34c6c2630eae2557a63f2197d7c",
+  "scene": "Terrarium_MossCap",
+  "parts": 1,
+  "packed_images": 3,
+  "active_camera": "Reference camera.018",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

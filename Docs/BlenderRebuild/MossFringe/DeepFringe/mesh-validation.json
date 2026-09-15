@@ -1,0 +1,49 @@
+{
+  "asset": "MossFringe",
+  "mesh": "SM_Blender_MossFringe",
+  "source": "SourceAssets/Voxel/terrain_moss_cap_v1.png",
+  "source_sha256": "c57c9bfb2e374e9200f23458405a359583052094eb0ce196213430c3a7d00ad4",
+  "parts": 1,
+  "vertices": 61344,
+  "triangles": 92016,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.25999999046325684,
+      -0.2150000035762787,
+      -1.1440000534057617
+    ],
+    "max": [
+      0.2329999953508377,
+      0.2004062533378601,
+      0.012000000104308128
+    ]
+  },
+  "files": {
+    "MossFringe_BaseColor.png": {
+      "bytes": 1950844,
+      "sha256": "c57c9bfb2e374e9200f23458405a359583052094eb0ce196213430c3a7d00ad4"
+    },
+    "MossFringe_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "MossFringe_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_MossFringe.fbx": {
+      "bytes": 1265404,
+      "sha256": "aa1a1be120bb239b497383655579af13cc9f365ba568b5318822fe0aa389f43a"
+    },
+    "SM_Blender_MossFringe.glb": {
+      "bytes": 8954416,
+      "sha256": "3273a92a3da7159404ec37cc7c7ee43ea5f5029d42a0f627bf092f3d72d2b923"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "variant_of": "MossCap",
+  "variant_purpose": "Cliff-lip cushion and connected hanging fingers using the source moss pattern; hanging silhouette and depth are inferred."
+}
