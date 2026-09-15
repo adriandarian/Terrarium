@@ -1,0 +1,47 @@
+{
+  "asset": "MossRock",
+  "mesh": "SM_Blender_MossRock",
+  "source": "SourceAssets/Voxel/rock.png",
+  "source_sha256": "ee96dbe9dff393bc572720701b79729bbf4668be802d4b4f9aa9567d40ba0e91",
+  "parts": 725,
+  "vertices": 40600,
+  "triangles": 78300,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.8793900012969971,
+      -0.8037900328636169,
+      0.0006299987435340881
+    ],
+    "max": [
+      0.8577900528907776,
+      0.6525900363922119,
+      1.242569923400879
+    ]
+  },
+  "files": {
+    "MossRock_BaseColor.png": {
+      "bytes": 55862,
+      "sha256": "c4bbd72b5bbb95f980f4a18de2c8ce187d6e8f7e699ea9d0105bc25cb287c7b1"
+    },
+    "MossRock_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "MossRock_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_MossRock.fbx": {
+      "bytes": 1079900,
+      "sha256": "03d2646c3358e54b56b15af14a7fa2704b86227da116990ce8d743639facb4f4"
+    },
+    "SM_Blender_MossRock.glb": {
+      "bytes": 6017000,
+      "sha256": "97d8cddd62b6097ef0ec8729d796a3fec648944d4bb88051837730a746302ce2"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}

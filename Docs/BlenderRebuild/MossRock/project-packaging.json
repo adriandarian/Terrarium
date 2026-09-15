@@ -1,0 +1,12 @@
+{
+  "asset": "MossRock",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "478df340472f384b266e68ce682137d9680ac67fbc80940bc782ae6c82384525",
+  "sha256": "886c9fa9f39c65b531edb6d330aec816d364d0f80b3d803b98c3cdddaae8ae18",
+  "scene": "Terrarium_MossRock",
+  "parts": 725,
+  "packed_images": 3,
+  "active_camera": "Reference camera.006",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

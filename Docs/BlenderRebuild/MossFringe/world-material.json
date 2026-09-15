@@ -1,0 +1,11 @@
+{
+  "material": "/Game/Terrarium/Blender/MossFringe/M_MossFringe.M_MossFringe",
+  "previous_material_copy": "/Game/Terrarium/Blender/MossFringe/M_MossFringe_BeforeWorldMapping",
+  "projection": "Dominant face axis in world space",
+  "tile_size_cm": 64,
+  "uv_code": "float3 N = abs(Normal); if (N.z >= max(N.x, N.y)) return float2(World.x, -World.y) / Period + 0.5; if (N.x >= N.y) return float2(World.y, -World.z) / Period + 0.5; return float2(World.x, -World.z) / Period + 0.5;",
+  "source_image_unchanged": true,
+  "geometry_and_transforms_unchanged": true,
+  "visual_review": "pending",
+  "tradeoff": "Pattern size is independent of instance scaling; world-projected color no longer follows the source-luminance relief one-to-one."
+}

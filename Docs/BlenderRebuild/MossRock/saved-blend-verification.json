@@ -1,0 +1,11 @@
+{
+  "asset": "MossRock",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_MossRock",
+  "parts": 725,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 78300,
+  "sha256": "886c9fa9f39c65b531edb6d330aec816d364d0f80b3d803b98c3cdddaae8ae18",
+  "active_camera": "Reference camera.006"
+}

@@ -1,0 +1,11 @@
+{
+  "asset": "MossFringe",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_MossFringe",
+  "parts": 1,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 92016,
+  "sha256": "0c613870ae58ee961e3d2608bd842c5acba1818e7e2bad580b08d7bd6b7a7e9d",
+  "active_camera": "Reference camera.019"
+}

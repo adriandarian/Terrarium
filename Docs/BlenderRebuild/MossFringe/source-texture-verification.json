@@ -1,0 +1,9 @@
+{
+  "source": "SourceAssets\\Voxel\\terrain_moss_cap_v1.png",
+  "copied_albedo": "SourceAssets\\Blender\\MossFringe\\MossFringe_BaseColor.png",
+  "byte_identical": true,
+  "sha256": "c57c9bfb2e374e9200f23458405a359583052094eb0ce196213430c3a7d00ad4",
+  "solid_cells": 7668,
+  "relief_inferred": true,
+  "hanging_silhouette_inferred": true
+}

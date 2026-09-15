@@ -1,0 +1,18 @@
+{
+  "asset": "MossFringe",
+  "mesh": "/Game/Terrarium/Blender/MossFringe/SM_Blender_MossFringe.SM_Blender_MossFringe",
+  "material": "/Game/Terrarium/Blender/MossFringe/M_MossFringe.M_MossFringe",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/MossFringe/T_MossFringe_BaseColor.T_MossFringe_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/MossFringe/T_MossFringe_Emission.T_MossFringe_Emission",
+    "Roughness": "/Game/Terrarium/Blender/MossFringe/T_MossFringe_Roughness.T_MossFringe_Roughness"
+  },
+  "source_fbx_sha256": "40f477e7c34ace9b29c89c8e646ffe521bbe1eec459cd5f87b98084097061de3",
+  "dimensions_cm": [
+    49.29999923706055,
+    41.54062843322754,
+    115.60000920295715
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}

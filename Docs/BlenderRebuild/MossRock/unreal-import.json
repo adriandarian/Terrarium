@@ -1,0 +1,18 @@
+{
+  "asset": "MossRock",
+  "mesh": "/Game/Terrarium/Blender/MossRock/SM_Blender_MossRock.SM_Blender_MossRock",
+  "material": "/Game/Terrarium/Blender/MossRock/M_MossRock.M_MossRock",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/MossRock/T_MossRock_BaseColor.T_MossRock_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/MossRock/T_MossRock_Emission.T_MossRock_Emission",
+    "Roughness": "/Game/Terrarium/Blender/MossRock/T_MossRock_Roughness.T_MossRock_Roughness"
+  },
+  "source_fbx_sha256": "03d2646c3358e54b56b15af14a7fa2704b86227da116990ce8d743639facb4f4",
+  "dimensions_cm": [
+    173.71800994873047,
+    145.63800811767578,
+    124.19398865103722
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}

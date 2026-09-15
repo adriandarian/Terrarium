@@ -1,0 +1,12 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender.HomesteadBlender",
+  "material": "/Game/Terrarium/Blender/MossFringe/M_MossFringe.M_MossFringe",
+  "scalar_parameters": [
+    "MossTileSizeCm"
+  ],
+  "tile_size_cm": 64.0,
+  "source_byte_identical": true,
+  "source_sha256": "c57c9bfb2e374e9200f23458405a359583052094eb0ce196213430c3a7d00ad4",
+  "instances_verified": 209,
+  "fidelity_accepted": false
+}
