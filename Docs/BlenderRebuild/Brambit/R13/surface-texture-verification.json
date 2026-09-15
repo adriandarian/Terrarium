@@ -1,0 +1,58 @@
+{
+  "source_blend_sha256": "303a2d16debc3e24cc78d03b0e110fb8099e1572f1762baef41ad7477f433c91",
+  "maps": [
+    {
+      "map": "BaseColor",
+      "sha256": "d1c2af73ec816b46d36300d83a4d8009a625a76d7297d3f8ebbf781879310db7",
+      "size": [
+        1024,
+        1024
+      ],
+      "unique_colors_per_pigment_cell": [
+        19,
+        19,
+        19,
+        19,
+        27,
+        33,
+        19,
+        7,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19
+      ]
+    },
+    {
+      "map": "Roughness",
+      "sha256": "4ff95dd22f428b8f0ef1e74789555fe824021ca8cd2bb81b2f29e47bd9fe88f3",
+      "size": [
+        1024,
+        1024
+      ],
+      "unique_colors_per_pigment_cell": [
+        19,
+        19,
+        19,
+        19,
+        20,
+        22,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19,
+        19
+      ]
+    }
+  ],
+  "limits": "Stored pixel variation and source UV coverage. Does not establish visual fidelity."
+}
