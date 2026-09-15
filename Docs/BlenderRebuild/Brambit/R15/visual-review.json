@@ -1,0 +1,28 @@
+{
+  "revision": "r15_staggered_front_crown",
+  "accepted_fidelity": false,
+  "visually_checked": true,
+  "parts": 5,
+  "editable_construction_blocks": 184,
+  "triangles": 38100,
+  "studio_views": [
+    "front.png",
+    "left.png",
+    "side.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Rear/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "remaining": [
+    "The body remains more rectangular than the reference; the cap now has a raised rear ridge, inset brown saddle, taller left shoulder and a descending moss block over the bark. Five front courses now follow measured concept corners, with a lower left lip, a short moss block beside the forehead, a brown interruption below it and a revised right-front step. The central shoulder has also been lowered. The overall footprint, overhang depth and remaining courses still need closer matching. The forehead now has physical depth, while its transition into surrounding moss remains too regular.",
+    "Broad staggered bark regions and sparse projecting knots replace the dense narrow tiles. Four front-edge protrusions now follow measured lower-face and outer-right corners, with the left one joined at the side-facing depth. The other bark boundaries, color and depth still differ from the source; rear anatomy is inferred because no rear concept was supplied.",
+    "The main tan face follows measured source boundaries. The lower tan panels have been extended to remove the recessed bottom strip, but their divisions and colors still need closer matching. The feet are narrower and their three visible sole corners now follow measured concept landmarks; the hidden fourth foot remains inferred.",
+    "The leaf joins now meet the front plane, closing the dark notches, and stay within the leaf depth to remove the protruding join ledges. Selected leaf faces have shallow physical relief. Their seam layout, color, stem exposure and inferred rear arrangement still differ from the concept.",
+    "The 1024-pixel pigment and roughness maps now combine authored face and belly color regions with stronger rectangular variation in the bark and moss. The forehead recess has been filled and replaced with pigment on the face. Region boundaries and distribution still differ from the source; the Unreal face remains darker than the studio reference. The microscopic Boolean slivers have been removed; all current source faces pass the UV-area check.",
+    "Four feet and twenty sole samples pass static support checks, with uneven-ground clearance below 5.5 mm. This model has no rig, animation, locomotion or physics validation."
+  ]
+}

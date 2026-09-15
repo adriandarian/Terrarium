@@ -1,0 +1,72 @@
+{
+  "source_blend_sha256": "f58947dcc1c676f3f5f39e938a14a1755ac61334c1ecc269e21eeff51136e019",
+  "connected_sections": [
+    {
+      "part": "Central leafy shoot",
+      "connected_components": 1
+    },
+    {
+      "part": "Left leafy shoot",
+      "connected_components": 1
+    },
+    {
+      "part": "Right leafy shoot",
+      "connected_components": 1
+    },
+    {
+      "part": "Joined moss crown",
+      "connected_components": 1
+    },
+    {
+      "part": "Joined body face and feet",
+      "connected_components": 1
+    }
+  ],
+  "burrs": [
+    {
+      "reference_corner_px": [
+        480,
+        897
+      ],
+      "projected_corner_px": [
+        479.9997487664223,
+        897.0006178021431
+      ],
+      "error_pixels": 0.0006669316296242812
+    },
+    {
+      "reference_corner_px": [
+        553,
+        976
+      ],
+      "projected_corner_px": [
+        552.9998168349266,
+        976.0006476938725
+      ],
+      "error_pixels": 0.0006730949387146653
+    },
+    {
+      "reference_corner_px": [
+        876,
+        918
+      ],
+      "projected_corner_px": [
+        875.9998451471329,
+        918.0006803870201
+      ],
+      "error_pixels": 0.0006977864340849048
+    },
+    {
+      "reference_corner_px": [
+        940,
+        805
+      ],
+      "projected_corner_px": [
+        939.9998116493225,
+        805.0006799697876
+      ],
+      "error_pixels": 0.0007055741561002869
+    }
+  ],
+  "limits": "Four manually read visible front corners, not full silhouette or overall fidelity. Each of five evaluated sections is a single connected surface."
+}
