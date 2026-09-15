@@ -1,0 +1,25 @@
+{
+  "asset": "Tide",
+  "changes": [
+    {
+      "map": "BaseColor",
+      "before_sha256": "118a961fd3228c6ac3f0d9cf5fd3ecca99a2e1438bdad9c180f10fbef20b4084",
+      "after_sha256": "eb65bcc691bab963236d183eda9784a87b5f4db1d0c8b69a7effc4e942fec37e",
+      "bit_depth": 8
+    },
+    {
+      "map": "Emission",
+      "before_sha256": "3d0c0bfd2c5437cbdc4f382593564b7ad0f09885073c0bff5322ab996c038e15",
+      "after_sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c",
+      "bit_depth": 8
+    },
+    {
+      "map": "Roughness",
+      "before_sha256": "d05dc617125d17e693faf77f95573be19c60dbb54ffb5ed00ed8d0892b00c225",
+      "after_sha256": "cd2eababca1cfd8aa99f16bd718f09a9e23e9c022d17418658b31e0887b92710",
+      "bit_depth": 8
+    }
+  ],
+  "color_transform": "Standard sRGB for BaseColor and Emission; Raw for non-color Roughness. Exposure 0, gamma 1, no look.",
+  "reason": "These PNG16 atlas imports sampled encoded RGB in Unreal despite srgb=true. PNG8 was verified through an RGBA32F shader readback."
+}

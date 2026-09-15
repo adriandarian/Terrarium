@@ -1,0 +1,25 @@
+{
+  "asset": "Tide",
+  "mesh": "/Game/Terrarium/Blender/Tide/SM_Blender_Tide.SM_Blender_Tide",
+  "material": "/Game/Terrarium/Blender/Tide/M_Tide.M_Tide",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/Tide/T_Tide_BaseColor.T_Tide_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/Tide/T_Tide_Emission.T_Tide_Emission",
+    "Roughness": "/Game/Terrarium/Blender/Tide/T_Tide_Roughness.T_Tide_Roughness"
+  },
+  "source_fbx_sha256": "01bc439341ff7fc89ada3d33faa1873d9f9eb2fd3205f0a893fb56ad793b8c31",
+  "dimensions_cm": [
+    97.61909866333008,
+    15.762501239776611,
+    130.10234415531158
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check",
+  "material_slots": [
+    {
+      "index": 0,
+      "imported_name": "M_Tide_Wave_004",
+      "material": "/Game/Terrarium/Blender/Tide/M_Tide.M_Tide"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "asset": "TrailPatch",
+  "mesh": "SM_Blender_TrailPatch",
+  "source": "SourceAssets/Voxel/terrain_trail_top_v8.png",
+  "source_sha256": "b0b2f1fc7c5d21fb37450c2cc38d18a754e4ed44f5f4ea32d0588f22dbce03f1",
+  "parts": 140,
+  "vertices": 3057,
+  "triangles": 5554,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -1.159999966621399,
+      -1.0,
+      -0.14000000059604645
+    ],
+    "max": [
+      1.159999966621399,
+      1.0,
+      0.008999999612569809
+    ]
+  },
+  "files": {
+    "SM_Blender_TrailPatch.fbx": {
+      "bytes": 140988,
+      "sha256": "028d75dc53d7c575f7ddf1df7f3dad39a20af1a665cbed922e46a948178c5df1"
+    },
+    "SM_Blender_TrailPatch.glb": {
+      "bytes": 2364088,
+      "sha256": "e4c158d956a573528530f100f0cb0326c5bcffa53366f8f1b25710f43ebea7fc"
+    },
+    "TrailPatch_BaseColor.png": {
+      "bytes": 1994885,
+      "sha256": "b0b2f1fc7c5d21fb37450c2cc38d18a754e4ed44f5f4ea32d0588f22dbce03f1"
+    },
+    "TrailPatch_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "TrailPatch_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "variant_of": "TrailTerrain",
+  "variant_purpose": "Clipped irregular outline for existing path segments, with the same 240 cm source scale."
+}

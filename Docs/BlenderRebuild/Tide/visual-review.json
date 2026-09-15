@@ -1,0 +1,22 @@
+{
+  "revision": "r5_solid_wave_and_open_curl",
+  "parts": 155,
+  "triangles": 16740,
+  "studio_views": [
+    "front.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "visually_checked": true,
+  "accepted_fidelity": false,
+  "remaining": [
+    "Some rectangular front divisions and relief steps differ from the reference cubic rhythm.",
+    "The pale crest, curl interior and lower profile need closer shape matching.",
+    "Corners and highlights remain sharper and flatter than the concept; Unreal shade is darker.",
+    "Rear surfaces are inferred. No fluid simulation, rigid-body balance, character movement or performance validation."
+  ]
+}

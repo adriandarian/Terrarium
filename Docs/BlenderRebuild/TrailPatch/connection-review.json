@@ -1,0 +1,811 @@
+{
+  "edge_contacts": [
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_22:29",
+      "world_xy_cm": [
+        877.6955418500734,
+        -189.83072524647082
+      ],
+      "underlying_support": [
+        {
+          "mesh": "SM_Blender_StoneStairs",
+          "component": "StaticMeshComponent0",
+          "height_cm": 560.0000003192889
+        }
+      ],
+      "with_path": [
+        {
+          "mesh": "SM_Blender_TrailPatch",
+          "component": "FoliageInstancedStaticMeshComponent_10",
+          "height_cm": 565.3000413094031
+        },
+        {
+          "mesh": "SM_Blender_StoneStairs",
+          "component": "StaticMeshComponent0",
+          "height_cm": 560.0000003192889
+        }
+      ]
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_22:35",
+      "world_xy_cm": [
+        865.01314645269,
+        -1799.6905476833786
+      ],
+      "underlying_support": [],
+      "with_path": [
+        {
+          "mesh": "SM_Blender_TrailPatch",
+          "component": "FoliageInstancedStaticMeshComponent_10",
+          "height_cm": 285.300015706025
+        }
+      ]
+    }
+  ],
+  "bridge_south_joint": [
+    {
+      "across_cm": -60,
+      "along_cm": -420,
+      "xy_cm": [
+        805.1312934147094,
+        -1802.9884547461133
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -415,
+      "xy_cm": [
+        805.48007578343,
+        -1798.0006344948142
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -410,
+      "xy_cm": [
+        805.8288581521506,
+        -1793.012814243515
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -405,
+      "xy_cm": [
+        806.1776405208713,
+        -1788.024993992216
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -400,
+      "xy_cm": [
+        806.5264228895919,
+        -1783.0371737409168
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -395,
+      "xy_cm": [
+        806.8752052583125,
+        -1778.0493534896177
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -390,
+      "xy_cm": [
+        807.2239876270331,
+        -1773.0615332383186
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -385,
+      "xy_cm": [
+        807.5727699957538,
+        -1768.0737129870195
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -380,
+      "xy_cm": [
+        807.9215523644743,
+        -1763.0858927357203
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -375,
+      "xy_cm": [
+        808.270334733195,
+        -1758.0980724844212
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -370,
+      "xy_cm": [
+        808.6191171019157,
+        -1753.110252233122
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -365,
+      "xy_cm": [
+        808.9678994706362,
+        -1748.122431981823
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -360,
+      "xy_cm": [
+        809.3166818393569,
+        -1743.1346117305238
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -355,
+      "xy_cm": [
+        809.6654642080775,
+        -1738.1467914792247
+      ],
+      "top_surface": null
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -350,
+      "xy_cm": [
+        810.0142465767981,
+        -1733.1589712279256
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.1699992418289
+      }
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -345,
+      "xy_cm": [
+        810.3630289455187,
+        -1728.1711509766264
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 284.59500074386597
+      }
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -340,
+      "xy_cm": [
+        810.7118113142394,
+        -1723.1833307253273
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 283.020002245903
+      }
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -335,
+      "xy_cm": [
+        811.06059368296,
+        -1718.1955104740282
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 281.44499719142914
+      }
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -330,
+      "xy_cm": [
+        811.4093760516806,
+        -1713.207690222729
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_RiverBridge",
+        "component": "StaticMeshComponent0",
+        "height_cm": 280.00001430511475
+      }
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -325,
+      "xy_cm": [
+        811.7581584204013,
+        -1708.21986997143
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_RiverBridge",
+        "component": "StaticMeshComponent0",
+        "height_cm": 280.00001430511475
+      }
+    },
+    {
+      "across_cm": -60,
+      "along_cm": -320,
+      "xy_cm": [
+        812.1069407891218,
+        -1703.2320497201308
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_RiverBridge",
+        "component": "StaticMeshComponent0",
+        "height_cm": 280.00001430511475
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -420,
+      "xy_cm": [
+        864.9851364302988,
+        -1807.1738431707608
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_TrailPatch",
+        "component": "FoliageInstancedStaticMeshComponent_10",
+        "height_cm": 285.3000158071518
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -415,
+      "xy_cm": [
+        865.3339187990193,
+        -1802.1860229194617
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_TrailPatch",
+        "component": "FoliageInstancedStaticMeshComponent_10",
+        "height_cm": 285.3000158071518
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -410,
+      "xy_cm": [
+        865.68270116774,
+        -1797.1982026681626
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_TrailPatch",
+        "component": "FoliageInstancedStaticMeshComponent_10",
+        "height_cm": 285.3000158071518
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -405,
+      "xy_cm": [
+        866.0314835364607,
+        -1792.2103824168635
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -400,
+      "xy_cm": [
+        866.3802659051813,
+        -1787.2225621655643
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -395,
+      "xy_cm": [
+        866.7290482739019,
+        -1782.2347419142652
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -390,
+      "xy_cm": [
+        867.0778306426225,
+        -1777.246921662966
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -385,
+      "xy_cm": [
+        867.4266130113432,
+        -1772.259101411667
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -380,
+      "xy_cm": [
+        867.7753953800637,
+        -1767.2712811603678
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -375,
+      "xy_cm": [
+        868.1241777487844,
+        -1762.2834609090687
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -370,
+      "xy_cm": [
+        868.4729601175051,
+        -1757.2956406577696
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -365,
+      "xy_cm": [
+        868.8217424862256,
+        -1752.3078204064705
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -360,
+      "xy_cm": [
+        869.1705248549463,
+        -1747.3200001551713
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -355,
+      "xy_cm": [
+        869.5193072236669,
+        -1742.3321799038722
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -350,
+      "xy_cm": [
+        869.8680895923875,
+        -1737.344359652573
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.1699992418289
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -345,
+      "xy_cm": [
+        870.2168719611082,
+        -1732.356539401274
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 284.59500074386597
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -340,
+      "xy_cm": [
+        870.5656543298288,
+        -1727.3687191499748
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 283.0199956893921
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -335,
+      "xy_cm": [
+        870.9144366985494,
+        -1722.3808988986757
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 281.44499719142914
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -330,
+      "xy_cm": [
+        871.26321906727,
+        -1717.3930786473766
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_RiverBridge",
+        "component": "StaticMeshComponent0",
+        "height_cm": 280.00001430511475
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -325,
+      "xy_cm": [
+        871.6120014359907,
+        -1712.4052583960774
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_RiverBridge",
+        "component": "StaticMeshComponent0",
+        "height_cm": 280.00001430511475
+      }
+    },
+    {
+      "across_cm": 0,
+      "along_cm": -320,
+      "xy_cm": [
+        871.9607838047112,
+        -1707.4174381447783
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_RiverBridge",
+        "component": "StaticMeshComponent0",
+        "height_cm": 280.00001430511475
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -420,
+      "xy_cm": [
+        924.8389794458882,
+        -1811.3592315954083
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_TrailPatch",
+        "component": "FoliageInstancedStaticMeshComponent_10",
+        "height_cm": 286.01501643657684
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -415,
+      "xy_cm": [
+        925.1877618146088,
+        -1806.3714113441092
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_TrailPatch",
+        "component": "FoliageInstancedStaticMeshComponent_10",
+        "height_cm": 286.01501643657684
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -410,
+      "xy_cm": [
+        925.5365441833294,
+        -1801.38359109281
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.5000146627426
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -405,
+      "xy_cm": [
+        925.8853265520501,
+        -1796.395770841511
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -400,
+      "xy_cm": [
+        926.2341089207707,
+        -1791.4079505902118
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -395,
+      "xy_cm": [
+        926.5828912894913,
+        -1786.4201303389127
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -390,
+      "xy_cm": [
+        926.9316736582119,
+        -1781.4323100876136
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -385,
+      "xy_cm": [
+        927.2804560269326,
+        -1776.4444898363145
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -380,
+      "xy_cm": [
+        927.6292383956531,
+        -1771.4566695850153
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -375,
+      "xy_cm": [
+        927.9780207643738,
+        -1766.4688493337162
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -370,
+      "xy_cm": [
+        928.3268031330945,
+        -1761.481029082417
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -365,
+      "xy_cm": [
+        928.675585501815,
+        -1756.493208831118
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -360,
+      "xy_cm": [
+        929.0243678705357,
+        -1751.5053885798188
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -355,
+      "xy_cm": [
+        929.3731502392563,
+        -1746.5175683285197
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.80000126361847
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -350,
+      "xy_cm": [
+        929.7219326079769,
+        -1741.5297480772206
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 286.1699992418289
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -345,
+      "xy_cm": [
+        930.0707149766976,
+        -1736.5419278259214
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 284.59500074386597
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -340,
+      "xy_cm": [
+        930.4194973454182,
+        -1731.5541075746223
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 283.0199956893921
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -335,
+      "xy_cm": [
+        930.7682797141388,
+        -1726.5662873233232
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_BridgeThreshold",
+        "component": "StaticMeshComponent0",
+        "height_cm": 281.44499719142914
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -330,
+      "xy_cm": [
+        931.1170620828594,
+        -1721.578467072024
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_RiverBridge",
+        "component": "StaticMeshComponent0",
+        "height_cm": 280.00001430511475
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -325,
+      "xy_cm": [
+        931.4658444515801,
+        -1716.590646820725
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_RiverBridge",
+        "component": "StaticMeshComponent0",
+        "height_cm": 280.00001430511475
+      }
+    },
+    {
+      "across_cm": 60,
+      "along_cm": -320,
+      "xy_cm": [
+        931.8146268203006,
+        -1711.6028265694258
+      ],
+      "top_surface": {
+        "mesh": "SM_Blender_RiverBridge",
+        "component": "StaticMeshComponent0",
+        "height_cm": 280.00001430511475
+      }
+    }
+  ],
+  "scope": "Component collision sampled every 5 cm along three lines across the south joint. No character traversal test."
+}

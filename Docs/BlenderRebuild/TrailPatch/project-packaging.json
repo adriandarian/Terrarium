@@ -1,0 +1,12 @@
+{
+  "asset": "TrailPatch",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "f21f5c73cbb7eb4ed75e663a00556e5512a0db0afc9ebfd0d235ac95aa52b20c",
+  "sha256": "6ccc8fc5f0b29a05b8911b06a01559d205b3f1e7189afe56d08bab60cdf9ce87",
+  "scene": "Terrarium_TrailPatch",
+  "parts": 140,
+  "packed_images": 3,
+  "active_camera": "Reference camera.021",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

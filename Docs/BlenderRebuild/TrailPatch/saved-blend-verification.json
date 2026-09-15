@@ -1,0 +1,11 @@
+{
+  "asset": "TrailPatch",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_TrailPatch",
+  "parts": 140,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 5554,
+  "sha256": "6ccc8fc5f0b29a05b8911b06a01559d205b3f1e7189afe56d08bab60cdf9ce87",
+  "active_camera": "Reference camera.021"
+}

@@ -1,0 +1,7 @@
+{
+  "asset": "TrailPatch",
+  "scene": "Terrarium_TrailPatch",
+  "parts": 140,
+  "source": "SourceAssets/Voxel/terrain_trail_top_v8.png",
+  "status": "authored_pending_visual_review"
+}
