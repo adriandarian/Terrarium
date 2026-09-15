@@ -1,0 +1,26 @@
+{
+  "source": "player_front.png",
+  "key": "player_front",
+  "module": "humanoids",
+  "revision": 3,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Player_R3",
+  "name": "SM_Recon_Player_R3",
+  "bounds_cm": {
+    "min": [
+      -57.42634278866025,
+      -22.75,
+      0.0
+    ],
+    "max": [
+      46.656548147425696,
+      38.6,
+      160.0
+    ]
+  },
+  "triangles": 123596,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "988bfdc06b88a1d3502f79a6d5d12206461eb196514a9162a2292e56d5261b36",
+  "seconds": 6.38,
+  "visual_acceptance": "reviewed_reconstruction_not_exact_parity",
+  "visual_review_document": "Docs/Reconstruction/visual-review.md"
+}

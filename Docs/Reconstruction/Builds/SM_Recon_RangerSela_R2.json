@@ -1,0 +1,25 @@
+{
+  "source": "ranger_sela.png",
+  "key": "ranger_sela",
+  "module": "humanoids",
+  "revision": 2,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_RangerSela_R2",
+  "name": "SM_Recon_RangerSela_R2",
+  "bounds_cm": {
+    "min": [
+      -39.27964187356604,
+      -29.5,
+      0.0
+    ],
+    "max": [
+      35.0924466451823,
+      19.569242206770873,
+      160.0
+    ]
+  },
+  "triangles": 128788,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "73a429018dfbdaa5466959ba0eb5c05b808e99f12772c6aa037ea2057c661687",
+  "seconds": 6.58,
+  "visual_acceptance": "pending_independent_comparison"
+}

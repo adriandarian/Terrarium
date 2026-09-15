@@ -1,0 +1,38 @@
+{
+  "source": "homestead_riverbank_v2.png",
+  "key": "homestead_riverbank_v2",
+  "module": "environment",
+  "revision": 6,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Riverbank_R6",
+  "name": "SM_Recon_Riverbank_R6",
+  "bounds_cm": {
+    "min": [
+      -87.015,
+      -87.015,
+      0.0
+    ],
+    "max": [
+      93.015,
+      88.12413408594534,
+      107.0
+    ]
+  },
+  "triangles": 50160,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "713abbe846e31800259876a963fb246e53cf983b5bea505430f82921a363ced5",
+  "seconds": 4.81,
+  "visual_acceptance": "dark_olive_finer_blocks_extended_ground_and_box_clumps_removed_pending_user_review",
+  "visual_review_document": "Docs/Reconstruction/riverbank-review.md",
+  "capture_profile": "Scripts/Reconstruction/capture_riverbank.py",
+  "geometry_changes": {
+    "ground_cell_cm": 6,
+    "prior_ground_cell_cm": 12.5,
+    "cattail_stem_cm": 1.65,
+    "prior_main_stem_cm": 3.75,
+    "cattail_head_cm": 4.1,
+    "prior_main_head_cm": 10,
+    "cattail_count": 20,
+    "rectangular_clumps": 0,
+    "extended_foreground_apron": true
+  }
+}

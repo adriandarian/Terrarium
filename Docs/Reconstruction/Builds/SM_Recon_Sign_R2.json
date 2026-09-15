@@ -1,0 +1,25 @@
+{
+  "source": "sign.png",
+  "key": "sign",
+  "module": "architecture",
+  "revision": 2,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Sign_R2",
+  "name": "SM_Recon_Sign_R2",
+  "bounds_cm": {
+    "min": [
+      -49.0,
+      -43.5,
+      0.0
+    ],
+    "max": [
+      126.0,
+      38.875,
+      232.78
+    ]
+  },
+  "triangles": 3300,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "370bd03b6a69c9a8db8f21d56e05ba9ce2438b9d680b589effa05bddb66d32ed",
+  "seconds": 0.27,
+  "visual_acceptance": "pending_independent_comparison"
+}

@@ -1,0 +1,26 @@
+{
+  "source": "river_crossing.png",
+  "key": "river_crossing",
+  "module": "environment",
+  "revision": 3,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_RiverCrossing_R3",
+  "name": "SM_Recon_RiverCrossing_R3",
+  "bounds_cm": {
+    "min": [
+      -69.0,
+      -143.5,
+      0
+    ],
+    "max": [
+      69.0,
+      252.46,
+      124.96
+    ]
+  },
+  "triangles": 48840,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "cfd92d87cad4b6e4864daab5a0e47157653b2947149d98d63327e56a3e57580b",
+  "seconds": 4.33,
+  "visual_acceptance": "reviewed_reconstruction_not_exact_parity",
+  "visual_review_document": "Docs/Reconstruction/visual-review.md"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "homestead_riverbank_v2.png",
+  "key": "homestead_riverbank_v2",
+  "module": "environment",
+  "revision": 1,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Riverbank",
+  "name": "SM_Recon_Riverbank",
+  "bounds_cm": {
+    "min": [
+      -85.0,
+      -55.0,
+      0.0
+    ],
+    "max": [
+      85.0,
+      55.0,
+      128.0
+    ]
+  },
+  "triangles": 10868,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "0d9b01a94a2e973d14bfcead8c0e1fd03b0e6d54a9572d06918c5625db44dcfc",
+  "seconds": 0.75,
+  "visual_acceptance": "pending_independent_comparison"
+}

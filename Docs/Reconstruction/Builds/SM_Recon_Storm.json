@@ -1,0 +1,25 @@
+{
+  "source": "storm.png",
+  "key": "storm",
+  "module": "creatures_items",
+  "revision": 1,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Storm",
+  "name": "SM_Recon_Storm",
+  "bounds_cm": {
+    "min": [
+      -46.5,
+      -11.0,
+      0.0
+    ],
+    "max": [
+      46.5,
+      25.5,
+      138.0
+    ]
+  },
+  "triangles": 1796,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "5eae6822e36eb26af2ed3f6222037b84c80b776dc78b824cc7cfd717f01cf6b6",
+  "seconds": 0.19,
+  "visual_acceptance": "pending_independent_comparison"
+}

@@ -1,0 +1,25 @@
+{
+  "source": "rillip.png",
+  "key": "rillip",
+  "module": "creatures_items",
+  "revision": 1,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Rillip",
+  "name": "SM_Recon_Rillip",
+  "bounds_cm": {
+    "min": [
+      -74.52,
+      -43.15,
+      0.0
+    ],
+    "max": [
+      74.52,
+      39.024,
+      141.52
+    ]
+  },
+  "triangles": 68024,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "5eae6822e36eb26af2ed3f6222037b84c80b776dc78b824cc7cfd717f01cf6b6",
+  "seconds": 7.09,
+  "visual_acceptance": "pending_independent_comparison"
+}

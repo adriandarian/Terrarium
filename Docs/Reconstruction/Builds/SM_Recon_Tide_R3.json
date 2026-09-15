@@ -1,0 +1,26 @@
+{
+  "source": "tide.png",
+  "key": "tide",
+  "module": "creatures_items",
+  "revision": 3,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Tide_R3",
+  "name": "SM_Recon_Tide_R3",
+  "bounds_cm": {
+    "min": [
+      -45.598,
+      -15.47,
+      0.0
+    ],
+    "max": [
+      45.598,
+      14.097999999999999,
+      119.196
+    ]
+  },
+  "triangles": 25168,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "d44c8e262be248990238e4ae430535addcac95d8e149257c04787984f50925fb",
+  "seconds": 1.77,
+  "visual_acceptance": "reviewed_reconstruction_not_exact_parity",
+  "visual_review_document": "Docs/Reconstruction/visual-review.md"
+}
