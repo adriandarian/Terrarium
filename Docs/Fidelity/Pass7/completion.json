@@ -1,0 +1,63 @@
+{
+  "visual_gaps_accepted": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "native_map": "/Game/Terrarium/Maps/HomesteadFidelity",
+  "backup_map": "/Game/Terrarium/Maps/HomesteadBeforePass7",
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "saved_reopened": true,
+  "counts_match_composition": true,
+  "actual_mesh_types": 32,
+  "all_saved_normal_errors_zero": true,
+  "camera_postprocess_weight": 1.0,
+  "syntax_checked_python_sources": 162,
+  "root_direct_review": "Native render at exact reference size 481x809 inspected; all 18 identified gaps accepted",
+  "limits": "Unreal editor visual scene validation; no packaged-game or gameplay test; not a pixel-identical reproduction",
+  "artifacts": {
+    "pass-7.png": {
+      "bytes": 6798752,
+      "sha256": "bdf8c8a41100627325e748a12211ba36288f9361d836ed8f24ea6d03b44bb4c8"
+    },
+    "reference-scale.png": {
+      "bytes": 873447,
+      "sha256": "cbc81edd2a565a9da57b43e783e074b84eacf8016b911144a329c86ad119a993"
+    },
+    "softness-on.png": {
+      "bytes": 6794957,
+      "sha256": "672fcdc069f22f215ed2ae9249b5ffba60cf1c3e63587fb3ffadfba76f96c303"
+    },
+    "softness-off.png": {
+      "bytes": 7029846,
+      "sha256": "d4ba66e7b941addf37f6d401d6bd5ca77b06d1a2ae3c961d562a66baeccbbf13"
+    },
+    "editor-validation.json": {
+      "bytes": 11283,
+      "sha256": "669af51f77e86862a66a44f829a20203d30631001c5a593fbc9fb7881925f559"
+    },
+    "camera-material.json": {
+      "bytes": 19994,
+      "sha256": "28b9d9d48c7219e5eb9f3fd63d6c56d00971d4003babf375260469f12f4e6a5f"
+    },
+    "audit-latest.md": {
+      "bytes": 6460,
+      "sha256": "33b331cd392e4429c5c6755dbdd6fe000b4dbbcf3a8910f7917c45110dfd8087"
+    }
+  }
+}

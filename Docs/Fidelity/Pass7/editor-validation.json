@@ -1,0 +1,261 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "saved_reopened": true,
+  "actual_counts": {
+    "SM_StoneStairs_v3": 1,
+    "SM_PlankBridge_v4": 1,
+    "SM_Cottage_v6": 1,
+    "SM_Shed_v2": 1,
+    "SM_GardenWell_v2": 1,
+    "SM_LanternPost": 1,
+    "SM_GardenBed_v3": 1,
+    "SM_GardenBed_v2": 1,
+    "SM_Traveler_v2": 1,
+    "SM_MeadowTile_Edge_v6": 755,
+    "SM_CliffColumn_v6C": 743,
+    "SM_FenceRails": 12,
+    "SM_WheatPatch_v2": 40,
+    "SM_Tree_v3": 14,
+    "SM_Bush_v2": 620,
+    "SM_RockCluster": 58,
+    "SM_CliffMoss_v1": 209,
+    "SM_MeadowGrass_v2": 1414,
+    "SM_MeadowFlowers_v2": 369,
+    "SM_GroundPlants_v2": 1259,
+    "SM_ShoreOutcrop": 32,
+    "SM_CliffColumn_v6B": 665,
+    "SM_Reeds": 28,
+    "SM_ShoreOutcrop_v2": 8,
+    "SM_RiverStones_v2": 41,
+    "SM_CliffColumn_v6A": 668,
+    "SM_MeadowTile_v5": 5086,
+    "SM_WaterShallow_v4": 166,
+    "SM_WaterTile_v4": 11,
+    "SM_WaterDeep_v4": 13,
+    "SM_PathTile_v4": 75,
+    "SM_FencePost": 18
+  },
+  "counts_match_composition": true,
+  "mesh_geometry": {
+    "SM_StoneStairs_v3": {
+      "triangles": 8096,
+      "saved_normal_errors": 0
+    },
+    "SM_PlankBridge_v4": {
+      "triangles": 5764,
+      "saved_normal_errors": 0
+    },
+    "SM_Cottage_v6": {
+      "triangles": 26880,
+      "saved_normal_errors": 0
+    },
+    "SM_Shed_v2": {
+      "triangles": 5944,
+      "saved_normal_errors": 0
+    },
+    "SM_GardenWell_v2": {
+      "triangles": 2584,
+      "saved_normal_errors": 0
+    },
+    "SM_LanternPost": {
+      "triangles": 400,
+      "saved_normal_errors": 0
+    },
+    "SM_GardenBed_v3": {
+      "triangles": 9254,
+      "saved_normal_errors": 0
+    },
+    "SM_GardenBed_v2": {
+      "triangles": 10080,
+      "saved_normal_errors": 0
+    },
+    "SM_Traveler_v2": {
+      "triangles": 1452,
+      "saved_normal_errors": 0
+    },
+    "SM_MeadowTile_Edge_v6": {
+      "triangles": 88,
+      "saved_normal_errors": 0
+    },
+    "SM_CliffColumn_v6C": {
+      "triangles": 1244,
+      "saved_normal_errors": 0
+    },
+    "SM_FenceRails": {
+      "triangles": 132,
+      "saved_normal_errors": 0
+    },
+    "SM_WheatPatch_v2": {
+      "triangles": 30968,
+      "saved_normal_errors": 0
+    },
+    "SM_Tree_v3": {
+      "triangles": 9108,
+      "saved_normal_errors": 0
+    },
+    "SM_Bush_v2": {
+      "triangles": 1996,
+      "saved_normal_errors": 0
+    },
+    "SM_RockCluster": {
+      "triangles": 258,
+      "saved_normal_errors": 0
+    },
+    "SM_CliffMoss_v1": {
+      "triangles": 1364,
+      "saved_normal_errors": 0
+    },
+    "SM_MeadowGrass_v2": {
+      "triangles": 572,
+      "saved_normal_errors": 0
+    },
+    "SM_MeadowFlowers_v2": {
+      "triangles": 1288,
+      "saved_normal_errors": 0
+    },
+    "SM_GroundPlants_v2": {
+      "triangles": 2772,
+      "saved_normal_errors": 0
+    },
+    "SM_ShoreOutcrop": {
+      "triangles": 968,
+      "saved_normal_errors": 0
+    },
+    "SM_CliffColumn_v6B": {
+      "triangles": 1304,
+      "saved_normal_errors": 0
+    },
+    "SM_Reeds": {
+      "triangles": 1620,
+      "saved_normal_errors": 0
+    },
+    "SM_ShoreOutcrop_v2": {
+      "triangles": 616,
+      "saved_normal_errors": 0
+    },
+    "SM_RiverStones_v2": {
+      "triangles": 160,
+      "saved_normal_errors": 0
+    },
+    "SM_CliffColumn_v6A": {
+      "triangles": 1244,
+      "saved_normal_errors": 0
+    },
+    "SM_MeadowTile_v5": {
+      "triangles": 296,
+      "saved_normal_errors": 0
+    },
+    "SM_WaterShallow_v4": {
+      "triangles": 6768,
+      "saved_normal_errors": 0
+    },
+    "SM_WaterTile_v4": {
+      "triangles": 6416,
+      "saved_normal_errors": 0
+    },
+    "SM_WaterDeep_v4": {
+      "triangles": 6416,
+      "saved_normal_errors": 0
+    },
+    "SM_PathTile_v4": {
+      "triangles": 480,
+      "saved_normal_errors": 0
+    },
+    "SM_FencePost": {
+      "triangles": 176,
+      "saved_normal_errors": 0
+    }
+  },
+  "materials": {
+    "SM_StoneStairs_v3": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_PlankBridge_v4": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details",
+    "SM_Cottage_v6": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details",
+    "SM_Shed_v2": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details",
+    "SM_GardenWell_v2": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details",
+    "SM_LanternPost": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details",
+    "SM_GardenBed_v3": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_GardenBed_v2": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_Traveler_v2": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_MeadowTile_Edge_v6": "/Game/Terrarium/Materials/M_Pass7_Ground.M_Pass7_Ground",
+    "SM_CliffColumn_v6C": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_FenceRails": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details",
+    "SM_WheatPatch_v2": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_Tree_v3": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_Bush_v2": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_RockCluster": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_CliffMoss_v1": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_MeadowGrass_v2": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_MeadowFlowers_v2": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_GroundPlants_v2": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_ShoreOutcrop": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_CliffColumn_v6B": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_Reeds": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_ShoreOutcrop_v2": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_RiverStones_v2": "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "SM_CliffColumn_v6A": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "SM_MeadowTile_v5": "/Game/Terrarium/Materials/M_Pass7_Ground.M_Pass7_Ground",
+    "SM_WaterShallow_v4": "/Game/Terrarium/Materials/M_Pass7_ContinuousRiver.M_Pass7_ContinuousRiver",
+    "SM_WaterTile_v4": "/Game/Terrarium/Materials/M_Pass7_ContinuousRiver.M_Pass7_ContinuousRiver",
+    "SM_WaterDeep_v4": "/Game/Terrarium/Materials/M_Pass7_ContinuousRiver.M_Pass7_ContinuousRiver",
+    "SM_PathTile_v4": "/Game/Terrarium/Materials/M_Pass7_Path.M_Pass7_Path",
+    "SM_FencePost": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details"
+  },
+  "static_actor_transforms": {
+    "Fidelity_StoneStairs_v3_001": {
+      "location": "<Struct 'Vector' (0x0000025C5F130740) {x: 859.316256, y: -316.173847, z: 280.000000}>",
+      "scale": "<Struct 'Vector' (0x0000025C5F130740) {x: 1.000000, y: 0.750000, z: 1.124498}>",
+      "bounds": "(<Struct 'Vector' (0x0000025C5F130740) {x: 859.326948, y: -316.480013, z: 430.169675}>, <Struct 'Vector' (0x0000025C38EC32B0) {x: 129.364068, y: 131.513553, z: 150.169675}>)"
+    },
+    "Fidelity_PlankBridge_v4_001": {
+      "location": "<Struct 'Vector' (0x0000025C38EC3850) {x: 903.004681, y: -1412.475117, z: 222.000000}>",
+      "scale": "<Struct 'Vector' (0x0000025C38EC3850) {x: 0.900000, y: 1.400000, z: 1.000000}>",
+      "bounds": "(<Struct 'Vector' (0x0000025C38EC3850) {x: 903.004681, y: -1412.475117, z: 158.500000}>, <Struct 'Vector' (0x0000025C38EC3490) {x: 127.024818, y: 402.184714, z: 176.500000}>)"
+    },
+    "Fidelity_Cottage_v6_001": {
+      "location": "<Struct 'Vector' (0x0000025C38EC2360) {x: -204.950551, y: 53.276146, z: 568.000000}>",
+      "scale": "<Struct 'Vector' (0x0000025C38EC2360) {x: 1.080000, y: 1.080000, z: 1.080000}>",
+      "bounds": "(<Struct 'Vector' (0x0000025C38EC2360) {x: -166.588740, y: 39.366532, z: 855.917196}>, <Struct 'Vector' (0x0000025C38EC2DB0) {x: 283.478189, y: 233.194389, z: 300.877196}>)"
+    },
+    "Fidelity_Shed_v2_001": {
+      "location": "<Struct 'Vector' (0x0000025C38EC0D30) {x: 529.352623, y: 314.579320, z: 568.000000}>",
+      "scale": "<Struct 'Vector' (0x0000025C38EC0D30) {x: 0.870000, y: 0.870000, z: 0.870000}>",
+      "bounds": "(<Struct 'Vector' (0x0000025C38EC0D30) {x: 558.846710, y: 322.756279, z: 692.192500}>, <Struct 'Vector' (0x0000025C38EC15A0) {x: 134.065913, y: 124.431891, z: 125.062500}>)"
+    },
+    "Fidelity_GardenWell_v2_001": {
+      "location": "<Struct 'Vector' (0x0000025C38EC32B0) {x: -316.857495, y: -542.630798, z: 568.000000}>",
+      "scale": "<Struct 'Vector' (0x0000025C38EC32B0) {x: 0.840000, y: 0.840000, z: 0.840000}>",
+      "bounds": "(<Struct 'Vector' (0x0000025C38EC32B0) {x: -320.225188, y: -538.220798, z: 684.340000}>, <Struct 'Vector' (0x0000025C38EC0470) {x: 54.592306, y: 60.270000, z: 115.920000}>)"
+    },
+    "Fidelity_LanternPost_001": {
+      "location": "<Struct 'Vector' (0x0000025C38EC0BA0) {x: 79.991315, y: -332.781989, z: 568.000000}>",
+      "scale": "<Struct 'Vector' (0x0000025C38EC0BA0) {x: 1.250000, y: 1.250000, z: 1.250000}>",
+      "bounds": "(<Struct 'Vector' (0x0000025C38EC0BA0) {x: 79.991315, y: -332.781989, z: 722.687500}>, <Struct 'Vector' (0x0000025C38EC0C40) {x: 29.769623, y: 28.125000, z: 154.687500}>)"
+    },
+    "Fidelity_GardenBed_v3_001": {
+      "location": "<Struct 'Vector' (0x0000025C38EC0970) {x: -118.434353, y: -391.036083, z: 570.000000}>",
+      "scale": "<Struct 'Vector' (0x0000025C38EC0970) {x: 1.030000, y: 1.030000, z: 1.030000}>",
+      "bounds": "(<Struct 'Vector' (0x0000025C38EC0970) {x: -113.438799, y: -391.033965, z: 597.116975}>, <Struct 'Vector' (0x0000025C38EC0A10) {x: 171.134447, y: 123.920857, z: 28.146975}>)"
+    },
+    "Fidelity_GardenBed_v2_001": {
+      "location": "<Struct 'Vector' (0x0000025C38EC0920) {x: -446.337725, y: -630.939456, z: 570.000000}>",
+      "scale": "<Struct 'Vector' (0x0000025C38EC0920) {x: 0.650000, y: 0.650000, z: 0.650000}>",
+      "bounds": "(<Struct 'Vector' (0x0000025C38EC0920) {x: -446.337725, y: -631.345706, z: 587.387500}>, <Struct 'Vector' (0x0000025C38EC12D0) {x: 72.800000, y: 58.581250, z: 17.387500}>)"
+    },
+    "Fidelity_Traveler_v2_001": {
+      "location": "<Struct 'Vector' (0x0000025C38EC0830) {x: 583.929481, y: -90.015395, z: 566.000000}>",
+      "scale": "<Struct 'Vector' (0x0000025C38EC0830) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+      "bounds": "(<Struct 'Vector' (0x0000025C38EC0830) {x: 584.635609, y: -88.144049, z: 644.250000}>, <Struct 'Vector' (0x0000025C38EC08D0) {x: 41.653154, y: 37.578713, z: 78.750000}>)"
+    }
+  },
+  "lumen": {
+    "r.DynamicGlobalIlluminationMethod": 1,
+    "r.ReflectionMethod": 1,
+    "r.GenerateMeshDistanceFields": 1,
+    "r.Lumen.DiffuseIndirect.Allow": 1,
+    "r.Lumen.Reflections.Allow": 1,
+    "r.Shadow.Virtual.Enable": 1
+  },
+  "exposure_bias": -0.800000011920929,
+  "visual_acceptance": "requires direct review of latest native screenshot"
+}
