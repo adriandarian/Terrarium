@@ -1,0 +1,18 @@
+{
+  "asset": "/Game/Terrarium/Meshes/SM_WaterDeep_v4",
+  "triangles": 6416,
+  "vertices": 4560,
+  "closed_components": 676,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999996,
+  "saved_normal_errors": 0,
+  "refinement_pass": 7,
+  "visual_review": "passed: integrated native scene inspected at 1443x2427 and 481x809; saved map reopened",
+  "revises": "SM_WaterTile_v3",
+  "pass7_integration_review": {
+    "report": "Docs/Fidelity/Pass7/audit-latest.md",
+    "scope": "Visible integrated surfaces; no claim of six individual views for every utility mesh"
+  }
+}

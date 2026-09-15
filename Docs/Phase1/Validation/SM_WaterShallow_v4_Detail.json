@@ -1,0 +1,14 @@
+{
+  "asset": "/Game/Terrarium/Meshes/SM_WaterShallow_v4_Detail",
+  "triangles": 7648,
+  "vertices": 5232,
+  "closed_components": 704,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999994,
+  "saved_normal_errors": 0,
+  "refinement_pass": 9,
+  "visual_review": "pending",
+  "revises": "SM_WaterShallow_v4"
+}

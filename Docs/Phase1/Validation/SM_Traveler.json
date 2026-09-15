@@ -1,0 +1,13 @@
+{
+  "asset": "/Game/Terrarium/Meshes/SM_Traveler",
+  "triangles": 1452,
+  "vertices": 792,
+  "closed_components": 33,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999997,
+  "saved_normal_errors": 0,
+  "refinement_pass": 1,
+  "visual_review": "passed: six Lumen-lit views; no missing faces or black-object artifacts"
+}
