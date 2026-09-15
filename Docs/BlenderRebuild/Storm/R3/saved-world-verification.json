@@ -1,0 +1,48 @@
+{
+  "reload_verified": true,
+  "actor": "Blender_Storm_MarketCounter",
+  "materials": [
+    {
+      "role": "Lightning",
+      "material": "/Game/Terrarium/Blender/Storm/M_Storm_Lightning.M_Storm_Lightning",
+      "passed": true
+    },
+    {
+      "role": "Cloud",
+      "material": "/Game/Terrarium/Blender/Storm/M_Storm_Cloud.M_Storm_Cloud",
+      "passed": true
+    }
+  ],
+  "counter_support": [
+    {
+      "xy": [
+        393.73950415849686,
+        625.8130000103265
+      ],
+      "z": 634.9919962882996,
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        393.73950415849686,
+        625.0319999232888
+      ],
+      "z": 634.9919962882996,
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    },
+    {
+      "xy": [
+        393.73950415849686,
+        625.4224999668077
+      ],
+      "z": 634.9919962882996,
+      "underside_clearance_cm": 0.01999999999998181,
+      "passed": true
+    }
+  ],
+  "base_clearance_cm": 0.019999986887000887,
+  "source_hash_verified": true,
+  "limits": "Sampled static support and shader bindings; no gameplay, full collision or performance validation. Visual refinement remains open."
+}

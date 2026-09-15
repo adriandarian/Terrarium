@@ -1,0 +1,26 @@
+{
+  "revision": "r3_faceted_lightning",
+  "accepted_fidelity": false,
+  "visually_checked": true,
+  "parts": 35,
+  "triangles": 4872,
+  "studio_views": [
+    "front.png",
+    "side.png",
+    "left.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "remaining": [
+    "The main bolt is a closed faceted extrusion, but its gold perimeter and cream ridge differ from the concept in width, bends and relief.",
+    "Crest cubes and cloud blocks are separate closed parts. Several remain visibly detached from the main bolt in side/rear views; connected physical construction is not established.",
+    "Cloud cluster sizes, spacing and partial overlaps still differ from the source.",
+    "Back surfaces and thickness are inferred from a single view; the rear currently reads as a broad faceted slab.",
+    "Ten sparks follow the concept arrangement, with small remaining position and size differences.",
+    "Static tip contact and sampled post clearance passed; rigid-body balance, animation, gameplay and full collision have not been tested."
+  ]
+}
