@@ -1,0 +1,12 @@
+{
+  "asset": "HomesteadTree",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "e6ad180a763d81ef370aa476cdc75fd1e1fc7087e01efa9efabe297df5b6f919",
+  "sha256": "ef10383ec07e977ebeba7615b850eff4613598468817edb6bb6b418b7261e8eb",
+  "scene": "Terrarium_HomesteadTree",
+  "parts": 1098,
+  "packed_images": 3,
+  "active_camera": "Reference camera.007",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

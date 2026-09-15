@@ -1,0 +1,47 @@
+{
+  "asset": "Lantern",
+  "mesh": "SM_Blender_Lantern",
+  "source": "SourceAssets/Voxel/lantern.png",
+  "source_sha256": "7161eb4c81534c8868faed6378d06231173e2749b2a4ac9a383c83ffc721b0e5",
+  "parts": 95,
+  "vertices": 5320,
+  "triangles": 10260,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.8399999737739563,
+      -0.3855000138282776,
+      0.0020000040531158447
+    ],
+    "max": [
+      0.7470000386238098,
+      0.33500000834465027,
+      3.18149995803833
+    ]
+  },
+  "files": {
+    "Lantern_BaseColor.png": {
+      "bytes": 8635,
+      "sha256": "37d50be649108514d8885c00e04d52ded9e34c7de30a1199eb559832497a6952"
+    },
+    "Lantern_Emission.png": {
+      "bytes": 6564,
+      "sha256": "b6e54589177fe7e388e336c87dcbc84d14cdae834b0d85504ca73a6960d9a2fa"
+    },
+    "Lantern_Roughness.png": {
+      "bytes": 4710,
+      "sha256": "038620c4d6d3ff308ab8dbb33f15a6ba077fb9a4bd535e98f11648959196d3ce"
+    },
+    "SM_Blender_Lantern.fbx": {
+      "bytes": 177900,
+      "sha256": "ca4eb4ff3c41c7b278c87f56fefafaa336cdf1a96ef057df5a19536233046447"
+    },
+    "SM_Blender_Lantern.glb": {
+      "bytes": 740132,
+      "sha256": "0369acfcb09b3278454c52e3a7d4dfca5ae1a34643b999da2d40b2d3e46c571d"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}

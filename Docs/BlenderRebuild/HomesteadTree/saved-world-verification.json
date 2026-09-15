@@ -1,0 +1,11 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "reloaded_from_disk": true,
+  "instances": 14,
+  "all_transforms_verified": true,
+  "material_bindings_verified": true,
+  "export_import_hashes_match": true,
+  "prior_foliage_mesh_binding_preserved": true,
+  "fidelity": "not_accepted",
+  "limits": "Appearance requires viewport inspection; no gameplay or performance test."
+}

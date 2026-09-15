@@ -1,0 +1,18 @@
+{
+  "asset": "Lantern",
+  "mesh": "/Game/Terrarium/Blender/Lantern/SM_Blender_Lantern.SM_Blender_Lantern",
+  "material": "/Game/Terrarium/Blender/Lantern/M_Lantern.M_Lantern",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/Lantern/T_Lantern_BaseColor.T_Lantern_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/Lantern/T_Lantern_Emission.T_Lantern_Emission",
+    "Roughness": "/Game/Terrarium/Blender/Lantern/T_Lantern_Roughness.T_Lantern_Roughness"
+  },
+  "source_fbx_sha256": "ca4eb4ff3c41c7b278c87f56fefafaa336cdf1a96ef057df5a19536233046447",
+  "dimensions_cm": [
+    158.70000457763672,
+    72.04999923706055,
+    317.9499934911728
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}

@@ -1,0 +1,12 @@
+{
+  "asset": "Lantern",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "848d0fc8ff1880f94b5b26e7dda31e79d425ff34c1eb0af69c18a1fae4b4eb22",
+  "sha256": "81c9a76fb655e446959295ad58186e732f087b0f10c0f6c850b64a3b06b94a8c",
+  "scene": "Terrarium_Lantern",
+  "parts": 95,
+  "packed_images": 3,
+  "active_camera": "Reference camera",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

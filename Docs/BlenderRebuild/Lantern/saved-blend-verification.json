@@ -1,0 +1,11 @@
+{
+  "asset": "Lantern",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_Lantern",
+  "parts": 95,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 10260,
+  "sha256": "81c9a76fb655e446959295ad58186e732f087b0f10c0f6c850b64a3b06b94a8c",
+  "active_camera": "Reference camera"
+}

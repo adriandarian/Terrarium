@@ -1,0 +1,18 @@
+{
+  "asset": "HomesteadTree",
+  "mesh": "/Game/Terrarium/Blender/HomesteadTree/SM_Blender_HomesteadTree.SM_Blender_HomesteadTree",
+  "material": "/Game/Terrarium/Blender/HomesteadTree/M_HomesteadTree.M_HomesteadTree",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/HomesteadTree/T_HomesteadTree_BaseColor.T_HomesteadTree_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/HomesteadTree/T_HomesteadTree_Emission.T_HomesteadTree_Emission",
+    "Roughness": "/Game/Terrarium/Blender/HomesteadTree/T_HomesteadTree_Roughness.T_HomesteadTree_Roughness"
+  },
+  "source_fbx_sha256": "de0008fbda329644bb0e11dd5509037bbf17f82d78b1f6b0bb0c3e6060499bda",
+  "dimensions_cm": [
+    210.29752349853516,
+    194.70561981201172,
+    346.51499988138676
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}

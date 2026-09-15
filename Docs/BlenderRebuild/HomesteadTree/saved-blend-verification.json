@@ -1,0 +1,11 @@
+{
+  "asset": "HomesteadTree",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_HomesteadTree",
+  "parts": 1098,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 118584,
+  "sha256": "ef10383ec07e977ebeba7615b850eff4613598468817edb6bb6b418b7261e8eb",
+  "active_camera": "Reference camera.007"
+}

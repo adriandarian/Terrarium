@@ -1,0 +1,7 @@
+{
+  "asset": "Lantern",
+  "scene": "Terrarium_Lantern",
+  "parts": 95,
+  "source": "SourceAssets/Voxel/lantern.png",
+  "status": "authored_pending_visual_review"
+}

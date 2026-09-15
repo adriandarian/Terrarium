@@ -1,0 +1,47 @@
+{
+  "asset": "HomesteadTree",
+  "mesh": "SM_Blender_HomesteadTree",
+  "source": "SourceAssets/Voxel/homestead_tree_v2.png",
+  "source_sha256": "afdea55889dacabf5849bc71dc3a96ae615f78bb20e20544fd4555e7a205ca5b",
+  "parts": 1098,
+  "vertices": 61488,
+  "triangles": 118584,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.9776703119277954,
+      -1.0130256414413452,
+      -0.00014999881386756897
+    ],
+    "max": [
+      1.1253048181533813,
+      0.9340306520462036,
+      3.4649999141693115
+    ]
+  },
+  "files": {
+    "HomesteadTree_BaseColor.png": {
+      "bytes": 52742,
+      "sha256": "10c8a19a41df5ead5d1dca4baa3110833a2ad4ba5062f50495f3a502ccbdecde"
+    },
+    "HomesteadTree_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "HomesteadTree_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_HomesteadTree.fbx": {
+      "bytes": 1523580,
+      "sha256": "de0008fbda329644bb0e11dd5509037bbf17f82d78b1f6b0bb0c3e6060499bda"
+    },
+    "SM_Blender_HomesteadTree.glb": {
+      "bytes": 9075504,
+      "sha256": "db47096576e5902d291f401cd59446ae8bf69030d18bd31b186c7bae90f481d4"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}
