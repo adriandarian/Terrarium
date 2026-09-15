@@ -1,0 +1,7 @@
+{
+  "asset": "TrailPatch",
+  "material": "/Game/Terrarium/Blender/TrailPatch/M_TrailPatch.M_TrailPatch",
+  "mapping": "Authored UVs preserve physical paver and source-albedo alignment; no world projection.",
+  "collision": "ComplexAsSimple",
+  "visual_acceptance": false
+}

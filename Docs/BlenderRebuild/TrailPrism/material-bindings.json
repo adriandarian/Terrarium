@@ -1,0 +1,42 @@
+{
+  "slots": [
+    {
+      "index": 0,
+      "role": "Crystal",
+      "imported_name": "M_TrailPrism_Crystal_001",
+      "material": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Crystal.M_TrailPrism_Crystal",
+      "blend_mode": "<BlendMode.BLEND_TRANSLUCENT: 2>",
+      "parameters": {
+        "Metallic": 0,
+        "Specular": 0.2,
+        "Opacity": 0.36,
+        "Refraction": 1.0054,
+        "CoreScatter": 1800
+      }
+    },
+    {
+      "index": 1,
+      "role": "Core",
+      "imported_name": "M_TrailPrism_Core_005",
+      "material": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Core.M_TrailPrism_Core",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "parameters": {
+        "Metallic": 0,
+        "Specular": 0.5,
+        "EmissionStrength": 2000
+      }
+    },
+    {
+      "index": 2,
+      "role": "Frame",
+      "imported_name": "M_TrailPrism_Frame_005",
+      "material": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Frame.M_TrailPrism_Frame",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "parameters": {
+        "Metallic": 0.82,
+        "Specular": 0.5
+      }
+    }
+  ],
+  "limits": "Blender crystal uses stylized IOR 1.12 and transmission 0.82. UE uses opacity and reduced screen-space refraction; optical equivalence is not claimed."
+}

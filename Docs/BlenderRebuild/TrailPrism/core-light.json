@@ -1,0 +1,18 @@
+{
+  "actor": "Blender_TrailPrism_CoreLight",
+  "location_cm": [
+    307.0,
+    623.0,
+    647.0119962882995
+  ],
+  "intensity_lumens": 150,
+  "attenuation_radius_cm": 40,
+  "source_radius_cm": 2.5,
+  "color_linear": [
+    1,
+    0.78,
+    0.29
+  ],
+  "cast_shadows": false,
+  "purpose": "Small local approximation of the luminous inclusion. Scene exposure is unchanged; shadowless point light approximates light passing through the crystal."
+}

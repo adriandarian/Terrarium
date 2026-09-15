@@ -1,0 +1,1327 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "reloaded_from_disk": true,
+  "foliage_count": 61,
+  "static_count": 23,
+  "all_transforms_and_bindings_verified": true,
+  "original_foliage_assets_preserved": true,
+  "center_collision_checks": [
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:0",
+      "xy_cm": [
+        -1268.2621696581296,
+        2623.523001241596
+      ],
+      "surface_z_cm": 561.0150008439045,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:1",
+      "xy_cm": [
+        -1221.1785843328344,
+        2479.077224813986
+      ],
+      "surface_z_cm": 561.0043810969089,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:2",
+      "xy_cm": [
+        -1173.0382469744352,
+        2334.9873027794292
+      ],
+      "surface_z_cm": 560.9144128081415,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:3",
+      "xy_cm": [
+        -1121.5494048397243,
+        2192.1304316191213
+      ],
+      "surface_z_cm": 560.8157485907163,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:4",
+      "xy_cm": [
+        -1101.666425822901,
+        2041.8984540770311
+      ],
+      "surface_z_cm": 561.0150002233509,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:5",
+      "xy_cm": [
+        -1092.135174330373,
+        1890.3657070471534
+      ],
+      "surface_z_cm": 560.847863592444,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:6",
+      "xy_cm": [
+        -1015.8897800141779,
+        1770.7639255033405
+      ],
+      "surface_z_cm": 560.905646699405,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:7",
+      "xy_cm": [
+        -864.7764999882362,
+        1760.0353846823236
+      ],
+      "surface_z_cm": 560.783641725498,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:8",
+      "xy_cm": [
+        -713.2668225186678,
+        1769.7171882110658
+      ],
+      "surface_z_cm": 560.9481739042901,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:9",
+      "xy_cm": [
+        -561.6098010877595,
+        1776.0056896557203
+      ],
+      "surface_z_cm": 561.0045445858243,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:10",
+      "xy_cm": [
+        -410.9087132757682,
+        1757.7383684377155
+      ],
+      "surface_z_cm": 560.9915560260117,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:11",
+      "xy_cm": [
+        -262.33804403028023,
+        1726.1737987360796
+      ],
+      "surface_z_cm": 561.0150009554468,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:12",
+      "xy_cm": [
+        -116.36375758216401,
+        1684.206913239494
+      ],
+      "surface_z_cm": 561.0150011463792,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:13",
+      "xy_cm": [
+        -10.362134440561162,
+        1585.6097111676538
+      ],
+      "surface_z_cm": 561.0150001703021,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:14",
+      "xy_cm": [
+        -5.100533445762032,
+        1434.6490273524937
+      ],
+      "surface_z_cm": 560.9566145973457,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:15",
+      "xy_cm": [
+        -38.20103666469963,
+        1286.7738257315211
+      ],
+      "surface_z_cm": 561.0095353275944,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:16",
+      "xy_cm": [
+        -69.23726623201297,
+        1138.550679702063
+      ],
+      "surface_z_cm": 561.0149999918609,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:17",
+      "xy_cm": [
+        -55.77895143889401,
+        987.7289105763041
+      ],
+      "surface_z_cm": 560.8122698218906,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:18",
+      "xy_cm": [
+        24.58896184059872,
+        862.1410806765248
+      ],
+      "surface_z_cm": 561.0112404495585,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:19",
+      "xy_cm": [
+        159.82220684444445,
+        794.5624861877945
+      ],
+      "surface_z_cm": 561.0149992917358,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:20",
+      "xy_cm": [
+        307.73280268671175,
+        760.7656972264258
+      ],
+      "surface_z_cm": 560.873312747394,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:21",
+      "xy_cm": [
+        458.11937337579,
+        739.2390866812576
+      ],
+      "surface_z_cm": 560.8274896328562,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:22",
+      "xy_cm": [
+        608.6891238858009,
+        719.1746121696779
+      ],
+      "surface_z_cm": 561.0149991273846,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:23",
+      "xy_cm": [
+        759.9387278459739,
+        705.8073147253607
+      ],
+      "surface_z_cm": 561.0149995782959,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:24",
+      "xy_cm": [
+        884.3356237116571,
+        628.0343870533823
+      ],
+      "surface_z_cm": 560.9149886199109,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:25",
+      "xy_cm": [
+        923.4164763941247,
+        482.6075363225353
+      ],
+      "surface_z_cm": 560.9985273023028,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:26",
+      "xy_cm": [
+        920.8829294918859,
+        330.89489998322546
+      ],
+      "surface_z_cm": 561.0150001375894,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:27",
+      "xy_cm": [
+        905.1172806746271,
+        179.80416557374787
+      ],
+      "surface_z_cm": 560.7931435539076,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:28",
+      "xy_cm": [
+        885.4036117062751,
+        29.178011483855524
+      ],
+      "surface_z_cm": 566.0150141234378,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:29",
+      "xy_cm": [
+        858.6626068941736,
+        -120.36663978949731
+      ],
+      "surface_z_cm": 566.0150441024767,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:30",
+      "xy_cm": [
+        783.3624614214774,
+        -445.5153180996087
+      ],
+      "surface_z_cm": 280.8455849689513,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:31",
+      "xy_cm": [
+        784.2141650541554,
+        -592.3018342076747
+      ],
+      "surface_z_cm": 281.01500255668316,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:32",
+      "xy_cm": [
+        810.7735665104142,
+        -736.8246319889272
+      ],
+      "surface_z_cm": 280.74468795898514,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:33",
+      "xy_cm": [
+        841.7619331986562,
+        -880.5403833177386
+      ],
+      "surface_z_cm": 280.90061307552776,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:34",
+      "xy_cm": [
+        873.6052908507045,
+        -1024.0697771158852
+      ],
+      "surface_z_cm": 286.01498890727396,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:35",
+      "xy_cm": [
+        909.9252705352978,
+        -1836.8998968600126
+      ],
+      "surface_z_cm": 286.01501536985484,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:36",
+      "xy_cm": [
+        906.3148304278371,
+        -1988.5070463628736
+      ],
+      "surface_z_cm": 281.0059869888388,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:37",
+      "xy_cm": [
+        1023.3190539418646,
+        -2054.374611409207
+      ],
+      "surface_z_cm": 281.01488226848,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:38",
+      "xy_cm": [
+        1174.9321311842273,
+        -2042.382193230672
+      ],
+      "surface_z_cm": 280.97232241842227,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:39",
+      "xy_cm": [
+        1326.9389595990983,
+        -2036.4861726015156
+      ],
+      "surface_z_cm": 281.01499871707574,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:40",
+      "xy_cm": [
+        1478.9168704996714,
+        -2029.6523472890099
+      ],
+      "surface_z_cm": 280.97437146074816,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:41",
+      "xy_cm": [
+        1630.978192358931,
+        -2024.8264483402281
+      ],
+      "surface_z_cm": 280.99591451337943,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:42",
+      "xy_cm": [
+        1783.0831263575017,
+        -2024.6268244015428
+      ],
+      "surface_z_cm": 280.9743684039995,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:43",
+      "xy_cm": [
+        1934.5979416688244,
+        -2037.7786788549022
+      ],
+      "surface_z_cm": 280.8256494630815,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:44",
+      "xy_cm": [
+        2084.113220840215,
+        -2065.5099229830766
+      ],
+      "surface_z_cm": 280.85684070647216,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:45",
+      "xy_cm": [
+        2229.8268914822706,
+        -2109.0806694353037
+      ],
+      "surface_z_cm": 280.98703289254547,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:46",
+      "xy_cm": [
+        2367.851357972843,
+        -2172.5817422973123
+      ],
+      "surface_z_cm": 281.0150013500288,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:47",
+      "xy_cm": [
+        2494.517238585303,
+        -2256.65565719591
+      ],
+      "surface_z_cm": 280.9984012536294,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:48",
+      "xy_cm": [
+        2614.886118535258,
+        -2349.6854165479212
+      ],
+      "surface_z_cm": 281.0150003063596,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:49",
+      "xy_cm": [
+        2733.168830552289,
+        -2445.367320120847
+      ],
+      "surface_z_cm": 280.8840073387349,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:50",
+      "xy_cm": [
+        885.7091905671277,
+        -1853.3425752148153
+      ],
+      "surface_z_cm": 285.7858075722404,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:51",
+      "xy_cm": [
+        926.1105346026507,
+        -1856.1677124014523
+      ],
+      "surface_z_cm": 285.7947776773702,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:52",
+      "xy_cm": [
+        897.8549799215848,
+        -970.038137435316
+      ],
+      "surface_z_cm": 286.01498851776125,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:53",
+      "xy_cm": [
+        947.2344004094462,
+        -973.4910828856503
+      ],
+      "surface_z_cm": 285.79799268323444,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:54",
+      "xy_cm": [
+        987.6357444449691,
+        -976.3162200722873
+      ],
+      "surface_z_cm": 285.57500675916674,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:55",
+      "xy_cm": [
+        806.4294650389456,
+        -463.6093830234235
+      ],
+      "surface_z_cm": 280.57500079870226,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:56",
+      "xy_cm": [
+        856.3990063899003,
+        -461.86440818829846
+      ],
+      "surface_z_cm": 280.48442796468737,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:57",
+      "xy_cm": [
+        908.3673293948932,
+        -460.0496343597684
+      ],
+      "surface_z_cm": 280.5428509473801,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:58",
+      "xy_cm": [
+        796.2737114985177,
+        -172.78665236086664
+      ],
+      "surface_z_cm": 566.0150441288947,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:59",
+      "xy_cm": [
+        846.2432528494726,
+        -171.0416775257416
+      ],
+      "surface_z_cm": 566.0150436818599,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "FoliageInstancedStaticMeshComponent_10:60",
+      "xy_cm": [
+        898.2115758544655,
+        -169.22690369721153
+      ],
+      "surface_z_cm": 565.5750067591666,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "CourtyardPath_entry_0",
+      "xy_cm": [
+        791.4329573128584,
+        170.16282032206584
+      ],
+      "surface_z_cm": 560.8789554166793,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "CourtyardPath_entry_1",
+      "xy_cm": [
+        704.787492616353,
+        149.89627150184188
+      ],
+      "surface_z_cm": 560.9102071750164,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "CourtyardPath_entry_2",
+      "xy_cm": [
+        618.1420279198476,
+        129.6297226816179
+      ],
+      "surface_z_cm": 560.8271789479255,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "CourtyardPath_entry_3",
+      "xy_cm": [
+        530.7817227842679,
+        113.11540278497225
+      ],
+      "surface_z_cm": 560.8466741371154,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "CourtyardPath_entry_4",
+      "xy_cm": [
+        442.7539225634448,
+        100.10479396606058
+      ],
+      "surface_z_cm": 561.0149992930889,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "CourtyardPath_entry_5",
+      "xy_cm": [
+        354.7261223426217,
+        87.09418514714892
+      ],
+      "surface_z_cm": 560.8415703403949,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "CourtyardPath_entry_6",
+      "xy_cm": [
+        267.1690264700641,
+        71.50288278505148
+      ],
+      "surface_z_cm": 560.9424164819717,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "CourtyardPath_entry_7",
+      "xy_cm": [
+        180.21630861731668,
+        52.59800480140939
+      ],
+      "surface_z_cm": 560.8332027423381,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "CourtyardPath_entry_8",
+      "xy_cm": [
+        92.2282263968642,
+        58.818625483565036
+      ],
+      "surface_z_cm": 560.9969153928756,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "BlueHouse_Approach_0",
+      "xy_cm": [
+        442.8308632884162,
+        90.05840810304025
+      ],
+      "surface_z_cm": 561.0103805291652,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "BlueHouse_Approach_1",
+      "xy_cm": [
+        497.78438449835585,
+        97.4989071723027
+      ],
+      "surface_z_cm": 560.9840604591369,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "BlueHouse_Approach_2",
+      "xy_cm": [
+        530.0647331271882,
+        139.87076749456645
+      ],
+      "surface_z_cm": 561.0110877382755,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "BlueHouse_Approach_3",
+      "xy_cm": [
+        539.0098505781102,
+        192.4625745226897
+      ],
+      "surface_z_cm": 561.0149992930889,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "AssemblyPath_0",
+      "xy_cm": [
+        199.86896473744108,
+        14.400540093213074
+      ],
+      "surface_z_cm": 560.9705890643596,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "AssemblyPath_1",
+      "xy_cm": [
+        190.5784504161472,
+        -68.90763365867029
+      ],
+      "surface_z_cm": 560.9643837738037,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "AssemblyPath_2",
+      "xy_cm": [
+        157.25767276877627,
+        -142.42083947624707
+      ],
+      "surface_z_cm": 561.0051077532768,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "AssemblyPath_3",
+      "xy_cm": [
+        104.22616691334332,
+        -206.21484235336118
+      ],
+      "surface_z_cm": 560.9691934216022,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "AssemblyPath_4",
+      "xy_cm": [
+        22.428958361384275,
+        -224.53920164190035
+      ],
+      "surface_z_cm": 560.8648081052303,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "AssemblyPath_5",
+      "xy_cm": [
+        -59.36825019057477,
+        -242.86356093043952
+      ],
+      "surface_z_cm": 560.7820708978176,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "AssemblyPath_6",
+      "xy_cm": [
+        -142.27478238497355,
+        -254.7868337728473
+      ],
+      "surface_z_cm": 560.7748079228401,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "AssemblyPath_7",
+      "xy_cm": [
+        -225.46802452411595,
+        -265.0557155331057
+      ],
+      "surface_z_cm": 561.0073545503616,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "AssemblyPath_8",
+      "xy_cm": [
+        -308.77466361852953,
+        -274.25930211191263
+      ],
+      "surface_z_cm": 560.878961675167,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    },
+    {
+      "placement": "AssemblyPath_9",
+      "xy_cm": [
+        -392.26540618230285,
+        -281.7333489660527
+      ],
+      "surface_z_cm": 560.9957012462615,
+      "trace_scope": "own path component; overlapping instances of the same component can be the first hit"
+    }
+  ],
+  "isolated_imported_mesh_collision": [
+    {
+      "asset": "TrailTerrain",
+      "source_albedo_byte_identical": true,
+      "import_hash_matches_export": true,
+      "blender_y_to_unreal_y_sign": -1,
+      "samples": [
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -116.90590381622314,
+            63.28549385070801
+          ],
+          "expected_z_cm": 0.9000003337860107,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -74.23104047775269,
+            93.80725026130676
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            27.318769693374634,
+            101.44498348236084
+          ],
+          "expected_z_cm": 0.9000003337860107,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -96.33121490478516,
+            70.770663022995
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            77.33321189880371,
+            78.56861352920532
+          ],
+          "expected_z_cm": 0.8999988436698914,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            10.905108600854874,
+            46.297627687454224
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -66.4588212966919,
+            28.13853621482849
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            52.71533727645874,
+            25.136390328407288
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -49.9850332736969,
+            -1.6493214294314384
+          ],
+          "expected_z_cm": 0.9000003337860107,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            115.9489631652832,
+            -11.16427406668663
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -12.030075490474701,
+            -19.002051651477814
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            114.66248035430908,
+            -42.21545457839966
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -54.57175374031067,
+            -63.73966336250305
+          ],
+          "expected_z_cm": 0.9000003337860107,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            101.43541097640991,
+            -54.49077486991882
+          ],
+          "expected_z_cm": 0.8999988436698914,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -78.74231934547424,
+            -108.51675271987915
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            -90.0,
+            -80.0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            -90.0,
+            80.0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            -60.0,
+            -40.0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            -60.0,
+            40.0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            -30.0,
+            -40.0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            -30.0,
+            40.0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            0,
+            -40.0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            30.0,
+            -80.0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            30.0,
+            0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            30.0,
+            80.0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            60.0,
+            40.0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            90.0,
+            -80.0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            90.0,
+            0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        }
+      ],
+      "all_passed": true
+    },
+    {
+      "asset": "TrailPatch",
+      "source_albedo_byte_identical": true,
+      "import_hash_matches_export": true,
+      "blender_y_to_unreal_y_sign": -1,
+      "samples": [
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -115.03177881240845,
+            63.832855224609375
+          ],
+          "expected_z_cm": 0.8999988436698914,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            19.095519185066223,
+            94.75402235984802
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -18.0223286151886,
+            70.49442529678345
+          ],
+          "expected_z_cm": 0.8999988436698914,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -95.13989686965942,
+            44.3183571100235
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            53.696149587631226,
+            53.89457941055298
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -42.18728840351105,
+            19.439508020877838
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            109.88869667053223,
+            10.575725138187408
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -2.751278504729271,
+            0.9915260598063469
+          ],
+          "expected_z_cm": 0.899999588727951,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -78.4425139427185,
+            -28.112179040908813
+          ],
+          "expected_z_cm": 0.9000003337860107,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            45.577579736709595,
+            -16.54135435819626
+          ],
+          "expected_z_cm": 0.8999988436698914,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -100.07249116897583,
+            -46.333956718444824
+          ],
+          "expected_z_cm": 0.8999988436698914,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            14.881625771522522,
+            -63.148289918899536
+          ],
+          "expected_z_cm": 0.8999988436698914,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "paver",
+          "local_xy_cm": [
+            -94.13533806800842,
+            -74.44976568222046
+          ],
+          "expected_z_cm": 0.9000003337860107,
+          "actual_z_cm": 0.8999993801116943,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            -90.0,
+            -80.0
+          ],
+          "expected_z_cm": -0.1999981701374054,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            -90.0,
+            80.0
+          ],
+          "expected_z_cm": -0.20000040531158447,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            -60.0,
+            -40.0
+          ],
+          "expected_z_cm": -0.1999989151954651,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            -60.0,
+            40.0
+          ],
+          "expected_z_cm": -0.20000040531158447,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            -30.0,
+            -40.0
+          ],
+          "expected_z_cm": -0.1999989151954651,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            -30.0,
+            40.0
+          ],
+          "expected_z_cm": -0.20000040531158447,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            0,
+            -40.0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            30.0,
+            -80.0
+          ],
+          "expected_z_cm": -0.1999989151954651,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            30.0,
+            0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            30.0,
+            80.0
+          ],
+          "expected_z_cm": -0.1999989151954651,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            60.0,
+            40.0
+          ],
+          "expected_z_cm": -0.19999966025352478,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            90.0,
+            -80.0
+          ],
+          "expected_z_cm": -0.1999981701374054,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        },
+        {
+          "kind": "soil",
+          "local_xy_cm": [
+            90.0,
+            0
+          ],
+          "expected_z_cm": -0.20000040531158447,
+          "actual_z_cm": -0.19999957084655762,
+          "passed": true
+        }
+      ],
+      "all_passed": true
+    }
+  ],
+  "limits": "Center traces verify path collision presence, not complete terrain support. Two ground-before edge samples remain unsupported. Other same-component instances can overlap center queries. Isolated mesh probes separately verify actual paver and soil heights. No character traversal or performance test; visual fidelity remains unaccepted."
+}

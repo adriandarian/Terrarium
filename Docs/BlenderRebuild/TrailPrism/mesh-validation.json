@@ -1,0 +1,52 @@
+{
+  "asset": "TrailPrism",
+  "mesh": "SM_Blender_TrailPrism",
+  "source": "SourceAssets/Voxel/trail_prism.png",
+  "source_sha256": "ca4f6eb545330cef100ed76da86987e82f79cf1e9b681b6ec4c840eba73a5a09",
+  "parts": 122,
+  "vertices": 8960,
+  "triangles": 17432,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 3,
+  "bounds_m": {
+    "min": [
+      -0.2774384319782257,
+      -0.2774384319782257,
+      0.0
+    ],
+    "max": [
+      0.2774384319782257,
+      0.2774384319782257,
+      1.1200000047683716
+    ]
+  },
+  "files": {
+    "SM_Blender_TrailPrism.fbx": {
+      "bytes": 285852,
+      "sha256": "1cc275a4d6f8471d672d37eb366c4c80863755dad1c6ce36ae5bb2d2e7ced61e"
+    },
+    "SM_Blender_TrailPrism.glb": {
+      "bytes": 1236004,
+      "sha256": "566078f890a47b60b02f59a8a24864c79bcdf03da46dff6c6f7c768c84d0594d"
+    },
+    "TrailPrism_BaseColor.png": {
+      "bytes": 7308,
+      "sha256": "850297b9b7457ad26debe1ff61714341dd3a67d1578368397cfb7e1159074a41"
+    },
+    "TrailPrism_Emission.png": {
+      "bytes": 3940,
+      "sha256": "c6845669e87d3f16099ea2898570fb1e060d99e6a2147ad9c03d191f16fc6893"
+    },
+    "TrailPrism_Roughness.png": {
+      "bytes": 4867,
+      "sha256": "d3624f88b70f86015e374108257cb9a154ca941b0fda6e16e259bcac81b94c45"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "materials": [
+    "M_TrailPrism_Crystal.001",
+    "M_TrailPrism_Core.005",
+    "M_TrailPrism_Frame.005"
+  ]
+}

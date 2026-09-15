@@ -1,0 +1,12 @@
+{
+  "asset": "TrailPrism",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "8607355e8f3bd124faf04d6ea05584317ced3b62195019e9bfd5baf7c88f2060",
+  "sha256": "a174d993975d102f68e58b9e57f46dd683a295ac87cc939ba54bd33cc92bdfd1",
+  "scene": "Terrarium_TrailPrism",
+  "parts": 122,
+  "packed_images": 3,
+  "active_camera": "Reference camera",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}
