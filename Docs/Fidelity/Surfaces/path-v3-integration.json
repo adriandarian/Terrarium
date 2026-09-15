@@ -1,0 +1,13 @@
+{
+  "changes": [
+    {
+      "old_mesh": "PathTile_v2",
+      "new_mesh": "PathTile_v3",
+      "instances": 124,
+      "max_transform_component_deviation": 3.3306690738754696e-16,
+      "asset_refinement_pass": 3
+    }
+  ],
+  "placement_transforms_preserved": true,
+  "camera_and_lighting_unchanged": true
+}

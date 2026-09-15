@@ -1,0 +1,36 @@
+{
+  "candidate": "C:\\Users\\hello\\Projects\\Terrarium\\Docs\\Fidelity\\pass-5.png",
+  "comparison_resolution": [
+    481,
+    809
+  ],
+  "metrics": {
+    "full_frame": {
+      "previous_rgb_mae": 53.939504208972686,
+      "current_rgb_mae": 28.668339633729005,
+      "exact_pixel_fraction": 2.0558735021034155e-05
+    },
+    "cottage": {
+      "previous_rgb_mae": 62.466752,
+      "current_rgb_mae": 29.211712,
+      "exact_pixel_fraction": 0.0
+    },
+    "wheat": {
+      "previous_rgb_mae": 43.387903619159104,
+      "current_rgb_mae": 27.75954541020388,
+      "exact_pixel_fraction": 0.0
+    },
+    "river_bridge": {
+      "previous_rgb_mae": 53.529801104651405,
+      "current_rgb_mae": 25.257173802083983,
+      "exact_pixel_fraction": 3.7347342736564295e-05
+    },
+    "terrain_path": {
+      "previous_rgb_mae": 61.17355453166264,
+      "current_rgb_mae": 28.63612312936637,
+      "exact_pixel_fraction": 1.4047311344608641e-05
+    }
+  },
+  "pixel_parity_achieved": false,
+  "limits": "RGB MAE measures pixel error, not perceptual equivalence. The full frame includes excluded character and inset pixels. No image warp or registration was applied."
+}

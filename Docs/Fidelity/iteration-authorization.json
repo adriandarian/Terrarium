@@ -1,0 +1,7 @@
+{
+  "user_instruction": "lift any caps and restrictions",
+  "iteration_limits_lifted": true,
+  "previous_per_asset_limit": 3,
+  "previous_broad_scene_limit": 5,
+  "scope": "Continue the reference-matching static Unreal environment; further asset and whole-scene refinements are authorized."
+}

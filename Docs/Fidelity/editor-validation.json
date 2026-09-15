@@ -1,0 +1,164 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "map": "/Game/Terrarium/Maps/HomesteadFidelity",
+  "saved_and_reopened": true,
+  "unique_meshes": 21,
+  "placements": 6022,
+  "counts": {
+    "SM_StoneStairs_v2": 1,
+    "SM_PlankBridge_v2": 1,
+    "SM_Cottage_v4": 1,
+    "SM_Shed_v2": 1,
+    "SM_GardenWell_v2": 1,
+    "SM_LanternPost": 1,
+    "SM_GardenBed_v2": 2,
+    "SM_Traveler": 1,
+    "SM_MeadowTile_v4": 3718,
+    "SM_CliffColumn_v2": 512,
+    "SM_RockCluster": 50,
+    "SM_Reeds": 75,
+    "SM_ShoreOutcrop": 54,
+    "SM_Bush_v2": 914,
+    "SM_WaterTile_v3": 190,
+    "SM_PathTile_v3": 206,
+    "SM_FencePost": 18,
+    "SM_FenceRails": 12,
+    "SM_WheatPatch_v2": 40,
+    "SM_OrchardTree_v2": 14,
+    "SM_Wildflowers": 210
+  },
+  "meshes": {
+    "SM_StoneStairs_v2": {
+      "triangles": 7392,
+      "asset_refinement_pass": 2,
+      "saved_normal_errors": 0
+    },
+    "SM_PlankBridge_v2": {
+      "triangles": 6028,
+      "asset_refinement_pass": 2,
+      "saved_normal_errors": 0
+    },
+    "SM_Cottage_v4": {
+      "triangles": 14208,
+      "asset_refinement_pass": 4,
+      "saved_normal_errors": 0
+    },
+    "SM_Shed_v2": {
+      "triangles": 5944,
+      "asset_refinement_pass": 2,
+      "saved_normal_errors": 0
+    },
+    "SM_GardenWell_v2": {
+      "triangles": 2584,
+      "asset_refinement_pass": 2,
+      "saved_normal_errors": 0
+    },
+    "SM_LanternPost": {
+      "triangles": 400,
+      "asset_refinement_pass": 1,
+      "saved_normal_errors": 0
+    },
+    "SM_GardenBed_v2": {
+      "triangles": 10080,
+      "asset_refinement_pass": 2,
+      "saved_normal_errors": 0
+    },
+    "SM_Traveler": {
+      "triangles": 1452,
+      "asset_refinement_pass": 1,
+      "saved_normal_errors": 0
+    },
+    "SM_MeadowTile_v4": {
+      "triangles": 2156,
+      "asset_refinement_pass": 4,
+      "saved_normal_errors": 0
+    },
+    "SM_CliffColumn_v2": {
+      "triangles": 2596,
+      "asset_refinement_pass": 2,
+      "saved_normal_errors": 0
+    },
+    "SM_RockCluster": {
+      "triangles": 258,
+      "asset_refinement_pass": 1,
+      "saved_normal_errors": 0
+    },
+    "SM_Reeds": {
+      "triangles": 1620,
+      "asset_refinement_pass": 1,
+      "saved_normal_errors": 0
+    },
+    "SM_ShoreOutcrop": {
+      "triangles": 968,
+      "asset_refinement_pass": 1,
+      "saved_normal_errors": 0
+    },
+    "SM_Bush_v2": {
+      "triangles": 1996,
+      "asset_refinement_pass": 2,
+      "saved_normal_errors": 0
+    },
+    "SM_WaterTile_v3": {
+      "triangles": 1060,
+      "asset_refinement_pass": 3,
+      "saved_normal_errors": 0
+    },
+    "SM_PathTile_v3": {
+      "triangles": 496,
+      "asset_refinement_pass": 3,
+      "saved_normal_errors": 0
+    },
+    "SM_FencePost": {
+      "triangles": 176,
+      "asset_refinement_pass": 1,
+      "saved_normal_errors": 0
+    },
+    "SM_FenceRails": {
+      "triangles": 132,
+      "asset_refinement_pass": 1,
+      "saved_normal_errors": 0
+    },
+    "SM_WheatPatch_v2": {
+      "triangles": 30968,
+      "asset_refinement_pass": 2,
+      "saved_normal_errors": 0
+    },
+    "SM_OrchardTree_v2": {
+      "triangles": 4424,
+      "asset_refinement_pass": 2,
+      "saved_normal_errors": 0
+    },
+    "SM_Wildflowers": {
+      "triangles": 1656,
+      "asset_refinement_pass": 1,
+      "saved_normal_errors": 0
+    }
+  },
+  "materials": [
+    "/Game/Terrarium/Materials/M_MeadowAltitudePalette.M_MeadowAltitudePalette",
+    "/Game/Terrarium/Materials/M_QuietRiverPalette.M_QuietRiverPalette",
+    "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette",
+    "/Game/Terrarium/Materials/M_WeatheredDetails.M_WeatheredDetails"
+  ],
+  "camera": {
+    "orthographic_width": 2645.5,
+    "aspect": 0.5945611596107483,
+    "rotation": "<Struct 'Rotator' (0x000002518E6E8D80) {pitch: -45.000000, yaw: 135.000000, roll: 0.000000}>"
+  },
+  "exposure": {
+    "manual_ev100": 12.0,
+    "compensation": -0.6499999761581421,
+    "cached_lighting_pre_exposure": 8.0
+  },
+  "lumen_cvars": {
+    "r.DynamicGlobalIlluminationMethod": 1,
+    "r.ReflectionMethod": 1,
+    "r.GenerateMeshDistanceFields": 1,
+    "r.Lumen.DiffuseIndirect.Allow": 1,
+    "r.Lumen.Reflections.Allow": 1,
+    "r.Shadow.Virtual.Enable": 1
+  },
+  "broad_scene_passes": 6,
+  "pixel_parity": "not proven by these structural checks; see comparison-metrics.json"
+}

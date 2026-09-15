@@ -1,0 +1,56 @@
+{
+  "candidate": "Docs/Fidelity/Surfaces/surface-update.png",
+  "comparison_resolution": [
+    481,
+    809
+  ],
+  "metrics": {
+    "full_frame": {
+      "before_rgb_mae": 28.553047960958963,
+      "current_rgb_mae": 27.806413811358187,
+      "exact_pixel_fraction": 2.5698418776292696e-05
+    },
+    "shed": {
+      "before_rgb_mae": 27.108583186360963,
+      "current_rgb_mae": 26.92669018224574,
+      "exact_pixel_fraction": 0.0
+    },
+    "bridge": {
+      "before_rgb_mae": 23.478987150415723,
+      "current_rgb_mae": 24.140917107583775,
+      "exact_pixel_fraction": 0.0
+    },
+    "wheat": {
+      "before_rgb_mae": 28.162374402497317,
+      "current_rgb_mae": 27.547839235196566,
+      "exact_pixel_fraction": 5.85308750365818e-05
+    },
+    "garden": {
+      "before_rgb_mae": 29.70104800540906,
+      "current_rgb_mae": 29.894252873563218,
+      "exact_pixel_fraction": 0.0
+    },
+    "stairs": {
+      "before_rgb_mae": 33.9671686338353,
+      "current_rgb_mae": 32.48982498982499,
+      "exact_pixel_fraction": 0.0
+    },
+    "upper_land": {
+      "before_rgb_mae": 27.7477130977131,
+      "current_rgb_mae": 25.854413154413155,
+      "exact_pixel_fraction": 2.835002835002835e-05
+    },
+    "river": {
+      "before_rgb_mae": 23.66309792058295,
+      "current_rgb_mae": 22.93139708109768,
+      "exact_pixel_fraction": 6.224557122760715e-05
+    },
+    "lower_land": {
+      "before_rgb_mae": 25.23954951298701,
+      "current_rgb_mae": 26.332690746753247,
+      "exact_pixel_fraction": 2.5365259740259742e-05
+    }
+  },
+  "pixel_parity_achieved": false,
+  "limits": "RGB error is not perceptual equivalence. Full frame includes reference character and inset excluded from the static environment brief. No image warp or registration applied."
+}

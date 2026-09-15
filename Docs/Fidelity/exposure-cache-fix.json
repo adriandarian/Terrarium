@@ -1,0 +1,10 @@
+{
+  "cached_lighting_pre_exposure": 8,
+  "safe_ev_range": [
+    -4,
+    16
+  ],
+  "manual_camera_ev100": 12,
+  "compensation": -0.65,
+  "effective_ev": 12.65
+}

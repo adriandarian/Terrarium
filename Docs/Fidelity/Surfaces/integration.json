@@ -1,0 +1,20 @@
+{
+  "changes": [
+    {
+      "old_mesh": "MeadowTile_v2",
+      "new_mesh": "MeadowTile_v3",
+      "instances": 3718,
+      "max_transform_component_deviation": 0.0,
+      "asset_refinement_pass": 3
+    },
+    {
+      "old_mesh": "WaterTile_v2",
+      "new_mesh": "WaterTile_v3",
+      "instances": 190,
+      "max_transform_component_deviation": 0.0,
+      "asset_refinement_pass": 3
+    }
+  ],
+  "placement_transforms_preserved": true,
+  "camera_and_lighting_unchanged": true
+}
