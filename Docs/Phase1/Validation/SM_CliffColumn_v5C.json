@@ -1,0 +1,14 @@
+{
+  "asset": "/Game/Terrarium/Meshes/SM_CliffColumn_v5C",
+  "triangles": 3280,
+  "vertices": 1776,
+  "closed_components": 68,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999996,
+  "saved_normal_errors": 0,
+  "refinement_pass": 5,
+  "visual_review": "pending",
+  "revises": "SM_CliffColumn_v4"
+}
