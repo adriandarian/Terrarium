@@ -1,0 +1,13 @@
+{
+  "pass": 2,
+  "camera_pitch": -45,
+  "camera_yaw": 153,
+  "ortho_width": 2550,
+  "changes": [
+    "Framing matches ascending right-hand terraces in reference",
+    "Extended terrain beyond frame",
+    "Cliff courses retain original unstretched proportions",
+    "Removed trees obscuring bridge and wheat",
+    "Added original stones wildflowers and reeds"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "pass": 3,
+  "camera_pitch": -45,
+  "camera_yaw": 153,
+  "ortho_width": 2780,
+  "aspect_ratio": 0.66,
+  "sky_intensity": 6,
+  "changes": [
+    "Reduced turf and water color contrast with original matte palette materials",
+    "Wider portrait includes full bridge and approach",
+    "Slightly more ambient fill"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "pass": 1,
+  "sun_lux": 18000,
+  "sun_source_angle": 14,
+  "sky_intensity": 5,
+  "camera_pitch": -45,
+  "camera_yaw": 112,
+  "changes": [
+    "Corrected ascending stair direction",
+    "Reduced cottage scale to 1.14",
+    "Snapped planting heights to actual terrain cells",
+    "Warmer softer frontal illumination",
+    "Oblique terrain framing"
+  ]
+}
