@@ -1,0 +1,46 @@
+{
+  "actor": "Pass7_DistantAtmosphere",
+  "native_class": "ExponentialHeightFog",
+  "readback": {
+    "fog_density": 0.05000000074505806,
+    "fog_height_falloff": 0.0010000000474974513,
+    "start_distance": 6800.0,
+    "fog_max_opacity": 0.03999999910593033,
+    "enable_volumetric_fog": false,
+    "fog_inscattering_luminance": [
+      1000.0,
+      1150.0,
+      780.0
+    ]
+  },
+  "landmark_geometric_distances": {
+    "cottage_ground": {
+      "camera_distance_cm": 6262.24,
+      "camera_forward_depth_cm": 6238.79
+    },
+    "bridge_deck": {
+      "camera_distance_cm": 5245.8,
+      "camera_forward_depth_cm": 5144.27
+    },
+    "upper_wheat_ground": {
+      "camera_distance_cm": 7056.17,
+      "camera_forward_depth_cm": 6847.74
+    },
+    "distant_upper_ground": {
+      "camera_distance_cm": 7804.07,
+      "camera_forward_depth_cm": 7480.24
+    }
+  },
+  "other_fog_actors": [],
+  "background_softness": {
+    "material": "/Game/Terrarium/Materials/M_Pass7_DistantSoftness.M_Pass7_DistantSoftness",
+    "scope": "fixed portrait camera upper background",
+    "mask_end_viewport_y": 0.32,
+    "maximum_mix": 0.9,
+    "sample_radius_at_reference_width_px": 0.85,
+    "color_tint": "none",
+    "validation": "Requires material compile and matched A/B editor captures."
+  },
+  "intent": "At most four percent aerial perspective, restricted to distant upper landscape; cottage and river stay crisp.",
+  "visual_validation": "Pending direct editor render; geometric distances do not prove fog placement in an orthographic view."
+}
