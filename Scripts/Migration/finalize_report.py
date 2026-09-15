@@ -1,0 +1,77 @@
+"""Assemble a truthful index from completed editor receipts and reviewed images."""
+import hashlib
+import json
+from pathlib import Path
+root = Path(__file__).resolve().parents[2]
+out = root / 'Docs/AssetMigration'
+verification = json.loads((out/'verification.json').read_text())
+mapping = json.loads((out/'asset-map.json').read_text())
+built = {r['asset']: r for group in ['structures','characters'] for r in json.loads((out/(group+'-built.json')).read_text())}
+assert len(built)==12 and verification['textures']==77 and verification['surface_materials']==45
+for row in json.loads((out/'source-copy.json').read_text()):
+    assert hashlib.sha256((root/row['local_source']).read_bytes()).hexdigest()==row['sha256']
+mapping['status_note']='All 77 imports, 45 surface studies, 12 static prototypes and five galleries completed editor validation; verification.json is authoritative. Source fidelity is first-pass only, not final art approval.'
+for row in mapping['new_meshes']:
+    assert row['asset'] in built
+    row.update(package_exists_on_disk=True, build_status='editor_built_saved_and_validated', fidelity_status='front_identifiers_reviewed_static_prototype_only')
+    row['validation_report']='Docs/AssetMigration/verification.json'
+for row in mapping['showcase_maps']:
+    evidence=next(r for r in verification['maps'] if r['map']==row['asset'])
+    row.update(saved_reopened_exact_references=True, placed_entries=evidence['entries'])
+(out/'asset-map.json').write_text(json.dumps(mapping,indent=2))
+text='''# Voxel asset migration
+
+[Open the searchable visual catalog](catalog.html) · [Every source file](inventory.md) · [Source-to-Unreal asset map](asset-map.json) · [Editor validation](verification.json)
+
+The Godot folder contains **77 PNGs, 77 `.import` sidecars and one README**. The PNGs are images rather than recoverable meshes or rigs. All 77 original PNGs have verified byte-for-byte project-local copies in `SourceAssets/Voxel`, imported Unreal textures, and reference material instances. The source README is preserved as `SourceAssets/Voxel/PROVENANCE.md`. No paid generation provider was used.
+
+Three subagents performed inventory/mapping, architectural modeling, and character/creature modeling. Their source-guided recipes produced **12 new static prototypes**, totaling **94,040 triangles**, under `/Game/Terrarium/Migration/Meshes`. These are original geometry reconstructions from the rendered artwork; hidden sides and physical scale are interpretations. Existing environmental meshes were reused in their own gallery.
+
+## Saved Unreal maps
+
+All five maps live under `/Game/Terrarium/Migration/Maps`.
+
+| Map | Contents | Verified entries |
+|---|---|---:|
+| Architecture | Lodge, civic hall, market stall, sign, hanging lantern | 5 |
+| Characters | Brambit, Kindlehorn, Rillip, player, Ranger Sela, Moss Tonic, Trail Prism | 7 |
+| Environment | Existing cottage, vegetation, wheat, bridge, rocks, meadow, path, cliff, stairs, water, moss, plants, garden, well and reeds | 16 |
+| References | Every original PNG, including historical candidates, UI icons, atlases and composite environment references | 77 |
+| Surfaces | Terrain/building source-color material studies | 45 |
+
+The reference boards preserve original proportions and backgrounds. The HTML catalog is the most convenient way to search filenames and inspect original artwork. Existing counterpart mappings are semantic candidates and should not be read as exact visual equivalence. `homestead_compound`, `homestead_riverbank_v2`, and `river_crossing` remain composition references; they are not three newly rebuilt gameplay worlds.
+
+## New meshes and visual checks
+
+The engine's normal asset thumbnails show mostly rear views. Separate front images were rendered with Unreal SceneCapture2D **BaseColor**, then reviewed against source identifiers. These diagnostic images establish visible geometry and pigment, not final Lit appearance. Gallery `*-layout.png` files use the same BaseColor mode.
+
+| Mesh | Triangles | Front diagnostic | Lit asset thumbnail |
+|---|---:|---|---|
+'''
+for row in built.values():
+    name=row['name']
+    assert (out/'Models'/(name+'-front.png')).exists()
+    text+=f"| {name} | {row['validation']['triangles']:,} | [Front](Models/{name}-front.png) | [Thumbnail](Models/{name}.png) |\n"
+text+='''
+
+Review confirmed the lodge's dormer/windows/entry, civic clock/belfry/bell, striped market canopy and produce, sign and hanging lantern structure. Creature faces, Ranger Sela's silver hair/scarf/satchel, the player's clothing and backpack, and both item silhouettes are present. These are visibly simpler than the source art: creature contours, clothing/hair, weathering, brick relief and side-wall detail need refinement.
+
+## Validation and remaining production work
+
+- Verified all 77 copied PNG hashes and all imported Texture2D assets; checked every reference/surface instance points to the correct texture and parent, with sRGB color enabled.
+- All 12 models passed component closure, positive-volume, outward-winding and actual saved-mesh normal checks; saved-normal errors are zero. Model pivots were checked at ground level in the galleries.
+- Reopened every gallery and checked exact mesh/material paths for all expected entries. No transient capture actors are saved in these maps.
+- All surface studies use source color plus a scalar roughness value. They are **not authored PBR map sets**. The source images contain painted lighting; no normal/ORM/height maps, texture-atlas unwrap or production lightmap UVs were created. Meshes use the existing vertex-color material workflow.
+- Characters are static: no skeletons, skin weights, locomotion, atlas conversion or gameplay collision. Buildings have no interiors. Lantern, tonic and prism are opaque prototypes without final glass/emission. LODs, optimization, packaging and gameplay were not tested.
+- UI symbols, badges, atlases and the lodge contact-shadow image remain references. Magenta backgrounds were preserved; no production UI masking was added.
+
+Final Lit art acceptance is still pending. The source catalog and editor structure are complete; this is a reviewable modeling foundation, not a claim that every original image has become a finished game-ready 3D asset.
+
+## Preservation and repeatability
+
+The initial open editor state was preserved in `/Game/Terrarium/Maps/BeforeAssetMigration`. Homestead world work belongs to a separate active task; migration content stays in its own namespace. An early map-copy/save issue was corrected by explicitly loading the copied map before edits, and the baseline was restored from the untouched bootstrap copy. Unreliable viewport captures were discarded; successful native thumbnails and BaseColor captures are retained. The editor was released to the courtyard task after final validation.
+
+Source and build scripts are in `Scripts/Migration`. `prepare_sources.py` and `inventory.py` run locally; import, model, gallery and verification scripts run inside the verified Terrarium editor through `Scripts/run_editor.py`. Builds preserve existing named assets, and completed gallery builds refuse replacement. Engine caches remain ignored. No commit or PR was created.
+'''
+(out/'README.md').write_text(text,encoding='utf-8')
+print('Updated migration report and all 12 build statuses')
