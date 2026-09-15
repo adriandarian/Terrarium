@@ -1,0 +1,9 @@
+{
+  "revision": "r11_stepped_body_and_gold_facets",
+  "source": "SourceAssets/Voxel/storm.png",
+  "source_sha256": "b23e8784bc6f42c499d76fe7d156881101fc5ecfdeb2fc9df4c78895a1fe996c",
+  "method": "Upper backing sheet removed and replaced by complete stepped gold blocks, four sculpted diagonal gold solids with deliberate planar facet boundaries, connected crest and cloud clusters, and ten detached source sparks. Pigment and roughness atlases shade actual geometry; source artwork is not projected onto the mesh.",
+  "inferred": "Depth, backs, cloud connections and lighting are inferred from one concept view.",
+  "status": "imported_with_visual_refinement_open",
+  "accepted_fidelity": false
+}

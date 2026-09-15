@@ -1,0 +1,102 @@
+{
+  "samples": [
+    {
+      "xz": [
+        389.32629737854,
+        638
+      ],
+      "post_front_y": 622.599995136261,
+      "bounding_box_clearance_cm": 1.3489904022216024
+    },
+    {
+      "xz": [
+        389.32629737854,
+        643
+      ],
+      "post_front_y": 622.599995136261,
+      "bounding_box_clearance_cm": 1.3489904022216024
+    },
+    {
+      "xz": [
+        389.32629737854,
+        648
+      ],
+      "post_front_y": 622.599995136261,
+      "bounding_box_clearance_cm": 1.3489904022216024
+    },
+    {
+      "xz": [
+        389.32629737854,
+        651
+      ],
+      "post_front_y": 622.599995136261,
+      "bounding_box_clearance_cm": 1.3489904022216024
+    },
+    {
+      "xz": [
+        396.4946629524231,
+        638
+      ],
+      "post_front_y": 622.599995136261,
+      "bounding_box_clearance_cm": 1.3489904022216024
+    },
+    {
+      "xz": [
+        396.4946629524231,
+        643
+      ],
+      "post_front_y": 622.599995136261,
+      "bounding_box_clearance_cm": 1.3489904022216024
+    },
+    {
+      "xz": [
+        396.4946629524231,
+        648
+      ],
+      "post_front_y": 622.599995136261,
+      "bounding_box_clearance_cm": 1.3489904022216024
+    },
+    {
+      "xz": [
+        396.4946629524231,
+        651
+      ],
+      "post_front_y": 622.599995136261,
+      "bounding_box_clearance_cm": 1.3489904022216024
+    },
+    {
+      "xz": [
+        403.66302852630616,
+        638
+      ],
+      "post_front_y": 622.599995136261,
+      "bounding_box_clearance_cm": 1.3489904022216024
+    },
+    {
+      "xz": [
+        403.66302852630616,
+        643
+      ],
+      "post_front_y": 622.599995136261,
+      "bounding_box_clearance_cm": 1.3489904022216024
+    },
+    {
+      "xz": [
+        403.66302852630616,
+        648
+      ],
+      "post_front_y": 622.599995136261,
+      "bounding_box_clearance_cm": 1.3489904022216024
+    },
+    {
+      "xz": [
+        403.66302852630616,
+        651
+      ],
+      "post_front_y": 622.599995136261,
+      "bounding_box_clearance_cm": 1.3489904022216024
+    }
+  ],
+  "method": "After map reload, Storm entire bounding box lies in front of twelve sampled post-face locations.",
+  "limits": "Sampled post clearance only, not a complete world collision audit."
+}

@@ -1,0 +1,28 @@
+{
+  "revision": "r11_stepped_body_and_gold_facets",
+  "accepted_fidelity": false,
+  "visually_checked": true,
+  "parts": 50,
+  "triangles": 6640,
+  "connected_body_parts": 40,
+  "detached_source_sparks": 10,
+  "studio_views": [
+    "front.png",
+    "side.png",
+    "left.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "remaining": [
+    "The stepped gold upper body and sculpted gold diagonal improve the volume, but their outlines, proportions and facet boundaries still differ from the concept.",
+    "The 40 non-spark solids now form one connected group with positive interior overlap witnesses. They remain editable overlapping meshes, not a Boolean-unioned manifold.",
+    "Cloud cluster sizes, spacing and partial overlaps still differ from the source.",
+    "The cream ridge still reads as a continuous flat strip: the source has separate raised cream blocks, a wider crossbar top and lower angled facets. The lower rear core remains slab-like and needs a coherent volumetric reconstruction.",
+    "Ten sparks follow the concept arrangement, with small remaining position and size differences.",
+    "Static tip contact and sampled post clearance passed; rigid-body balance, animation, gameplay and full collision have not been tested."
+  ]
+}
