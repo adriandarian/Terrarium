@@ -1,0 +1,50 @@
+{
+  "asset": "Brambit",
+  "mesh": "SM_Blender_Brambit",
+  "source": "SourceAssets/Voxel/brambit.png",
+  "source_sha256": "cd2c0d5a73f115998cdfa9386b3f7e61a7430b708aa1d48457bddc1b1472ee25",
+  "parts": 5,
+  "vertices": 24723,
+  "triangles": 49430,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.42100000381469727,
+      -0.3330000042915344,
+      0.11699999868869781
+    ],
+    "max": [
+      0.2896980047225952,
+      0.18450003862380981,
+      1.0517330169677734
+    ]
+  },
+  "files": {
+    "Brambit_BaseColor.png": {
+      "bytes": 27562,
+      "sha256": "2b72797b4e6ba48fd34a49a333139c6715e7e3551cad216f458784f6522ea476"
+    },
+    "Brambit_Emission.png": {
+      "bytes": 13995,
+      "sha256": "1a5e57350822bcd0cdb03f4dc88a26b4a281ba170756106cf0e2df2b298a2cd2"
+    },
+    "Brambit_Roughness.png": {
+      "bytes": 25180,
+      "sha256": "0275294288b0f79b17ea24c5e2708337954682cef78cd1e0f7abfccda84f230f"
+    },
+    "SM_Blender_Brambit.fbx": {
+      "bytes": 764220,
+      "sha256": "ab02dd07f6e6505a6a248556036fd001e9b9658bb5e67621bc54dacaceed4a9c"
+    },
+    "SM_Blender_Brambit.glb": {
+      "bytes": 2864668,
+      "sha256": "d2414974f63c662209eacedf57947fc1737c7f153bd93dd8722b0fa480d6c7d1"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "materials": [
+    "M_Brambit_Pigment.004"
+  ]
+}
