@@ -1,0 +1,18 @@
+{
+  "asset": "CliffColumn",
+  "mesh": "/Game/Terrarium/Blender/CliffColumn/SM_Blender_CliffColumn.SM_Blender_CliffColumn",
+  "material": "/Game/Terrarium/Blender/CliffColumn/M_CliffColumn.M_CliffColumn",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/CliffColumn/T_CliffColumn_BaseColor.T_CliffColumn_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/CliffColumn/T_CliffColumn_Emission.T_CliffColumn_Emission",
+    "Roughness": "/Game/Terrarium/Blender/CliffColumn/T_CliffColumn_Roughness.T_CliffColumn_Roughness"
+  },
+  "source_fbx_sha256": "ffdd2f5866dac1f3ece8d953cae3a06eef6097ff79346cf9b3a609b509152d86",
+  "dimensions_cm": [
+    100.00000762939453,
+    100.00000762939453,
+    323.5
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}

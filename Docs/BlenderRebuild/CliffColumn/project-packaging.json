@@ -1,0 +1,12 @@
+{
+  "asset": "CliffColumn",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "9a1d2c39ab03f3e586f1d744275bf6a09859b66947aca5826aa4b39cf3b02205",
+  "sha256": "a9afd0ef5ef397d99bd9c405515d71eff7c49a4e6248d1fc165e58d516200eec",
+  "scene": "Terrarium_CliffColumn",
+  "parts": 172,
+  "packed_images": 3,
+  "active_camera": "Reference camera.017",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

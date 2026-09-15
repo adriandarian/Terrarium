@@ -1,0 +1,12 @@
+{
+  "asset": "CliffFace",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "2cac09f141dc524358db95c28b93a5c941a518b11dcbc9ebfe6d045c89c374fe",
+  "sha256": "82878fa6d760310b03c754cfabd93276fd1446310dcee42442c77d494b971d97",
+  "scene": "Terrarium_CliffFace",
+  "parts": 48,
+  "packed_images": 3,
+  "active_camera": "Reference camera.016",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

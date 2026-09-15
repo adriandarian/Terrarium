@@ -1,0 +1,7 @@
+{
+  "asset": "CliffColumn",
+  "scene": "Terrarium_CliffColumn",
+  "parts": 172,
+  "source": "SourceAssets/Voxel/terrain_cliff_face_v7.png",
+  "status": "authored_pending_visual_review"
+}

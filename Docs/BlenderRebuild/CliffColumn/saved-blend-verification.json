@@ -1,0 +1,11 @@
+{
+  "asset": "CliffColumn",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_CliffColumn",
+  "parts": 172,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 7504,
+  "sha256": "a9afd0ef5ef397d99bd9c405515d71eff7c49a4e6248d1fc165e58d516200eec",
+  "active_camera": "Reference camera.017"
+}

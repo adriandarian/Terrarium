@@ -1,0 +1,305 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "reloaded_from_disk": true,
+  "count": 2076,
+  "groups": [
+    {
+      "suffix": "A",
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "count": 668,
+      "profile": "BlockAll",
+      "all_transforms_verified": true
+    },
+    {
+      "suffix": "B",
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "count": 665,
+      "profile": "BlockAll",
+      "all_transforms_verified": true
+    },
+    {
+      "suffix": "C",
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "count": 743,
+      "profile": "BlockAll",
+      "all_transforms_verified": true
+    }
+  ],
+  "import_export_hash_match": true,
+  "surface_probes": [
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 0,
+      "cap_height_cm": 349.0000028666266,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 55,
+      "cap_height_cm": 181.50704696774483,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 110,
+      "cap_height_cm": 891.0000178956006,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 165,
+      "cap_height_cm": 183.95032075047493,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 220,
+      "cap_height_cm": 565.0000009687321,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 275,
+      "cap_height_cm": 115.67251119017601,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 330,
+      "cap_height_cm": 116.99999718368053,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 385,
+      "cap_height_cm": 434.9762047827244,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 440,
+      "cap_height_cm": 572.9999969274867,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 495,
+      "cap_height_cm": 245.94764098525047,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 550,
+      "cap_height_cm": 117.68281500041485,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 605,
+      "cap_height_cm": 284.99999541044235,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 660,
+      "cap_height_cm": 99.508360683918,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 0,
+      "cap_height_cm": 152.01025053858757,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 55,
+      "cap_height_cm": 128.20422925055027,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 110,
+      "cap_height_cm": 436.5570768862963,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 165,
+      "cap_height_cm": 149.0007096081972,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 220,
+      "cap_height_cm": 569.9999956441627,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 275,
+      "cap_height_cm": 695.3154590427876,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 330,
+      "cap_height_cm": 141.11504308879375,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 385,
+      "cap_height_cm": 436.96894259750843,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 440,
+      "cap_height_cm": 116.99999718368053,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 495,
+      "cap_height_cm": 135.2009329944849,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 550,
+      "cap_height_cm": 116.53229050338268,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 605,
+      "cap_height_cm": 274.00000279012954,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 660,
+      "cap_height_cm": 100.50127327442169,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 0,
+      "cap_height_cm": 150.71111887693405,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 61,
+      "cap_height_cm": 153.22182217240334,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 122,
+      "cap_height_cm": 349.00000532750914,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 183,
+      "cap_height_cm": 258.2331940829754,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 244,
+      "cap_height_cm": 732.9999954104424,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 305,
+      "cap_height_cm": 884.9999959170818,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 366,
+      "cap_height_cm": 284.99999591708183,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 427,
+      "cap_height_cm": 435.991600304842,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 488,
+      "cap_height_cm": 373.4231033474207,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 549,
+      "cap_height_cm": 120.59035360813141,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 610,
+      "cap_height_cm": 286.99999149856654,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 671,
+      "cap_height_cm": 134.11233296990395,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_8",
+      "index": 732,
+      "cap_height_cm": 102.2267225831747,
+      "tolerance_cm": 0.04,
+      "passed": true
+    }
+  ],
+  "limits": "Sampled visibility traces; no character traversal, performance or perfect-fidelity approval."
+}

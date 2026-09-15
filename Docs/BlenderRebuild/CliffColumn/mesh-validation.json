@@ -1,0 +1,53 @@
+{
+  "asset": "CliffColumn",
+  "mesh": "SM_Blender_CliffColumn",
+  "source": "SourceAssets/Voxel/terrain_cliff_face_v7.png",
+  "source_sha256": "bbfbefe362ea664d83bdb79fa4a10e20871266b609d77e4c106e57454cc84dde",
+  "parts": 172,
+  "vertices": 4096,
+  "triangles": 7504,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.5,
+      -0.5,
+      0.0
+    ],
+    "max": [
+      0.5,
+      0.5,
+      3.234999895095825
+    ]
+  },
+  "files": {
+    "CliffColumn_BaseColor.png": {
+      "bytes": 3430337,
+      "sha256": "e4aa7d6c84a70c1d54b56cb48a0b574c56d577cdbcb30bc86c064e77e97f9812"
+    },
+    "CliffColumn_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "CliffColumn_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "CliffColumn_SourceAtlas.png": {
+      "bytes": 3430337,
+      "sha256": "e4aa7d6c84a70c1d54b56cb48a0b574c56d577cdbcb30bc86c064e77e97f9812"
+    },
+    "SM_Blender_CliffColumn.fbx": {
+      "bytes": 114332,
+      "sha256": "ffdd2f5866dac1f3ece8d953cae3a06eef6097ff79346cf9b3a609b509152d86"
+    },
+    "SM_Blender_CliffColumn.glb": {
+      "bytes": 3922360,
+      "sha256": "047fd8b38324c48090a8f6e3c29d975313210cdfef943749f2831769d41d4be5"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "variant_of": "CliffFace",
+  "variant_purpose": "Four-sided 100 x 100 x 323.5 cm terrain module with clipped/repeated traced stone courses and a source-grass cap."
+}

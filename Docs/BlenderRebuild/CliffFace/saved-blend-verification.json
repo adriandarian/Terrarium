@@ -1,0 +1,11 @@
+{
+  "asset": "CliffFace",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_CliffFace",
+  "parts": 48,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 2080,
+  "sha256": "82878fa6d760310b03c754cfabd93276fd1446310dcee42442c77d494b971d97",
+  "active_camera": "Reference camera.016"
+}

@@ -1,0 +1,32 @@
+{
+  "point_cm": [
+    -2676.0,
+    -296.0,
+    344.0
+  ],
+  "component_trace_methods": {
+    "line_trace_component": "x.line_trace_component(trace_start, trace_end, trace_complex=True, show_trace, persistent_show_trace=False) -> (hit_location=Vector, hit_normal=Vector, bone_name=Name, out_hit=HitResult) or None\r\nPerform a line trace against a single component\r\n\r\nArgs:\r\n    trace_start (Vector): The start of the trace in world-space\r\n    trace_end (Vector): The end of the trace in world-space\r\n    trace_complex (bool): Whether or not to trace the complex physics representation or just the simple representation\r\n    show_trace (bool): Whether or not to draw the trace in the world (for debugging)\r\n    persistent_show_trace (bool): Whether or not to make the debugging draw stay in the world permanently\r\n\r\nReturns:\r\n    tuple or None: \r\n\r\n    hit_location (Vector): \r\n\r\n    hit_normal (Vector): \r\n\r\n    bone_name (Name): \r\n\r\n    out_hit (HitResult):",
+    "sphere_trace_component": "x.sphere_trace_component(trace_start, trace_end, sphere_radius, trace_complex=True, show_trace, persistent_show_trace=False) -> (hit_location=Vector, hit_normal=Vector, bone_name=Name, out_hit=HitResult) or None\r\nPerform a sphere trace against a single component\r\n\r\nArgs:\r\n    trace_start (Vector): The start of the trace in world-space\r\n    trace_end (Vector): The end of the trace in world-space\r\n    sphere_radius (float): Radius of the sphere to trace against the component\r\n    trace_complex (bool): Whether or not to trace the complex physics representation or just the simple representation\r\n    show_trace (bool): Whether or not to draw the trace in the world (for debugging)\r\n    persistent_show_trace (bool): Whether or not to make the debugging draw stay in the world permanently\r\n\r\nReturns:\r\n    tuple or None: \r\n\r\n    hit_location (Vector): \r\n\r\n    hit_normal (Vector): \r\n\r\n    bone_name (Name): \r\n\r\n    out_hit (HitResult):",
+    "trace_complex_on_move": "(bool):  [Read-Write] If true, component sweeps with this component should trace against complex collision during movement (for example, each triangle of a mesh).\nIf false, collision will be resolved against simple collision bounds instead.\r\nsee: MoveComponent()"
+  },
+  "cliffs": [
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 88,
+      "local_point": "<Struct 'Vector' (0x00000236FDE5B080) {x: 0.000000, y: 0.000000, z: 316.444697}>",
+      "cap_z_cm": 348.99999282076084
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_1",
+      "index": 93,
+      "local_point": "<Struct 'Vector' (0x00000236FDE58A10) {x: 39.798944, y: 39.399626, z: 14.426400}>",
+      "cap_z_cm": 558.2416747808456
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_7",
+      "index": 80,
+      "local_point": "<Struct 'Vector' (0x00000236FDE5B080) {x: 39.798944, y: -39.399626, z: 14.531581}>",
+      "cap_z_cm": 556.6185845136642
+    }
+  ]
+}

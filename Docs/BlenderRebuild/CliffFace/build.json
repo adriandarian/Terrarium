@@ -1,0 +1,7 @@
+{
+  "asset": "CliffFace",
+  "scene": "Terrarium_CliffFace",
+  "parts": 48,
+  "source": "SourceAssets/Voxel/terrain_cliff_face_v7.png",
+  "status": "authored_pending_visual_review"
+}

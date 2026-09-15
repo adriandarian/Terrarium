@@ -1,0 +1,47 @@
+{
+  "asset": "CliffFace",
+  "mesh": "SM_Blender_CliffFace",
+  "source": "SourceAssets/Voxel/terrain_cliff_face_v7.png",
+  "source_sha256": "bbfbefe362ea664d83bdb79fa4a10e20871266b609d77e4c106e57454cc84dde",
+  "parts": 48,
+  "vertices": 1136,
+  "triangles": 2080,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -1.0,
+      -0.024000000208616257,
+      0.0
+    ],
+    "max": [
+      1.0,
+      0.10000000149011612,
+      2.0
+    ]
+  },
+  "files": {
+    "CliffFace_BaseColor.png": {
+      "bytes": 1723422,
+      "sha256": "bbfbefe362ea664d83bdb79fa4a10e20871266b609d77e4c106e57454cc84dde"
+    },
+    "CliffFace_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "CliffFace_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_CliffFace.fbx": {
+      "bytes": 50604,
+      "sha256": "5f76666571d249e67d04737e68292e2553ba68d7b257566c2c5562894b81fc67"
+    },
+    "SM_Blender_CliffFace.glb": {
+      "bytes": 1867252,
+      "sha256": "88b03c753da718de534c16bbf8fcc9359f0f63f76804414c8f1645458b737f07"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}
