@@ -1,0 +1,14 @@
+{
+  "asset": "/Game/Terrarium/Meshes/SM_MeadowTile_v3",
+  "triangles": 660,
+  "vertices": 360,
+  "closed_components": 15,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999996,
+  "saved_normal_errors": 0,
+  "refinement_pass": 3,
+  "visual_review": "passed: six Lumen-lit views; no missing faces or black-object artifacts",
+  "revises": "SM_MeadowTile_v2"
+}

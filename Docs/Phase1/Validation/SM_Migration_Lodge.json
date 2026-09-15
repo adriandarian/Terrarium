@@ -1,0 +1,13 @@
+{
+  "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_Lodge",
+  "triangles": 22236,
+  "vertices": 12132,
+  "closed_components": 507,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999996,
+  "saved_normal_errors": 0,
+  "refinement_pass": 1,
+  "visual_review": "pending"
+}

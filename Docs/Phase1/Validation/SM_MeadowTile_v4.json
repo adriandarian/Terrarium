@@ -1,0 +1,15 @@
+{
+  "asset": "/Game/Terrarium/Meshes/SM_MeadowTile_v4",
+  "triangles": 2156,
+  "vertices": 1176,
+  "closed_components": 49,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999996,
+  "saved_normal_errors": 0,
+  "refinement_pass": 4,
+  "visual_review": "passed: six Lumen-lit views; no missing faces or black-object artifacts",
+  "revises": "SM_MeadowTile_v3",
+  "surface_material": "/Game/Terrarium/Materials/M_MeadowAltitudePalette.M_MeadowAltitudePalette"
+}
