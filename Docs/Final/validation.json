@@ -1,0 +1,62 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "map": "<Object '/Game/Terrarium/Maps/Homestead.Homestead:PersistentLevel' (0x0000025187E56C00) Class 'Level'>",
+  "saved_and_reopened": true,
+  "mesh_instances": 3430,
+  "unique_original_meshes": 18,
+  "counts": {
+    "SM_CliffWall": 1296,
+    "SM_GrassTile": 734,
+    "SM_WaterTile": 114,
+    "SM_PathTile": 54,
+    "SM_StoneStairs": 1,
+    "SM_PlankBridge": 1,
+    "SM_PerimeterWall": 16,
+    "SM_Cottage": 1,
+    "SM_Shed": 1,
+    "SM_GardenBed": 4,
+    "SM_FencePost": 39,
+    "SM_FenceRails": 31,
+    "SM_WheatPatch": 12,
+    "SM_OrchardTree": 87,
+    "SM_Bush": 637,
+    "SM_RockCluster": 100,
+    "SM_Wildflowers": 237,
+    "SM_Reeds": 65
+  },
+  "materials": [
+    "/Game/Terrarium/Materials/M_QuietMeadow.M_QuietMeadow",
+    "/Game/Terrarium/Materials/M_QuietRiver.M_QuietRiver",
+    "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+  ],
+  "mesh_library_triangles": 45858,
+  "placed_source_triangles": 4645620,
+  "zero_saved_normal_errors": true,
+  "all_assets_six_angle_lit_reviewed": true,
+  "max_asset_refinement_pass": 1,
+  "whole_scene_passes": 3,
+  "camera": {
+    "projection": "Orthographic",
+    "ortho_width": 2780.0,
+    "aspect": 0.6600000262260437,
+    "location": "<Struct 'Vector' (0x000002518E764790) {x: 4042.205901, y: -2097.235048, z: 4826.194078}>",
+    "rotation": "<Struct 'Rotator' (0x000002518E764790) {pitch: -45.000000, yaw: 153.000000, roll: -0.000000}>"
+  },
+  "lighting": {
+    "sun_lux": 18000.0,
+    "sun_source_angle": 14.0,
+    "sky_intensity": 6.0,
+    "manual_ev100": 12.0,
+    "exposure_compensation": 0.0
+  },
+  "cvars": {
+    "r.DynamicGlobalIlluminationMethod": 1,
+    "r.ReflectionMethod": 1,
+    "r.GenerateMeshDistanceFields": 1,
+    "r.Lumen.DiffuseIndirect.Allow": 1,
+    "r.Lumen.Reflections.Allow": 1,
+    "r.Shadow.Virtual.Enable": 1
+  },
+  "scope": "Static editor environment; gameplay and packaging not tested."
+}
