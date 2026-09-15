@@ -1,0 +1,18 @@
+{
+  "asset": "/Game/Terrarium/Meshes/SM_GardenBed_v2",
+  "triangles": 10080,
+  "vertices": 5692,
+  "closed_components": 326,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999994,
+  "saved_normal_errors": 0,
+  "refinement_pass": 2,
+  "visual_review": "passed: six Lumen-lit views; no missing faces or black-object artifacts",
+  "revises": "SM_GardenBed",
+  "pass7_integration_review": {
+    "report": "Docs/Fidelity/Pass7/audit-latest.md",
+    "scope": "Visible integrated surfaces; no claim of six individual views for every utility mesh"
+  }
+}

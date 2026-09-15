@@ -1,0 +1,13 @@
+{
+  "asset": "/Game/Terrarium/Environment/Meshes/SM_Env_VegetableBed",
+  "triangles": 9900,
+  "vertices": 5400,
+  "closed_components": 225,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999996,
+  "saved_normal_errors": 0,
+  "refinement_pass": 1,
+  "visual_review": "pending"
+}

@@ -1,0 +1,18 @@
+{
+  "asset": "/Game/Terrarium/Meshes/SM_GardenBed_v3",
+  "triangles": 9254,
+  "vertices": 5273,
+  "closed_components": 323,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999994,
+  "saved_normal_errors": 0,
+  "refinement_pass": 3,
+  "visual_review": "passed: integrated native scene inspected at 1443x2427 and 481x809; saved map reopened",
+  "revises": "SM_GardenBed_v2",
+  "pass7_integration_review": {
+    "report": "Docs/Fidelity/Pass7/audit-latest.md",
+    "scope": "Visible integrated surfaces; no claim of six individual views for every utility mesh"
+  }
+}

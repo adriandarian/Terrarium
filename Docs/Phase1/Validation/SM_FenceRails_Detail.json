@@ -1,0 +1,14 @@
+{
+  "asset": "/Game/Terrarium/Meshes/SM_FenceRails_Detail",
+  "triangles": 528,
+  "vertices": 288,
+  "closed_components": 12,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999997,
+  "saved_normal_errors": 0,
+  "refinement_pass": 9,
+  "visual_review": "pending",
+  "revises": "SM_FenceRails"
+}
