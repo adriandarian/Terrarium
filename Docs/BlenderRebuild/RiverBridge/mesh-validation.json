@@ -1,0 +1,49 @@
+{
+  "asset": "RiverBridge",
+  "mesh": "SM_Blender_RiverBridge",
+  "source": "SourceAssets/Voxel/river_crossing.png",
+  "source_sha256": "81c83771fab9a42893dbb87b201709584c08fdd14099110fb7a78d10d707857a",
+  "parts": 150,
+  "vertices": 8400,
+  "triangles": 16200,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.7150000333786011,
+      -1.6649999618530273,
+      -0.8200000524520874
+    ],
+    "max": [
+      0.7150000333786011,
+      1.6649999618530273,
+      1.290000081062317
+    ]
+  },
+  "files": {
+    "RiverBridge_BaseColor.png": {
+      "bytes": 25284,
+      "sha256": "f51443077f577dcad69413f0066764ef71051b52afb6b3a61c9f011e99447c33"
+    },
+    "RiverBridge_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "RiverBridge_Roughness.png": {
+      "bytes": 4648,
+      "sha256": "ad7d74f81960248b488b79e7097840b419d86adf1e8cb7dca671347dc1090b28"
+    },
+    "SM_Blender_RiverBridge.fbx": {
+      "bytes": 246412,
+      "sha256": "d444800c56227b8fbc00ea0cc70b4fa7ff2ffd0e454191a4b5ed2e5e10422b4c"
+    },
+    "SM_Blender_RiverBridge.glb": {
+      "bytes": 1169688,
+      "sha256": "d09c009f3e4a59aae6e4ab9c33d95515d73d0580d35449bc6181d94b1f67db85"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "variant_of": "RiverCrossing",
+  "variant_purpose": "Bridge module only; original planks and rails retained. Piles extend 0.82 m below the reference foot for the existing riverbed."
+}

@@ -1,0 +1,12 @@
+{
+  "asset": "RiverBridge",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "0c5a739f42f71d4ff9acf292a048bdd54bdb2457b3ff0855ffb0db83f779aa86",
+  "sha256": "b86354c0e91bfee51e702512275826bdd001e351db7f34cd3ee5cd06c8776a33",
+  "scene": "Terrarium_RiverBridge",
+  "parts": 150,
+  "packed_images": 3,
+  "active_camera": "Reference camera.010",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

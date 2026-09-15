@@ -1,0 +1,12 @@
+{
+  "asset": "MossTonic",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "17df16829dbebb79291a1d9a44f1502e9103a7dad6dccc0bb859d025f46ed44d",
+  "sha256": "147fac5a7a6db55a007939b87b06a3f9884dc2a0fb7b1f28886b2d69eb3d026f",
+  "scene": "Terrarium_MossTonic",
+  "parts": 351,
+  "packed_images": 3,
+  "active_camera": "Reference camera.023",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

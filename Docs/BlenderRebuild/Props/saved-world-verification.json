@@ -1,0 +1,54 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "assets": [
+    {
+      "asset": "Cottage",
+      "reopened_binding": true,
+      "mesh": "/Game/Terrarium/Blender/Cottage/SM_Blender_Cottage.SM_Blender_Cottage",
+      "material": "/Game/Terrarium/Blender/Cottage/M_Cottage.M_Cottage",
+      "location": [
+        -204.95055056829824,
+        53.27614600378365,
+        560.0
+      ],
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ]
+    },
+    {
+      "asset": "Lantern",
+      "reopened_binding": true,
+      "mesh": "/Game/Terrarium/Blender/Lantern/SM_Blender_Lantern.SM_Blender_Lantern",
+      "material": "/Game/Terrarium/Blender/Lantern/M_Lantern.M_Lantern",
+      "location": [
+        122.0,
+        -350.0,
+        560.0
+      ],
+      "scale": [
+        0.64,
+        0.64,
+        0.64
+      ]
+    },
+    {
+      "asset": "Sign",
+      "reopened_binding": true,
+      "mesh": "/Game/Terrarium/Blender/Sign/SM_Blender_Sign.SM_Blender_Sign",
+      "material": "/Game/Terrarium/Blender/Sign/M_Sign.M_Sign",
+      "location": [
+        257.0,
+        -490.0,
+        560.0
+      ],
+      "scale": [
+        0.62,
+        0.62,
+        0.62
+      ]
+    }
+  ],
+  "fidelity": "not_complete"
+}

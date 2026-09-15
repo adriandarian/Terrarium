@@ -1,0 +1,147 @@
+{
+  "level": "<Object '/Game/Terrarium/Blender/Maps/HomesteadBlender.HomesteadBlender:PersistentLevel' (0x0000022E6070B400) Class 'Level'>",
+  "actors": [
+    {
+      "label": "Blender_MarketStall_UpperPath",
+      "mesh": "/Game/Terrarium/Blender/MarketStall/SM_Blender_MarketStall.SM_Blender_MarketStall",
+      "transform": "<Struct 'Transform' (0x0000022D56265410) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: 275.000000, y: 550.000000, z: 560.000000}, scale3d: {x: 0.800000, y: 0.800000, z: 0.800000}}>",
+      "bounds": "(<Struct 'Vector' (0x0000022D56236220) {x: 284.600006, y: 562.399991, z: 664.059995}>, <Struct 'Vector' (0x0000022D56236AE0) {x: 172.799994, y: 97.600009, z: 104.403994}>)"
+    }
+  ],
+  "material_properties": {
+    "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+    "translucency_lighting_mode": "<TranslucencyLightingMode.TLM_VOLUMETRIC_NON_DIRECTIONAL: 0>",
+    "two_sided": "False",
+    "refraction_method": "<RefractionMode.RM_NONE: 3>",
+    "shading_model": "<MaterialShadingModel.MSM_DEFAULT_LIT: 1>"
+  },
+  "enums": {
+    "BlendMode": [
+      "BLEND_ADDITIVE",
+      "BLEND_ALPHA_COMPOSITE",
+      "BLEND_ALPHA_HOLDOUT",
+      "BLEND_MASKED",
+      "BLEND_MODULATE",
+      "BLEND_OPAQUE",
+      "BLEND_TRANSLUCENT",
+      "BLEND_TRANSLUCENT_COLORED_TRANSMITTANCE"
+    ],
+    "TranslucencyLightingMode": [
+      "TLM_SURFACE",
+      "TLM_SURFACE_PER_PIXEL_LIGHTING",
+      "TLM_VOLUMETRIC_DIRECTIONAL",
+      "TLM_VOLUMETRIC_NON_DIRECTIONAL",
+      "TLM_VOLUMETRIC_PER_VERTEX_DIRECTIONAL",
+      "TLM_VOLUMETRIC_PER_VERTEX_NON_DIRECTIONAL"
+    ],
+    "RefractionMode": [
+      "RM_2D_OFFSET",
+      "RM_INDEX_OF_REFRACTION",
+      "RM_INDEX_OF_REFRACTION_FROM_F0",
+      "RM_NONE",
+      "RM_PIXEL_NORMAL_OFFSET"
+    ],
+    "MaterialProperty": [
+      "MP_AMBIENT_OCCLUSION",
+      "MP_ANISOTROPY",
+      "MP_BASE_COLOR",
+      "MP_EMISSIVE_COLOR",
+      "MP_FRONT_MATERIAL",
+      "MP_LAST_CUSTOMIZED_U_VS",
+      "MP_MATERIAL_ATTRIBUTES",
+      "MP_MAX",
+      "MP_METALLIC",
+      "MP_NORMAL",
+      "MP_OPACITY",
+      "MP_OPACITY_MASK",
+      "MP_REFRACTION",
+      "MP_ROUGHNESS",
+      "MP_SPECULAR",
+      "MP_SUBSURFACE_COLOR",
+      "MP_TANGENT",
+      "MP_WORLD_POSITION_OFFSET"
+    ]
+  },
+  "imported_slots": [
+    {
+      "str": "<Struct 'StaticMaterial' (0x0000022E9837DC40) {material_interface: \"/Script/Engine.Material'/Game/Terrarium/Blender/MossTonic/M_MossTonic.M_MossTonic'\", material_slot_name: \"M_MossTonic_Glass_003\", uv_channel_data: {}, overlay_material_interface: None}>",
+      "imported_material_slot_name": "M_MossTonic_Glass_003",
+      "material_slot_name": "M_MossTonic_Glass_003"
+    },
+    {
+      "str": "<Struct 'StaticMaterial' (0x0000022E9837D680) {material_interface: \"/Script/Engine.Material'/Game/Terrarium/Blender/MossTonic/M_MossTonic.M_MossTonic'\", material_slot_name: \"M_MossTonic_Liquid_003\", uv_channel_data: {}, overlay_material_interface: None}>",
+      "imported_material_slot_name": "M_MossTonic_Liquid_003",
+      "material_slot_name": "M_MossTonic_Liquid_003"
+    },
+    {
+      "str": "<Struct 'StaticMaterial' (0x0000022E9837D500) {material_interface: \"/Script/Engine.Material'/Game/Terrarium/Blender/MossTonic/M_MossTonic.M_MossTonic'\", material_slot_name: \"M_MossTonic_Trim_003\", uv_channel_data: {}, overlay_material_interface: None}>",
+      "imported_material_slot_name": "M_MossTonic_Trim_003",
+      "material_slot_name": "M_MossTonic_Trim_003"
+    }
+  ],
+  "counter_probes": [
+    {
+      "xy": [
+        236.4,
+        578
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        236.4,
+        582
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        236.4,
+        586
+      ],
+      "z": 650.8172631263733
+    },
+    {
+      "xy": [
+        241.4,
+        578
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        241.4,
+        582
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        241.4,
+        586
+      ],
+      "z": 650.8172631263733
+    },
+    {
+      "xy": [
+        246.4,
+        578
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        246.4,
+        582
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        246.4,
+        586
+      ],
+      "z": 634.9919962882996
+    }
+  ]
+}

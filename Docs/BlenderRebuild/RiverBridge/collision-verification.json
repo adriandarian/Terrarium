@@ -1,0 +1,68 @@
+{
+  "plank_probes": [
+    {
+      "plank": 1,
+      "top_cm": 280.0,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "plank": 2,
+      "top_cm": 280.0,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "plank": 3,
+      "top_cm": 280.0,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "plank": 4,
+      "top_cm": 280.0,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "plank": 5,
+      "top_cm": 280.0,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "plank": 6,
+      "top_cm": 280.0,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "plank": 7,
+      "top_cm": 280.0,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "plank": 8,
+      "top_cm": 280.0,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "plank": 9,
+      "top_cm": 280.0,
+      "tolerance_cm": 0.04,
+      "passed": true
+    },
+    {
+      "plank": 10,
+      "top_cm": 280.0,
+      "tolerance_cm": 0.04,
+      "passed": true
+    }
+  ],
+  "capsule_corridor_clear": true,
+  "capsule_radius_cm": 34,
+  "capsule_half_height_cm": 88,
+  "limits": "Static sweeps and point traces against the bridge only. No character movement, step-up behavior, bank approach sweep or performance test."
+}

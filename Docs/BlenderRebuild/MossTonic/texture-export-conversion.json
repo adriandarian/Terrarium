@@ -1,0 +1,25 @@
+{
+  "asset": "MossTonic",
+  "changes": [
+    {
+      "map": "BaseColor",
+      "before_sha256": "086c09f981e3e2ef7f758d73a99f486ec54654ef53da937d782d50c4cfc4a9df",
+      "after_sha256": "759daf4b06a8900bead0129c95c035261295c332e6a738f70e66a76dd083c39a",
+      "bit_depth": 8
+    },
+    {
+      "map": "Emission",
+      "before_sha256": "3d0c0bfd2c5437cbdc4f382593564b7ad0f09885073c0bff5322ab996c038e15",
+      "after_sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c",
+      "bit_depth": 8
+    },
+    {
+      "map": "Roughness",
+      "before_sha256": "33cc1e5338e9f4713790f8a04492246cfe7dc8a241d7e56325b11d1fa424a10c",
+      "after_sha256": "8d7d68d721e0b1831a86f2cc933b103819398cad7db7504e07e9482f3e6f7733",
+      "bit_depth": 8
+    }
+  ],
+  "color_transform": "Standard sRGB for BaseColor and Emission; Raw for non-color Roughness. Exposure 0, gamma 1, no look.",
+  "reason": "These PNG16 atlas imports sampled encoded RGB in Unreal despite srgb=true. PNG8 was verified through an RGBA32F shader readback."
+}

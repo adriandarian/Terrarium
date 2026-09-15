@@ -1,0 +1,41 @@
+{
+  "slots": [
+    {
+      "index": 0,
+      "imported_name": "M_MossTonic_Glass_002",
+      "role": "Glass",
+      "material": "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Glass.M_MossTonic_Glass",
+      "blend_mode": "<BlendMode.BLEND_TRANSLUCENT: 2>",
+      "parameters": {
+        "Specular": 0.5,
+        "Opacity": 0.3,
+        "IOR": 1.46,
+        "RefractionScale": 0.045
+      }
+    },
+    {
+      "index": 1,
+      "imported_name": "M_MossTonic_Liquid_006",
+      "role": "Liquid",
+      "material": "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Liquid.M_MossTonic_Liquid",
+      "blend_mode": "<BlendMode.BLEND_TRANSLUCENT: 2>",
+      "parameters": {
+        "Specular": 0.5,
+        "Opacity": 0.9,
+        "IOR": 1.33,
+        "RefractionScale": 0.045
+      }
+    },
+    {
+      "index": 2,
+      "imported_name": "M_MossTonic_Trim_006",
+      "role": "Trim",
+      "material": "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Trim.M_MossTonic_Trim",
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>",
+      "parameters": {
+        "Specular": 0.5
+      }
+    }
+  ],
+  "limits": "Engine raster translucency approximates Blender transmission; native world review required."
+}

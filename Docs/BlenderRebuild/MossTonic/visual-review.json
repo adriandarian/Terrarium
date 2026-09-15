@@ -1,0 +1,33 @@
+{
+  "revision": "pane_grid_rim_leaf_and_refraction",
+  "parts": 351,
+  "triangles": 47396,
+  "changes": [
+    "Continuous glass shell subdivided into a 12-row pane grid with per-face teal tint variation",
+    "Narrower stepped mint lip, fuller corner collars and separate turquoise corner facets",
+    "Warmer golden cork/cord palette and more rounded cork edges",
+    "Leaf and paired cord loops moved around the neck; enlarged leaf hangs below the loops",
+    "Unreal refraction displacement scaled by 0.045 to avoid reading distant scene color through the small bottle"
+  ],
+  "studio_front": "front.png",
+  "studio_rear": "rear.png",
+  "world_views": [
+    "../ColorManagement/MossTonic/After/unreal-viewport.png",
+    "../ColorManagement/MossTonic/AfterSide/unreal-viewport.png",
+    "../ColorManagement/MossTonic/AfterContext/unreal-viewport.png"
+  ],
+  "visually_checked": true,
+  "remaining": [
+    "Exact pane coloration and irregular source block placement",
+    "Rim block silhouette and neck opacity",
+    "Leaf contour and binding-loop proportions",
+    "World lighting is much cooler and darker under the awning"
+  ],
+  "accepted_fidelity": false,
+  "physical_optics_limit": "Blender transmission retains IOR 1.46/1.33. Unreal refraction input is 1 + (IOR - 1) * 0.045, an explicit screen-space approximation; this is not optical equivalence.",
+  "color_correction": {
+    "maps": "PNG8",
+    "evidence": "../ColorManagement/MossTonic",
+    "finding": "Corrected missing sRGB decode measured in the previous PNG16 atlas import. Geometry and material factors preserved."
+  }
+}

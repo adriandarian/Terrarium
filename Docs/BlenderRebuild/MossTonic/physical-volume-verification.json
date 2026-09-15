@@ -1,0 +1,72 @@
+{
+  "actual_evaluated_geometry": true,
+  "volume_probes": [
+    {
+      "probe": "solid bottom",
+      "point_m": [
+        0,
+        0,
+        0.033
+      ],
+      "inside_glass": true,
+      "inside_liquid": false,
+      "passed": true
+    },
+    {
+      "probe": "liquid filled cavity",
+      "point_m": [
+        0,
+        0,
+        0.3
+      ],
+      "inside_glass": false,
+      "inside_liquid": true,
+      "passed": true
+    },
+    {
+      "probe": "empty neck cavity",
+      "point_m": [
+        0,
+        0,
+        0.65
+      ],
+      "inside_glass": false,
+      "inside_liquid": false,
+      "passed": true
+    },
+    {
+      "probe": "body side wall",
+      "point_m": [
+        0.222,
+        0,
+        0.3
+      ],
+      "inside_glass": true,
+      "inside_liquid": false,
+      "passed": true
+    },
+    {
+      "probe": "open mouth",
+      "point_m": [
+        0,
+        0,
+        0.735
+      ],
+      "inside_glass": false,
+      "inside_liquid": false,
+      "passed": true
+    },
+    {
+      "probe": "outside bottle",
+      "point_m": [
+        0.3,
+        0,
+        0.3
+      ],
+      "inside_glass": false,
+      "inside_liquid": false,
+      "passed": true
+    }
+  ],
+  "limits": "Sampled cavity and wall membership. No liquid simulation or exhaustive self-intersection certification."
+}

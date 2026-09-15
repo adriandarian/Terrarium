@@ -1,0 +1,11 @@
+{
+  "asset": "MossTonic",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_MossTonic",
+  "parts": 351,
+  "packed_images": 3,
+  "material_slots": 3,
+  "triangles": 47396,
+  "sha256": "147fac5a7a6db55a007939b87b06a3f9884dc2a0fb7b1f28886b2d69eb3d026f",
+  "active_camera": "Reference camera.023"
+}
