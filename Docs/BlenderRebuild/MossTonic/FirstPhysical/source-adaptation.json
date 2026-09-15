@@ -1,0 +1,10 @@
+{
+  "source": "SourceAssets/Voxel/moss_tonic.png",
+  "interpretation": "One visible view; rear label-free and underside inferred. Hollow closed glass wall with open mouth, separate liquid, tiled cork, neck cord and attached leaf.",
+  "materials": [
+    "Trim",
+    "Glass",
+    "Liquid"
+  ],
+  "status": "pending_render_comparison_and_engine_import"
+}

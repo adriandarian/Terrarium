@@ -1,0 +1,98 @@
+{
+  "reload_verified": true,
+  "actor": "Blender_MossTonic_MarketCounter",
+  "materials": [
+    {
+      "role": "Glass",
+      "material": "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Glass.M_MossTonic_Glass",
+      "passed": true
+    },
+    {
+      "role": "Liquid",
+      "material": "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Liquid.M_MossTonic_Liquid",
+      "passed": true
+    },
+    {
+      "role": "Trim",
+      "material": "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Trim.M_MossTonic_Trim",
+      "passed": true
+    }
+  ],
+  "counter_support": [
+    {
+      "xy": [
+        236.92000000000002,
+        619.38
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        236.92000000000002,
+        623.0
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        236.92000000000002,
+        626.62
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        241.4,
+        619.38
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        241.4,
+        623.0
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        241.4,
+        626.62
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        245.88,
+        619.38
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        245.88,
+        623.0
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        245.88,
+        626.62
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    }
+  ],
+  "base_clearance_cm": 0.01999999999998181,
+  "source_hash_verified": true,
+  "limits": "Sampled static support and shader bindings; no gameplay pickup, physical liquid simulation, translucency sorting across all views or performance validation. Visual refinement remains open."
+}

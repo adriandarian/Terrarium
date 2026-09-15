@@ -1,0 +1,52 @@
+{
+  "asset": "MossTonic",
+  "mesh": "SM_Blender_MossTonic",
+  "source": "SourceAssets/Voxel/moss_tonic.png",
+  "source_sha256": "a7dde90889ac3d965f296d0c33b95540c1d2943f0fafeaed91f968142e86e09f",
+  "parts": 343,
+  "vertices": 20608,
+  "triangles": 39844,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 3,
+  "bounds_m": {
+    "min": [
+      -0.23549999296665192,
+      -0.2045000046491623,
+      0.01900000125169754
+    ],
+    "max": [
+      0.3606683313846588,
+      0.1940000057220459,
+      0.8550000190734863
+    ]
+  },
+  "files": {
+    "MossTonic_BaseColor.png": {
+      "bytes": 22766,
+      "sha256": "85bc95f0cf832da53405bcbaac9840f54200ac198c7e72d8c6b8baf21c88c470"
+    },
+    "MossTonic_Emission.png": {
+      "bytes": 7122,
+      "sha256": "3d0c0bfd2c5437cbdc4f382593564b7ad0f09885073c0bff5322ab996c038e15"
+    },
+    "MossTonic_Roughness.png": {
+      "bytes": 8365,
+      "sha256": "33cc1e5338e9f4713790f8a04492246cfe7dc8a241d7e56325b11d1fa424a10c"
+    },
+    "SM_Blender_MossTonic.fbx": {
+      "bytes": 646188,
+      "sha256": "17f7c8f682a584749e2f439da393683c7e8f0601a83716226ca6521b3b5cc45c"
+    },
+    "SM_Blender_MossTonic.glb": {
+      "bytes": 3048104,
+      "sha256": "f72599e7517f08f59bc89968ee2e1377f74425a375cfe2b31fb1e25c9038135c"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "materials": [
+    "M_MossTonic_Glass.003",
+    "M_MossTonic_Liquid.003",
+    "M_MossTonic_Trim.003"
+  ]
+}
