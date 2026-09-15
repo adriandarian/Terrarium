@@ -1,0 +1,184 @@
+{
+  "source_blend_sha256": "6551a4ca26b501be7a317dc95de5566768fd735f87f20b90bc1715d8d85b0304",
+  "camera_elevation_deg": 29.999999814839967,
+  "cube_anchors": [
+    {
+      "part": "Lightning cube",
+      "max_control_corner_error_px": 0.13248179876870836
+    },
+    {
+      "part": "Lightning cube.001",
+      "max_control_corner_error_px": 0.13243915040072807
+    },
+    {
+      "part": "Lightning cube.002",
+      "max_control_corner_error_px": 0.1324488770693506
+    },
+    {
+      "part": "Lightning cube.003",
+      "max_control_corner_error_px": 0.13241951102827443
+    },
+    {
+      "part": "Lightning cube.004",
+      "max_control_corner_error_px": 0.1323887333218181
+    },
+    {
+      "part": "Lightning cube.005",
+      "max_control_corner_error_px": 0.13240060467774128
+    },
+    {
+      "part": "Lightning cube.006",
+      "max_control_corner_error_px": 0.1324800152141279
+    },
+    {
+      "part": "Lightning cube.007",
+      "max_control_corner_error_px": 0.13243736684626128
+    },
+    {
+      "part": "Lightning cube.008",
+      "max_control_corner_error_px": 0.13243404415686655
+    },
+    {
+      "part": "Lightning cube.009",
+      "max_control_corner_error_px": 0.13243991631441077
+    },
+    {
+      "part": "Lightning cube.010",
+      "max_control_corner_error_px": 0.1324388104553691
+    },
+    {
+      "part": "Lightning cube.011",
+      "max_control_corner_error_px": 0.13244488776979324
+    },
+    {
+      "part": "Lightning cube.012",
+      "max_control_corner_error_px": 0.1324478700863665
+    },
+    {
+      "part": "Lightning cube.013",
+      "max_control_corner_error_px": 0.13249352061620812
+    },
+    {
+      "part": "Lightning cube.014",
+      "max_control_corner_error_px": 0.13243142502346927
+    },
+    {
+      "part": "Lightning cube.015",
+      "max_control_corner_error_px": 0.13244224656011738
+    },
+    {
+      "part": "Cloud cube",
+      "max_control_corner_error_px": 0.1323653002065157
+    },
+    {
+      "part": "Cloud cube.001",
+      "max_control_corner_error_px": 0.13244166924675937
+    },
+    {
+      "part": "Cloud cube.002",
+      "max_control_corner_error_px": 0.1324587217854969
+    },
+    {
+      "part": "Cloud cube.003",
+      "max_control_corner_error_px": 0.132447232110394
+    },
+    {
+      "part": "Cloud cube.004",
+      "max_control_corner_error_px": 0.13243205370645228
+    },
+    {
+      "part": "Cloud cube.005",
+      "max_control_corner_error_px": 0.13241785070420065
+    },
+    {
+      "part": "Cloud cube.006",
+      "max_control_corner_error_px": 0.1324127838034883
+    },
+    {
+      "part": "Cloud cube.007",
+      "max_control_corner_error_px": 0.13241988060781296
+    },
+    {
+      "part": "Cloud cube.008",
+      "max_control_corner_error_px": 0.13243279015239295
+    },
+    {
+      "part": "Cloud cube.009",
+      "max_control_corner_error_px": 0.13243525352538654
+    },
+    {
+      "part": "Cloud cube.010",
+      "max_control_corner_error_px": 0.13241937472514564
+    },
+    {
+      "part": "Cloud cube.011",
+      "max_control_corner_error_px": 0.1324337162551501
+    },
+    {
+      "part": "Cloud cube.012",
+      "max_control_corner_error_px": 0.13244633841736686
+    },
+    {
+      "part": "Cloud cube.013",
+      "max_control_corner_error_px": 0.13242925473991818
+    },
+    {
+      "part": "Cloud cube.014",
+      "max_control_corner_error_px": 0.13242531080413755
+    },
+    {
+      "part": "Cloud cube.015",
+      "max_control_corner_error_px": 0.1324228552259683
+    },
+    {
+      "part": "Cloud cube.016",
+      "max_control_corner_error_px": 0.13242169495254075
+    },
+    {
+      "part": "Cloud cube.017",
+      "max_control_corner_error_px": 0.13243722543381864
+    },
+    {
+      "part": "Spark",
+      "max_control_corner_error_px": 8.570667546337063e-06
+    },
+    {
+      "part": "Spark.001",
+      "max_control_corner_error_px": 1.912910511236987e-05
+    },
+    {
+      "part": "Spark.002",
+      "max_control_corner_error_px": 5.103223134028667e-05
+    },
+    {
+      "part": "Spark.003",
+      "max_control_corner_error_px": 9.00304195283752e-06
+    },
+    {
+      "part": "Spark.004",
+      "max_control_corner_error_px": 2.8758746282164793e-05
+    },
+    {
+      "part": "Spark.005",
+      "max_control_corner_error_px": 2.3185114059742773e-06
+    },
+    {
+      "part": "Spark.006",
+      "max_control_corner_error_px": 1.8947972080241016e-05
+    },
+    {
+      "part": "Spark.007",
+      "max_control_corner_error_px": 1.4948799503144983e-05
+    },
+    {
+      "part": "Spark.008",
+      "max_control_corner_error_px": 2.145475980341871e-05
+    },
+    {
+      "part": "Spark.009",
+      "max_control_corner_error_px": 6.120992338765063e-06
+    }
+  ],
+  "cream_hexahedra": 2,
+  "limits": "Control-corner agreement with authored measurements, not proof that every authored measurement matches the source. Bevels and occlusion alter visible pixels."
+}

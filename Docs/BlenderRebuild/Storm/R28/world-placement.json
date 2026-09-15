@@ -1,0 +1,57 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "actor": "Blender_Storm_MarketCounter",
+  "mesh": "/Game/Terrarium/Blender/Storm/SM_Blender_Storm.SM_Blender_Storm",
+  "location_cm": [
+    397.0,
+    626.0,
+    635.5572565947473
+  ],
+  "scale": 0.11,
+  "yaw": -90.0,
+  "height_cm": 16.033237161636354,
+  "materials": [
+    "/Game/Terrarium/Blender/Storm/M_Storm_Lightning.M_Storm_Lightning",
+    "/Game/Terrarium/Blender/Storm/M_Storm_Cloud.M_Storm_Cloud"
+  ],
+  "support_actor": "Blender_MarketStall_UpperPath",
+  "support_probes": [
+    {
+      "xy": [
+        394.131505162,
+        625.813000011
+      ],
+      "counter_z": 634.9919962882996,
+      "local_z_m": -0.049569119
+    },
+    {
+      "xy": [
+        394.131505162,
+        625.229852061
+      ],
+      "counter_z": 634.9919962882996,
+      "local_z_m": -0.049569119
+    },
+    {
+      "xy": [
+        394.131505162,
+        625.521426036
+      ],
+      "counter_z": 634.9919962882996,
+      "local_z_m": -0.049569119
+    }
+  ],
+  "base_clearance_cm": 0.02,
+  "bounds_center_cm": [
+    396.4946629524231,
+    625.5386713027954,
+    643.0286148510874
+  ],
+  "bounds_extent_cm": [
+    7.168365573883079,
+    1.589685764312776,
+    8.016618580818204
+  ],
+  "status": "placed_pending_saved_reload_and_visual_review",
+  "limits": "Static display on a narrow tip. The concept includes floating sparks; cloud attachment, rigid-body stability and gameplay are not certified."
+}

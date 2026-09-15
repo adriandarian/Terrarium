@@ -1,0 +1,16 @@
+{
+  "minimum_z_m": -0.04239818453788757,
+  "samples_m": [
+    [
+      0.016999999061226845,
+      0.2964087128639221,
+      -0.04239818453788757
+    ],
+    [
+      0.08800000697374344,
+      0.2964087128639221,
+      -0.04239818453788757
+    ]
+  ],
+  "method": "Evaluated golden-body vertices within 0.1 mm of the lowest tip. Static display contact only; not a stability test."
+}

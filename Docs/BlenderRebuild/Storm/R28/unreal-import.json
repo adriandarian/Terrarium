@@ -1,0 +1,30 @@
+{
+  "asset": "Storm",
+  "mesh": "/Game/Terrarium/Blender/Storm/SM_Blender_Storm.SM_Blender_Storm",
+  "material": "/Game/Terrarium/Blender/Storm/M_Storm.M_Storm",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/Storm/T_Storm_BaseColor.T_Storm_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/Storm/T_Storm_Emission.T_Storm_Emission",
+    "Roughness": "/Game/Terrarium/Blender/Storm/T_Storm_Roughness.T_Storm_Roughness"
+  },
+  "source_fbx_sha256": "088afd61fb0d5cdbad456f212261cb001d8eda538e3c8db45830f22571d67190",
+  "dimensions_cm": [
+    28.903377532958984,
+    130.33391952514648,
+    145.7567014694214
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check",
+  "material_slots": [
+    {
+      "index": 0,
+      "imported_name": "M_Storm_Lightning_004",
+      "material": "/Game/Terrarium/Blender/Storm/M_Storm.M_Storm"
+    },
+    {
+      "index": 1,
+      "imported_name": "M_Storm_Cloud_003",
+      "material": "/Game/Terrarium/Blender/Storm/M_Storm.M_Storm"
+    }
+  ]
+}
