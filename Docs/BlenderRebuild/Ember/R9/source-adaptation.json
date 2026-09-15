@@ -1,0 +1,7 @@
+{
+  "source": "SourceAssets/Voxel/ember.png",
+  "method": "Measured beveled flame cuboids with raised yellow/cream core and four detached solid sparks. No source-image projection.",
+  "inferred": "Rear volume and hidden block arrangement inferred from one view. Sparks are static stylized floating geometry; no particle simulation or gameplay behavior.",
+  "status": "imported_with_visual_refinement_open",
+  "revision": "r9_raised_core_and_orange_palette"
+}

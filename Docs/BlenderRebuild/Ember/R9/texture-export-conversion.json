@@ -1,0 +1,25 @@
+{
+  "asset": "Ember",
+  "changes": [
+    {
+      "map": "BaseColor",
+      "before_sha256": "d8fa165bb971a837d4b059891826ca5714d3532681e0423dbae26a82ca3674af",
+      "after_sha256": "dd7be8416c6d7693c282494cd23b64acc40f43f48c446407767544bfd27d352a",
+      "bit_depth": 8
+    },
+    {
+      "map": "Emission",
+      "before_sha256": "3d0c0bfd2c5437cbdc4f382593564b7ad0f09885073c0bff5322ab996c038e15",
+      "after_sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c",
+      "bit_depth": 8
+    },
+    {
+      "map": "Roughness",
+      "before_sha256": "590c92780dd2ccdac9f3da3e6a581856a0f457849b64ed7b011d18ad1aa674ea",
+      "after_sha256": "45b0f998951b68e9a8feabb545ba8f53be71544e168eea00fdded1a3076436cd",
+      "bit_depth": 8
+    }
+  ],
+  "color_transform": "Standard sRGB for BaseColor and Emission; Raw for non-color Roughness. Exposure 0, gamma 1, no look.",
+  "reason": "These PNG16 atlas imports sampled encoded RGB in Unreal despite srgb=true. PNG8 was verified through an RGBA32F shader readback."
+}

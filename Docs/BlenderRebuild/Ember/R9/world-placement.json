@@ -1,0 +1,40 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "actor": "Blender_Ember_MarketCounter",
+  "mesh": "/Game/Terrarium/Blender/Ember/SM_Blender_Ember.SM_Blender_Ember",
+  "location_cm": [
+    340.0,
+    624.0,
+    636.6992133903503
+  ],
+  "scale": 0.24,
+  "yaw": 0,
+  "height_cm": 34.13630767822266,
+  "materials": [
+    "/Game/Terrarium/Blender/Ember/M_Ember_Flame.M_Ember_Flame"
+  ],
+  "camera": "Blender_Ember_Review",
+  "support_actor": "Blender_MarketStall_UpperPath",
+  "support_probes": [
+    {
+      "xy": [
+        347.5114948749542,
+        622.7608249783516
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Flame block.096",
+      "local_underside_m": -0.05509456992149353
+    },
+    {
+      "xy": [
+        349.4862687587738,
+        622.7003308832645
+      ],
+      "z": 634.9919962882996,
+      "source_part": "Flame block.097",
+      "local_underside_m": -0.07030071318149567
+    }
+  ],
+  "base_clearance_cm": 0.02,
+  "status": "saved_reload_and_native_views_verified_fidelity_open"
+}

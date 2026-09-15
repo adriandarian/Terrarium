@@ -1,0 +1,32 @@
+{
+  "reload_verified": true,
+  "actor": "Blender_Ember_MarketCounter",
+  "materials": [
+    {
+      "role": "Flame",
+      "material": "/Game/Terrarium/Blender/Ember/M_Ember_Flame.M_Ember_Flame",
+      "passed": true
+    }
+  ],
+  "counter_support": [
+    {
+      "xy": [
+        347.5114948749542,
+        622.7608249783516
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        349.4862687587738,
+        622.7003308832645
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    }
+  ],
+  "base_clearance_cm": 0.01999999999998181,
+  "source_hash_verified": true,
+  "limits": "Sampled static support and shader bindings; no gameplay, full collision or performance validation. Visual refinement remains open."
+}

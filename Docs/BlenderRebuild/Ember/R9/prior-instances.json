@@ -1,0 +1,59 @@
+[
+  {
+    "actor": "Blender_TrailPrism_MarketCounter",
+    "mesh": "/Game/Terrarium/Blender/TrailPrism/SM_Blender_TrailPrism.SM_Blender_TrailPrism",
+    "location_cm": [
+      307.0,
+      623.0,
+      635.0119962882995
+    ],
+    "bounds_origin": [
+      307.0,
+      623.0,
+      645.6519962882995
+    ],
+    "bounds_extent": [
+      5.271330547332752,
+      5.271330547332809,
+      10.639999999999986
+    ]
+  },
+  {
+    "actor": "Blender_EmberCrest_MarketFront",
+    "mesh": "/Game/Terrarium/Blender/EmberCrest/SM_Blender_EmberCrest.SM_Blender_EmberCrest",
+    "location_cm": [
+      184.0,
+      628.1750094509125,
+      592.0
+    ],
+    "bounds_origin": [
+      184.0,
+      628.4150092220307,
+      605.6761276340485
+    ],
+    "bounds_extent": [
+      10.9440005493164,
+      3.600000686645558,
+      14.314092092513988
+    ]
+  },
+  {
+    "actor": "Blender_Grove_MarketCounter",
+    "mesh": "/Game/Terrarium/Blender/Grove/SM_Blender_Grove.SM_Blender_Grove",
+    "location_cm": [
+      371.75,
+      624.0,
+      635.0436862301826
+    ],
+    "bounds_origin": [
+      372.37217498779296,
+      620.5832403016091,
+      648.5773859369755
+    ],
+    "bounds_extent": [
+      12.772707824707027,
+      3.611159613132486,
+      13.565389648675932
+    ]
+  }
+]

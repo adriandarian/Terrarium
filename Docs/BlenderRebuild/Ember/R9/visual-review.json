@@ -1,0 +1,24 @@
+{
+  "revision": "r9_raised_core_and_orange_palette",
+  "parts": 119,
+  "triangles": 12852,
+  "studio_views": [
+    "front.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "visually_checked": true,
+  "accepted_fidelity": false,
+  "remaining": [
+    "The asset still reads as a thin relief rather than the densely filled cubic volume in the concept.",
+    "Upper orange courses, yellow transitions, core divisions and small exposed interior junctions need authored shape corrections.",
+    "The underside is uneven. Two low-point samples reach the counter; this does not establish a broadly grounded base or balance.",
+    "Rear structure is inferred and still contains recesses and gaps. The four separate sparks are intentional static geometry.",
+    "World shade is darker than the concept. Palette sampling is verified separately from appearance.",
+    "No particle simulation, rigid-body stability, full collision or gameplay validation."
+  ]
+}
