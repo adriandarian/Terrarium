@@ -1,0 +1,678 @@
+{
+  "parts": [
+    {
+      "part": "Flame cube",
+      "reference_rect": [
+        653,
+        115,
+        47,
+        60
+      ],
+      "center_m": [
+        0.10500017553567886,
+        0.06087670847773552,
+        1.3010456562042236
+      ],
+      "course": 15,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.001",
+      "reference_rect": [
+        653,
+        175,
+        47,
+        62
+      ],
+      "center_m": [
+        0.11191006749868393,
+        0.06778660416603088,
+        1.2170456647872925
+      ],
+      "course": 14,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.002",
+      "reference_rect": [
+        596,
+        193,
+        51,
+        61
+      ],
+      "center_m": [
+        0.029100824147462845,
+        0.08170957118272781,
+        1.2170456647872925
+      ],
+      "course": 14,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.003",
+      "reference_rect": [
+        596,
+        256,
+        48,
+        67
+      ],
+      "center_m": [
+        0.01867561787366867,
+        0.07128436118364334,
+        1.1363557577133179
+      ],
+      "course": 13,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.004",
+      "reference_rect": [
+        692,
+        256,
+        27,
+        69
+      ],
+      "center_m": [
+        0.21458640694618225,
+        0.10427775233983994,
+        1.0536798238754272
+      ],
+      "course": 12,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.005",
+      "reference_rect": [
+        644,
+        278,
+        48,
+        60
+      ],
+      "center_m": [
+        0.025190159678459167,
+        -0.003659797366708517,
+        1.1331000328063965
+      ],
+      "course": 13,
+      "protected_from_infill": true
+    },
+    {
+      "part": "Flame cube.006",
+      "reference_rect": [
+        550,
+        319,
+        48,
+        64
+      ],
+      "center_m": [
+        -0.012886150740087032,
+        0.1177871823310852,
+        1.0499999523162842
+      ],
+      "course": 11,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.007",
+      "reference_rect": [
+        690,
+        350,
+        49,
+        72
+      ],
+      "center_m": [
+        0.034543056041002274,
+        -0.07237149029970169,
+        1.0509999990463257
+      ],
+      "course": 11,
+      "protected_from_infill": true
+    },
+    {
+      "part": "Flame cube.008",
+      "reference_rect": [
+        739,
+        338,
+        46,
+        84
+      ],
+      "center_m": [
+        0.1951499581336975,
+        0.005079662427306175,
+        0.9796102643013
+      ],
+      "course": 11,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.009",
+      "reference_rect": [
+        509,
+        374,
+        49,
+        70
+      ],
+      "center_m": [
+        -0.03935885801911354,
+        0.1608937829732895,
+        0.9679999947547913
+      ],
+      "course": 10,
+      "protected_from_infill": true
+    },
+    {
+      "part": "Flame cube.010",
+      "reference_rect": [
+        509,
+        435,
+        49,
+        78
+      ],
+      "center_m": [
+        -0.036422327160835266,
+        0.16383031010627747,
+        0.8799999952316284
+      ],
+      "course": 9,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.011",
+      "reference_rect": [
+        557,
+        435,
+        43,
+        68
+      ],
+      "center_m": [
+        0.0041913860477507114,
+        0.12298532575368881,
+        0.8850178122520447
+      ],
+      "course": 10,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.012",
+      "reference_rect": [
+        739,
+        435,
+        46,
+        70
+      ],
+      "center_m": [
+        0.15588071942329407,
+        -0.034189581871032715,
+        0.8863418698310852
+      ],
+      "course": 10,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.013",
+      "reference_rect": [
+        603,
+        498,
+        48,
+        63
+      ],
+      "center_m": [
+        -0.07110673934221268,
+        -0.03037738800048828,
+        0.8817076683044434
+      ],
+      "course": 10,
+      "protected_from_infill": true
+    },
+    {
+      "part": "Flame cube.014",
+      "reference_rect": [
+        739,
+        550,
+        49,
+        59
+      ],
+      "center_m": [
+        0.07128297537565231,
+        -0.11878732591867447,
+        0.7960000038146973
+      ],
+      "course": 8,
+      "protected_from_infill": true
+    },
+    {
+      "part": "Flame cube.015",
+      "reference_rect": [
+        787,
+        550,
+        43,
+        59
+      ],
+      "center_m": [
+        0.2247127890586853,
+        -0.04681621119379997,
+        0.7200000286102295
+      ],
+      "course": 8,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.016",
+      "reference_rect": [
+        909,
+        550,
+        46,
+        79
+      ],
+      "center_m": [
+        0.5606735944747925,
+        0.08210369944572449,
+        0.5563001036643982
+      ],
+      "course": 6,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.017",
+      "reference_rect": [
+        909,
+        512,
+        46,
+        64
+      ],
+      "center_m": [
+        0.6670863628387451,
+        0.1885164976119995,
+        0.546369731426239
+      ],
+      "course": 6,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.018",
+      "reference_rect": [
+        462,
+        525,
+        47,
+        63
+      ],
+      "center_m": [
+        0.009370661340653896,
+        0.28938496112823486,
+        0.713707685470581
+      ],
+      "course": 8,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.019",
+      "reference_rect": [
+        510,
+        525,
+        48,
+        65
+      ],
+      "center_m": [
+        0.04650869965553284,
+        0.24506428837776184,
+        0.7150317430496216
+      ],
+      "course": 8,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.020",
+      "reference_rect": [
+        603,
+        564,
+        48,
+        58
+      ],
+      "center_m": [
+        -0.07423578947782516,
+        -0.03350643813610077,
+        0.7970456480979919
+      ],
+      "course": 9,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.021",
+      "reference_rect": [
+        462,
+        590,
+        47,
+        71
+      ],
+      "center_m": [
+        -0.009820695966482162,
+        0.27019357681274414,
+        0.635003924369812
+      ],
+      "course": 7,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.022",
+      "reference_rect": [
+        336,
+        612,
+        47,
+        74
+      ],
+      "center_m": [
+        -0.03955274447798729,
+        0.45429062843322754,
+        0.5529899597167969
+      ],
+      "course": 6,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.023",
+      "reference_rect": [
+        522,
+        612,
+        46,
+        69
+      ],
+      "center_m": [
+        -0.12686625123023987,
+        0.05132465064525604,
+        0.7176798582077026
+      ],
+      "course": 8,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.024",
+      "reference_rect": [
+        649,
+        612,
+        48,
+        69
+      ],
+      "center_m": [
+        -0.0748467668890953,
+        -0.11218200623989105,
+        0.7549999952316284
+      ],
+      "course": 8,
+      "protected_from_infill": true
+    },
+    {
+      "part": "Flame cube.025",
+      "reference_rect": [
+        869,
+        612,
+        46,
+        62
+      ],
+      "center_m": [
+        0.4363819658756256,
+        0.025694333016872406,
+        0.5450456738471985
+      ],
+      "course": 6,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.026",
+      "reference_rect": [
+        381,
+        672,
+        48,
+        73
+      ],
+      "center_m": [
+        0.00797296967357397,
+        0.42544880509376526,
+        0.46832793951034546
+      ],
+      "course": 5,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.027",
+      "reference_rect": [
+        462,
+        672,
+        47,
+        50
+      ],
+      "center_m": [
+        -0.029012052342295647,
+        0.2510022222995758,
+        0.5450456738471985
+      ],
+      "course": 6,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.028",
+      "reference_rect": [
+        522,
+        672,
+        46,
+        76
+      ],
+      "center_m": [
+        -0.13401088118553162,
+        0.04418002814054489,
+        0.6383140087127686
+      ],
+      "course": 7,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.029",
+      "reference_rect": [
+        569,
+        672,
+        36,
+        38
+      ],
+      "center_m": [
+        -0.07026366144418716,
+        0.028165604919195175,
+        0.6290456652641296
+      ],
+      "course": 7,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.030",
+      "reference_rect": [
+        649,
+        672,
+        48,
+        41
+      ],
+      "center_m": [
+        0.003176034428179264,
+        -0.03415919840335846,
+        0.6287379264831543
+      ],
+      "course": 6,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.031",
+      "reference_rect": [
+        696,
+        672,
+        60,
+        23
+      ],
+      "center_m": [
+        0.04768175259232521,
+        -0.0694151297211647,
+        0.6290456652641296
+      ],
+      "course": 7,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.032",
+      "reference_rect": [
+        803,
+        672,
+        46,
+        72
+      ],
+      "center_m": [
+        0.36721110343933105,
+        0.06852919608354568,
+        0.4676659405231476
+      ],
+      "course": 5,
+      "protected_from_infill": true
+    },
+    {
+      "part": "Flame cube.033",
+      "reference_rect": [
+        869,
+        672,
+        46,
+        49
+      ],
+      "center_m": [
+        0.4432918429374695,
+        0.03260422870516777,
+        0.46104565262794495
+      ],
+      "course": 5,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.034",
+      "reference_rect": [
+        471,
+        698,
+        48,
+        66
+      ],
+      "center_m": [
+        -0.08118469268083572,
+        0.18355607986450195,
+        0.5476937890052795
+      ],
+      "course": 6,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.035",
+      "reference_rect": [
+        706,
+        698,
+        49,
+        69
+      ],
+      "center_m": [
+        0.11262031644582748,
+        -0.021447129547595978,
+        0.5496798753738403
+      ],
+      "course": 6,
+      "protected_from_infill": true
+    },
+    {
+      "part": "Flame cube.036",
+      "reference_rect": [
+        962,
+        698,
+        47,
+        62
+      ],
+      "center_m": [
+        0.8525583744049072,
+        0.2840445041656494,
+        0.2090456634759903
+      ],
+      "course": 2,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.086",
+      "reference_rect": [
+        644,
+        340,
+        48,
+        62
+      ],
+      "center_m": [
+        0.02520332671701908,
+        -0.003646630560979247,
+        1.0509999990463257
+      ],
+      "course": 12,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.087",
+      "reference_rect": [
+        644,
+        402,
+        48,
+        62
+      ],
+      "center_m": [
+        0.025064853951334953,
+        -0.0037851035594940186,
+        0.968999981880188
+      ],
+      "course": 11,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.088",
+      "reference_rect": [
+        690,
+        412,
+        49,
+        62
+      ],
+      "center_m": [
+        0.056574687361717224,
+        -0.05033985525369644,
+        0.9610000252723694
+      ],
+      "course": 10,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.089",
+      "reference_rect": [
+        690,
+        474,
+        49,
+        62
+      ],
+      "center_m": [
+        0.056436214596033096,
+        -0.05047833174467087,
+        0.8790000081062317
+      ],
+      "course": 9,
+      "protected_from_infill": false
+    },
+    {
+      "part": "Flame cube.090",
+      "reference_rect": [
+        739,
+        612,
+        49,
+        62
+      ],
+      "center_m": [
+        0.07114450633525848,
+        -0.1189258024096489,
+        0.7139999866485596
+      ],
+      "course": 8,
+      "protected_from_infill": false
+    }
+  ],
+  "method": "Removed duplicated side-face entries and authored full stacked cubes with consistent elevations. Selected visible cubes constrain generated infill.",
+  "limits": "Upper columns are improved but spacing, protrusion and remaining lower-body topology still need visual refinement."
+}

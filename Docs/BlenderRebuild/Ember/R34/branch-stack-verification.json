@@ -1,0 +1,48 @@
+{
+  "stacks": [
+    {
+      "top": "Flame cube.016",
+      "bottom": "Flame cube.086",
+      "top_reference": [
+        909,
+        512
+      ],
+      "bottom_reference": [
+        909,
+        576
+      ],
+      "xy_alignment_error_m": 5.364418029785156e-07,
+      "vertical_overlap_m": 0.003999624401330948
+    },
+    {
+      "top": "Flame cube.087",
+      "bottom": "Flame cube.088",
+      "top_reference": [
+        869,
+        594
+      ],
+      "bottom_reference": [
+        869,
+        656
+      ],
+      "xy_alignment_error_m": 4.805624485015869e-07,
+      "vertical_overlap_m": 0.004000313580036163
+    },
+    {
+      "top": "Flame cube.090",
+      "bottom": "Flame cube.033",
+      "top_reference": [
+        381,
+        684
+      ],
+      "bottom_reference": [
+        381,
+        746
+      ],
+      "xy_alignment_error_m": 4.805624485015869e-07,
+      "vertical_overlap_m": 0.004000313580036163
+    }
+  ],
+  "method": "The measured upper and lower cubes share an XY column and overlap vertically at their joint. Export checks validate each evaluated part separately.",
+  "limits": "Stack alignment only; not mechanical strength or reference fidelity."
+}

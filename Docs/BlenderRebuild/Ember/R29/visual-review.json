@@ -1,0 +1,27 @@
+{
+  "revision": "r29_upper_column_structure",
+  "parts": 597,
+  "triangles": 64476,
+  "studio_views": [
+    "front.png",
+    "rear.png",
+    "side.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "visually_checked": true,
+  "accepted_fidelity": false,
+  "remaining": [
+    "Ten cream cubes now form the measured cluster and central pair, but their spacing, lower recesses and neighboring yellow arrangement still differ from the concept.",
+    "The cream cluster is recessed into the body and the large R19 side opening is reduced, but some lower blocks still project farther than the source arrangement suggests.",
+    "The upper orange columns and yellow stack are closer to the concept, but individual widths, middle transitions and protrusion still need refinement. Some source faces remain interpreted as separate blocks.",
+    "Side views expose small dark recesses beneath the middle columns and cream cluster. The rear terraces remain inferred and visually repetitive.",
+    "Orange side tongues, yellow transitions, individual widths, bevels and shaded colors still need closer matching.",
+    "Rear structure and interior pigments are inferred from one view; a few small junctions remain visible.",
+    "World shade is darker than the concept. Palette sampling is verified separately from appearance.",
+    "The shared floor and sampled counter contact are verified, but no rigid-body stability, particle simulation, full collision or gameplay validation has been performed."
+  ]
+}
