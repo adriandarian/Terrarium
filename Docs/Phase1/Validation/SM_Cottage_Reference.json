@@ -1,0 +1,14 @@
+{
+  "asset": "/Game/Terrarium/Meshes/SM_Cottage_Reference",
+  "triangles": 18784,
+  "vertices": 10250,
+  "closed_components": 429,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999994,
+  "saved_normal_errors": 0,
+  "refinement_pass": 10,
+  "visual_review": "pending",
+  "revises": "SM_Cottage_v6_Detail"
+}
