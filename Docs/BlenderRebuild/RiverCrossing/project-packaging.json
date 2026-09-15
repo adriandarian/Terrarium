@@ -1,0 +1,12 @@
+{
+  "asset": "RiverCrossing",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "60d785c007b2d782b2111aefa302626b3c0ecd60154c2578c7442c668ebaaadd",
+  "sha256": "a21c90a3d50f8e47aa8d1a97865f647f0f71e8fa279826fab54e8768c0cf6f59",
+  "scene": "Terrarium_RiverCrossing",
+  "parts": 1314,
+  "packed_images": 3,
+  "active_camera": "Reference camera.009",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

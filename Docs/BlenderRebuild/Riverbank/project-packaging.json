@@ -1,0 +1,12 @@
+{
+  "asset": "Riverbank",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "9d089818184929e1b0d5820b807fc14145d23286f8cb11f0b5b47b9395583ab5",
+  "sha256": "dcdf838f3cb0dc0f07259271cb5e2eb1292270ac163a8aadc6ca3d1e9926987a",
+  "scene": "Terrarium_Riverbank",
+  "parts": 663,
+  "packed_images": 3,
+  "active_camera": "Reference camera.014",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

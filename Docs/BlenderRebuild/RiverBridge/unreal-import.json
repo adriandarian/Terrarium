@@ -1,0 +1,18 @@
+{
+  "asset": "RiverBridge",
+  "mesh": "/Game/Terrarium/Blender/RiverBridge/SM_Blender_RiverBridge.SM_Blender_RiverBridge",
+  "material": "/Game/Terrarium/Blender/RiverBridge/M_RiverBridge.M_RiverBridge",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/RiverBridge/T_RiverBridge_BaseColor.T_RiverBridge_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/RiverBridge/T_RiverBridge_Emission.T_RiverBridge_Emission",
+    "Roughness": "/Game/Terrarium/Blender/RiverBridge/T_RiverBridge_Roughness.T_RiverBridge_Roughness"
+  },
+  "source_fbx_sha256": "d444800c56227b8fbc00ea0cc70b4fa7ff2ffd0e454191a4b5ed2e5e10422b4c",
+  "dimensions_cm": [
+    143.00001525878906,
+    333.0,
+    211.0000228881836
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}

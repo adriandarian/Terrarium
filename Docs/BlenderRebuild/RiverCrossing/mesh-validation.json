@@ -1,0 +1,47 @@
+{
+  "asset": "RiverCrossing",
+  "mesh": "SM_Blender_RiverCrossing",
+  "source": "SourceAssets/Voxel/river_crossing.png",
+  "source_sha256": "81c83771fab9a42893dbb87b201709584c08fdd14099110fb7a78d10d707857a",
+  "parts": 1314,
+  "vertices": 73584,
+  "triangles": 141912,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.7150000333786011,
+      -1.6649999618530273,
+      0.0
+    ],
+    "max": [
+      0.7150000333786011,
+      2.8596999645233154,
+      1.2997000217437744
+    ]
+  },
+  "files": {
+    "RiverCrossing_BaseColor.png": {
+      "bytes": 25284,
+      "sha256": "f51443077f577dcad69413f0066764ef71051b52afb6b3a61c9f011e99447c33"
+    },
+    "RiverCrossing_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "RiverCrossing_Roughness.png": {
+      "bytes": 4648,
+      "sha256": "ad7d74f81960248b488b79e7097840b419d86adf1e8cb7dca671347dc1090b28"
+    },
+    "SM_Blender_RiverCrossing.fbx": {
+      "bytes": 1813772,
+      "sha256": "0301bc85e8afc77623036b46f34d23689eae5b0be331f6e9c968f3a4bd77e1a3"
+    },
+    "SM_Blender_RiverCrossing.glb": {
+      "bytes": 10821008,
+      "sha256": "d29d5b845acddd058adf801969aca8d1b687541ffc1a93eea7b8318c3cd60f45"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}

@@ -1,0 +1,47 @@
+{
+  "asset": "Riverbank",
+  "mesh": "SM_Blender_Riverbank",
+  "source": "SourceAssets/Voxel/homestead_riverbank_v2.png",
+  "source_sha256": "df6e07c0256a9b820c129e2dcdd9dbcd7cb367521be926c46df900ee0cf0d6cf",
+  "parts": 663,
+  "vertices": 31080,
+  "triangles": 59508,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -1.125,
+      -0.5850000381469727,
+      0.0
+    ],
+    "max": [
+      1.125,
+      0.5850000381469727,
+      1.159999966621399
+    ]
+  },
+  "files": {
+    "Riverbank_BaseColor.png": {
+      "bytes": 30259,
+      "sha256": "48c181be568bc06b1a934383fc7245ecd98665bffd58f36ec1105c20e68210e4"
+    },
+    "Riverbank_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "Riverbank_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_Riverbank.fbx": {
+      "bytes": 792444,
+      "sha256": "79b352568ea03418d9254bfea54ed1983dd3c1616a4b443aa78a92def560695e"
+    },
+    "SM_Blender_Riverbank.glb": {
+      "bytes": 4563124,
+      "sha256": "ec3551ad03cf46b31c1fd0ce2c2476746131d840137467b0e8c166854e830334"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}

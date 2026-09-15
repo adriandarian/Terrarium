@@ -1,0 +1,20 @@
+{
+  "asset": "RiverBridge",
+  "variant_of": "RiverCrossing",
+  "actor": "Fidelity_PlankBridge_v4_001",
+  "mesh": "/Game/Terrarium/Blender/RiverBridge/SM_Blender_RiverBridge.SM_Blender_RiverBridge",
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "location_cm": [
+    894.2828554028314,
+    -1388.1969420616347,
+    146.16564564564564
+  ],
+  "scale": 2.1586186186186187,
+  "yaw": -4.0,
+  "camera": "Blender_RiverBridge_Review",
+  "deck_top_cm": 280.0,
+  "overall_span_cm": 718.82,
+  "pile_bottom_cm": -30.841097550034192,
+  "status": "placed_pending_collision_and_visual_check",
+  "stone_approach_status": "Canonical four-step source authored and exported; upper-terrace stair integration still pending."
+}

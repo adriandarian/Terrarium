@@ -1,0 +1,11 @@
+{
+  "asset": "RiverCrossing",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_RiverCrossing",
+  "parts": 1314,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 141912,
+  "sha256": "a21c90a3d50f8e47aa8d1a97865f647f0f71e8fa279826fab54e8768c0cf6f59",
+  "active_camera": "Reference camera.009"
+}
