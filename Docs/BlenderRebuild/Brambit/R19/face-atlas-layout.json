@@ -1,0 +1,55 @@
+{
+  "atlas_size": [
+    1024,
+    1024
+  ],
+  "regions": {
+    "5": {
+      "pixel_rect": [
+        16,
+        288,
+        496,
+        1008
+      ],
+      "uv_min": [
+        0.01953125,
+        0.28515625
+      ],
+      "uv_max": [
+        0.48046875,
+        0.98046875
+      ],
+      "world_xz_bounds_m": [
+        -0.31269583106040955,
+        0.11428243666887283,
+        0.23594719171524048,
+        0.5791641473770142
+      ],
+      "boundary_faces": 25
+    },
+    "4": {
+      "pixel_rect": [
+        528,
+        288,
+        1008,
+        1008
+      ],
+      "uv_min": [
+        0.51953125,
+        0.28515625
+      ],
+      "uv_max": [
+        0.98046875,
+        0.98046875
+      ],
+      "world_xz_bounds_m": [
+        -0.19349080324172974,
+        -0.004922583699226379,
+        0.2324599176645279,
+        0.30575981736183167
+      ],
+      "boundary_faces": 3
+    }
+  },
+  "method": "Two 480 by 720 pixel regions with four-pixel gutters use the face and belly local X/Z bounds. Other surfaces retain their original pigment cells."
+}

@@ -1,0 +1,199 @@
+{
+  "atlas_size": [
+    1024,
+    1024
+  ],
+  "regions": [
+    {
+      "region": "forehead pigment",
+      "palette_cell": 5,
+      "guide_pixel": [
+        700,
+        682
+      ],
+      "pigment_srgb_hex": "c8924c",
+      "painted_texels": 60,
+      "world_xz_bounds_m": [
+        -0.12863187491893768,
+        -0.06852936744689941,
+        0.5302119851112366,
+        0.5791641473770142
+      ],
+      "dedicated_painted_texels": 6834,
+      "center_uv": [
+        0.25067587025847393,
+        0.9308834224630854
+      ]
+    },
+    {
+      "region": "left cheek",
+      "palette_cell": 5,
+      "guide_pixel": [
+        553,
+        779
+      ],
+      "pigment_srgb_hex": "dfae6f",
+      "painted_texels": 100,
+      "world_xz_bounds_m": [
+        -0.31269583106040955,
+        -0.2525933086872101,
+        0.44176435470581055,
+        0.5162568092346191
+      ],
+      "dedicated_painted_texels": 10164,
+      "center_uv": [
+        0.051972604162738696,
+        0.7775707730843706
+      ]
+    },
+    {
+      "region": "upper face",
+      "palette_cell": 5,
+      "guide_pixel": [
+        650,
+        724
+      ],
+      "pigment_srgb_hex": "efbf83",
+      "painted_texels": 70,
+      "world_xz_bounds_m": [
+        -0.1912386566400528,
+        -0.12863187491893768,
+        0.49710172414779663,
+        0.5481822490692139
+      ],
+      "dedicated_painted_texels": 7314,
+      "center_uv": [
+        0.18444145358866493,
+        0.8659622716310148
+      ]
+    },
+    {
+      "region": "right cheek",
+      "palette_cell": 5,
+      "guide_pixel": [
+        847,
+        756
+      ],
+      "pigment_srgb_hex": "e3b173",
+      "painted_texels": 81,
+      "world_xz_bounds_m": [
+        0.05543206259608269,
+        0.11303029954433441,
+        0.38986140489578247,
+        0.46009713411331177
+      ],
+      "dedicated_painted_texels": 9344,
+      "center_uv": [
+        0.44802740186962686,
+        0.668110426417212
+      ]
+    },
+    {
+      "region": "lower left face",
+      "palette_cell": 5,
+      "guide_pixel": [
+        601,
+        884
+      ],
+      "pigment_srgb_hex": "d6a160",
+      "painted_texels": 72,
+      "world_xz_bounds_m": [
+        -0.2525933086872101,
+        -0.19249080121517181,
+        0.3296308219432831,
+        0.39135313034057617
+      ],
+      "dedicated_painted_texels": 8576,
+      "center_uv": [
+        0.11685530444506202,
+        0.5374676349509832
+      ]
+    },
+    {
+      "region": "lower ochre band",
+      "palette_cell": 5,
+      "guide_pixel": [
+        649,
+        927
+      ],
+      "pigment_srgb_hex": "ca924d",
+      "painted_texels": 93,
+      "world_xz_bounds_m": [
+        -0.19249080121517181,
+        -0.004670449532568455,
+        0.3079523742198944,
+        0.3324284553527832
+      ],
+      "dedicated_painted_texels": 10608,
+      "center_uv": [
+        0.2506758657341998,
+        0.45582196180517864
+      ]
+    },
+    {
+      "region": "upper belly band",
+      "palette_cell": 4,
+      "guide_pixel": [
+        649,
+        953
+      ],
+      "pigment_srgb_hex": "e3ba84",
+      "painted_texels": 93,
+      "world_xz_bounds_m": [
+        -0.19249080121517181,
+        -0.004670449532568455,
+        0.2781553864479065,
+        0.30475983023643494
+      ],
+      "dedicated_painted_texels": 121260,
+      "center_uv": [
+        0.7515303653180815,
+        0.8448000144348844
+      ]
+    },
+    {
+      "region": "lower belly block",
+      "palette_cell": 4,
+      "guide_pixel": [
+        649,
+        994
+      ],
+      "pigment_srgb_hex": "ce9d5c",
+      "painted_texels": 63,
+      "world_xz_bounds_m": [
+        -0.19249080121517181,
+        -0.06727723032236099,
+        0.23345991969108582,
+        0.2611285448074341
+      ],
+      "dedicated_painted_texels": 83884,
+      "center_uv": [
+        0.6750121347002481,
+        0.4258724638323623
+      ]
+    },
+    {
+      "region": "right belly block",
+      "palette_cell": 4,
+      "guide_pixel": [
+        749,
+        969
+      ],
+      "pigment_srgb_hex": "d8a364",
+      "painted_texels": 30,
+      "world_xz_bounds_m": [
+        -0.06727723032236099,
+        -0.0059225852601230145,
+        0.23476560413837433,
+        0.26030585169792175
+      ],
+      "dedicated_painted_texels": 37944,
+      "center_uv": [
+        0.9030364731874573,
+        0.4281632576529155
+      ]
+    }
+  ],
+  "method": "Authored flat pigment rectangles and nondirectional variation, rasterized directly into dedicated face and belly UV regions and the legacy pigment cells. No source pixel sampling or illumination bake.",
+  "limits": "Approximate painted region placement. Does not establish full concept fidelity."
+}

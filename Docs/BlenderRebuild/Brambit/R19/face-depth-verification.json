@@ -1,0 +1,291 @@
+{
+  "source_blend_sha256": "43ddfa4e65f8717ea7b26e693d8445dbc63950a33b41afd74c414030c64b019f",
+  "construction_planes": [
+    {
+      "object": "Front bark course",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.001",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.002",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.003",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.004",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.005",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.006",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.007",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.008",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.009",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.010",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.011",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.012",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.013",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.014",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.015",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.016",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Front bark course.017",
+      "front_plane_m": -0.2930000126361847,
+      "offset_from_tan_face_m": 0.0010000126361847106
+    },
+    {
+      "object": "Forehead brown peak",
+      "front_plane_m": -0.29330000281333923,
+      "offset_from_tan_face_m": 0.0013000028133392516
+    },
+    {
+      "object": "Tan belly step",
+      "front_plane_m": -0.2929999828338623,
+      "offset_from_tan_face_m": 0.000999982833862323
+    },
+    {
+      "object": "Tan belly step.001",
+      "front_plane_m": -0.2929999828338623,
+      "offset_from_tan_face_m": 0.000999982833862323
+    },
+    {
+      "object": "Tan belly step.002",
+      "front_plane_m": -0.2929999828338623,
+      "offset_from_tan_face_m": 0.000999982833862323
+    }
+  ],
+  "evaluated_surface_samples": [
+    {
+      "object": "Front bark course",
+      "probe_xz_m": [
+        -0.3439992070198059,
+        0.5672001242637634
+      ],
+      "surface_y_m": -0.29299986362457275,
+      "offset_from_tan_face_m": 0.0009998636245727721
+    },
+    {
+      "object": "Front bark course.001",
+      "probe_xz_m": [
+        -0.28389668464660645,
+        0.5670795440673828
+      ],
+      "surface_y_m": -0.29299986362457275,
+      "offset_from_tan_face_m": 0.0009998636245727721
+    },
+    {
+      "object": "Front bark course.002",
+      "probe_xz_m": [
+        -0.22254204750061035,
+        0.5930147767066956
+      ],
+      "surface_y_m": -0.2929999828338623,
+      "offset_from_tan_face_m": 0.000999982833862323
+    },
+    {
+      "object": "Front bark course.003",
+      "probe_xz_m": [
+        -0.16056133806705475,
+        0.5966023802757263
+      ],
+      "surface_y_m": -0.2933000326156616,
+      "offset_from_tan_face_m": 0.0013000326156616393
+    },
+    {
+      "object": "Front bark course.004",
+      "probe_xz_m": [
+        -0.09858062863349915,
+        0.601786196231842
+      ],
+      "surface_y_m": -0.2933000326156616,
+      "offset_from_tan_face_m": 0.0013000326156616393
+    },
+    {
+      "object": "Front bark course.005",
+      "probe_xz_m": [
+        -0.03659990429878235,
+        0.6003106236457825
+      ],
+      "surface_y_m": -0.29299986362457275,
+      "offset_from_tan_face_m": 0.0009998636245727721
+    },
+    {
+      "object": "Front bark course.006",
+      "probe_xz_m": [
+        0.026006873697042465,
+        0.5855329036712646
+      ],
+      "surface_y_m": -0.2929999828338623,
+      "offset_from_tan_face_m": 0.000999982833862323
+    },
+    {
+      "object": "Front bark course.007",
+      "probe_xz_m": [
+        0.08798758685588837,
+        0.5782044529914856
+      ],
+      "surface_y_m": -0.29299986362457275,
+      "offset_from_tan_face_m": 0.0009998636245727721
+    },
+    {
+      "object": "Front bark course.008",
+      "probe_xz_m": [
+        0.1468379646539688,
+        0.5296308398246765
+      ],
+      "surface_y_m": -0.2929999828338623,
+      "offset_from_tan_face_m": 0.000999982833862323
+    },
+    {
+      "object": "Front bark course.009",
+      "probe_xz_m": [
+        -0.3427470922470093,
+        0.46636107563972473
+      ],
+      "surface_y_m": -0.2929999828338623,
+      "offset_from_tan_face_m": 0.000999982833862323
+    },
+    {
+      "object": "Front bark course.010",
+      "probe_xz_m": [
+        -0.3427470922470093,
+        0.37111717462539673
+      ],
+      "surface_y_m": -0.29300010204315186,
+      "offset_from_tan_face_m": 0.0010001020431518737
+    },
+    {
+      "object": "Front bark course.012",
+      "probe_xz_m": [
+        -0.22254204750061035,
+        0.271633118391037
+      ],
+      "surface_y_m": -0.29300010204315186,
+      "offset_from_tan_face_m": 0.0010001020431518737
+    },
+    {
+      "object": "Front bark course.013",
+      "probe_xz_m": [
+        0.14308156073093414,
+        0.45625191926956177
+      ],
+      "surface_y_m": -0.29299986362457275,
+      "offset_from_tan_face_m": 0.0009998636245727721
+    },
+    {
+      "object": "Front bark course.015",
+      "probe_xz_m": [
+        0.08673545718193054,
+        0.3347655236721039
+      ],
+      "surface_y_m": -0.2929999828338623,
+      "offset_from_tan_face_m": 0.000999982833862323
+    },
+    {
+      "object": "Front bark course.017",
+      "probe_xz_m": [
+        0.026006873697042465,
+        0.26174861192703247
+      ],
+      "surface_y_m": -0.29300010204315186,
+      "offset_from_tan_face_m": 0.0010001020431518737
+    },
+    {
+      "object": "Forehead brown peak",
+      "probe_xz_m": [
+        -0.11132805049419403,
+        0.6460423469543457
+      ],
+      "surface_y_m": -0.2933000326156616,
+      "offset_from_tan_face_m": 0.0013000326156616393
+    },
+    {
+      "object": "Tan belly step",
+      "probe_xz_m": [
+        -0.14553570747375488,
+        0.2691098749637604
+      ],
+      "surface_y_m": -0.2929999828338623,
+      "offset_from_tan_face_m": 0.000999982833862323
+    },
+    {
+      "object": "Tan belly step.001",
+      "probe_xz_m": [
+        -0.052251603454351425,
+        0.2692910134792328
+      ],
+      "surface_y_m": -0.2929999828338623,
+      "offset_from_tan_face_m": 0.000999982833862323
+    },
+    {
+      "object": "Tan belly step.002",
+      "probe_xz_m": [
+        -0.22191596031188965,
+        0.32190731167793274
+      ],
+      "surface_y_m": -0.2929999828338623,
+      "offset_from_tan_face_m": 0.000999982833862323
+    }
+  ],
+  "maximum_sampled_offset_m": 0.0013000326156616393,
+  "method": "Compare the 22 authored front planes and ray-cast 19 unobstructed course centers against the evaluated joined body. Three bark centers behind projecting burrs are excluded from the ray test.",
+  "limits": "Measured front depths only. Does not establish reference color, seam layout, full surface continuity or concept fidelity."
+}

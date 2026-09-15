@@ -1,0 +1,50 @@
+{
+  "source_blend_sha256": "43ddfa4e65f8717ea7b26e693d8445dbc63950a33b41afd74c414030c64b019f",
+  "layout_sha256": "be4a9d4a4d6ead60254305c256048e036c1d64e143d12d1afe87cd0bb98a851a",
+  "uv_loops_checked": 149,
+  "maximum_uv_error": 2.7890146969689056e-08,
+  "regions": [
+    {
+      "pigment": 4,
+      "boundary_faces": 3,
+      "mapped_pixels": [
+        472,
+        712
+      ],
+      "texels_per_m_xz": [
+        2503.072899267689,
+        9713.519430998484
+      ],
+      "previous_texels_per_m_xz": [
+        162.8145831422127,
+        123.79149739787283
+      ],
+      "density_multiplier_xz": [
+        15.37376352265291,
+        78.46677385102376
+      ]
+    },
+    {
+      "pigment": 5,
+      "boundary_faces": 25,
+      "mapped_pixels": [
+        472,
+        712
+      ],
+      "texels_per_m_xz": [
+        1105.442678640644,
+        2074.4895852454533
+      ],
+      "previous_texels_per_m_xz": [
+        162.8145831422127,
+        123.79149739787283
+      ],
+      "density_multiplier_xz": [
+        6.789580253232473,
+        16.757932724393235
+      ]
+    }
+  ],
+  "method": "Read the saved polygon pigment attribute and verify each face/belly UV against its actual world-space surface position. Check every remaining UV remains in the original atlas rows.",
+  "limits": "UV allocation and geometric texel density. Appearance is evaluated separately from studio and Unreal renders; no overall fidelity claim."
+}

@@ -1,0 +1,29 @@
+{
+  "source_blend_sha256": "43ddfa4e65f8717ea7b26e693d8445dbc63950a33b41afd74c414030c64b019f",
+  "glb_sha256": "e2de537d2329b55d9d71ff393c40c859eee8e9c08510ad1520a7be39ee0edf42",
+  "embedded_images": [
+    {
+      "image": "Brambit_Emission",
+      "pixel_content_matches_source": true
+    },
+    {
+      "image": "Brambit_BaseColor",
+      "pixel_content_matches_source": true
+    },
+    {
+      "image": "Brambit_Roughness",
+      "pixel_content_matches_source": true
+    }
+  ],
+  "uv_regions": [
+    {
+      "pigment": 5,
+      "exported_vertices_in_region": 387
+    },
+    {
+      "pigment": 4,
+      "exported_vertices_in_region": 65
+    }
+  ],
+  "limits": "Saved source UV coverage, exported atlas presence and embedded image pixels. Does not establish overall visual fidelity."
+}

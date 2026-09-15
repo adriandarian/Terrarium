@@ -1,0 +1,194 @@
+{
+  "source_sha256": "cd2c0d5a73f115998cdfa9386b3f7e61a7430b708aa1d48457bddc1b1472ee25",
+  "source_blend_sha256": "43ddfa4e65f8717ea7b26e693d8445dbc63950a33b41afd74c414030c64b019f",
+  "previous_render_sha256": "c653771b43ae59c44463527d68137739bda79df74b439fdb2c570dd8bcb80aa6",
+  "render_sha256": "df9a3c619d2c80b50a3c5810d94789e9ae280f21bba3c6a727a52c55734eda0d",
+  "previous_revision": "r18_flush_face_courses",
+  "revision": "r19_dedicated_face_atlas",
+  "previous_outline_iou": 0.9607707855560307,
+  "current_outline_iou": 0.9607707855560307,
+  "sampled_rows": [
+    {
+      "y": 660,
+      "concept_span": [
+        271,
+        962
+      ],
+      "previous_span": [
+        280,
+        964
+      ],
+      "current_span": [
+        280,
+        964
+      ]
+    },
+    {
+      "y": 680,
+      "concept_span": [
+        281,
+        971
+      ],
+      "previous_span": [
+        280,
+        970
+      ],
+      "current_span": [
+        280,
+        970
+      ]
+    },
+    {
+      "y": 700,
+      "concept_span": [
+        256,
+        971
+      ],
+      "previous_span": [
+        255,
+        970
+      ],
+      "current_span": [
+        255,
+        970
+      ]
+    },
+    {
+      "y": 720,
+      "concept_span": [
+        256,
+        971
+      ],
+      "previous_span": [
+        255,
+        970
+      ],
+      "current_span": [
+        255,
+        970
+      ]
+    },
+    {
+      "y": 740,
+      "concept_span": [
+        256,
+        947
+      ],
+      "previous_span": [
+        255,
+        950
+      ],
+      "current_span": [
+        255,
+        950
+      ]
+    },
+    {
+      "y": 760,
+      "concept_span": [
+        273,
+        947
+      ],
+      "previous_span": [
+        279,
+        950
+      ],
+      "current_span": [
+        279,
+        950
+      ]
+    },
+    {
+      "y": 780,
+      "concept_span": [
+        280,
+        957
+      ],
+      "previous_span": [
+        280,
+        950
+      ],
+      "current_span": [
+        280,
+        950
+      ]
+    },
+    {
+      "y": 800,
+      "concept_span": [
+        282,
+        970
+      ],
+      "previous_span": [
+        281,
+        968
+      ],
+      "current_span": [
+        281,
+        968
+      ]
+    },
+    {
+      "y": 820,
+      "concept_span": [
+        283,
+        970
+      ],
+      "previous_span": [
+        281,
+        968
+      ],
+      "current_span": [
+        281,
+        968
+      ]
+    },
+    {
+      "y": 840,
+      "concept_span": [
+        283,
+        947
+      ],
+      "previous_span": [
+        282,
+        950
+      ],
+      "current_span": [
+        282,
+        950
+      ]
+    },
+    {
+      "y": 860,
+      "concept_span": [
+        283,
+        941
+      ],
+      "previous_span": [
+        282,
+        950
+      ],
+      "current_span": [
+        282,
+        950
+      ]
+    },
+    {
+      "y": 880,
+      "concept_span": [
+        297,
+        919
+      ],
+      "previous_span": [
+        288,
+        920
+      ],
+      "current_span": [
+        288,
+        920
+      ]
+    }
+  ],
+  "method": "Same fixed 1254-pixel reference camera; magenta chroma foreground versus rendered alpha above 127. No image registration.",
+  "limits": "Outline overlap and row extents only, not a fidelity score. Does not evaluate colors, internal block layout, depth or unseen anatomy."
+}

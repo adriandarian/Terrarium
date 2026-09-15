@@ -1,0 +1,318 @@
+{
+  "source_blend_sha256": "43ddfa4e65f8717ea7b26e693d8445dbc63950a33b41afd74c414030c64b019f",
+  "patches": [
+    {
+      "patch": "Broad side bark",
+      "side": -1,
+      "outward_face_samples": 7,
+      "minimum_relief_m": 0.0019998550415039062,
+      "maximum_relief_m": 0.0020002126693725586
+    },
+    {
+      "patch": "Broad side bark.001",
+      "side": -1,
+      "outward_face_samples": 7,
+      "minimum_relief_m": 0.0029999613761901855,
+      "maximum_relief_m": 0.003000199794769287
+    },
+    {
+      "patch": "Broad side bark.002",
+      "side": -1,
+      "outward_face_samples": 21,
+      "minimum_relief_m": 0.001999795436859131,
+      "maximum_relief_m": 0.002000153064727783
+    },
+    {
+      "patch": "Broad side bark.003",
+      "side": -1,
+      "outward_face_samples": 2,
+      "minimum_relief_m": 0.0029997825622558594,
+      "maximum_relief_m": 0.003000020980834961
+    },
+    {
+      "patch": "Broad side bark.004",
+      "side": -1,
+      "outward_face_samples": 2,
+      "minimum_relief_m": 0.0020000338554382324,
+      "maximum_relief_m": 0.0020000338554382324
+    },
+    {
+      "patch": "Broad side bark.005",
+      "side": -1,
+      "outward_face_samples": 3,
+      "minimum_relief_m": 0.0019999146461486816,
+      "maximum_relief_m": 0.002000153064727783
+    },
+    {
+      "patch": "Broad side bark.006",
+      "side": -1,
+      "outward_face_samples": 6,
+      "minimum_relief_m": 0.0019999146461486816,
+      "maximum_relief_m": 0.0020000338554382324
+    },
+    {
+      "patch": "Broad side bark.007",
+      "side": -1,
+      "outward_face_samples": 6,
+      "minimum_relief_m": 0.0029997825622558594,
+      "maximum_relief_m": 0.003000020980834961
+    },
+    {
+      "patch": "Broad side bark.008",
+      "side": -1,
+      "outward_face_samples": 18,
+      "minimum_relief_m": 0.001999795436859131,
+      "maximum_relief_m": 0.002000153064727783
+    },
+    {
+      "patch": "Broad side bark.009",
+      "side": -1,
+      "outward_face_samples": 6,
+      "minimum_relief_m": 0.0029999613761901855,
+      "maximum_relief_m": 0.0030001401901245117
+    },
+    {
+      "patch": "Broad side bark.010",
+      "side": -1,
+      "outward_face_samples": 6,
+      "minimum_relief_m": 0.0019998550415039062,
+      "maximum_relief_m": 0.002000153064727783
+    },
+    {
+      "patch": "Broad side bark.011",
+      "side": -1,
+      "outward_face_samples": 10,
+      "minimum_relief_m": 0.0029999613761901855,
+      "maximum_relief_m": 0.0030000805854797363
+    },
+    {
+      "patch": "Broad side bark.012",
+      "side": -1,
+      "outward_face_samples": 20,
+      "minimum_relief_m": 0.00199967622756958,
+      "maximum_relief_m": 0.002000153064727783
+    },
+    {
+      "patch": "Broad side bark.013",
+      "side": -1,
+      "outward_face_samples": 6,
+      "minimum_relief_m": 0.0019999444484710693,
+      "maximum_relief_m": 0.002000153064727783
+    },
+    {
+      "patch": "Broad side bark.014",
+      "side": -1,
+      "outward_face_samples": 28,
+      "minimum_relief_m": 0.001999795436859131,
+      "maximum_relief_m": 0.002000182867050171
+    },
+    {
+      "patch": "Broad side bark.015",
+      "side": 1,
+      "outward_face_samples": 7,
+      "minimum_relief_m": 0.0019997209310531616,
+      "maximum_relief_m": 0.0020001381635665894
+    },
+    {
+      "patch": "Broad side bark.016",
+      "side": 1,
+      "outward_face_samples": 7,
+      "minimum_relief_m": 0.0029999613761901855,
+      "maximum_relief_m": 0.0030002593994140625
+    },
+    {
+      "patch": "Broad side bark.017",
+      "side": 1,
+      "outward_face_samples": 21,
+      "minimum_relief_m": 0.001999780535697937,
+      "maximum_relief_m": 0.00200025737285614
+    },
+    {
+      "patch": "Broad side bark.018",
+      "side": 1,
+      "outward_face_samples": 2,
+      "minimum_relief_m": 0.0029999613761901855,
+      "maximum_relief_m": 0.0029999613761901855
+    },
+    {
+      "patch": "Broad side bark.019",
+      "side": 1,
+      "outward_face_samples": 2,
+      "minimum_relief_m": 0.001999959349632263,
+      "maximum_relief_m": 0.001999959349632263
+    },
+    {
+      "patch": "Broad side bark.020",
+      "side": 1,
+      "outward_face_samples": 3,
+      "minimum_relief_m": 0.0019998401403427124,
+      "maximum_relief_m": 0.002000078558921814
+    },
+    {
+      "patch": "Broad side bark.021",
+      "side": 1,
+      "outward_face_samples": 6,
+      "minimum_relief_m": 0.001999959349632263,
+      "maximum_relief_m": 0.002000078558921814
+    },
+    {
+      "patch": "Broad side bark.022",
+      "side": 1,
+      "outward_face_samples": 6,
+      "minimum_relief_m": 0.0029999613761901855,
+      "maximum_relief_m": 0.003000020980834961
+    },
+    {
+      "patch": "Broad side bark.023",
+      "side": 1,
+      "outward_face_samples": 18,
+      "minimum_relief_m": 0.0019997209310531616,
+      "maximum_relief_m": 0.002000078558921814
+    },
+    {
+      "patch": "Broad side bark.024",
+      "side": 1,
+      "outward_face_samples": 6,
+      "minimum_relief_m": 0.003000020980834961,
+      "maximum_relief_m": 0.0030000880360603333
+    },
+    {
+      "patch": "Broad side bark.025",
+      "side": 1,
+      "outward_face_samples": 6,
+      "minimum_relief_m": 0.0020000189542770386,
+      "maximum_relief_m": 0.002000093460083008
+    },
+    {
+      "patch": "Broad side bark.026",
+      "side": 1,
+      "outward_face_samples": 12,
+      "minimum_relief_m": 0.0029998496174812317,
+      "maximum_relief_m": 0.0030001401901245117
+    },
+    {
+      "patch": "Broad side bark.027",
+      "side": 1,
+      "outward_face_samples": 20,
+      "minimum_relief_m": 0.001999884843826294,
+      "maximum_relief_m": 0.0020001381635665894
+    },
+    {
+      "patch": "Broad side bark.028",
+      "side": 1,
+      "outward_face_samples": 6,
+      "minimum_relief_m": 0.001999884843826294,
+      "maximum_relief_m": 0.0020001232624053955
+    },
+    {
+      "patch": "Broad side bark.029",
+      "side": 1,
+      "outward_face_samples": 28,
+      "minimum_relief_m": 0.001999780535697937,
+      "maximum_relief_m": 0.0020001456141471863
+    },
+    {
+      "patch": "Broad back bark",
+      "side": 0,
+      "outward_face_samples": 80,
+      "minimum_relief_m": 0.0024997740983963013,
+      "maximum_relief_m": 0.00250031054019928
+    },
+    {
+      "patch": "Broad back bark.001",
+      "side": 0,
+      "outward_face_samples": 21,
+      "minimum_relief_m": 0.002499714493751526,
+      "maximum_relief_m": 0.002500191330909729
+    },
+    {
+      "patch": "Broad back bark.002",
+      "side": 0,
+      "outward_face_samples": 32,
+      "minimum_relief_m": 0.0024997293949127197,
+      "maximum_relief_m": 0.002500206232070923
+    },
+    {
+      "patch": "Broad back bark.003",
+      "side": 0,
+      "outward_face_samples": 45,
+      "minimum_relief_m": 0.0024997293949127197,
+      "maximum_relief_m": 0.0025001317262649536
+    },
+    {
+      "patch": "Broad back bark.004",
+      "side": 0,
+      "outward_face_samples": 8,
+      "minimum_relief_m": 0.0024998486042022705,
+      "maximum_relief_m": 0.002500087022781372
+    },
+    {
+      "patch": "Broad back bark.005",
+      "side": 0,
+      "outward_face_samples": 7,
+      "minimum_relief_m": 0.0024998337030410767,
+      "maximum_relief_m": 0.002500087022781372
+    },
+    {
+      "patch": "Broad back bark.006",
+      "side": 0,
+      "outward_face_samples": 1,
+      "minimum_relief_m": 0.0025000721216201782,
+      "maximum_relief_m": 0.0025000721216201782
+    },
+    {
+      "patch": "Broad back bark.007",
+      "side": 0,
+      "outward_face_samples": 20,
+      "minimum_relief_m": 0.002499714493751526,
+      "maximum_relief_m": 0.002500087022781372
+    },
+    {
+      "patch": "Broad back bark.008",
+      "side": 0,
+      "outward_face_samples": 88,
+      "minimum_relief_m": 0.0024997293949127197,
+      "maximum_relief_m": 0.002500087022781372
+    },
+    {
+      "patch": "Broad back bark.009",
+      "side": 0,
+      "outward_face_samples": 30,
+      "minimum_relief_m": 0.0024998337030410767,
+      "maximum_relief_m": 0.002500087022781372
+    },
+    {
+      "patch": "Broad back bark.010",
+      "side": 0,
+      "outward_face_samples": 28,
+      "minimum_relief_m": 0.0024998337030410767,
+      "maximum_relief_m": 0.002500087022781372
+    },
+    {
+      "patch": "Broad back bark.011",
+      "side": 0,
+      "outward_face_samples": 58,
+      "minimum_relief_m": 0.002499893307685852,
+      "maximum_relief_m": 0.0025002509355545044
+    },
+    {
+      "patch": "Broad back bark.012",
+      "side": 0,
+      "outward_face_samples": 5,
+      "minimum_relief_m": 0.0024999678134918213,
+      "maximum_relief_m": 0.002500176429748535
+    },
+    {
+      "patch": "Broad back bark.013",
+      "side": 0,
+      "outward_face_samples": 42,
+      "minimum_relief_m": 0.0024997293949127197,
+      "maximum_relief_m": 0.002500295639038086
+    }
+  ],
+  "samples": 763,
+  "maximum_relief_m": 0.0030002593994140625,
+  "line_faces_removed": 4,
+  "method": "Each outward patch face center is compared with the nearest ray hit on the four original closed body sections, without bevels.",
+  "limits": "Physical envelope conformity of 44 authored bark regions. Does not prove concept colors, visible boundary layout or final character fidelity."
+}
