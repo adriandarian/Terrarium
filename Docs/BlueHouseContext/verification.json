@@ -1,0 +1,16 @@
+{
+  "saved_reopened": true,
+  "outside_region_unchanged": true,
+  "underlying_terrain_unchanged": true,
+  "shed_transform_and_material_preserved": true,
+  "geometry": {
+    "SM_Shed_Context_Reference": {
+      "triangles": 10468,
+      "saved_normal_errors": 0
+    },
+    "SM_Shed_FlatStones": {
+      "triangles": 112,
+      "saved_normal_errors": 0
+    }
+  }
+}
