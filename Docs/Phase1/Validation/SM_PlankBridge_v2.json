@@ -1,0 +1,16 @@
+{
+  "asset": "/Game/Terrarium/Meshes/SM_PlankBridge_v2",
+  "triangles": 6028,
+  "vertices": 3288,
+  "closed_components": 137,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999994,
+  "saved_normal_errors": 0,
+  "refinement_pass": 2,
+  "visual_review": "passed: six Lumen-lit views; no missing faces or black-object artifacts",
+  "revises": "SM_PlankBridge",
+  "surface_material": "/Game/Terrarium/Materials/M_WeatheredDetails",
+  "surface_detail": "Original two-frequency base-color noise; no normal or displacement changes."
+}
