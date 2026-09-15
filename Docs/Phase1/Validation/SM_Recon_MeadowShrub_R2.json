@@ -1,0 +1,13 @@
+{
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MeadowShrub_R2",
+  "triangles": 81400,
+  "vertices": 44400,
+  "closed_components": 1850,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999996,
+  "saved_normal_errors": 0,
+  "refinement_pass": 1,
+  "visual_review": "pending"
+}

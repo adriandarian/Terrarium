@@ -1,0 +1,13 @@
+{
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Lantern",
+  "triangles": 9460,
+  "vertices": 5160,
+  "closed_components": 215,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999996,
+  "saved_normal_errors": 0,
+  "refinement_pass": 2,
+  "visual_review": "pending"
+}
