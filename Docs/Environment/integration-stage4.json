@@ -1,0 +1,7 @@
+{
+  "irregular_path_mesh": "/Game/Terrarium/Meshes/SM_PathTile_v4_Detail.SM_PathTile_v4_Detail",
+  "path_material": "/Game/Terrarium/Environment/Materials/M_ReferenceTrail.M_ReferenceTrail",
+  "prop_material": "/Game/Terrarium/Environment/Materials/M_ReferenceWeatheredProps.M_ReferenceWeatheredProps",
+  "trees_oriented_to_reference": 14,
+  "reason": "Reject hard rectangular ribbon from stage2; restore continuous irregular edge geometry."
+}

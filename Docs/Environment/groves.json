@@ -1,0 +1,194 @@
+{
+  "trees": [
+    {
+      "actor": "Reference_Grove_0",
+      "reference_ground_pixel": [
+        21.0,
+        25.0
+      ],
+      "ground_z_cm": 560.0,
+      "scale": 0.68
+    },
+    {
+      "actor": "Reference_Grove_2",
+      "reference_ground_pixel": [
+        153.0,
+        12.0
+      ],
+      "ground_z_cm": 560.0,
+      "scale": 0.62
+    },
+    {
+      "actor": "Reference_Grove_3",
+      "reference_ground_pixel": [
+        189.0,
+        40.54186013461003
+      ],
+      "ground_z_cm": 728.0,
+      "scale": 0.66
+    },
+    {
+      "actor": "Reference_Grove_4",
+      "reference_ground_pixel": [
+        244.0,
+        25.0
+      ],
+      "ground_z_cm": 880.0,
+      "scale": 0.58
+    },
+    {
+      "actor": "Reference_Grove_5",
+      "reference_ground_pixel": [
+        338.0,
+        20.0
+      ],
+      "ground_z_cm": 880.0,
+      "scale": 0.6
+    },
+    {
+      "actor": "Reference_Grove_6",
+      "reference_ground_pixel": [
+        378.0,
+        44.0
+      ],
+      "ground_z_cm": 880.0,
+      "scale": 0.64
+    },
+    {
+      "actor": "Reference_Grove_7",
+      "reference_ground_pixel": [
+        426.0,
+        32.0
+      ],
+      "ground_z_cm": 880.0,
+      "scale": 0.59
+    },
+    {
+      "actor": "Reference_Grove_8",
+      "reference_ground_pixel": [
+        479.0,
+        18.0
+      ],
+      "ground_z_cm": 880.0,
+      "scale": 0.8
+    },
+    {
+      "actor": "Reference_Grove_9",
+      "reference_ground_pixel": [
+        16.0,
+        153.0
+      ],
+      "ground_z_cm": 560.0,
+      "scale": 0.45
+    },
+    {
+      "actor": "Reference_Grove_10",
+      "reference_ground_pixel": [
+        201.99999999999997,
+        122.0
+      ],
+      "ground_z_cm": 880.0,
+      "scale": 0.42
+    },
+    {
+      "actor": "Reference_Grove_11",
+      "reference_ground_pixel": [
+        455.0,
+        209.8592418218736
+      ],
+      "ground_z_cm": 880.0,
+      "scale": 0.4
+    },
+    {
+      "actor": "Reference_Grove_12",
+      "reference_ground_pixel": [
+        20.0,
+        237.0
+      ],
+      "ground_z_cm": 560.0,
+      "scale": 0.46
+    },
+    {
+      "actor": "Reference_Grove_13",
+      "reference_ground_pixel": [
+        416.0,
+        451.0
+      ],
+      "ground_z_cm": 280.0,
+      "scale": 0.42
+    },
+    {
+      "actor": "Reference_Grove_14",
+      "reference_ground_pixel": [
+        454.0,
+        505.48482222570374
+      ],
+      "ground_z_cm": 144.0,
+      "scale": 0.5
+    },
+    {
+      "actor": "Reference_Grove_15",
+      "reference_ground_pixel": [
+        457.0,
+        650.0
+      ],
+      "ground_z_cm": 280.0,
+      "scale": 0.55
+    },
+    {
+      "actor": "Reference_Grove_16",
+      "reference_ground_pixel": [
+        408.0,
+        752.0
+      ],
+      "ground_z_cm": 280.0,
+      "scale": 0.58
+    },
+    {
+      "actor": "Reference_Grove_17",
+      "reference_ground_pixel": [
+        372.0,
+        792.0
+      ],
+      "ground_z_cm": 280.0,
+      "scale": 0.6
+    },
+    {
+      "actor": "Reference_Grove_18",
+      "reference_ground_pixel": [
+        337.0000000000001,
+        808.0
+      ],
+      "ground_z_cm": 280.0,
+      "scale": 0.49
+    },
+    {
+      "actor": "Reference_Grove_19",
+      "reference_ground_pixel": [
+        457.0,
+        796.0
+      ],
+      "ground_z_cm": 280.0,
+      "scale": 0.74
+    },
+    {
+      "actor": "Reference_Grove_20",
+      "reference_ground_pixel": [
+        63.99999999999997,
+        791.0
+      ],
+      "ground_z_cm": 280.0,
+      "scale": 0.5
+    },
+    {
+      "actor": "Reference_Grove_21",
+      "reference_ground_pixel": [
+        29.0,
+        741.0
+      ],
+      "ground_z_cm": 280.0,
+      "scale": 0.48
+    }
+  ],
+  "turf_material": "/Game/Terrarium/Environment/Materials/M_ReferenceTurf.M_ReferenceTurf"
+}

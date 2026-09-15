@@ -1,0 +1,128 @@
+[
+  {
+    "actor": "Reference_Bank_0",
+    "source": "rock",
+    "reference_pixel": [
+      38,
+      539
+    ],
+    "base_z_cm": -9
+  },
+  {
+    "actor": "Reference_Bank_1",
+    "source": "reeds",
+    "reference_pixel": [
+      59,
+      551
+    ],
+    "base_z_cm": -9
+  },
+  {
+    "actor": "Reference_Bank_2",
+    "source": "rock",
+    "reference_pixel": [
+      76,
+      570
+    ],
+    "base_z_cm": -9
+  },
+  {
+    "actor": "Reference_Bank_3",
+    "source": "reeds",
+    "reference_pixel": [
+      111,
+      580
+    ],
+    "base_z_cm": -9
+  },
+  {
+    "actor": "Reference_Bank_4",
+    "source": "rock",
+    "reference_pixel": [
+      146,
+      572
+    ],
+    "base_z_cm": -9
+  },
+  {
+    "actor": "Reference_Bank_5",
+    "source": "reeds",
+    "reference_pixel": [
+      175,
+      586
+    ],
+    "base_z_cm": -9
+  },
+  {
+    "actor": "Reference_Bank_6",
+    "source": "rock",
+    "reference_pixel": [
+      203,
+      601
+    ],
+    "base_z_cm": -9
+  },
+  {
+    "actor": "Reference_Bank_7",
+    "source": "reeds",
+    "reference_pixel": [
+      224,
+      629
+    ],
+    "base_z_cm": -9
+  },
+  {
+    "actor": "Reference_Bank_8",
+    "source": "rock",
+    "reference_pixel": [
+      118,
+      642
+    ],
+    "base_z_cm": -9
+  },
+  {
+    "actor": "Reference_Bank_9",
+    "source": "rock",
+    "reference_pixel": [
+      45,
+      620
+    ],
+    "base_z_cm": -9
+  },
+  {
+    "actor": "Reference_Bank_10",
+    "source": "reeds",
+    "reference_pixel": [
+      69,
+      623
+    ],
+    "base_z_cm": -9
+  },
+  {
+    "actor": "Reference_Bank_11",
+    "source": "rock",
+    "reference_pixel": [
+      413,
+      541
+    ],
+    "base_z_cm": -9
+  },
+  {
+    "actor": "Reference_Bank_12",
+    "source": "reeds",
+    "reference_pixel": [
+      430,
+      550
+    ],
+    "base_z_cm": -9
+  },
+  {
+    "actor": "Reference_Bank_13",
+    "source": "reeds",
+    "reference_pixel": [
+      399,
+      584
+    ],
+    "base_z_cm": -9
+  }
+]

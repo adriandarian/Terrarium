@@ -1,0 +1,8 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "level": "<Object '/Game/Terrarium/Maps/HomesteadReference.HomesteadReference:PersistentLevel' (0x000001DC7ECCB400) Class 'Level'>",
+  "dirty_maps": [],
+  "dirty_content": [
+    "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+  ]
+}

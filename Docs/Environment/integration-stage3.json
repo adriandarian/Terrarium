@@ -1,0 +1,32 @@
+[
+  {
+    "old": "SM_WaterTile_v4_Detail",
+    "mesh": "/Game/Terrarium/Meshes/SM_WaterTile_v4_Detail",
+    "material": "/Game/Terrarium/Environment/Materials/M_ReferenceFacetedWater.M_ReferenceFacetedWater",
+    "instances": 11
+  },
+  {
+    "old": "SM_WaterShallow_v4_Detail",
+    "mesh": "/Game/Terrarium/Meshes/SM_WaterShallow_v4_Detail",
+    "material": "/Game/Terrarium/Environment/Materials/M_ReferenceFacetedWater.M_ReferenceFacetedWater",
+    "instances": 166
+  },
+  {
+    "old": "SM_WaterDeep_v4_Detail",
+    "mesh": "/Game/Terrarium/Meshes/SM_WaterDeep_v4_Detail",
+    "material": "/Game/Terrarium/Environment/Materials/M_ReferenceFacetedWater.M_ReferenceFacetedWater",
+    "instances": 13
+  },
+  {
+    "old": "SM_WheatPatch_v2_Detail",
+    "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_WheatField_R3",
+    "material": "/Game/Terrarium/Environment/Materials/M_EnvironmentPigment.M_EnvironmentPigment",
+    "instances": 40
+  },
+  {
+    "old": "SM_Reeds_Detail",
+    "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Riverbank_R3",
+    "material": "/Game/Terrarium/Environment/Materials/M_EnvironmentPigment.M_EnvironmentPigment",
+    "instances": 28
+  }
+]

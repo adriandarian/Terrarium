@@ -1,0 +1,47 @@
+{
+  "cliffs": [
+    {
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_Cliff_A_R2.SM_Env_Cliff_A_R2",
+      "instances": 668
+    },
+    {
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_Cliff_B_R2.SM_Env_Cliff_B_R2",
+      "instances": 665
+    },
+    {
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_Cliff_C_R2.SM_Env_Cliff_C_R2",
+      "instances": 743
+    }
+  ],
+  "courtyard_grounding": [
+    {
+      "actor": "Reference_Cottage",
+      "ground_error_cm": 0.0
+    },
+    {
+      "actor": "Reference_BlueShed",
+      "ground_error_cm": 0.0
+    },
+    {
+      "actor": "Reference_Tower",
+      "ground_error_cm": 0.0
+    },
+    {
+      "actor": "Reference_Lantern",
+      "ground_error_cm": 0.0
+    },
+    {
+      "actor": "Reference_VegetableBed",
+      "ground_error_cm": 0.0
+    },
+    {
+      "actor": "Reference_FlowerBorder",
+      "ground_error_cm": 0.0
+    },
+    {
+      "actor": "Reference_Player",
+      "ground_error_cm": 0.0
+    }
+  ],
+  "camera_auto_activation": "<AutoReceiveInput.PLAYER0: 1>"
+}

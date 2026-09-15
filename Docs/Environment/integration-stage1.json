@@ -1,0 +1,49 @@
+{
+  "map": "/Game/Terrarium/Maps/HomesteadReference",
+  "prior_map": "/Game/Terrarium/Maps/HomesteadFidelity",
+  "changes": [
+    {
+      "old": "SM_CliffColumn_v6A_Detail",
+      "new": "/Game/Terrarium/Meshes/SM_VoxelCliffStepped_A",
+      "instances": 668,
+      "height_fit_factor": 1.0,
+      "foliage_type": "/Game/Terrarium/Environment/Foliage/FT_Env_CliffColumn_v6A_Detail.FT_Env_CliffColumn_v6A_Detail"
+    },
+    {
+      "old": "SM_CliffColumn_v6B_Detail",
+      "new": "/Game/Terrarium/Meshes/SM_VoxelCliffStepped_B",
+      "instances": 665,
+      "height_fit_factor": 1.0,
+      "foliage_type": "/Game/Terrarium/Environment/Foliage/FT_Env_CliffColumn_v6B_Detail.FT_Env_CliffColumn_v6B_Detail"
+    },
+    {
+      "old": "SM_CliffColumn_v6C_Detail",
+      "new": "/Game/Terrarium/Meshes/SM_VoxelCliffStepped_C",
+      "instances": 743,
+      "height_fit_factor": 1.0,
+      "foliage_type": "/Game/Terrarium/Environment/Foliage/FT_Env_CliffColumn_v6C_Detail.FT_Env_CliffColumn_v6C_Detail"
+    },
+    {
+      "old": "SM_Tree_v3_Detail",
+      "new": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_HomesteadTree_R3",
+      "instances": 14,
+      "height_fit_factor": 1.1205552683056554,
+      "foliage_type": "/Game/Terrarium/Environment/Foliage/FT_Env_Tree_v3_Detail.FT_Env_Tree_v3_Detail"
+    },
+    {
+      "old": "SM_Bush_v2_Detail",
+      "new": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MeadowShrub_R3",
+      "instances": 618,
+      "height_fit_factor": 1.0942618233577328,
+      "foliage_type": "/Game/Terrarium/Environment/Foliage/FT_Env_Bush_v2_Detail.FT_Env_Bush_v2_Detail"
+    },
+    {
+      "old": "SM_Traveler_v2_Detail",
+      "new": "SM_Recon_Player_R3",
+      "reference_feet_px": [
+        177,
+        394
+      ]
+    }
+  ]
+}

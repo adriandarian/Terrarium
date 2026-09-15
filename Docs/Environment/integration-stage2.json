@@ -1,0 +1,81 @@
+{
+  "props": [
+    {
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_Cottage.SM_Env_Cottage",
+      "scale": 1.06,
+      "yaw": 90,
+      "ground_cm": 564
+    },
+    {
+      "actor": "Reference_BlueShed",
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_BlueShed.SM_Env_BlueShed",
+      "scale": 1.2,
+      "yaw": 0,
+      "ground_cm": 564
+    },
+    {
+      "actor": "Reference_Tower",
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_Tower.SM_Env_Tower",
+      "scale": 1.0,
+      "yaw": 90,
+      "ground_cm": 564
+    },
+    {
+      "actor": "Reference_Lantern",
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_Lantern.SM_Env_Lantern",
+      "scale": 1.04,
+      "yaw": 0,
+      "ground_cm": 564
+    },
+    {
+      "actor": "Reference_VegetableBed",
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_VegetableBed.SM_Env_VegetableBed",
+      "scale": 1.12,
+      "yaw": 0,
+      "ground_cm": 564
+    },
+    {
+      "actor": "Reference_FlowerBorder",
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_FlowerBorder.SM_Env_FlowerBorder",
+      "scale": 1.0,
+      "yaw": 90,
+      "ground_cm": 564
+    }
+  ],
+  "foliage": [
+    {
+      "old": "SM_MeadowTile_v5_Detail2",
+      "new": "/Game/Terrarium/Environment/Meshes/SM_Env_MeadowTile.SM_Env_MeadowTile",
+      "instances": 5086,
+      "actors": 0
+    },
+    {
+      "old": "SM_MeadowTile_Edge_v6_Detail2",
+      "new": "/Game/Terrarium/Environment/Meshes/SM_Env_MeadowTile.SM_Env_MeadowTile",
+      "instances": 755,
+      "actors": 0
+    },
+    {
+      "old": "SM_PathTile_v4_Detail",
+      "new": "/Game/Terrarium/Environment/Meshes/SM_Env_PathTile.SM_Env_PathTile",
+      "instances": 61,
+      "actors": 23
+    },
+    {
+      "mesh": "SM_MeadowGrass_v2_Detail",
+      "before": 1398,
+      "after": 349
+    },
+    {
+      "mesh": "SM_GroundPlants_v2_Detail",
+      "before": 1249,
+      "after": 403
+    },
+    {
+      "mesh": "SM_MeadowFlowers_v2_Detail",
+      "before": 366,
+      "after": 102
+    }
+  ]
+}

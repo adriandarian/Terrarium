@@ -1,0 +1,22 @@
+[
+  {
+    "old": "SM_VoxelCliffStepped_A",
+    "new": "SM_Env_Cliff_A",
+    "instances": 668
+  },
+  {
+    "old": "SM_VoxelCliffStepped_B",
+    "new": "SM_Env_Cliff_B",
+    "instances": 665
+  },
+  {
+    "old": "SM_VoxelCliffStepped_C",
+    "new": "SM_Env_Cliff_C",
+    "instances": 743
+  },
+  {
+    "old": "SM_Recon_WheatField_R3",
+    "new": "SM_Env_WheatPatch",
+    "instances": 40
+  }
+]

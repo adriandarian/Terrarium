@@ -1,0 +1,266 @@
+{
+  "counts": {
+    "SM_Assembly_FencePost": 12,
+    "SM_Assembly_FenceRails": 10,
+    "SM_Bush_v2_Detail": 67,
+    "SM_CliffMoss_v1_Detail": 209,
+    "SM_Env_BlueShed": 1,
+    "SM_Env_Cliff_A_R2": 668,
+    "SM_Env_Cliff_B_R2": 665,
+    "SM_Env_Cliff_C_R2": 743,
+    "SM_Env_Cottage": 1,
+    "SM_Env_FlowerBorder": 1,
+    "SM_Env_Lantern": 1,
+    "SM_Env_MeadowTile": 5841,
+    "SM_Env_Tower": 1,
+    "SM_Env_VegetableBed": 1,
+    "SM_Env_WheatPatch": 40,
+    "SM_GroundPlants_v2_Detail": 498,
+    "SM_MeadowFlowers_v2_Detail": 136,
+    "SM_MeadowGrass_v2_Detail": 569,
+    "SM_PathTile_v4_Detail": 84,
+    "SM_PlankBridge_v4_Detail": 1,
+    "SM_Recon_HomesteadTree_R3": 14,
+    "SM_Recon_MeadowShrub_R3": 618,
+    "SM_Recon_MossRock_R3": 7,
+    "SM_Recon_Player_R3": 1,
+    "SM_Recon_Riverbank_R3": 35,
+    "SM_RiverStones_v2_Detail": 41,
+    "SM_RockCluster_Detail": 61,
+    "SM_Shed_FlatStones": 3,
+    "SM_ShoreOutcrop_Detail": 32,
+    "SM_ShoreOutcrop_v2_Detail": 8,
+    "SM_StoneStairs_v3_Detail": 1,
+    "SM_VoxelTree": 21,
+    "SM_WaterDeep_v4_Detail": 13,
+    "SM_WaterShallow_v4_Detail": 166,
+    "SM_WaterTile_v4_Detail": 11
+  },
+  "contacts": [
+    {
+      "actor": "Reference_BlueShed",
+      "minimum_z_cm": 560.0,
+      "terrain_z_cm": 560,
+      "error_cm": 0.0
+    },
+    {
+      "actor": "Reference_Cottage",
+      "minimum_z_cm": 560.0,
+      "terrain_z_cm": 560,
+      "error_cm": 0.0
+    },
+    {
+      "actor": "Reference_FlowerBorder",
+      "minimum_z_cm": 560.0,
+      "terrain_z_cm": 560,
+      "error_cm": 0.0
+    },
+    {
+      "actor": "Reference_Lantern",
+      "minimum_z_cm": 560.0,
+      "terrain_z_cm": 560,
+      "error_cm": 0.0
+    },
+    {
+      "actor": "Reference_Player",
+      "minimum_z_cm": 560.0,
+      "terrain_z_cm": 560,
+      "error_cm": 0.0
+    },
+    {
+      "actor": "Reference_Tower",
+      "minimum_z_cm": 560.0,
+      "terrain_z_cm": 560,
+      "error_cm": 0.0
+    },
+    {
+      "actor": "Reference_VegetableBed",
+      "minimum_z_cm": 560.0,
+      "terrain_z_cm": 560,
+      "error_cm": 0.0
+    }
+  ],
+  "landmarks": [
+    {
+      "actor": "Reference_BlueShed",
+      "reference_pixel": [
+        132.00000000000006,
+        352.02851895445315
+      ],
+      "position_cm": [
+        529.3526233870311,
+        314.57931995911304,
+        560.0
+      ],
+      "scale": [
+        1.2,
+        1.2,
+        1.2
+      ],
+      "yaw": 0.0
+    },
+    {
+      "actor": "Reference_Cottage",
+      "reference_pixel": [
+        260.0,
+        309.02851895445315
+      ],
+      "position_cm": [
+        -204.95055056829824,
+        53.27614600378365,
+        560.0
+      ],
+      "scale": [
+        1.06,
+        1.06,
+        1.06
+      ],
+      "yaw": 89.99999999999999
+    },
+    {
+      "actor": "Reference_FlowerBorder",
+      "reference_pixel": [
+        383.0,
+        353.28564869306643
+      ],
+      "position_cm": [
+        -439.8940744786246,
+        -668.4958050312886,
+        560.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "yaw": 89.99999999999999
+    },
+    {
+      "actor": "Reference_Lantern",
+      "reference_pixel": [
+        273.0,
+        370.02851895445315
+      ],
+      "position_cm": [
+        79.99131457686372,
+        -332.7819888510544,
+        560.0
+      ],
+      "scale": [
+        1.04,
+        1.04,
+        1.04
+      ],
+      "yaw": 0.0
+    },
+    {
+      "actor": "Reference_Player",
+      "reference_pixel": [
+        177.0,
+        394.0
+      ],
+      "position_cm": [
+        585.1868407938683,
+        -91.27275413506493,
+        560.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "yaw": 59.99999999999999
+    },
+    {
+      "actor": "Reference_Tower",
+      "reference_pixel": [
+        351.0,
+        348.02851895445315
+      ],
+      "position_cm": [
+        -344.3574945521653,
+        -515.1307979800832,
+        560.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "yaw": 89.99999999999999
+    },
+    {
+      "actor": "Reference_VegetableBed",
+      "reference_pixel": [
+        306.0,
+        374.28564869306643
+      ],
+      "position_cm": [
+        -24.93435264612168,
+        -484.53608319878583,
+        560.0
+      ],
+      "scale": [
+        1.12,
+        1.12,
+        1.12
+      ],
+      "yaw": 0.0
+    }
+  ],
+  "camera": {
+    "position": [
+      3250.0,
+      -3250.000000000001,
+      4596.194077712559
+    ],
+    "yaw": 135,
+    "pitch": -45,
+    "orthographic_width_cm": 2645.5,
+    "aspect_ratio": 0.5945611596107483,
+    "auto_activate": "<AutoReceiveInput.PLAYER0: 1>"
+  },
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "map": "/Game/Terrarium/Maps/HomesteadReference",
+  "saved_and_reopened_identically": true,
+  "material_bindings_verified": true,
+  "ground_contact_tolerance_cm": 0.02,
+  "source_image": "C:/Users/hello/.codex/attachments/1ccf9c86-0559-4bb2-8197-f3f4da9c0f7f/image-1.png",
+  "visual_acceptance": "Feature and relative-layout audit passed; main inspected full Lit scene and courtyard/crossing close-ups. Artistic fidelity is approximate.",
+  "gameplay_collision_animation_tested": false,
+  "verified_utc": "2026-09-13T03:21:45.828436+00:00",
+  "captures": {
+    "assembled": {
+      "file": "assembled.png",
+      "dimensions": [
+        962,
+        1618
+      ],
+      "sha256": "5606af5f76033633f9fdf457318a9c3d53a50376467cfd8eb4fffc7dfbc99835"
+    },
+    "courtyard": {
+      "file": "courtyard.png",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "be9abbcf5cc34b7c6c4a4c94f049066a425b964cb712c5e116e475d236f69125"
+    },
+    "crossing": {
+      "file": "crossing.png",
+      "dimensions": [
+        1500,
+        1000
+      ],
+      "sha256": "64e252f3607ac38be6292aa86ab03379991983960ee7b855f8f6dc890e79d324"
+    }
+  },
+  "source_sha256": "0dba294c835e74305d56f89026b7af7400e042482736f93b6b7ddf5de8666215",
+  "startup_and_default_map_verified": true,
+  "exact_artistic_parity": false,
+  "remaining_visual_differences": [
+    "Cleaner cottage surfaces and more regular roof courses",
+    "Some banded cliff column silhouettes remain",
+    "Foliage and water pattern distribution differs from the source"
+  ]
+}
