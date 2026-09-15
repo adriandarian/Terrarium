@@ -1,0 +1,22 @@
+[
+  {
+    "asset": "DeepDelverMark",
+    "mean_linear_error": 0.001181299186000432,
+    "max_linear_error": 0.007760931970582141
+  },
+  {
+    "asset": "EmberCrest",
+    "mean_linear_error": 0.0013343893949223432,
+    "max_linear_error": 0.009594300333117145
+  },
+  {
+    "asset": "MossTonic",
+    "mean_linear_error": 0.0017683704520754327,
+    "max_linear_error": 0.009550603374266387
+  },
+  {
+    "asset": "TrailPrism",
+    "mean_linear_error": 0.0027426778277397194,
+    "max_linear_error": 0.009724713266800133
+  }
+]

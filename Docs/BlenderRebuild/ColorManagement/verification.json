@@ -1,0 +1,86 @@
+{
+  "assets": [
+    {
+      "asset": "DeepDelverMark",
+      "positions_normals_indices_byte_identical": true,
+      "max_uv_coordinate_roundoff": 5.960464477539063e-08,
+      "glb_material_factors_preserved": true,
+      "saved_blend_reopened": true,
+      "map_reload_verified": true,
+      "camera_pair_identical": true,
+      "colors": {
+        "before": {
+          "mean_linear_channel_error": 0.2074152651499538,
+          "max_linear_channel_error": 0.2900146936449704
+        },
+        "after": {
+          "mean_linear_channel_error": 0.001181299186000432,
+          "max_linear_channel_error": 0.007760931970582141
+        }
+      },
+      "fidelity_accepted": false
+    },
+    {
+      "asset": "EmberCrest",
+      "positions_normals_indices_byte_identical": true,
+      "max_uv_coordinate_roundoff": 5.960464477539063e-08,
+      "glb_material_factors_preserved": true,
+      "saved_blend_reopened": true,
+      "map_reload_verified": true,
+      "camera_pair_identical": true,
+      "colors": {
+        "before": {
+          "mean_linear_channel_error": 0.137756989719897,
+          "max_linear_channel_error": 0.2981851861281951
+        },
+        "after": {
+          "mean_linear_channel_error": 0.0013343893949223432,
+          "max_linear_channel_error": 0.009594300333117145
+        }
+      },
+      "fidelity_accepted": false
+    },
+    {
+      "asset": "MossTonic",
+      "positions_normals_indices_byte_identical": true,
+      "max_uv_coordinate_roundoff": 5.960464477539063e-08,
+      "glb_material_factors_preserved": true,
+      "saved_blend_reopened": true,
+      "map_reload_verified": true,
+      "camera_pair_identical": true,
+      "colors": {
+        "before": {
+          "mean_linear_channel_error": 0.2315512367980698,
+          "max_linear_channel_error": 0.29864072187490814
+        },
+        "after": {
+          "mean_linear_channel_error": 0.0017683704520754327,
+          "max_linear_channel_error": 0.009550603374266387
+        }
+      },
+      "fidelity_accepted": false
+    },
+    {
+      "asset": "TrailPrism",
+      "positions_normals_indices_byte_identical": true,
+      "max_uv_coordinate_roundoff": 1.1920928955078125e-07,
+      "glb_material_factors_preserved": true,
+      "saved_blend_reopened": true,
+      "map_reload_verified": true,
+      "camera_pair_identical": true,
+      "colors": {
+        "before": {
+          "mean_linear_channel_error": 0.20812704491589964,
+          "max_linear_channel_error": 0.2940449919019415
+        },
+        "after": {
+          "mean_linear_channel_error": 0.0027426778277397194,
+          "max_linear_channel_error": 0.009724713266800133
+        }
+      },
+      "fidelity_accepted": false
+    }
+  ],
+  "measurement": "32 palette-cell centers per atlas through a transient texture-sampling material into an RGBA32F target, read without normalization; compared with sRGB-decoded source PNG pixels. Production shaders are not modified by the probe.",
+  "limits": "Residual differences include texture compression and filtering. This validates these four import paths, not every Unreal PNG16 texture. Geometry preservation and color correctness do not establish concept fidelity."
+}

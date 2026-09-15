@@ -1,0 +1,42 @@
+{
+  "Baseline_WarmSun": {
+    "intensity": 22500.0
+  },
+  "Baseline_FixedExposure_EV12": {
+    "auto_exposure_method": "<AutoExposureMethod.AEM_MANUAL: 2>",
+    "auto_exposure_apply_physical_camera_exposure": "False",
+    "auto_exposure_bias": "-12.0",
+    "auto_exposure_min_brightness": "0.029999999329447746",
+    "auto_exposure_max_brightness": "8.0"
+  },
+  "capture_args": {
+    "captureTransform": {
+      "location": {
+        "x": 822.4094567559205,
+        "y": 503.75613135534616,
+        "z": 1309.2
+      },
+      "rotation": {
+        "pitch": -25.37026971293939,
+        "yaw": -155.77225468204585,
+        "roll": -5.170170427459454e-07
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "annotations": {
+      "gridSpacing": 0,
+      "gridExtent": 0,
+      "gridHeight": 0,
+      "maxLabelDistance": 0,
+      "classFilter": {
+        "refPath": "/Script/Engine.Actor"
+      },
+      "maxLabels": 0
+    },
+    "bShowUI": false
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "confirmed_and_corrected_assets": [
+    "Grove",
+    "DeepDelverMark",
+    "EmberCrest",
+    "MossTonic",
+    "TrailPrism"
+  ],
+  "scope": "Current top-level Blender atlases; archived revisions excluded. Historical PNG16 corrections are listed separately from additional verified PNG8 assets.",
+  "assets": [
+    {
+      "asset": "AncientTree",
+      "basecolor": "SourceAssets\\Blender\\AncientTree\\AncientTree_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "BridgeThreshold",
+      "basecolor": "SourceAssets\\Blender\\BridgeThreshold\\BridgeThreshold_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "CivicHall",
+      "basecolor": "SourceAssets\\Blender\\CivicHall\\CivicHall_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "CliffColumn",
+      "basecolor": "SourceAssets\\Blender\\CliffColumn\\CliffColumn_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "CliffFace",
+      "basecolor": "SourceAssets\\Blender\\CliffFace\\CliffFace_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "Cottage",
+      "basecolor": "SourceAssets\\Blender\\Cottage\\Cottage_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "DeepDelverMark",
+      "basecolor": "SourceAssets\\Blender\\DeepDelverMark\\DeepDelverMark_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "Ember",
+      "basecolor": "SourceAssets/Blender/Ember/Ember_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "EmberCrest",
+      "basecolor": "SourceAssets\\Blender\\EmberCrest\\EmberCrest_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "GrassTerrain",
+      "basecolor": "SourceAssets\\Blender\\GrassTerrain\\GrassTerrain_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "Grove",
+      "basecolor": "SourceAssets\\Blender\\Grove\\Grove_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "HomesteadTree",
+      "basecolor": "SourceAssets\\Blender\\HomesteadTree\\HomesteadTree_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "Lantern",
+      "basecolor": "SourceAssets\\Blender\\Lantern\\Lantern_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "Lodge",
+      "basecolor": "SourceAssets\\Blender\\Lodge\\Lodge_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "MarketStall",
+      "basecolor": "SourceAssets\\Blender\\MarketStall\\MarketStall_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "MeadowShrub",
+      "basecolor": "SourceAssets\\Blender\\MeadowShrub\\MeadowShrub_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "MossCap",
+      "basecolor": "SourceAssets\\Blender\\MossCap\\MossCap_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "MossFringe",
+      "basecolor": "SourceAssets\\Blender\\MossFringe\\MossFringe_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "MossRock",
+      "basecolor": "SourceAssets\\Blender\\MossRock\\MossRock_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "MossTonic",
+      "basecolor": "SourceAssets\\Blender\\MossTonic\\MossTonic_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "RiverBridge",
+      "basecolor": "SourceAssets\\Blender\\RiverBridge\\RiverBridge_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "RiverCrossing",
+      "basecolor": "SourceAssets\\Blender\\RiverCrossing\\RiverCrossing_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "Riverbank",
+      "basecolor": "SourceAssets\\Blender\\Riverbank\\Riverbank_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "Sign",
+      "basecolor": "SourceAssets\\Blender\\Sign\\Sign_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "StoneStairs",
+      "basecolor": "SourceAssets\\Blender\\StoneStairs\\StoneStairs_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "Tide",
+      "basecolor": "SourceAssets/Blender/Tide/Tide_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "TrailPatch",
+      "basecolor": "SourceAssets\\Blender\\TrailPatch\\TrailPatch_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "TrailPrism",
+      "basecolor": "SourceAssets\\Blender\\TrailPrism\\TrailPrism_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "TrailTerrain",
+      "basecolor": "SourceAssets\\Blender\\TrailTerrain\\TrailTerrain_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "WheatField",
+      "basecolor": "SourceAssets\\Blender\\WheatField\\WheatField_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    },
+    {
+      "asset": "WheatPatch",
+      "basecolor": "SourceAssets\\Blender\\WheatPatch\\WheatPatch_BaseColor.png",
+      "bit_depth": 8,
+      "needs_shader_sampling_check": false
+    }
+  ],
+  "additional_verified_png8_assets": [
+    "Ember",
+    "Tide"
+  ]
+}
