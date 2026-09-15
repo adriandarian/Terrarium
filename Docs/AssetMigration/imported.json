@@ -1,0 +1,541 @@
+[
+  {
+    "source": "brambit.png",
+    "texture": "/Game/Terrarium/Migration/References/T_brambit",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_brambit",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "civic_hall.png",
+    "texture": "/Game/Terrarium/Migration/References/T_civic_hall",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_civic_hall",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "cottage.png",
+    "texture": "/Game/Terrarium/Migration/References/T_cottage",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_cottage",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "cottage_plaster_v5.png",
+    "texture": "/Game/Terrarium/Migration/References/T_cottage_plaster_v5",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_cottage_plaster_v5",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_cottage_plaster_v5",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "cottage_roof_tile_v5.png",
+    "texture": "/Game/Terrarium/Migration/References/T_cottage_roof_tile_v5",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_cottage_roof_tile_v5",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_cottage_roof_tile_v5",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "cottage_roof_tile_v6_candidate.png",
+    "texture": "/Game/Terrarium/Migration/References/T_cottage_roof_tile_v6_candidate",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_cottage_roof_tile_v6_candidate",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_cottage_roof_tile_v6_candidate",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "deep_delver_mark.png",
+    "texture": "/Game/Terrarium/Migration/References/T_deep_delver_mark",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_deep_delver_mark",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "ember.png",
+    "texture": "/Game/Terrarium/Migration/References/T_ember",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_ember",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "ember_crest.png",
+    "texture": "/Game/Terrarium/Migration/References/T_ember_crest",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_ember_crest",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "grove.png",
+    "texture": "/Game/Terrarium/Migration/References/T_grove",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_grove",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "homestead_compound.png",
+    "texture": "/Game/Terrarium/Migration/References/T_homestead_compound",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_homestead_compound",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "homestead_riverbank_v2.png",
+    "texture": "/Game/Terrarium/Migration/References/T_homestead_riverbank_v2",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_homestead_riverbank_v2",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "homestead_tree_v2.png",
+    "texture": "/Game/Terrarium/Migration/References/T_homestead_tree_v2",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_homestead_tree_v2",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "kindlehorn.png",
+    "texture": "/Game/Terrarium/Migration/References/T_kindlehorn",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_kindlehorn",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "lantern.png",
+    "texture": "/Game/Terrarium/Migration/References/T_lantern",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_lantern",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "lodge.png",
+    "texture": "/Game/Terrarium/Migration/References/T_lodge",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_lodge",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "lodge_contact_shadow_v3.png",
+    "texture": "/Game/Terrarium/Migration/References/T_lodge_contact_shadow_v3",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_lodge_contact_shadow_v3",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "market_stall.png",
+    "texture": "/Game/Terrarium/Migration/References/T_market_stall",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_market_stall",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "meadow_shrub.png",
+    "texture": "/Game/Terrarium/Migration/References/T_meadow_shrub",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_meadow_shrub",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "moss_tonic.png",
+    "texture": "/Game/Terrarium/Migration/References/T_moss_tonic",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_moss_tonic",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "player_animation_atlas.png",
+    "texture": "/Game/Terrarium/Migration/References/T_player_animation_atlas",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_player_animation_atlas",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "player_back.png",
+    "texture": "/Game/Terrarium/Migration/References/T_player_back",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_player_back",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "player_back_animation_atlas.png",
+    "texture": "/Game/Terrarium/Migration/References/T_player_back_animation_atlas",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_player_back_animation_atlas",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "player_front.png",
+    "texture": "/Game/Terrarium/Migration/References/T_player_front",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_player_front",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "ranger_sela.png",
+    "texture": "/Game/Terrarium/Migration/References/T_ranger_sela",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_ranger_sela",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "ranger_sela_animation_atlas.png",
+    "texture": "/Game/Terrarium/Migration/References/T_ranger_sela_animation_atlas",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_ranger_sela_animation_atlas",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "rillip.png",
+    "texture": "/Game/Terrarium/Migration/References/T_rillip",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_rillip",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "river_crossing.png",
+    "texture": "/Game/Terrarium/Migration/References/T_river_crossing",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_river_crossing",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "rock.png",
+    "texture": "/Game/Terrarium/Migration/References/T_rock",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_rock",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "sign.png",
+    "texture": "/Game/Terrarium/Migration/References/T_sign",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_sign",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "storm.png",
+    "texture": "/Game/Terrarium/Migration/References/T_storm",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_storm",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "terrain_cliff_3d.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_cliff_3d",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_3d",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_3d",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_cliff_face_v2.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_cliff_face_v2",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v2",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v2",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_cliff_face_v4.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_cliff_face_v4",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v4",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v4",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_cliff_face_v5.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_cliff_face_v5",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v5",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v5",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_cliff_face_v6.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_cliff_face_v6",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v6",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v6",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_cliff_face_v7.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_cliff_face_v7",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v7",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v7",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_cliff_face_v8_candidate.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_cliff_face_v8_candidate",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v8_candidate",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v8_candidate",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_cliff_face_v9_candidate.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_cliff_face_v9_candidate",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v9_candidate",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v9_candidate",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_foliage_v4.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_foliage_v4",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_foliage_v4",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_foliage_v4",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_foliage_v5.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_foliage_v5",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_foliage_v5",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_foliage_v5",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_foliage_v6.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_foliage_v6",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_foliage_v6",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_foliage_v6",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_foliage_v7_candidate.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_foliage_v7_candidate",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_foliage_v7_candidate",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_foliage_v7_candidate",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_grass.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_grass",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_grass_3d.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_grass_3d",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_3d",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_3d",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_grass_top_v2.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_grass_top_v2",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v2",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v2",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_grass_top_v3.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_grass_top_v3",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v3",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v3",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_grass_top_v4.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_grass_top_v4",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v4",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v4",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_grass_top_v5.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_grass_top_v5",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v5",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v5",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_grass_top_v6.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_grass_top_v6",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v6",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v6",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_grass_top_v7.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_grass_top_v7",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v7",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v7",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_grass_top_v8.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_grass_top_v8",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v8",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v8",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_grass_top_v9.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_grass_top_v9",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v9",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v9",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_moss_cap_v1.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_moss_cap_v1",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_moss_cap_v1",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_moss_cap_v1",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_stair_paver_v1.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_stair_paver_v1",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_stair_paver_v1",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_stair_paver_v1",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_stair_paver_v2_candidate.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_stair_paver_v2_candidate",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_stair_paver_v2_candidate",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_stair_paver_v2_candidate",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_trail_3d.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_trail_3d",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_3d",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_3d",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_trail_top_v10_candidate.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_trail_top_v10_candidate",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v10_candidate",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v10_candidate",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_trail_top_v11_candidate.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_trail_top_v11_candidate",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v11_candidate",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v11_candidate",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_trail_top_v5.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_trail_top_v5",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v5",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v5",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_trail_top_v6.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_trail_top_v6",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v6",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v6",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_trail_top_v7.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_trail_top_v7",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v7",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v7",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_trail_top_v8.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_trail_top_v8",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v8",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v8",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_trail_top_v9_candidate.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_trail_top_v9_candidate",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v9_candidate",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v9_candidate",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_water.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_water",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_water_3d.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_water_3d",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_3d",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_3d",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_water_v4.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_water_v4",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_v4",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v4",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_water_v5.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_water_v5",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_v5",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v5",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_water_v6.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_water_v6",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_v6",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v6",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_water_v7.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_water_v7",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_v7",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v7",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_water_v8.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_water_v8",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_v8",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v8",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_water_v9.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_water_v9",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_v9",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v9",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "terrain_wood_3d.png",
+    "texture": "/Game/Terrarium/Migration/References/T_terrain_wood_3d",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_wood_3d",
+    "surface_material": "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_wood_3d",
+    "material_status": "source-color study; baked source lighting; no authored normal/ORM maps"
+  },
+  {
+    "source": "tide.png",
+    "texture": "/Game/Terrarium/Migration/References/T_tide",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_tide",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "trail_prism.png",
+    "texture": "/Game/Terrarium/Migration/References/T_trail_prism",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_trail_prism",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "tree.png",
+    "texture": "/Game/Terrarium/Migration/References/T_tree",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_tree",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  },
+  {
+    "source": "wheat_field.png",
+    "texture": "/Game/Terrarium/Migration/References/T_wheat_field",
+    "reference_material": "/Game/Terrarium/Migration/Materials/MI_Reference_wheat_field",
+    "surface_material": null,
+    "material_status": "original 2D reference only"
+  }
+]

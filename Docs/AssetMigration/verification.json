@@ -1,0 +1,96 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "textures": 77,
+  "surface_materials": 45,
+  "models": [
+    {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_Lodge",
+      "triangles": 22236,
+      "saved_normal_errors": 0
+    },
+    {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_CivicHall",
+      "triangles": 45560,
+      "saved_normal_errors": 0
+    },
+    {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_MarketStall",
+      "triangles": 10560,
+      "saved_normal_errors": 0
+    },
+    {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_Sign",
+      "triangles": 1364,
+      "saved_normal_errors": 0
+    },
+    {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_Lantern",
+      "triangles": 1672,
+      "saved_normal_errors": 0
+    },
+    {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Brambit",
+      "triangles": 1716,
+      "saved_normal_errors": 0
+    },
+    {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Kindlehorn",
+      "triangles": 1640,
+      "saved_normal_errors": 0
+    },
+    {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Rillip",
+      "triangles": 1672,
+      "saved_normal_errors": 0
+    },
+    {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_PlayerExplorer",
+      "triangles": 3080,
+      "saved_normal_errors": 0
+    },
+    {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_RangerSela",
+      "triangles": 2904,
+      "saved_normal_errors": 0
+    },
+    {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_MossTonic",
+      "triangles": 792,
+      "saved_normal_errors": 0
+    },
+    {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_TrailPrism",
+      "triangles": 844,
+      "saved_normal_errors": 0
+    }
+  ],
+  "maps": [
+    {
+      "map": "/Game/Terrarium/Migration/Maps/Architecture",
+      "entries": 5,
+      "reopened_exact_references": true
+    },
+    {
+      "map": "/Game/Terrarium/Migration/Maps/Characters",
+      "entries": 7,
+      "reopened_exact_references": true
+    },
+    {
+      "map": "/Game/Terrarium/Migration/Maps/Environment",
+      "entries": 16,
+      "reopened_exact_references": true
+    },
+    {
+      "map": "/Game/Terrarium/Migration/Maps/References",
+      "entries": 77,
+      "reopened_exact_references": true
+    },
+    {
+      "map": "/Game/Terrarium/Migration/Maps/Surfaces",
+      "entries": 45,
+      "reopened_exact_references": true
+    }
+  ],
+  "visual_evidence": "Unreal asset thumbnails and isolated front base-color captures; final Lit material acceptance remains pending.",
+  "gameplay_collision_rigs_animations_pbr_sets": "not implemented"
+}

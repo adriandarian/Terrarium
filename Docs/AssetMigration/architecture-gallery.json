@@ -1,0 +1,32 @@
+{
+  "map": "/Game/Terrarium/Migration/Maps/Architecture",
+  "count": 5,
+  "saved_and_reopened": true,
+  "records": [
+    {
+      "label": "SM_Migration_Lodge",
+      "mesh": "/Game/Terrarium/Migration/Meshes/SM_Migration_Lodge",
+      "material_override": null
+    },
+    {
+      "label": "SM_Migration_CivicHall",
+      "mesh": "/Game/Terrarium/Migration/Meshes/SM_Migration_CivicHall",
+      "material_override": null
+    },
+    {
+      "label": "SM_Migration_MarketStall",
+      "mesh": "/Game/Terrarium/Migration/Meshes/SM_Migration_MarketStall",
+      "material_override": null
+    },
+    {
+      "label": "SM_Migration_Sign",
+      "mesh": "/Game/Terrarium/Migration/Meshes/SM_Migration_Sign",
+      "material_override": null
+    },
+    {
+      "label": "SM_Migration_Lantern",
+      "mesh": "/Game/Terrarium/Migration/Meshes/SM_Migration_Lantern",
+      "material_override": null
+    }
+  ]
+}

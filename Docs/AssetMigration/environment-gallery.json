@@ -1,0 +1,87 @@
+{
+  "map": "/Game/Terrarium/Migration/Maps/Environment",
+  "count": 16,
+  "saved_and_reopened": true,
+  "records": [
+    {
+      "label": "SM_Cottage_v6_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_Cottage_v6_Detail",
+      "material_override": null
+    },
+    {
+      "label": "SM_Tree_v3_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_Tree_v3_Detail",
+      "material_override": null
+    },
+    {
+      "label": "SM_Bush_v2_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail",
+      "material_override": null
+    },
+    {
+      "label": "SM_WheatPatch_v2_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_WheatPatch_v2_Detail",
+      "material_override": null
+    },
+    {
+      "label": "SM_PlankBridge_v4_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_PlankBridge_v4_Detail",
+      "material_override": null
+    },
+    {
+      "label": "SM_RockCluster_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_RockCluster_Detail",
+      "material_override": null
+    },
+    {
+      "label": "SM_MeadowTile_v5_Detail2",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowTile_v5_Detail2",
+      "material_override": null
+    },
+    {
+      "label": "SM_PathTile_v4",
+      "mesh": "/Game/Terrarium/Meshes/SM_PathTile_v4",
+      "material_override": null
+    },
+    {
+      "label": "SM_CliffColumn_v6A_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_CliffColumn_v6A_Detail",
+      "material_override": null
+    },
+    {
+      "label": "SM_StoneStairs_v3_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_StoneStairs_v3_Detail",
+      "material_override": null
+    },
+    {
+      "label": "SM_WaterTile_v4_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_WaterTile_v4_Detail",
+      "material_override": null
+    },
+    {
+      "label": "SM_CliffMoss_v1_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_CliffMoss_v1_Detail",
+      "material_override": null
+    },
+    {
+      "label": "SM_GroundPlants_v2_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail",
+      "material_override": null
+    },
+    {
+      "label": "SM_GardenBed_v3_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_GardenBed_v3_Detail",
+      "material_override": null
+    },
+    {
+      "label": "SM_GardenWell_v2_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_GardenWell_v2_Detail",
+      "material_override": null
+    },
+    {
+      "label": "SM_Reeds_Detail",
+      "mesh": "/Game/Terrarium/Meshes/SM_Reeds_Detail",
+      "material_override": null
+    }
+  ]
+}

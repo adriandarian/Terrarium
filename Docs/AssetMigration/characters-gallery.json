@@ -1,0 +1,42 @@
+{
+  "map": "/Game/Terrarium/Migration/Maps/Characters",
+  "count": 7,
+  "saved_and_reopened": true,
+  "records": [
+    {
+      "label": "SM_Brambit",
+      "mesh": "/Game/Terrarium/Migration/Meshes/SM_Brambit",
+      "material_override": null
+    },
+    {
+      "label": "SM_Kindlehorn",
+      "mesh": "/Game/Terrarium/Migration/Meshes/SM_Kindlehorn",
+      "material_override": null
+    },
+    {
+      "label": "SM_Rillip",
+      "mesh": "/Game/Terrarium/Migration/Meshes/SM_Rillip",
+      "material_override": null
+    },
+    {
+      "label": "SM_PlayerExplorer",
+      "mesh": "/Game/Terrarium/Migration/Meshes/SM_PlayerExplorer",
+      "material_override": null
+    },
+    {
+      "label": "SM_RangerSela",
+      "mesh": "/Game/Terrarium/Migration/Meshes/SM_RangerSela",
+      "material_override": null
+    },
+    {
+      "label": "SM_MossTonic",
+      "mesh": "/Game/Terrarium/Migration/Meshes/SM_MossTonic",
+      "material_override": null
+    },
+    {
+      "label": "SM_TrailPrism",
+      "mesh": "/Game/Terrarium/Migration/Meshes/SM_TrailPrism",
+      "material_override": null
+    }
+  ]
+}

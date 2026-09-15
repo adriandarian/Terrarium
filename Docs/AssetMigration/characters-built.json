@@ -1,0 +1,135 @@
+[
+  {
+    "source": "brambit.png",
+    "asset": "/Game/Terrarium/Migration/Meshes/SM_Brambit",
+    "name": "SM_Brambit",
+    "status": "built",
+    "validation": {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Brambit",
+      "triangles": 1716,
+      "vertices": 936,
+      "closed_components": 39,
+      "all_components_closed": true,
+      "all_component_volumes_positive": true,
+      "geometry_script_closed": true,
+      "minimum_normal_alignment": 0.9999999999999996,
+      "saved_normal_errors": 0,
+      "refinement_pass": 1,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "source": "kindlehorn.png",
+    "asset": "/Game/Terrarium/Migration/Meshes/SM_Kindlehorn",
+    "name": "SM_Kindlehorn",
+    "status": "built",
+    "validation": {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Kindlehorn",
+      "triangles": 1640,
+      "vertices": 896,
+      "closed_components": 38,
+      "all_components_closed": true,
+      "all_component_volumes_positive": true,
+      "geometry_script_closed": true,
+      "minimum_normal_alignment": 0.9999999999999997,
+      "saved_normal_errors": 0,
+      "refinement_pass": 1,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "source": "rillip.png",
+    "asset": "/Game/Terrarium/Migration/Meshes/SM_Rillip",
+    "name": "SM_Rillip",
+    "status": "built",
+    "validation": {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Rillip",
+      "triangles": 1672,
+      "vertices": 912,
+      "closed_components": 38,
+      "all_components_closed": true,
+      "all_component_volumes_positive": true,
+      "geometry_script_closed": true,
+      "minimum_normal_alignment": 0.9999999999999996,
+      "saved_normal_errors": 0,
+      "refinement_pass": 1,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "source": "player_front.png",
+    "asset": "/Game/Terrarium/Migration/Meshes/SM_PlayerExplorer",
+    "name": "SM_PlayerExplorer",
+    "status": "built",
+    "validation": {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_PlayerExplorer",
+      "triangles": 3080,
+      "vertices": 1680,
+      "closed_components": 70,
+      "all_components_closed": true,
+      "all_component_volumes_positive": true,
+      "geometry_script_closed": true,
+      "minimum_normal_alignment": 0.9999999999999996,
+      "saved_normal_errors": 0,
+      "refinement_pass": 1,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "source": "ranger_sela.png",
+    "asset": "/Game/Terrarium/Migration/Meshes/SM_RangerSela",
+    "name": "SM_RangerSela",
+    "status": "built",
+    "validation": {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_RangerSela",
+      "triangles": 2904,
+      "vertices": 1584,
+      "closed_components": 66,
+      "all_components_closed": true,
+      "all_component_volumes_positive": true,
+      "geometry_script_closed": true,
+      "minimum_normal_alignment": 0.9999999999999996,
+      "saved_normal_errors": 0,
+      "refinement_pass": 1,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "source": "moss_tonic.png",
+    "asset": "/Game/Terrarium/Migration/Meshes/SM_MossTonic",
+    "name": "SM_MossTonic",
+    "status": "built",
+    "validation": {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_MossTonic",
+      "triangles": 792,
+      "vertices": 432,
+      "closed_components": 18,
+      "all_components_closed": true,
+      "all_component_volumes_positive": true,
+      "geometry_script_closed": true,
+      "minimum_normal_alignment": 0.9999999999999996,
+      "saved_normal_errors": 0,
+      "refinement_pass": 1,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "source": "trail_prism.png",
+    "asset": "/Game/Terrarium/Migration/Meshes/SM_TrailPrism",
+    "name": "SM_TrailPrism",
+    "status": "built",
+    "validation": {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_TrailPrism",
+      "triangles": 844,
+      "vertices": 462,
+      "closed_components": 20,
+      "all_components_closed": true,
+      "all_component_volumes_positive": true,
+      "geometry_script_closed": true,
+      "minimum_normal_alignment": 0.9999999999999997,
+      "saved_normal_errors": 0,
+      "refinement_pass": 1,
+      "visual_review": "pending"
+    }
+  }
+]

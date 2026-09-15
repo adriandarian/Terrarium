@@ -1,0 +1,392 @@
+{
+  "map": "/Game/Terrarium/Migration/Maps/References",
+  "count": 77,
+  "saved_and_reopened": true,
+  "records": [
+    {
+      "label": "brambit.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_brambit"
+    },
+    {
+      "label": "civic_hall.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_civic_hall"
+    },
+    {
+      "label": "cottage.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_cottage"
+    },
+    {
+      "label": "cottage_plaster_v5.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_cottage_plaster_v5"
+    },
+    {
+      "label": "cottage_roof_tile_v5.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_cottage_roof_tile_v5"
+    },
+    {
+      "label": "cottage_roof_tile_v6_candidate.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_cottage_roof_tile_v6_candidate"
+    },
+    {
+      "label": "deep_delver_mark.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_deep_delver_mark"
+    },
+    {
+      "label": "ember.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_ember"
+    },
+    {
+      "label": "ember_crest.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_ember_crest"
+    },
+    {
+      "label": "grove.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_grove"
+    },
+    {
+      "label": "homestead_compound.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_homestead_compound"
+    },
+    {
+      "label": "homestead_riverbank_v2.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_homestead_riverbank_v2"
+    },
+    {
+      "label": "homestead_tree_v2.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_homestead_tree_v2"
+    },
+    {
+      "label": "kindlehorn.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_kindlehorn"
+    },
+    {
+      "label": "lantern.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_lantern"
+    },
+    {
+      "label": "lodge.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_lodge"
+    },
+    {
+      "label": "lodge_contact_shadow_v3.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_lodge_contact_shadow_v3"
+    },
+    {
+      "label": "market_stall.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_market_stall"
+    },
+    {
+      "label": "meadow_shrub.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_meadow_shrub"
+    },
+    {
+      "label": "moss_tonic.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_moss_tonic"
+    },
+    {
+      "label": "player_animation_atlas.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_player_animation_atlas"
+    },
+    {
+      "label": "player_back.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_player_back"
+    },
+    {
+      "label": "player_back_animation_atlas.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_player_back_animation_atlas"
+    },
+    {
+      "label": "player_front.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_player_front"
+    },
+    {
+      "label": "ranger_sela.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_ranger_sela"
+    },
+    {
+      "label": "ranger_sela_animation_atlas.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_ranger_sela_animation_atlas"
+    },
+    {
+      "label": "rillip.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_rillip"
+    },
+    {
+      "label": "river_crossing.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_river_crossing"
+    },
+    {
+      "label": "rock.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_rock"
+    },
+    {
+      "label": "sign.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_sign"
+    },
+    {
+      "label": "storm.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_storm"
+    },
+    {
+      "label": "terrain_cliff_3d.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_3d"
+    },
+    {
+      "label": "terrain_cliff_face_v2.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v2"
+    },
+    {
+      "label": "terrain_cliff_face_v4.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v4"
+    },
+    {
+      "label": "terrain_cliff_face_v5.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v5"
+    },
+    {
+      "label": "terrain_cliff_face_v6.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v6"
+    },
+    {
+      "label": "terrain_cliff_face_v7.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v7"
+    },
+    {
+      "label": "terrain_cliff_face_v8_candidate.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v8_candidate"
+    },
+    {
+      "label": "terrain_cliff_face_v9_candidate.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_cliff_face_v9_candidate"
+    },
+    {
+      "label": "terrain_foliage_v4.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_foliage_v4"
+    },
+    {
+      "label": "terrain_foliage_v5.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_foliage_v5"
+    },
+    {
+      "label": "terrain_foliage_v6.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_foliage_v6"
+    },
+    {
+      "label": "terrain_foliage_v7_candidate.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_foliage_v7_candidate"
+    },
+    {
+      "label": "terrain_grass.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass"
+    },
+    {
+      "label": "terrain_grass_3d.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_3d"
+    },
+    {
+      "label": "terrain_grass_top_v2.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v2"
+    },
+    {
+      "label": "terrain_grass_top_v3.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v3"
+    },
+    {
+      "label": "terrain_grass_top_v4.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v4"
+    },
+    {
+      "label": "terrain_grass_top_v5.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v5"
+    },
+    {
+      "label": "terrain_grass_top_v6.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v6"
+    },
+    {
+      "label": "terrain_grass_top_v7.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v7"
+    },
+    {
+      "label": "terrain_grass_top_v8.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v8"
+    },
+    {
+      "label": "terrain_grass_top_v9.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_grass_top_v9"
+    },
+    {
+      "label": "terrain_moss_cap_v1.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_moss_cap_v1"
+    },
+    {
+      "label": "terrain_stair_paver_v1.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_stair_paver_v1"
+    },
+    {
+      "label": "terrain_stair_paver_v2_candidate.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_stair_paver_v2_candidate"
+    },
+    {
+      "label": "terrain_trail_3d.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_3d"
+    },
+    {
+      "label": "terrain_trail_top_v10_candidate.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v10_candidate"
+    },
+    {
+      "label": "terrain_trail_top_v11_candidate.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v11_candidate"
+    },
+    {
+      "label": "terrain_trail_top_v5.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v5"
+    },
+    {
+      "label": "terrain_trail_top_v6.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v6"
+    },
+    {
+      "label": "terrain_trail_top_v7.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v7"
+    },
+    {
+      "label": "terrain_trail_top_v8.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v8"
+    },
+    {
+      "label": "terrain_trail_top_v9_candidate.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_trail_top_v9_candidate"
+    },
+    {
+      "label": "terrain_water.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water"
+    },
+    {
+      "label": "terrain_water_3d.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_3d"
+    },
+    {
+      "label": "terrain_water_v4.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_v4"
+    },
+    {
+      "label": "terrain_water_v5.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_v5"
+    },
+    {
+      "label": "terrain_water_v6.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_v6"
+    },
+    {
+      "label": "terrain_water_v7.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_v7"
+    },
+    {
+      "label": "terrain_water_v8.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_v8"
+    },
+    {
+      "label": "terrain_water_v9.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_water_v9"
+    },
+    {
+      "label": "terrain_wood_3d.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_terrain_wood_3d"
+    },
+    {
+      "label": "tide.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_tide"
+    },
+    {
+      "label": "trail_prism.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_trail_prism"
+    },
+    {
+      "label": "tree.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_tree"
+    },
+    {
+      "label": "wheat_field.png",
+      "mesh": "/Engine/BasicShapes/Plane",
+      "material_override": "/Game/Terrarium/Migration/Materials/MI_Reference_wheat_field"
+    }
+  ]
+}

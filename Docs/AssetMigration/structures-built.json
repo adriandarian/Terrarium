@@ -1,0 +1,102 @@
+[
+  {
+    "source": "lodge.png",
+    "name": "SM_Migration_Lodge",
+    "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_Lodge",
+    "status": "created",
+    "category": "structures",
+    "validation": {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_Lodge",
+      "triangles": 22236,
+      "vertices": 12132,
+      "closed_components": 507,
+      "all_components_closed": true,
+      "all_component_volumes_positive": true,
+      "geometry_script_closed": true,
+      "minimum_normal_alignment": 0.9999999999999996,
+      "saved_normal_errors": 0,
+      "refinement_pass": 1,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "source": "civic_hall.png",
+    "name": "SM_Migration_CivicHall",
+    "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_CivicHall",
+    "status": "created",
+    "category": "structures",
+    "validation": {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_CivicHall",
+      "triangles": 45560,
+      "vertices": 24854,
+      "closed_components": 1037,
+      "all_components_closed": true,
+      "all_component_volumes_positive": true,
+      "geometry_script_closed": true,
+      "minimum_normal_alignment": 0.9999999999999996,
+      "saved_normal_errors": 0,
+      "refinement_pass": 1,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "source": "market_stall.png",
+    "name": "SM_Migration_MarketStall",
+    "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_MarketStall",
+    "status": "created",
+    "category": "structures",
+    "validation": {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_MarketStall",
+      "triangles": 10560,
+      "vertices": 5760,
+      "closed_components": 240,
+      "all_components_closed": true,
+      "all_component_volumes_positive": true,
+      "geometry_script_closed": true,
+      "minimum_normal_alignment": 0.9999999999999996,
+      "saved_normal_errors": 0,
+      "refinement_pass": 1,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "source": "sign.png",
+    "name": "SM_Migration_Sign",
+    "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_Sign",
+    "status": "created",
+    "category": "structures",
+    "validation": {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_Sign",
+      "triangles": 1364,
+      "vertices": 744,
+      "closed_components": 31,
+      "all_components_closed": true,
+      "all_component_volumes_positive": true,
+      "geometry_script_closed": true,
+      "minimum_normal_alignment": 0.9999999999999996,
+      "saved_normal_errors": 0,
+      "refinement_pass": 1,
+      "visual_review": "pending"
+    }
+  },
+  {
+    "source": "lantern.png",
+    "name": "SM_Migration_Lantern",
+    "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_Lantern",
+    "status": "created",
+    "category": "structures",
+    "validation": {
+      "asset": "/Game/Terrarium/Migration/Meshes/SM_Migration_Lantern",
+      "triangles": 1672,
+      "vertices": 912,
+      "closed_components": 38,
+      "all_components_closed": true,
+      "all_component_volumes_positive": true,
+      "geometry_script_closed": true,
+      "minimum_normal_alignment": 0.9999999999999994,
+      "saved_normal_errors": 0,
+      "refinement_pass": 1,
+      "visual_review": "pending"
+    }
+  }
+]
