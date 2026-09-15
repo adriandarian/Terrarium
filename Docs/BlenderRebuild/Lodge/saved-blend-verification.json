@@ -1,0 +1,11 @@
+{
+  "asset": "Lodge",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_Lodge",
+  "parts": 3033,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 327564,
+  "sha256": "e61d3916a7aa5cdf5195f9e652bcfacb482e1025ae2ff666b0935cc406f4eddc",
+  "active_camera": "Reference camera.003"
+}

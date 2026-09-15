@@ -1,0 +1,47 @@
+{
+  "asset": "Lodge",
+  "mesh": "SM_Blender_Lodge",
+  "source": "SourceAssets/Voxel/lodge.png",
+  "source_sha256": "7207d20eeb79a52d444393ca8c2a2569c53c29088031f04a98f84b1eb5da5f13",
+  "parts": 3033,
+  "vertices": 169848,
+  "triangles": 327564,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -2.6000001430511475,
+      -2.640000104904175,
+      0.0
+    ],
+    "max": [
+      2.6000001430511475,
+      2.0244998931884766,
+      5.599999904632568
+    ]
+  },
+  "files": {
+    "Lodge_BaseColor.png": {
+      "bytes": 8158,
+      "sha256": "0e08238bbb3e8130eccbf0e45a287313ecf78ce6a4622d4e19ed771071da970f"
+    },
+    "Lodge_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "Lodge_Roughness.png": {
+      "bytes": 4999,
+      "sha256": "bcdfd06b2a301577905263da5cd1d2ef91982fc4909bd97518ac73c31f823ec2"
+    },
+    "SM_Blender_Lodge.fbx": {
+      "bytes": 4115996,
+      "sha256": "f82f32cb77f67af12a02d4f4e53e96ec59d6ab601289f8c800778ce7329d57c7"
+    },
+    "SM_Blender_Lodge.glb": {
+      "bytes": 24913732,
+      "sha256": "cb86796510ea7cf1c76fbf3f07ee7044e8c8a6514b4adc49a14eef5e9ec62dd5"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}

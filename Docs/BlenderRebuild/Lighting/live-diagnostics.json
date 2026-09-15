@@ -1,0 +1,118 @@
+{
+  "world": "<Object '/Game/Terrarium/Blender/Maps/HomesteadBlender.HomesteadBlender:PersistentLevel' (0x0000022E60703C00) Class 'Level'>",
+  "dirty_maps": [],
+  "actors": [
+    {
+      "actor": "Baseline_WarmSun",
+      "class": "DirectionalLight",
+      "rotation": "<Struct 'Rotator' (0x0000022D562C33A0) {pitch: -50.000000, yaw: 145.000000, roll: -0.000000}>",
+      "properties": {
+        "intensity": 22500.0,
+        "light_color": "<Struct 'Color' (0x0000022D09BF2CB8) {b: 232, g: 247, r: 255, a: 255}>",
+        "indirect_lighting_intensity": 1.0,
+        "volumetric_scattering_intensity": 1.0,
+        "cast_shadows": true,
+        "mobility": "<ComponentMobility.MOVABLE: 2>",
+        "affects_world": true
+      }
+    },
+    {
+      "actor": "Baseline_SkyLight",
+      "class": "SkyLight",
+      "rotation": "<Struct 'Rotator' (0x0000022D562C3FD0) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+      "properties": {
+        "intensity": 7.0,
+        "light_color": "<Struct 'Color' (0x0000022D3A74A2B8) {b: 255, g: 255, r: 255, a: 255}>",
+        "indirect_lighting_intensity": 1.0,
+        "volumetric_scattering_intensity": 1.0,
+        "cast_shadows": true,
+        "mobility": "<ComponentMobility.MOVABLE: 2>",
+        "affects_world": true,
+        "source_type": "<SkyLightSourceType.SLS_CAPTURED_SCENE: 0>",
+        "cubemap": "None",
+        "real_time_capture": true,
+        "lower_hemisphere_is_solid_color": {
+          "unavailable": "SkyLightComponent: Failed to find property 'lower_hemisphere_is_solid_color' for attribute 'lower_hemisphere_is_solid_color' on 'SkyLightComponent'"
+        },
+        "lower_hemisphere_color": "<Struct 'LinearColor' (0x0000022D3A74A318) {r: 0.000000, g: 0.000000, b: 0.000000, a: 1.000000}>",
+        "occlusion_max_distance": 1000.0,
+        "occlusion_contrast": {
+          "unavailable": "SkyLightComponent: Failed to find property 'occlusion_contrast' for attribute 'occlusion_contrast' on 'SkyLightComponent'"
+        },
+        "occlusion_exponent": 1.0,
+        "min_occlusion": 0.0,
+        "sky_distance_threshold": 150000.0
+      }
+    },
+    {
+      "actor": "Baseline_FixedExposure_EV12",
+      "class": "PostProcessVolume",
+      "volume": {
+        "unbound": true,
+        "priority": 0.0,
+        "blend_weight": 1.0
+      },
+      "settings": {
+        "auto_exposure_method": "<AutoExposureMethod.AEM_MANUAL: 2>",
+        "auto_exposure_apply_physical_camera_exposure": false,
+        "auto_exposure_bias": -12.0,
+        "camera_iso": 100.0,
+        "camera_shutter_speed": 64.0,
+        "depth_of_field_fstop": 8.0,
+        "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.LUMEN: 1>",
+        "reflection_method": "<ReflectionMethod.LUMEN: 1>",
+        "lumen_scene_lighting_quality": 4.0,
+        "lumen_final_gather_quality": 4.0,
+        "indirect_lighting_intensity": 1.0,
+        "indirect_lighting_color": "<Struct 'LinearColor' (0x0000022D2F4E5CC8) {r: 1.000000, g: 1.000000, b: 1.000000, a: 1.000000}>",
+        "color_saturation": "<Struct 'Vector4' (0x0000022D2F4E5910) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>",
+        "color_contrast": "<Struct 'Vector4' (0x0000022D2F4E5930) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>",
+        "color_gamma": "<Struct 'Vector4' (0x0000022D2F4E5950) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>",
+        "color_gain": "<Struct 'Vector4' (0x0000022D2F4E5970) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>",
+        "color_offset": "<Struct 'Vector4' (0x0000022D2F4E5990) {x: 0.000000, y: 0.000000, z: 0.000000, w: 0.000000}>",
+        "ambient_cubemap_intensity": 1.0,
+        "override_auto_exposure_method": true,
+        "override_auto_exposure_apply_physical_camera_exposure": true,
+        "override_auto_exposure_bias": true,
+        "override_camera_iso": true,
+        "override_camera_shutter_speed": true,
+        "override_depth_of_field_fstop": true,
+        "override_dynamic_global_illumination_method": true,
+        "override_reflection_method": true,
+        "override_lumen_scene_lighting_quality": true,
+        "override_lumen_final_gather_quality": true,
+        "override_indirect_lighting_intensity": false,
+        "override_indirect_lighting_color": false,
+        "override_color_saturation": true,
+        "override_color_contrast": false,
+        "override_color_gamma": false,
+        "override_color_gain": false,
+        "override_color_offset": false,
+        "override_ambient_cubemap_intensity": false
+      }
+    },
+    {
+      "actor": "Blender_TrailPrism_CoreLight",
+      "class": "PointLight",
+      "rotation": "<Struct 'Rotator' (0x0000022D562C1820) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+      "properties": {
+        "intensity": 150.0,
+        "light_color": "<Struct 'Color' (0x0000022D3A7448B8) {b: 147, g: 229, r: 255, a: 255}>",
+        "indirect_lighting_intensity": 1.0,
+        "volumetric_scattering_intensity": 1.0,
+        "cast_shadows": false,
+        "mobility": "<ComponentMobility.MOVABLE: 2>",
+        "affects_world": true
+      }
+    }
+  ],
+  "console_variables": {
+    "r.DynamicGlobalIlluminationMethod": 1,
+    "r.ReflectionMethod": 1,
+    "r.GenerateMeshDistanceFields": 1,
+    "r.Lumen.DiffuseIndirect.Allow": 1,
+    "r.Lumen.HardwareRayTracing": 1,
+    "sg.GlobalIlluminationQuality": 3,
+    "sg.ReflectionQuality": 3
+  }
+}
