@@ -1,0 +1,21 @@
+{
+  "key": "tower",
+  "asset": "/Game/Terrarium/Environment/Meshes/SM_Env_Tower",
+  "module": "environment_props",
+  "revision": 1,
+  "bounds": {
+    "min": [
+      -50.1,
+      -50.1,
+      0.0
+    ],
+    "max": [
+      58.9375,
+      50.1,
+      263.5
+    ]
+  },
+  "triangles": 5148,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "bf788d9119bff7ea463bd27994fe6ee6c6f2e217507e0a563b0f1fc5d553616a"
+}

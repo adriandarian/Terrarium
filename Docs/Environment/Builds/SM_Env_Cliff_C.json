@@ -1,0 +1,21 @@
+{
+  "key": "cliff_c",
+  "asset": "/Game/Terrarium/Environment/Meshes/SM_Env_Cliff_C",
+  "module": "environment_cliffs",
+  "revision": 1,
+  "bounds": {
+    "min": [
+      -50.0,
+      -50.0,
+      0.0
+    ],
+    "max": [
+      50.0,
+      50.0,
+      323.5
+    ]
+  },
+  "triangles": 3080,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "c7fef41375bde220f6176865019f4e834f3be6956fa7177fd79f4719d8b8bc19"
+}

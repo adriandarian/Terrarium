@@ -1,0 +1,21 @@
+{
+  "key": "meadow_tile",
+  "asset": "/Game/Terrarium/Environment/Meshes/SM_Env_MeadowTile",
+  "module": "environment_ground",
+  "revision": 1,
+  "bounds": {
+    "min": [
+      -100.0,
+      -100.0,
+      -12.0
+    ],
+    "max": [
+      100.0,
+      100.0,
+      0.0
+    ]
+  },
+  "triangles": 252,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "4e382ade81f996680246307755b5e2b156b0c96d3d2959af0844256af89fec72"
+}

@@ -1,0 +1,21 @@
+{
+  "key": "wheat_patch",
+  "asset": "/Game/Terrarium/Environment/Meshes/SM_Env_WheatPatch",
+  "module": "environment_wheat",
+  "revision": 1,
+  "bounds": {
+    "min": [
+      -93.08545004004675,
+      -90.90646561557368,
+      0.0
+    ],
+    "max": [
+      93.26201566278635,
+      89.98827379190419,
+      115.0
+    ]
+  },
+  "triangles": 16632,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "677a8a297ba785c6171cbe97dffbb1de7f60ee0562934ccde1a4650aa054f6b8"
+}

@@ -1,0 +1,21 @@
+{
+  "key": "flower_row",
+  "asset": "/Game/Terrarium/Environment/Meshes/SM_Env_FlowerBorder",
+  "module": "environment_props",
+  "revision": 1,
+  "bounds": {
+    "min": [
+      -128.5,
+      -17.5,
+      0.0
+    ],
+    "max": [
+      121.0,
+      17.0,
+      128.0
+    ]
+  },
+  "triangles": 2376,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "bf788d9119bff7ea463bd27994fe6ee6c6f2e217507e0a563b0f1fc5d553616a"
+}

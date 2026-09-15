@@ -1,0 +1,6 @@
+{
+  "position": "<Struct 'Vector' (0x000001DCB773D410) {x: 3250.000000, y: -3250.000000, z: 4596.194078}>",
+  "rotation": "<Struct 'Rotator' (0x000001DCB773D410) {pitch: -45.000000, yaw: 135.000000, roll: 0.000000}>",
+  "width": 2645.5,
+  "world": "/Game/Terrarium/Maps/HomesteadFidelity.HomesteadFidelity"
+}

@@ -1,0 +1,21 @@
+{
+  "key": "shed",
+  "asset": "/Game/Terrarium/Environment/Meshes/SM_Env_BlueShed",
+  "module": "environment_props",
+  "revision": 1,
+  "bounds": {
+    "min": [
+      -95.5,
+      -101.5,
+      0.0
+    ],
+    "max": [
+      95.5,
+      82.50000000000001,
+      215.0
+    ]
+  },
+  "triangles": 8140,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "bf788d9119bff7ea463bd27994fe6ee6c6f2e217507e0a563b0f1fc5d553616a"
+}

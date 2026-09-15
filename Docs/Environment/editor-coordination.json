@@ -1,0 +1,13 @@
+{
+  "preservation_map": "/Game/Terrarium/Reconstruction/Backups/BeforePlasterR2_20260912_201554",
+  "backup_matches_verified_scene": true,
+  "saved_map_matches_verified_scene": true,
+  "backup_cameras": [
+    "Baseline_Orthographic_Review",
+    "Reference_TransientDetailCamera"
+  ],
+  "saved_cameras": [
+    "Baseline_Orthographic_Review"
+  ],
+  "scene_changes_lost": false
+}
