@@ -1,0 +1,38 @@
+{
+  "slots": [
+    {
+      "index": 0,
+      "imported_name": "M_EmberCrest_Field_001",
+      "role": "Field",
+      "material": "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Field.M_EmberCrest_Field",
+      "parameters": {
+        "Metallic": 0.12,
+        "Specular": 0.5
+      },
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>"
+    },
+    {
+      "index": 1,
+      "imported_name": "M_EmberCrest_Frame_002",
+      "role": "Frame",
+      "material": "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Frame.M_EmberCrest_Frame",
+      "parameters": {
+        "Metallic": 0.72,
+        "Specular": 0.5
+      },
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>"
+    },
+    {
+      "index": 2,
+      "imported_name": "M_EmberCrest_Enamel_002",
+      "role": "Enamel",
+      "material": "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Enamel.M_EmberCrest_Enamel",
+      "parameters": {
+        "Metallic": 0.12,
+        "Specular": 0.5
+      },
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>"
+    }
+  ],
+  "emission": "None. The flame is colored raised enamel."
+}

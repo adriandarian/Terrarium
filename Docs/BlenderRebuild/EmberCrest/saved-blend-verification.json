@@ -1,0 +1,11 @@
+{
+  "asset": "EmberCrest",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_EmberCrest",
+  "parts": 582,
+  "packed_images": 3,
+  "material_slots": 3,
+  "triangles": 65624,
+  "sha256": "3e7fde2d4ca966dbc1ab1cd31eddd3ac0c93fd3ed6eef620c0079c582fcab69d",
+  "active_camera": "Reference camera.001"
+}

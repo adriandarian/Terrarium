@@ -1,0 +1,52 @@
+{
+  "asset": "EmberCrest",
+  "mesh": "SM_Blender_EmberCrest",
+  "source": "SourceAssets/Voxel/ember_crest.png",
+  "source_sha256": "c4f2a05d43b4ab257a0e1119e0a33cb5f6409b0f4b981fad352418413189c061",
+  "parts": 582,
+  "vertices": 33976,
+  "triangles": 65624,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 3,
+  "bounds_m": {
+    "min": [
+      -0.4560000002384186,
+      -0.1600000113248825,
+      -0.02658185176551342
+    ],
+    "max": [
+      0.4560000002384186,
+      0.14000000059604645,
+      1.1662591695785522
+    ]
+  },
+  "files": {
+    "EmberCrest_BaseColor.png": {
+      "bytes": 7076,
+      "sha256": "7d9261844db3f289e04e2a9dd9378ef262e46849fa27246d6ffe42c817f0f202"
+    },
+    "EmberCrest_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "EmberCrest_Roughness.png": {
+      "bytes": 5021,
+      "sha256": "8a2205457747749e1898991e4a588571bed91de4428dd0becbf2438b45da5680"
+    },
+    "SM_Blender_EmberCrest.fbx": {
+      "bytes": 912652,
+      "sha256": "3d37f519099b23ccb4c9241941d1e180772ba3bfc2594b8c26183daf4f50ee15"
+    },
+    "SM_Blender_EmberCrest.glb": {
+      "bytes": 4878952,
+      "sha256": "94d6076adadc3f52cb8b82c696cb85df3238edad83fcdec0643bad9204fdd204"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "materials": [
+    "M_EmberCrest_Field.001",
+    "M_EmberCrest_Frame.002",
+    "M_EmberCrest_Enamel.002"
+  ]
+}

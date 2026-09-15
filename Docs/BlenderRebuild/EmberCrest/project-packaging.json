@@ -1,0 +1,12 @@
+{
+  "asset": "EmberCrest",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "891502935cf2b2580de5aec0686cbe7e4449caa3a4d9338ab8d13c32c133a5d6",
+  "sha256": "3e7fde2d4ca966dbc1ab1cd31eddd3ac0c93fd3ed6eef620c0079c582fcab69d",
+  "scene": "Terrarium_EmberCrest",
+  "parts": 582,
+  "packed_images": 3,
+  "active_camera": "Reference camera.001",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

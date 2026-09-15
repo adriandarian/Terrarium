@@ -1,0 +1,73 @@
+{
+  "reload_verified": true,
+  "actor": "Blender_EmberCrest_MarketFront",
+  "materials_verified": 3,
+  "wall_samples": [
+    {
+      "xz": [
+        181,
+        596
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        181,
+        607
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        181,
+        618
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        184,
+        596
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        184,
+        607
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        184,
+        618
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        187,
+        596
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        187,
+        607
+      ],
+      "y": 624.8000085353851
+    },
+    {
+      "xz": [
+        187,
+        618
+      ],
+      "y": 624.8000085353851
+    }
+  ],
+  "back_clearance_cm": 0.014999999999986358,
+  "source_hash_verified": true,
+  "limits": "Static mounting samples and shader persistence. Wall hardware, pickup gameplay, full collision and performance are not tested. Visual fidelity remains open."
+}
