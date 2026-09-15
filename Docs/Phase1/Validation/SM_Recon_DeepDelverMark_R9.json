@@ -1,0 +1,13 @@
+{
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_DeepDelverMark_R9",
+  "triangles": 20592,
+  "vertices": 11296,
+  "closed_components": 500,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999996,
+  "saved_normal_errors": 0,
+  "refinement_pass": 9,
+  "visual_review": "pending"
+}

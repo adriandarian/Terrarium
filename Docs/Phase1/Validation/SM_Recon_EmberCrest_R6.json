@@ -1,0 +1,13 @@
+{
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_EmberCrest_R6",
+  "triangles": 22684,
+  "vertices": 12680,
+  "closed_components": 669,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999996,
+  "saved_normal_errors": 0,
+  "refinement_pass": 6,
+  "visual_review": "pending"
+}

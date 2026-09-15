@@ -1,0 +1,13 @@
+{
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Grove_R3",
+  "triangles": 14432,
+  "vertices": 7872,
+  "closed_components": 328,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999997,
+  "saved_normal_errors": 0,
+  "refinement_pass": 2,
+  "visual_review": "pending"
+}
