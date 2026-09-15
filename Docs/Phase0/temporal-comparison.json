@@ -1,0 +1,21 @@
+{
+  "dimensions": [
+    1526,
+    910
+  ],
+  "mean_absolute_rgb_difference_0_255": [
+    0.17364941742399148,
+    0.2722574280241384,
+    0.27724496997105125
+  ],
+  "maximum_channel_difference": [
+    85,
+    74,
+    38
+  ],
+  "second_pair_mean_absolute_rgb_difference_0_255": [
+    0.12850589777195282,
+    0.21847752509613586,
+    0.20608284245243616
+  ]
+}

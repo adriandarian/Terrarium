@@ -1,0 +1,5 @@
+window "Terrarium - Unreal Editor" [pos=0,0 size=1920,1080] [ref=w1]
+              text "Baseline_Orthographic_Review" [pos=996,110 size=178,15] [ref=x12]
+              text "Lit" [pos=1300,110 size=14,15] [ref=x14]
+    button "All Saved" [pos=1659,1055 size=90,18] [ref=b45]
+      text "All Saved" [pos=1688,1056 size=53,15] [ref=x33]

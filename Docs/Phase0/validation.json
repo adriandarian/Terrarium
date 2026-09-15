@@ -1,0 +1,32 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "camera_rotation": "<Struct 'Rotator' (0x000002A2359C1C80) {pitch: -40.000000, yaw: 135.000000, roll: 0.000000}>",
+  "projection": "<CameraProjectionMode.ORTHOGRAPHIC: 1>",
+  "actors": [
+    "Baseline_Ground",
+    "Baseline_StoneCube",
+    "Baseline_ClaySphere",
+    "Baseline_WarmSun",
+    "Baseline_SkyAtmosphere",
+    "Baseline_SkyLight",
+    "Baseline_FixedExposure_EV12",
+    "Baseline_Orthographic_Review"
+  ],
+  "cvars": {
+    "r.DynamicGlobalIlluminationMethod": 1,
+    "r.ReflectionMethod": 1,
+    "r.GenerateMeshDistanceFields": 1,
+    "r.Lumen.DiffuseIndirect.Allow": 1,
+    "r.Lumen.Reflections.Allow": 1,
+    "r.Shadow.Virtual.Enable": 1
+  },
+  "exposure": {
+    "auto_exposure_method": "<AutoExposureMethod.AEM_MANUAL: 2>",
+    "auto_exposure_apply_physical_camera_exposure": "True",
+    "camera_iso": "100.0",
+    "camera_shutter_speed": "64.0",
+    "depth_of_field_fstop": "8.0",
+    "auto_exposure_bias": "0.0"
+  }
+}
