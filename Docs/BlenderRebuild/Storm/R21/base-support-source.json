@@ -1,0 +1,17 @@
+{
+  "minimum_z_m": -0.04956911876797676,
+  "samples_m": [
+    [
+      0.016999999,
+      0.260772258,
+      -0.049569119
+    ],
+    [
+      0.070013449,
+      0.260772258,
+      -0.049569119
+    ]
+  ],
+  "source_blend_sha256": "2d2078255f9a731a05dda198b0c6be689b87308fa90dc24e7e1c04489f94eaa4",
+  "method": "Two evaluated lowest gold-tip edge endpoints within 0.1 mm of minimum Z. Unreal additionally checks their midpoint."
+}

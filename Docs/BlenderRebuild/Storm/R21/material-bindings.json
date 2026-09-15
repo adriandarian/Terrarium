@@ -1,0 +1,27 @@
+{
+  "slots": [
+    {
+      "index": 0,
+      "imported_name": "M_Storm_Lightning_003",
+      "role": "Lightning",
+      "material": "/Game/Terrarium/Blender/Storm/M_Storm_Lightning.M_Storm_Lightning",
+      "parameters": {
+        "Metallic": 0,
+        "Specular": 0.5
+      },
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>"
+    },
+    {
+      "index": 1,
+      "imported_name": "M_Storm_Cloud_002",
+      "role": "Cloud",
+      "material": "/Game/Terrarium/Blender/Storm/M_Storm_Cloud.M_Storm_Cloud",
+      "parameters": {
+        "Metallic": 0,
+        "Specular": 0.5
+      },
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>"
+    }
+  ],
+  "emission": "None. Opaque stylized lightning and cloud parts; no emitted light."
+}
