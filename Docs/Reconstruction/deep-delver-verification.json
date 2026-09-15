@@ -1,0 +1,30 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_DeepDelverMark_R12",
+  "revision": 12,
+  "saved_and_reopened_gallery": true,
+  "other_seven_gallery_mesh_bindings_unchanged": true,
+  "saved_normal_errors": 0,
+  "triangles": 23504,
+  "ground_error_cm": 0.0,
+  "front_back_native_renders_inspected": true,
+  "pixel_parity": "not_claimed; material finish and exact block placement still differ",
+  "user_acceptance": "pending",
+  "gameplay_collision_tested": false,
+  "collectibles_overview_recaptured": true,
+  "restored_editor_map": "/Game/Terrarium/Maps/HomesteadReference",
+  "homestead_map_and_project_defaults_modified": false,
+  "back_preservation": {
+    "baseline_revision": 8,
+    "new_revision": 12,
+    "retained_frame_vertices_identical": 952,
+    "reverse_vertices_identical": 90,
+    "vertex_positions_and_colors_verified": true,
+    "new_relief_entirely_in_front_of_bronze_back": true,
+    "asset_bounds_unchanged": true
+  },
+  "view_acceptance": {
+    "back": "approved_R8_geometry_preserved",
+    "front": "pending_user_review"
+  }
+}

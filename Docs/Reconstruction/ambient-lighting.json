@@ -1,0 +1,38 @@
+[
+  {
+    "map": "/Game/Terrarium/Reconstruction/Maps/ReviewStage",
+    "ambient_intensity": 0.65,
+    "cubemap": "/Engine/EngineResources/GrayLightTextureCube",
+    "direct_key_shadows_retained": true
+  },
+  {
+    "map": "/Game/Terrarium/Reconstruction/Maps/Architecture",
+    "ambient_intensity": 0.65,
+    "cubemap": "/Engine/EngineResources/GrayLightTextureCube",
+    "direct_key_shadows_retained": true
+  },
+  {
+    "map": "/Game/Terrarium/Reconstruction/Maps/Characters",
+    "ambient_intensity": 0.65,
+    "cubemap": "/Engine/EngineResources/GrayLightTextureCube",
+    "direct_key_shadows_retained": true
+  },
+  {
+    "map": "/Game/Terrarium/Reconstruction/Maps/Collectibles",
+    "ambient_intensity": 0.65,
+    "cubemap": "/Engine/EngineResources/GrayLightTextureCube",
+    "direct_key_shadows_retained": true
+  },
+  {
+    "map": "/Game/Terrarium/Reconstruction/Maps/Environment",
+    "ambient_intensity": 0.65,
+    "cubemap": "/Engine/EngineResources/GrayLightTextureCube",
+    "direct_key_shadows_retained": true
+  },
+  {
+    "map": "/Game/Terrarium/Reconstruction/Maps/Surfaces",
+    "ambient_intensity": 0.65,
+    "cubemap": "/Engine/EngineResources/GrayLightTextureCube",
+    "direct_key_shadows_retained": true
+  }
+]

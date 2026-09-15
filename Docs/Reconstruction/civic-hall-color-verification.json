@@ -1,0 +1,24 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R4",
+  "material": "/Game/Terrarium/Reconstruction/Materials/M_CivicHall_Warm_R4",
+  "source_geometry": {
+    "triangles": 150672,
+    "triangle_positions_sha256": "4639d18e7d8bb6b2cc05c700106067a682a3cbe0e8e312cc2d1b95816f23b6b1",
+    "vertex_colors_sha256": "dfe30f63178e429ff74339dac7313e3ae708d2d38dc307ebaebfd7de5b246da7",
+    "normal_errors": null
+  },
+  "saved_candidate": {
+    "triangles": 150672,
+    "triangle_positions_sha256": "4639d18e7d8bb6b2cc05c700106067a682a3cbe0e8e312cc2d1b95816f23b6b1",
+    "vertex_colors_sha256": "dfe30f63178e429ff74339dac7313e3ae708d2d38dc307ebaebfd7de5b246da7",
+    "normal_errors": 0
+  },
+  "geometry_and_vertex_colors_identical": true,
+  "saved_and_reopened_gallery": true,
+  "other_six_gallery_mesh_bindings_unchanged": true,
+  "transform_and_bounds_unchanged": true,
+  "native_front_and_back_captures": "Docs/Reconstruction/Renders/CivicHall-R4-capture.json",
+  "user_acceptance": "pending",
+  "gameplay_tested": false
+}

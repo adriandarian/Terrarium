@@ -1,0 +1,83 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R7",
+  "material": "/Game/Terrarium/Reconstruction/Materials/M_CivicHall_Warm_R4",
+  "saved_candidate": {
+    "triangles": 164620,
+    "triangle_positions_sha256": "c3c2cab69b3566accb0c53b22ebec00fa4faa75c1a9a2c96428e043903a5134c",
+    "vertex_colors_sha256": "8c0755287acee88057680e51ced5a25f1d6f6ab03019d291b4a958b8d68b8990",
+    "normal_errors": 0
+  },
+  "saved_and_reopened_gallery": true,
+  "other_six_gallery_mesh_bindings_unchanged": true,
+  "transform_unchanged": true,
+  "saved_bounds_match_candidate": true,
+  "world_bounds_cm": {
+    "min": [
+      -511.5,
+      1672.0,
+      0.0
+    ],
+    "max": [
+      511.5,
+      2232.0,
+      1121.0
+    ]
+  },
+  "native_front_and_back_captures": "Docs/Reconstruction/Renders/CivicHall-R7-capture.json",
+  "user_acceptance": "pending",
+  "gameplay_tested": false,
+  "added_rear_center_windows": 4,
+  "warm_R4_material_preserved": true,
+  "geometry_and_colors_outside_entrance_foundation_unchanged": true,
+  "entrance_foundation_details": {
+    "stone_blocks_by_side": {
+      "front": 122,
+      "back": 122,
+      "left": 50,
+      "right": 50
+    },
+    "stone_course_colors_bottom_to_top": [
+      [
+        "50564b",
+        "585e52",
+        "606558",
+        "555b50"
+      ],
+      [
+        "69705f",
+        "747966",
+        "7b806c",
+        "707662"
+      ],
+      [
+        "898e78",
+        "939680",
+        "9d9e86",
+        "8f937d"
+      ],
+      [
+        "a5a58e",
+        "afac93",
+        "b5b099",
+        "a8a78f"
+      ]
+    ],
+    "moss_contained_in_base_envelope": true,
+    "base_half_extents_before_x_scale_cm": [
+      436.5,
+      184.5
+    ],
+    "moss_colored_vertices": 1248,
+    "outer_timber_frame": true,
+    "inner_timber_reveal": true,
+    "sandstone_front_y_cm": -237,
+    "door_front_y_cm": -184,
+    "door_recess_cm": 53,
+    "inner_reveal_depth_cm": 40,
+    "stone_cheeks_both_sides": true,
+    "stone_projection_beyond_timber_cm": 21.5,
+    "step_count": 5,
+    "individual_stone_riser_courses": true
+  }
+}

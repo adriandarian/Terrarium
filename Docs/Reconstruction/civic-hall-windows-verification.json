@@ -1,0 +1,20 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R5",
+  "material": "/Game/Terrarium/Reconstruction/Materials/M_CivicHall_Warm_R4",
+  "saved_candidate": {
+    "triangles": 155952,
+    "triangle_positions_sha256": "23559c0549b0b682515bdde64f39ff3b1dd115e3a5fa7a386626052d3b16ae1a",
+    "vertex_colors_sha256": "ce9a0c9b59e02938c14f0f149b699bca047e073707fb101cb92747cbe3d47d7e",
+    "normal_errors": 0
+  },
+  "saved_and_reopened_gallery": true,
+  "other_six_gallery_mesh_bindings_unchanged": true,
+  "transform_and_bounds_unchanged": true,
+  "native_front_and_back_captures": "Docs/Reconstruction/Renders/CivicHall-R5-capture.json",
+  "user_acceptance": "pending",
+  "gameplay_tested": false,
+  "added_rear_center_windows": 4,
+  "warm_R4_material_preserved": true,
+  "geometry_and_colors_outside_rear_facade_unchanged": true
+}
