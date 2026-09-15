@@ -1,0 +1,226 @@
+{
+  "broad_scene_passes_used": 6,
+  "per_asset_limit": null,
+  "broad_scene_limit": null,
+  "families": {
+    "SM_Bush": {
+      "passes_used": 2,
+      "versions": [
+        "SM_Bush",
+        "SM_Bush_v2"
+      ],
+      "active_versions": [
+        "SM_Bush_v2"
+      ]
+    },
+    "SM_CliffWall": {
+      "passes_used": 3,
+      "versions": [
+        "SM_CliffColumn_v2",
+        "SM_CliffColumn_v3",
+        "SM_CliffWall"
+      ],
+      "active_versions": [
+        "SM_CliffColumn_v2"
+      ]
+    },
+    "SM_Cottage": {
+      "passes_used": 4,
+      "versions": [
+        "SM_Cottage",
+        "SM_Cottage_v2",
+        "SM_Cottage_v3",
+        "SM_Cottage_v4"
+      ],
+      "active_versions": [
+        "SM_Cottage_v4"
+      ]
+    },
+    "SM_FencePost": {
+      "passes_used": 1,
+      "versions": [
+        "SM_FencePost"
+      ],
+      "active_versions": [
+        "SM_FencePost"
+      ]
+    },
+    "SM_FenceRails": {
+      "passes_used": 1,
+      "versions": [
+        "SM_FenceRails"
+      ],
+      "active_versions": [
+        "SM_FenceRails"
+      ]
+    },
+    "SM_GardenBed": {
+      "passes_used": 2,
+      "versions": [
+        "SM_GardenBed",
+        "SM_GardenBed_v2"
+      ],
+      "active_versions": [
+        "SM_GardenBed_v2"
+      ]
+    },
+    "SM_GardenWell": {
+      "passes_used": 2,
+      "versions": [
+        "SM_GardenWell",
+        "SM_GardenWell_v2"
+      ],
+      "active_versions": [
+        "SM_GardenWell_v2"
+      ]
+    },
+    "SM_GrassTile": {
+      "passes_used": 4,
+      "versions": [
+        "SM_GrassTile",
+        "SM_MeadowTile_v2",
+        "SM_MeadowTile_v3",
+        "SM_MeadowTile_v4"
+      ],
+      "active_versions": [
+        "SM_MeadowTile_v4"
+      ]
+    },
+    "SM_LanternPost": {
+      "passes_used": 1,
+      "versions": [
+        "SM_LanternPost"
+      ],
+      "active_versions": [
+        "SM_LanternPost"
+      ]
+    },
+    "SM_OrchardTree": {
+      "passes_used": 2,
+      "versions": [
+        "SM_OrchardTree",
+        "SM_OrchardTree_v2"
+      ],
+      "active_versions": [
+        "SM_OrchardTree_v2"
+      ]
+    },
+    "SM_PathTile": {
+      "passes_used": 3,
+      "versions": [
+        "SM_PathTile",
+        "SM_PathTile_v2",
+        "SM_PathTile_v3"
+      ],
+      "active_versions": [
+        "SM_PathTile_v3"
+      ]
+    },
+    "SM_PerimeterWall": {
+      "passes_used": 1,
+      "versions": [
+        "SM_PerimeterWall"
+      ],
+      "active_versions": []
+    },
+    "SM_PlankBridge": {
+      "passes_used": 2,
+      "versions": [
+        "SM_PlankBridge",
+        "SM_PlankBridge_v2"
+      ],
+      "active_versions": [
+        "SM_PlankBridge_v2"
+      ]
+    },
+    "SM_Reeds": {
+      "passes_used": 1,
+      "versions": [
+        "SM_Reeds"
+      ],
+      "active_versions": [
+        "SM_Reeds"
+      ]
+    },
+    "SM_RockCluster": {
+      "passes_used": 1,
+      "versions": [
+        "SM_RockCluster"
+      ],
+      "active_versions": [
+        "SM_RockCluster"
+      ]
+    },
+    "SM_Shed": {
+      "passes_used": 2,
+      "versions": [
+        "SM_Shed",
+        "SM_Shed_v2"
+      ],
+      "active_versions": [
+        "SM_Shed_v2"
+      ]
+    },
+    "SM_ShoreOutcrop": {
+      "passes_used": 1,
+      "versions": [
+        "SM_ShoreOutcrop"
+      ],
+      "active_versions": [
+        "SM_ShoreOutcrop"
+      ]
+    },
+    "SM_StoneStairs": {
+      "passes_used": 2,
+      "versions": [
+        "SM_StoneStairs",
+        "SM_StoneStairs_v2"
+      ],
+      "active_versions": [
+        "SM_StoneStairs_v2"
+      ]
+    },
+    "SM_Traveler": {
+      "passes_used": 1,
+      "versions": [
+        "SM_Traveler"
+      ],
+      "active_versions": [
+        "SM_Traveler"
+      ]
+    },
+    "SM_WaterTile": {
+      "passes_used": 3,
+      "versions": [
+        "SM_WaterTile",
+        "SM_WaterTile_v2",
+        "SM_WaterTile_v3"
+      ],
+      "active_versions": [
+        "SM_WaterTile_v3"
+      ]
+    },
+    "SM_WheatPatch": {
+      "passes_used": 2,
+      "versions": [
+        "SM_WheatPatch",
+        "SM_WheatPatch_v2"
+      ],
+      "active_versions": [
+        "SM_WheatPatch_v2"
+      ]
+    },
+    "SM_Wildflowers": {
+      "passes_used": 1,
+      "versions": [
+        "SM_Wildflowers"
+      ],
+      "active_versions": [
+        "SM_Wildflowers"
+      ]
+    }
+  },
+  "note": "User lifted all iteration caps. Rejected versions remain recorded; history is retained.",
+  "iteration_limits_lifted": true,
+  "authorization": "iteration-authorization.json"
+}
