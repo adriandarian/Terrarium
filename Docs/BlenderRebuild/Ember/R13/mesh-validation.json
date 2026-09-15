@@ -1,0 +1,50 @@
+{
+  "asset": "Ember",
+  "mesh": "SM_Blender_Ember",
+  "source": "SourceAssets/Voxel/ember.png",
+  "source_sha256": "3f85b40cc0a2660e9ff7c52d7644e7b84e9ec593108a713cd5f0915019d8904c",
+  "parts": 681,
+  "vertices": 38136,
+  "triangles": 73548,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.3572854995727539,
+      -0.32186824083328247,
+      -0.0020000003278255463
+    ],
+    "max": [
+      0.922305703163147,
+      0.7469462156295776,
+      1.3440912961959839
+    ]
+  },
+  "files": {
+    "Ember_BaseColor.png": {
+      "bytes": 4775,
+      "sha256": "dd7be8416c6d7693c282494cd23b64acc40f43f48c446407767544bfd27d352a"
+    },
+    "Ember_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "Ember_Roughness.png": {
+      "bytes": 4767,
+      "sha256": "45b0f998951b68e9a8feabb545ba8f53be71544e168eea00fdded1a3076436cd"
+    },
+    "SM_Blender_Ember.fbx": {
+      "bytes": 1052844,
+      "sha256": "00f2c86f021510f68a2040393ad4e4c5b06b264259c78444fdb2877618e39465"
+    },
+    "SM_Blender_Ember.glb": {
+      "bytes": 5604664,
+      "sha256": "8a35d4fe03c490445993f3faa7edc0de16b695e118b9f893eadb66e5579e2faf"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "materials": [
+    "M_Ember_Flame.004"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "previous_depth_m": 0.24414987862110138,
+  "current_depth_m": 1.06881445646286,
+  "depth_ratio": 4.377698086516618,
+  "flat_base_parts": 94,
+  "counter_contact_samples": 470,
+  "ground_elevation_range_m": [
+    -0.0020000003278255463,
+    -0.001999996602535248
+  ],
+  "method": "Evaluated exported mesh extents; every floor-course cube underside and five native counter traces per cube after saved-map reload.",
+  "limits": "Physical volume and sampled contact only; no reference fidelity or balance certification.",
+  "outer_bounds_unchanged_from_r10": true,
+  "added_interior_cells": 377
+}

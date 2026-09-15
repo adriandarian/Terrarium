@@ -1,0 +1,11 @@
+{
+  "asset": "Ember",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_Ember",
+  "parts": 681,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 73548,
+  "sha256": "d3b5dcb56d4cf0697b2f88255cf4ec0dc8dbeb1e4e5d32ba95d9c171c4ba16f2",
+  "active_camera": "Reference camera"
+}

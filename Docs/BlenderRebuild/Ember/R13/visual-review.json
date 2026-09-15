@@ -1,0 +1,24 @@
+{
+  "revision": "r13_connected_interior_volume",
+  "parts": 681,
+  "triangles": 73548,
+  "studio_views": [
+    "front.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "visually_checked": true,
+  "accepted_fidelity": false,
+  "remaining": [
+    "Cube arrangement remains visibly different: the core and several upper sections form long stacks instead of the source staggered clusters.",
+    "Interior fill reduces the open side profile, but the core still projects too far forward and some transitions look like terraces.",
+    "Orange side tongues, yellow transitions, individual widths, bevels and shaded colors still need closer matching.",
+    "Rear structure and interior pigments are inferred from one view; a few small junctions remain visible.",
+    "World shade is darker than the concept. Palette sampling is verified separately from appearance.",
+    "The shared floor and sampled counter contact are verified, but no rigid-body stability, particle simulation, full collision or gameplay validation has been performed."
+  ]
+}

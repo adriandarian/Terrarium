@@ -1,0 +1,12 @@
+{
+  "asset": "Ember",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "127c96e7f38f82201e1c60c28f31bdfc8351769748594e0f265aecfe2880d671",
+  "sha256": "d3b5dcb56d4cf0697b2f88255cf4ec0dc8dbeb1e4e5d32ba95d9c171c4ba16f2",
+  "scene": "Terrarium_Ember",
+  "parts": 681,
+  "packed_images": 3,
+  "active_camera": "Reference camera",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}
