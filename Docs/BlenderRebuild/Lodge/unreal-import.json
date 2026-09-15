@@ -1,0 +1,18 @@
+{
+  "asset": "Lodge",
+  "mesh": "/Game/Terrarium/Blender/Lodge/SM_Blender_Lodge.SM_Blender_Lodge",
+  "material": "/Game/Terrarium/Blender/Lodge/M_Lodge.M_Lodge",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/Lodge/T_Lodge_BaseColor.T_Lodge_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/Lodge/T_Lodge_Emission.T_Lodge_Emission",
+    "Roughness": "/Game/Terrarium/Blender/Lodge/T_Lodge_Roughness.T_Lodge_Roughness"
+  },
+  "source_fbx_sha256": "f82f32cb77f67af12a02d4f4e53e96ec59d6ab601289f8c800778ce7329d57c7",
+  "dimensions_cm": [
+    520.0000610351562,
+    466.4500427246094,
+    560.0
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}

@@ -1,0 +1,47 @@
+{
+  "asset": "MarketStall",
+  "mesh": "SM_Blender_MarketStall",
+  "source": "SourceAssets/Voxel/market_stall.png",
+  "source_sha256": "9daa8d8bb52648e8df438c659ac492c1ff5a59758e8f83455802d9eb870bd374",
+  "parts": 634,
+  "vertices": 35504,
+  "triangles": 68472,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -2.0399999618530273,
+      -1.375,
+      -0.0042999908328056335
+    ],
+    "max": [
+      2.2799999713897705,
+      1.065000057220459,
+      2.605799913406372
+    ]
+  },
+  "files": {
+    "MarketStall_BaseColor.png": {
+      "bytes": 10691,
+      "sha256": "a3280f40ce2f4f4189bbb3b0be0973e5f7ad70c6088545058f24d6365ca51e3d"
+    },
+    "MarketStall_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "MarketStall_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_MarketStall.fbx": {
+      "bytes": 967900,
+      "sha256": "30587cfd8e68ba9e8c70007a4e044155318092e6c18e4ece15f35ffee961d574"
+    },
+    "SM_Blender_MarketStall.glb": {
+      "bytes": 5224908,
+      "sha256": "c3433926684af66dab9ef9423791d8f1a915a85d90e7e29ef17fedf379d20026"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}

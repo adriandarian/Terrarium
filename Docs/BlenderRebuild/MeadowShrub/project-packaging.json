@@ -1,0 +1,12 @@
+{
+  "asset": "MeadowShrub",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "078abfebf566ed219707881e130c69598d1522372173222248a8bb44bef2f630",
+  "sha256": "3b43aa6d9c529dd28489f129e5d639c996c91cdd142ae4b6f263e7f952de56ef",
+  "scene": "Terrarium_MeadowShrub",
+  "parts": 107,
+  "packed_images": 3,
+  "active_camera": "Reference camera.005",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

@@ -1,0 +1,11 @@
+{
+  "asset": "MeadowShrub",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_MeadowShrub",
+  "parts": 107,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 11556,
+  "sha256": "3b43aa6d9c529dd28489f129e5d639c996c91cdd142ae4b6f263e7f952de56ef",
+  "active_camera": "Reference camera.005"
+}

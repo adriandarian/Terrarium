@@ -1,0 +1,18 @@
+{
+  "asset": "MarketStall",
+  "mesh": "/Game/Terrarium/Blender/MarketStall/SM_Blender_MarketStall.SM_Blender_MarketStall",
+  "material": "/Game/Terrarium/Blender/MarketStall/M_MarketStall.M_MarketStall",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/MarketStall/T_MarketStall_BaseColor.T_MarketStall_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/MarketStall/T_MarketStall_Emission.T_MarketStall_Emission",
+    "Roughness": "/Game/Terrarium/Blender/MarketStall/T_MarketStall_Roughness.T_MarketStall_Roughness"
+  },
+  "source_fbx_sha256": "30587cfd8e68ba9e8c70007a4e044155318092e6c18e4ece15f35ffee961d574",
+  "dimensions_cm": [
+    431.99998474121094,
+    244.0000228881836,
+    261.0099856555462
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}

@@ -1,0 +1,53 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "bindings": [
+    {
+      "asset": "Cottage",
+      "mesh": "/Game/Terrarium/Blender/Cottage/SM_Blender_Cottage.SM_Blender_Cottage",
+      "material": "/Game/Terrarium/Blender/Cottage/M_Cottage.M_Cottage"
+    },
+    {
+      "asset": "Lantern",
+      "mesh": "/Game/Terrarium/Blender/Lantern/SM_Blender_Lantern.SM_Blender_Lantern",
+      "material": "/Game/Terrarium/Blender/Lantern/M_Lantern.M_Lantern"
+    },
+    {
+      "asset": "Sign",
+      "mesh": "/Game/Terrarium/Blender/Sign/SM_Blender_Sign.SM_Blender_Sign",
+      "material": "/Game/Terrarium/Blender/Sign/M_Sign.M_Sign"
+    },
+    {
+      "asset": "MarketStall",
+      "mesh": "/Game/Terrarium/Blender/MarketStall/SM_Blender_MarketStall.SM_Blender_MarketStall",
+      "material": "/Game/Terrarium/Blender/MarketStall/M_MarketStall.M_MarketStall"
+    }
+  ],
+  "collision_probes": [
+    {
+      "name": "opening_low",
+      "hit": false,
+      "expected_hit": false,
+      "passed": true
+    },
+    {
+      "name": "opening_mid",
+      "hit": false,
+      "expected_hit": false,
+      "passed": true
+    },
+    {
+      "name": "left_counter",
+      "hit": true,
+      "expected_hit": true,
+      "passed": true
+    },
+    {
+      "name": "right_counter",
+      "hit": true,
+      "expected_hit": true,
+      "passed": true
+    }
+  ],
+  "limits": "Point traces verify opening versus counter blocking. Character capsule traversal and full gameplay have not been tested.",
+  "fidelity": "not_complete"
+}

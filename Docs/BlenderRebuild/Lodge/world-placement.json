@@ -1,0 +1,26 @@
+{
+  "asset": "Lodge",
+  "actor": "Blender_Lodge_UpperTerrace",
+  "mesh": "/Game/Terrarium/Blender/Lodge/SM_Blender_Lodge.SM_Blender_Lodge",
+  "location_cm": [
+    -2170,
+    -140,
+    880
+  ],
+  "scale": 0.85,
+  "yaw": -90,
+  "bounds_center": [
+    -2143.8412422180177,
+    -140.0,
+    1118.0
+  ],
+  "bounds_extent": [
+    198.24126815795898,
+    221.0000259399415,
+    238.0
+  ],
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "collision": "complex_as_simple",
+  "status": "placed_pending_visual_check",
+  "site": "Empty upper terrace; existing cottage and wheat field retained"
+}

@@ -1,0 +1,12 @@
+{
+  "asset": "MarketStall",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "25eb4319dc873195f922853a27e5b940a5706a8e649a13b923139b963cbc0fc3",
+  "sha256": "3e59128ae9f33822d028799d3b5f2c2482fe63e4024cb9827b2a7490f986df71",
+  "scene": "Terrarium_MarketStall",
+  "parts": 634,
+  "packed_images": 3,
+  "active_camera": "Reference camera.002",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

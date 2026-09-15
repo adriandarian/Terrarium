@@ -1,0 +1,25 @@
+{
+  "asset": "MarketStall",
+  "actor": "Blender_MarketStall_UpperPath",
+  "mesh": "/Game/Terrarium/Blender/MarketStall/SM_Blender_MarketStall.SM_Blender_MarketStall",
+  "location_cm": [
+    275,
+    550,
+    560
+  ],
+  "scale": 0.8,
+  "yaw": 0,
+  "bounds_center": [
+    284.6000061035156,
+    562.3999908447265,
+    664.059994995594
+  ],
+  "bounds_extent": [
+    172.79999389648435,
+    97.60000915527345,
+    104.40399426221848
+  ],
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "collision": "complex_as_simple",
+  "status": "placed_pending_visual_check"
+}

@@ -1,0 +1,47 @@
+{
+  "asset": "MeadowShrub",
+  "mesh": "SM_Blender_MeadowShrub",
+  "source": "SourceAssets/Voxel/meadow_shrub.png",
+  "source_sha256": "75bb5f4bab4f138d9115a3390a5e5056f452b98f8c50286c61f93cac4822fefb",
+  "parts": 107,
+  "vertices": 5992,
+  "triangles": 11556,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.9750000238418579,
+      -0.4311999976634979,
+      0.0
+    ],
+    "max": [
+      0.9335960745811462,
+      0.4320000112056732,
+      0.9430000185966492
+    ]
+  },
+  "files": {
+    "MeadowShrub_BaseColor.png": {
+      "bytes": 9164,
+      "sha256": "adbb359ea5fef3c40d0429b9069dba292ca06f8265d4221f44e24c20b5c4d12b"
+    },
+    "MeadowShrub_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "MeadowShrub_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_MeadowShrub.fbx": {
+      "bytes": 215756,
+      "sha256": "d8c8437396a3f22817e9468593b40b0dda8277162530cdb94ccb5f26909bc3b4"
+    },
+    "SM_Blender_MeadowShrub.glb": {
+      "bytes": 828408,
+      "sha256": "72968ce548d4b723f9ca916896fccb054e4dbfcf5924e23a86b08659a4ea5057"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}

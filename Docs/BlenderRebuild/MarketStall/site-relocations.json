@@ -1,0 +1,107 @@
+[
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_14",
+    "index": 27,
+    "before_cm": [
+      169.59491855190876,
+      483.8415607348584,
+      561.0
+    ],
+    "after_cm": [
+      -80.40508144809124,
+      483.8415607348584,
+      561.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 214,
+    "before_cm": [
+      153.09868736749013,
+      548.5293455107459,
+      563.0
+    ],
+    "after_cm": [
+      -96.90131263250987,
+      548.5293455107459,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 215,
+    "before_cm": [
+      160.9176387910767,
+      581.2027477328745,
+      563.0
+    ],
+    "after_cm": [
+      -89.08236120892329,
+      581.2027477328745,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 216,
+    "before_cm": [
+      133.7489273955299,
+      580.2286525118957,
+      563.0
+    ],
+    "after_cm": [
+      -116.2510726044701,
+      580.2286525118957,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 217,
+    "before_cm": [
+      196.02137524671554,
+      577.8212168834584,
+      563.0
+    ],
+    "after_cm": [
+      -53.978624753284464,
+      577.8212168834584,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 218,
+    "before_cm": [
+      131.4275069813431,
+      539.4768479333882,
+      563.0
+    ],
+    "after_cm": [
+      -118.5724930186569,
+      539.4768479333882,
+      563.0
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "FoliageInstancedStaticMeshComponent_9",
+    "index": 219,
+    "before_cm": [
+      180.05010958643126,
+      539.139696542902,
+      563.0
+    ],
+    "after_cm": [
+      -69.94989041356874,
+      539.139696542902,
+      563.0
+    ]
+  }
+]
