@@ -1,0 +1,114 @@
+{
+  "source_blend_sha256": "62be4d517f45eaf0b84184cd4b06f7366ec9cdfe8b8f9968d5bbadd78a93a8b2",
+  "courses": [
+    {
+      "reference_corner_px": [
+        455,
+        650
+      ],
+      "projected_corner_px": [
+        454.9997863769531,
+        650.0006291270256
+      ],
+      "error_pixels": 0.000664406216483415,
+      "palette_index": 9
+    },
+    {
+      "reference_corner_px": [
+        553,
+        657
+      ],
+      "projected_corner_px": [
+        552.9997794628143,
+        657.0006499886513
+      ],
+      "error_pixels": 0.000686383199859887,
+      "palette_index": 1
+    },
+    {
+      "reference_corner_px": [
+        505,
+        592
+      ],
+      "projected_corner_px": [
+        504.99978590011597,
+        592.0005683898926
+      ],
+      "error_pixels": 0.0006073761851834524,
+      "palette_index": 9
+    },
+    {
+      "reference_corner_px": [
+        593,
+        603
+      ],
+      "projected_corner_px": [
+        592.9997865557671,
+        603.0006011724472
+      ],
+      "error_pixels": 0.0006379394578277691,
+      "palette_index": 8
+    },
+    {
+      "reference_corner_px": [
+        800,
+        565
+      ],
+      "projected_corner_px": [
+        799.9997681379318,
+        565.0007121562958
+      ],
+      "error_pixels": 0.0007489503376545695,
+      "palette_index": 8
+    },
+    {
+      "reference_corner_px": [
+        650,
+        455
+      ],
+      "projected_corner_px": [
+        649.9997695684433,
+        455.00060856342316
+      ],
+      "error_pixels": 0.0006507289315284804,
+      "palette_index": 15
+    },
+    {
+      "reference_corner_px": [
+        700,
+        442
+      ],
+      "projected_corner_px": [
+        699.9997690916061,
+        442.0006445646286
+      ],
+      "error_pixels": 0.0006846767462084444,
+      "palette_index": 15
+    },
+    {
+      "reference_corner_px": [
+        667,
+        406
+      ],
+      "projected_corner_px": [
+        666.9997454881668,
+        406.0006867647171
+      ],
+      "error_pixels": 0.0007324083901010839,
+      "palette_index": 10
+    },
+    {
+      "reference_corner_px": [
+        750,
+        431
+      ],
+      "projected_corner_px": [
+        749.9998433589935,
+        431.000611782074
+      ],
+      "error_pixels": 0.0006315169918098193,
+      "palette_index": 9
+    }
+  ],
+  "limits": "Nine manually read crown-course corners, including two saddle-brown blocks, their green neighbor and a rear ridge block. This only verifies intended construction placement, not full surface visibility or overall likeness."
+}
