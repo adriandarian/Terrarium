@@ -1,0 +1,35 @@
+{
+  "views": {
+    "front": {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_DeepDelverMark_R8",
+      "name": "SM_Recon_DeepDelverMark_R8-front",
+      "yaw": 90,
+      "pitch": -20,
+      "projection": "orthographic",
+      "ortho_width": 143
+    },
+    "back": {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_DeepDelverMark_R8",
+      "name": "SM_Recon_DeepDelverMark_R8-back",
+      "yaw": 250,
+      "pitch": -20,
+      "projection": "orthographic",
+      "ortho_width": 143
+    }
+  },
+  "lighting": {
+    "StudioKey": 3.5,
+    "StudioFill": 0.65,
+    "StudioRim": 0.5,
+    "StudioAmbientSky": 0.35
+  },
+  "key_rotation_degrees": [
+    -42,
+    55,
+    0
+  ],
+  "ambient_occlusion_intensity": 0.75,
+  "ambient_occlusion_radius_cm": 12,
+  "render": "native Unreal Lit; no image editing",
+  "studio_settings_restored_after_capture": true
+}

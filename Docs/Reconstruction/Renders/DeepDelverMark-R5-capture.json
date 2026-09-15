@@ -1,0 +1,18 @@
+{
+  "front": {
+    "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_DeepDelverMark_R5",
+    "name": "SM_Recon_DeepDelverMark_R5-front",
+    "yaw": 90,
+    "pitch": -12,
+    "projection": "orthographic",
+    "ortho_width": 143
+  },
+  "back": {
+    "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_DeepDelverMark_R5",
+    "name": "SM_Recon_DeepDelverMark_R5-back",
+    "yaw": 250,
+    "pitch": -12,
+    "projection": "orthographic",
+    "ortho_width": 143
+  }
+}

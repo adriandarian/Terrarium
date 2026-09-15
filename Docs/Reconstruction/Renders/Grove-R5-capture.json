@@ -1,0 +1,37 @@
+{
+  "views": {
+    "front": {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Grove_R5",
+      "name": "SM_Recon_Grove_R5-front",
+      "yaw": 75,
+      "pitch": -16,
+      "projection": "orthographic",
+      "ortho_width": 130,
+      "resolution": 1254
+    },
+    "back": {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Grove_R5",
+      "name": "SM_Recon_Grove_R5-back",
+      "yaw": 255,
+      "pitch": -16,
+      "projection": "orthographic",
+      "ortho_width": 130,
+      "resolution": 1254
+    }
+  },
+  "lighting": {
+    "StudioKey": 4.5,
+    "StudioFill": 1.1,
+    "StudioRim": 0.5,
+    "StudioAmbientSky": 0.45
+  },
+  "key_rotation_degrees": [
+    -42,
+    125,
+    0
+  ],
+  "ambient_occlusion_intensity": 0.75,
+  "ambient_occlusion_radius_cm": 12,
+  "render": "native Unreal Lit; no image editing",
+  "studio_settings_restored_after_capture": true
+}

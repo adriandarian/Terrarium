@@ -1,0 +1,28 @@
+{
+  "views": [
+    {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_roof_tile_v5_R2",
+      "name": "SM_Recon_cottage_roof_tile_v5_R2-front",
+      "yaw": 115,
+      "pitch": -55,
+      "resolution": 1254
+    },
+    {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_roof_tile_v5_R2",
+      "name": "SM_Recon_cottage_roof_tile_v5_R2-back",
+      "yaw": 295,
+      "pitch": -55,
+      "resolution": 1254
+    },
+    {
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_roof_tile_v5_R2",
+      "name": "SM_Recon_cottage_roof_tile_v5_R2-top",
+      "yaw": 270,
+      "pitch": -90,
+      "resolution": 1254,
+      "projection": "orthographic",
+      "ortho_width": 106
+    }
+  ],
+  "lighting": "unchanged saved ReviewStage"
+}
