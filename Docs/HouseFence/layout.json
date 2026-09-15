@@ -1,0 +1,48 @@
+{
+  "backup": "/Game/Terrarium/Maps/HomesteadBeforeHouseFence",
+  "house": "SM_Cottage_Reference_v2",
+  "fence_runs_in_reference_pixels": [
+    [
+      [
+        328,
+        393
+      ],
+      [
+        374,
+        368
+      ],
+      [
+        421,
+        338
+      ],
+      [
+        409,
+        307
+      ],
+      [
+        367,
+        286
+      ],
+      [
+        307,
+        285
+      ]
+    ],
+    [
+      [
+        146,
+        314
+      ],
+      [
+        180,
+        294
+      ],
+      [
+        210,
+        281
+      ]
+    ]
+  ],
+  "posts": 13,
+  "rail_sections": 11
+}
