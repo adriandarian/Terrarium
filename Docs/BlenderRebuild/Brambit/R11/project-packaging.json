@@ -1,0 +1,12 @@
+{
+  "asset": "Brambit",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "ef11cd0fdb4d7f7ed5e300ce2e5660bead9ab47f305a6c416d7d9cae7db9a000",
+  "sha256": "09851ee3631575abf3a3acfb3d8e857a79cb0d987690287ddeab5f15076b5fc3",
+  "scene": "Terrarium_Brambit",
+  "parts": 5,
+  "packed_images": 3,
+  "active_camera": "Reference camera",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

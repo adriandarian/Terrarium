@@ -1,0 +1,9 @@
+{
+  "revision": "r11_solid_leaf_joins",
+  "source": "SourceAssets/Voxel/brambit.png",
+  "source_sha256": "cd2c0d5a73f115998cdfa9386b3f7e61a7430b708aa1d48457bddc1b1472ee25",
+  "method": "Five closed volumes, with planar quad unions for the shoots and Boolean unions for the body and cap, retain hidden editable construction blocks. Coplanar leaf and bark overlaps have been removed from the visible geometry. A shortened stepped body with four shrinking rear cross-sections and broad staggered bark regions and sparse chunky knots, inset tan face, physical dark eyes and nose, wrapping bark plates, four narrower stump legs and dark feet placed from the three visible sole landmarks, asymmetric moss cap with lower front courses and an offset warm saddle and three asymmetric leafy shoots assembled from measured visible cube corners, with joins flush to the front leaf plane, contained within the leaf depth, and shallow relief on selected leaf faces. Micrometre-scale Boolean slivers are cleaned before beveling. Block-varied pigment and roughness atlases with planar UV coverage; no source-image projection or baked illumination.",
+  "inferred": "Back surfaces, hidden fourth leg, depth and underside are inferred from the single concept. Static model only; not yet rigged or animated.",
+  "status": "imported_with_visual_refinement_open",
+  "accepted_fidelity": false
+}
