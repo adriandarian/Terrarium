@@ -1,0 +1,39 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "map": "<Object '/Game/Terrarium/Maps/ModularGallery.ModularGallery:PersistentLevel' (0x000002517EDFB400) Class 'Level'>",
+  "displayed_asset_count": 15,
+  "material_two_sided": false,
+  "camera_projection": "<CameraProjectionMode.ORTHOGRAPHIC: 1>",
+  "manual_exposure": {
+    "iso": 100.0,
+    "shutter_speed": 64.0,
+    "fstop": 8.0,
+    "compensation": 0.0
+  },
+  "cvars": {
+    "r.DynamicGlobalIlluminationMethod": 1,
+    "r.ReflectionMethod": 1,
+    "r.GenerateMeshDistanceFields": 1,
+    "r.Lumen.DiffuseIndirect.Allow": 1,
+    "r.Lumen.Reflections.Allow": 1,
+    "r.Shadow.Virtual.Enable": 1
+  },
+  "meshes": [
+    "/Game/Terrarium/Meshes/SM_OrchardTree.SM_OrchardTree",
+    "/Game/Terrarium/Meshes/SM_Cottage.SM_Cottage",
+    "/Game/Terrarium/Meshes/SM_Shed.SM_Shed",
+    "/Game/Terrarium/Meshes/SM_WheatPatch.SM_WheatPatch",
+    "/Game/Terrarium/Meshes/SM_PlankBridge.SM_PlankBridge",
+    "/Game/Terrarium/Meshes/SM_CliffWall.SM_CliffWall",
+    "/Game/Terrarium/Meshes/SM_StoneStairs.SM_StoneStairs",
+    "/Game/Terrarium/Meshes/SM_PerimeterWall.SM_PerimeterWall",
+    "/Game/Terrarium/Meshes/SM_GardenBed.SM_GardenBed",
+    "/Game/Terrarium/Meshes/SM_Bush.SM_Bush",
+    "/Game/Terrarium/Meshes/SM_FencePost.SM_FencePost",
+    "/Game/Terrarium/Meshes/SM_FenceRails.SM_FenceRails",
+    "/Game/Terrarium/Meshes/SM_GrassTile.SM_GrassTile",
+    "/Game/Terrarium/Meshes/SM_PathTile.SM_PathTile",
+    "/Game/Terrarium/Meshes/SM_WaterTile.SM_WaterTile"
+  ]
+}

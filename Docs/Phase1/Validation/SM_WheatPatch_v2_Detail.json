@@ -1,0 +1,14 @@
+{
+  "asset": "/Game/Terrarium/Meshes/SM_WheatPatch_v2_Detail",
+  "triangles": 32896,
+  "vertices": 18588,
+  "closed_components": 1070,
+  "all_components_closed": true,
+  "all_component_volumes_positive": true,
+  "geometry_script_closed": true,
+  "minimum_normal_alignment": 0.9999999999999994,
+  "saved_normal_errors": 0,
+  "refinement_pass": 9,
+  "visual_review": "pending",
+  "revises": "SM_WheatPatch_v2"
+}
