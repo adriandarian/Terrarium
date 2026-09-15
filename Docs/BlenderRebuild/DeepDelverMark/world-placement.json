@@ -1,0 +1,87 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "actor": "Blender_DeepDelverMark_MarketFront",
+  "mesh": "/Game/Terrarium/Blender/DeepDelverMark/SM_Blender_DeepDelverMark.SM_Blender_DeepDelverMark",
+  "location_cm": [
+    355.0,
+    627.988996720314,
+    590.0
+  ],
+  "scale": 0.23,
+  "yaw": 0,
+  "height_cm": 30.036750643253328,
+  "materials": [
+    "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Frame.M_DeepDelverMark_Frame",
+    "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Cavern.M_DeepDelverMark_Cavern",
+    "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Crystal.M_DeepDelverMark_Crystal"
+  ],
+  "camera": "Blender_DeepDelverMark_Review",
+  "support_actor": "Blender_MarketStall_UpperPath",
+  "wall_samples": [
+    {
+      "xz": [
+        352,
+        596
+      ],
+      "y": 624.7999960184097
+    },
+    {
+      "xz": [
+        352,
+        607
+      ],
+      "y": 624.7999960184097
+    },
+    {
+      "xz": [
+        352,
+        618
+      ],
+      "y": 624.7999960184097
+    },
+    {
+      "xz": [
+        355,
+        596
+      ],
+      "y": 624.7999960184097
+    },
+    {
+      "xz": [
+        355,
+        607
+      ],
+      "y": 624.7999960184097
+    },
+    {
+      "xz": [
+        355,
+        618
+      ],
+      "y": 624.7999960184097
+    },
+    {
+      "xz": [
+        358,
+        596
+      ],
+      "y": 624.7999918460846
+    },
+    {
+      "xz": [
+        358,
+        607
+      ],
+      "y": 624.7999918460846
+    },
+    {
+      "xz": [
+        358,
+        618
+      ],
+      "y": 624.7999918460846
+    }
+  ],
+  "back_clearance_cm": 0.015,
+  "status": "saved_reload_and_native_views_verified_fidelity_open"
+}

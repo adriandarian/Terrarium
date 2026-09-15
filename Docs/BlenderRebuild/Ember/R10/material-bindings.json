@@ -1,0 +1,16 @@
+{
+  "slots": [
+    {
+      "index": 0,
+      "imported_name": "M_Ember_Flame_010",
+      "role": "Flame",
+      "material": "/Game/Terrarium/Blender/Ember/M_Ember_Flame.M_Ember_Flame",
+      "parameters": {
+        "Metallic": 0,
+        "Specular": 0.5
+      },
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>"
+    }
+  ],
+  "emission": "None. Opaque stylized flame blocks; no emitted light."
+}

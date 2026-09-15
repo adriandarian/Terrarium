@@ -1,0 +1,25 @@
+{
+  "asset": "DeepDelverMark",
+  "changes": [
+    {
+      "map": "BaseColor",
+      "before_sha256": "01592d500156942a064989876f2a499feb6a2e1a59ac7b3e6675fae06016912c",
+      "after_sha256": "f0659ea28a76de98a3cb352f5a51882e09cadaf85ac44f3f026808630d973938",
+      "bit_depth": 8
+    },
+    {
+      "map": "Emission",
+      "before_sha256": "3d0c0bfd2c5437cbdc4f382593564b7ad0f09885073c0bff5322ab996c038e15",
+      "after_sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c",
+      "bit_depth": 8
+    },
+    {
+      "map": "Roughness",
+      "before_sha256": "a9f859a1b448818bfa3d5b6956e4ee5d9c58da750b5d93692f745f1abd17ba12",
+      "after_sha256": "7401ce0301432f5ac295b65a20a7f77d5af073158a7ed53532103f5d712edce6",
+      "bit_depth": 8
+    }
+  ],
+  "color_transform": "Standard sRGB for BaseColor and Emission; Raw for non-color Roughness. Exposure 0, gamma 1, no look.",
+  "reason": "These PNG16 atlas imports sampled encoded RGB in Unreal despite srgb=true. PNG8 was verified through an RGBA32F shader readback."
+}

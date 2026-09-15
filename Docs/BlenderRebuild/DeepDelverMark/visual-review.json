@@ -1,0 +1,39 @@
+{
+  "revision": "r9_jointed_stone_and_socket_flange_refinement",
+  "parts": 585,
+  "triangles": 64948,
+  "changes": [
+    "Physical hexagonal gold frame, continuous wall to the solid back plate, four corner clips and two gem sockets.",
+    "Recessed square cavern tiles and individual turned-square ledge columns.",
+    "Raised mineral crystal glyph and faceted turquoise gems.",
+    "Hidden sloping solid rear webs support the raised relief.",
+    "Narrower upper stone band and individually jointed shoulder blocks.",
+    "Shorter cavern columns with connecting stepped risers.",
+    "Gold grain in albedo and roughness; angled socket braces and longer lower corner flanges.",
+    "Socket rear supports now use the gold material after rear-view inspection."
+  ],
+  "studio_views": [
+    "front.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "../ColorManagement/DeepDelverMark/After/unreal-viewport.png",
+    "../ColorManagement/DeepDelverMark/AfterSide/unreal-viewport.png",
+    "../ColorManagement/DeepDelverMark/AfterContext/unreal-viewport.png"
+  ],
+  "visually_checked": true,
+  "accepted_fidelity": false,
+  "remaining": [
+    "Cavern ledges are too columnar and regular compared with the denser stepped source.",
+    "Upper gray shoulders now have joints but still need closer fracture and color matching.",
+    "Gold grain, reflective highlights, socket facets and corner profiles need closer matching.",
+    "Unreal shades the gold greener and cavern bluer than the concept.",
+    "Rear plate and support webs are inferred; full collision, pickup and performance remain untested."
+  ],
+  "presentation": "Blender Standard transform, Medium High Contrast, exposure -0.35; Unreal working sky fill 7 with manual bias -12. No added light or emissive material for this badge.",
+  "color_correction": {
+    "maps": "PNG8",
+    "evidence": "../ColorManagement/DeepDelverMark",
+    "finding": "Corrected missing sRGB decode measured in the previous PNG16 atlas import. Geometry and material factors preserved."
+  }
+}
