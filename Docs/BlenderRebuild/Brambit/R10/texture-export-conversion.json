@@ -1,0 +1,25 @@
+{
+  "asset": "Brambit",
+  "changes": [
+    {
+      "map": "BaseColor",
+      "before_sha256": "5510f931c38c8058e46be4689f5e18f0dda20eb98f2704f4422b93119ff0ec29",
+      "after_sha256": "cde598754acc7fcda53ce3073ceb9c24c46033b9539f6885483513161eef1c7b",
+      "bit_depth": 8
+    },
+    {
+      "map": "Emission",
+      "before_sha256": "3d0c0bfd2c5437cbdc4f382593564b7ad0f09885073c0bff5322ab996c038e15",
+      "after_sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c",
+      "bit_depth": 8
+    },
+    {
+      "map": "Roughness",
+      "before_sha256": "0fa94d38ac8c7c2fe10fca28c40c0b899f5663b7743a6b6a5a433c6fcd3271d4",
+      "after_sha256": "0122fbd81e3042b16f05202faad31d59245f8062a698337e5011d367f3dece64",
+      "bit_depth": 8
+    }
+  ],
+  "color_transform": "Standard sRGB for BaseColor and Emission; Raw for non-color Roughness. Exposure 0, gamma 1, no look.",
+  "reason": "These PNG16 atlas imports sampled encoded RGB in Unreal despite srgb=true. PNG8 was verified through an RGBA32F shader readback."
+}

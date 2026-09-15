@@ -1,0 +1,28 @@
+{
+  "revision": "r10_broad_bark_regions",
+  "accepted_fidelity": false,
+  "visually_checked": true,
+  "parts": 5,
+  "editable_construction_blocks": 184,
+  "triangles": 34684,
+  "studio_views": [
+    "front.png",
+    "left.png",
+    "side.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Rear/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "remaining": [
+    "The body remains more rectangular than the reference; the newly asymmetric cap exposes the stems, but its block footprint and shoulder proportions still need closer matching. The forehead now has physical depth, while its transition into surrounding moss remains too regular.",
+    "Broad staggered bark regions and sparse projecting knots replace the dense narrow tiles. Their boundaries, color and depth still differ from the source; rear anatomy is inferred because no rear concept was supplied.",
+    "The main tan face follows measured source boundaries, but the lower tan panels have been extended to remove the recessed bottom strip, but their divisions and colors still need closer matching. The feet are narrower and their three visible sole corners now follow measured concept landmarks; the hidden fourth foot remains inferred.",
+    "The three leaf silhouettes are recognizable, but their block seams, stem exposure and depth arrangement remain different. The earlier diagonal surface artifacts are removed in the checked studio views; the inferred rear still needs a more coherent arrangement of leaf blocks.",
+    "The pigment and roughness maps now contain subtle rectangular variation with actual UV coverage. Their distribution is procedural and still differs from the source; the Unreal face remains darker than the studio reference. The microscopic Boolean slivers have been removed; all current source faces pass the UV-area check.",
+    "Four feet and twenty sole samples pass static support checks, with uneven-ground clearance below 5.5 mm. This model has no rig, animation, locomotion or physics validation."
+  ]
+}
