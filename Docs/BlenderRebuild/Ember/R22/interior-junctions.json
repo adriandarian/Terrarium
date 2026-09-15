@@ -1,0 +1,40 @@
+{
+  "junctions": [
+    {
+      "between": [
+        "Flame cube.022",
+        "Solid flame interior.285"
+      ],
+      "gap_m": 0.016864001750946045,
+      "center_m": [
+        0.5398206412792206,
+        0.12956799566745758,
+        0.5040000081062317
+      ],
+      "dimensions_m": [
+        0.044358670711517334,
+        0.041864001750946046,
+        0.025
+      ]
+    },
+    {
+      "between": [
+        "Flame cube.023",
+        "Flame cube.022"
+      ],
+      "gap_m": 0.03489512508332865,
+      "center_m": [
+        0.6138799786567688,
+        0.135310098528862,
+        0.546369731426239
+      ],
+      "dimensions_m": [
+        0.045348191261291505,
+        0.053348207473754884,
+        0.05
+      ]
+    }
+  ],
+  "purpose": "Solid volume spanning short gaps between the measured front blocks. Four reference sparks are explicitly excluded.",
+  "limits": "Inferred hidden structure; no mechanical strength or rigid-body balance claim."
+}

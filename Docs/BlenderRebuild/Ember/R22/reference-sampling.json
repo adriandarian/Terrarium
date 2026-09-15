@@ -1,0 +1,9 @@
+{
+  "source_sha256": "3f85b40cc0a2660e9ff7c52d7644e7b84e9ec593108a713cd5f0915019d8904c",
+  "files": {
+    "source-column-bottoms.json": "ae658c3b8898cf3d08a45b342de794ed1c50630a7c3a43cc95c2d5f5afceb228",
+    "source-pigment-cells.json": "6d727c0d7973fd513fb80c6525f8d525e6db2b5f17742112d9719b52ce8c806a"
+  },
+  "purpose": "Authoring measurements for inferred cube elevations and uniform per-block pigments. No source PNG texture is included in the exported model.",
+  "limits": "Coarse color classification is an estimate, not intrinsic albedo recovery or a fidelity metric."
+}
