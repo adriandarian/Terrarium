@@ -1,0 +1,8 @@
+{
+  "source_sha256": "cd2c0d5a73f115998cdfa9386b3f7e61a7430b708aa1d48457bddc1b1472ee25",
+  "render_sha256": "21cf89c7649c49a636acb1f0609d5bc7312ff340048d3720b344ef40893463b0",
+  "intersection_over_union": 0.8958620313664202,
+  "mismatched_pixels": 57304,
+  "method": "Fixed reference camera, no image registration or optimization; source chroma foreground versus rendered alpha.",
+  "limits": "Projected outline only. Does not measure internal block layout, colors, face expression, depth or unseen anatomy."
+}

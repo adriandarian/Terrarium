@@ -1,0 +1,25 @@
+{
+  "asset": "Brambit",
+  "mesh": "/Game/Terrarium/Blender/Brambit/SM_Blender_Brambit.SM_Blender_Brambit",
+  "material": "/Game/Terrarium/Blender/Brambit/M_Brambit.M_Brambit",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/Brambit/T_Brambit_BaseColor.T_Brambit_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/Brambit/T_Brambit_Emission.T_Brambit_Emission",
+    "Roughness": "/Game/Terrarium/Blender/Brambit/T_Brambit_Roughness.T_Brambit_Roughness"
+  },
+  "source_fbx_sha256": "b7be5f264535e574678d30f0274e30cc45b6e77540776a3c459427933182c90c",
+  "dimensions_cm": [
+    68.6697940826416,
+    51.05108642578125,
+    95.87334823608398
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check",
+  "material_slots": [
+    {
+      "index": 0,
+      "imported_name": "M_Brambit_Pigment_003",
+      "material": "/Game/Terrarium/Blender/Brambit/M_Brambit.M_Brambit"
+    }
+  ]
+}
