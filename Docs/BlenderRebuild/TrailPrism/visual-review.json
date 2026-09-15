@@ -1,0 +1,36 @@
+{
+  "revision": "r6_wrapped_cage_and_raised_equator",
+  "parts": 122,
+  "triangles": 17432,
+  "changes": [
+    "Continuous stepped amber crystal with separate luminous solid inclusion",
+    "Raised equatorial frame and longer lower taper",
+    "Narrower upper tip and four orthogonal corner clamps with joined top pegs",
+    "Three packed atlas textures and material roles retained through FBX and GLB",
+    "World exposure retained; core emission, local point light and an explicit amber-scattering approximation support the glow in shade"
+  ],
+  "studio_views": [
+    "front.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "../ColorManagement/TrailPrism/After/unreal-viewport.png",
+    "../ColorManagement/TrailPrism/AfterSide/unreal-viewport.png",
+    "../ColorManagement/TrailPrism/AfterContext/unreal-viewport.png"
+  ],
+  "visually_checked": true,
+  "remaining": [
+    "Crystal tier proportions and facet pattern still differ from the concept",
+    "Clamp/stud dimensions and metal color need closer source matching",
+    "Blender internal reflections differ from the illustrated core",
+    "Unreal crystal is paler and flatter; the outer bronze is much darker under the awning",
+    "Unseen rear is inferred from the four-sided design"
+  ],
+  "optics_limit": "The Blender crystal uses stylized transmission 0.82 and IOR 1.12. UE surface translucency uses opacity 0.36, refraction 1.0054, core emission 2000 and amber-scattering emission 1800 at world exposure bias -12. A 150 lumen shadowless point light approximates core illumination over 40 cm. This is not path-traced optical equivalence.",
+  "accepted_fidelity": false,
+  "color_correction": {
+    "maps": "PNG8",
+    "evidence": "../ColorManagement/TrailPrism",
+    "finding": "Corrected missing sRGB decode measured in the previous PNG16 atlas import. Geometry and material factors preserved."
+  }
+}

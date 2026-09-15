@@ -1,0 +1,11 @@
+{
+  "asset": "TrailPrism",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_TrailPrism",
+  "parts": 122,
+  "packed_images": 3,
+  "material_slots": 3,
+  "triangles": 17432,
+  "sha256": "a174d993975d102f68e58b9e57f46dd683a295ac87cc939ba54bd33cc92bdfd1",
+  "active_camera": "Reference camera"
+}

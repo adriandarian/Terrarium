@@ -1,0 +1,11 @@
+{
+  "asset": "TrailTerrain",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_TrailTerrain",
+  "parts": 165,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 6774,
+  "sha256": "7140e1c5646dda721fecbc3294c9dadf8ba8ee67d989df2a2756ab11be4b37fd",
+  "active_camera": "Reference camera.020"
+}

@@ -1,0 +1,230 @@
+{
+  "asset": "TrailTerrain",
+  "method": "Ray samples from the actual merged Blender export mesh; source XY is recorded before FBX coordinate conversion.",
+  "samples": [
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        -116.90590381622314,
+        63.28549385070801
+      ],
+      "expected_z_cm": 0.9000003337860107
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        -74.23104047775269,
+        93.80725026130676
+      ],
+      "expected_z_cm": 0.899999588727951
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        27.318769693374634,
+        101.44498348236084
+      ],
+      "expected_z_cm": 0.9000003337860107
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        -96.33121490478516,
+        70.770663022995
+      ],
+      "expected_z_cm": 0.899999588727951
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        77.33321189880371,
+        78.56861352920532
+      ],
+      "expected_z_cm": 0.8999988436698914
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        10.905108600854874,
+        46.297627687454224
+      ],
+      "expected_z_cm": 0.899999588727951
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        -66.4588212966919,
+        28.13853621482849
+      ],
+      "expected_z_cm": 0.899999588727951
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        52.71533727645874,
+        25.136390328407288
+      ],
+      "expected_z_cm": 0.899999588727951
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        -49.9850332736969,
+        -1.6493214294314384
+      ],
+      "expected_z_cm": 0.9000003337860107
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        115.9489631652832,
+        -11.16427406668663
+      ],
+      "expected_z_cm": 0.899999588727951
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        -12.030075490474701,
+        -19.002051651477814
+      ],
+      "expected_z_cm": 0.899999588727951
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        114.66248035430908,
+        -42.21545457839966
+      ],
+      "expected_z_cm": 0.899999588727951
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        -54.57175374031067,
+        -63.73966336250305
+      ],
+      "expected_z_cm": 0.9000003337860107
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        101.43541097640991,
+        -54.49077486991882
+      ],
+      "expected_z_cm": 0.8999988436698914
+    },
+    {
+      "kind": "paver",
+      "local_xy_cm": [
+        -78.74231934547424,
+        -108.51675271987915
+      ],
+      "expected_z_cm": 0.899999588727951
+    },
+    {
+      "kind": "soil",
+      "local_xy_cm": [
+        -90.0,
+        -80.0
+      ],
+      "expected_z_cm": -0.19999966025352478
+    },
+    {
+      "kind": "soil",
+      "local_xy_cm": [
+        -90.0,
+        80.0
+      ],
+      "expected_z_cm": -0.19999966025352478
+    },
+    {
+      "kind": "soil",
+      "local_xy_cm": [
+        -60.0,
+        -40.0
+      ],
+      "expected_z_cm": -0.19999966025352478
+    },
+    {
+      "kind": "soil",
+      "local_xy_cm": [
+        -60.0,
+        40.0
+      ],
+      "expected_z_cm": -0.19999966025352478
+    },
+    {
+      "kind": "soil",
+      "local_xy_cm": [
+        -30.0,
+        -40.0
+      ],
+      "expected_z_cm": -0.19999966025352478
+    },
+    {
+      "kind": "soil",
+      "local_xy_cm": [
+        -30.0,
+        40.0
+      ],
+      "expected_z_cm": -0.19999966025352478
+    },
+    {
+      "kind": "soil",
+      "local_xy_cm": [
+        0,
+        -40.0
+      ],
+      "expected_z_cm": -0.19999966025352478
+    },
+    {
+      "kind": "soil",
+      "local_xy_cm": [
+        30.0,
+        -80.0
+      ],
+      "expected_z_cm": -0.19999966025352478
+    },
+    {
+      "kind": "soil",
+      "local_xy_cm": [
+        30.0,
+        0
+      ],
+      "expected_z_cm": -0.19999966025352478
+    },
+    {
+      "kind": "soil",
+      "local_xy_cm": [
+        30.0,
+        80.0
+      ],
+      "expected_z_cm": -0.19999966025352478
+    },
+    {
+      "kind": "soil",
+      "local_xy_cm": [
+        60.0,
+        40.0
+      ],
+      "expected_z_cm": -0.19999966025352478
+    },
+    {
+      "kind": "soil",
+      "local_xy_cm": [
+        90.0,
+        -80.0
+      ],
+      "expected_z_cm": -0.19999966025352478
+    },
+    {
+      "kind": "soil",
+      "local_xy_cm": [
+        90.0,
+        0
+      ],
+      "expected_z_cm": -0.19999966025352478
+    }
+  ]
+}

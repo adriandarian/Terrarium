@@ -1,0 +1,11 @@
+{
+  "source": "SourceAssets/Voxel/trail_prism.png",
+  "interpretation": "Stepped solid amber bipyramid with a separate luminous inclusion and four bronze corner clamps. Unseen rear repeats the four-sided cage. No flat icon plane.",
+  "materials": [
+    "Crystal",
+    "Core",
+    "Frame"
+  ],
+  "status": "imported_with_visual_refinement_open",
+  "revision": "r6_wrapped_cage_and_raised_equator"
+}

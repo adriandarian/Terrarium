@@ -1,0 +1,35 @@
+{
+  "asset": "TrailPrism",
+  "mesh": "/Game/Terrarium/Blender/TrailPrism/SM_Blender_TrailPrism.SM_Blender_TrailPrism",
+  "material": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism.M_TrailPrism",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/TrailPrism/T_TrailPrism_BaseColor.T_TrailPrism_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/TrailPrism/T_TrailPrism_Emission.T_TrailPrism_Emission",
+    "Roughness": "/Game/Terrarium/Blender/TrailPrism/T_TrailPrism_Roughness.T_TrailPrism_Roughness"
+  },
+  "source_fbx_sha256": "1cc275a4d6f8471d672d37eb366c4c80863755dad1c6ce36ae5bb2d2e7ced61e",
+  "dimensions_cm": [
+    55.48768997192383,
+    55.48768997192383,
+    112.0
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check",
+  "material_slots": [
+    {
+      "index": 0,
+      "imported_name": "M_TrailPrism_Crystal_001",
+      "material": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism.M_TrailPrism"
+    },
+    {
+      "index": 1,
+      "imported_name": "M_TrailPrism_Core_005",
+      "material": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism.M_TrailPrism"
+    },
+    {
+      "index": 2,
+      "imported_name": "M_TrailPrism_Frame_005",
+      "material": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism.M_TrailPrism"
+    }
+  ]
+}

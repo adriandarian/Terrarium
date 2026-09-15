@@ -1,0 +1,18 @@
+{
+  "asset": "TrailTerrain",
+  "mesh": "/Game/Terrarium/Blender/TrailTerrain/SM_Blender_TrailTerrain.SM_Blender_TrailTerrain",
+  "material": "/Game/Terrarium/Blender/TrailTerrain/M_TrailTerrain.M_TrailTerrain",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/TrailTerrain/T_TrailTerrain_BaseColor.T_TrailTerrain_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/TrailTerrain/T_TrailTerrain_Emission.T_TrailTerrain_Emission",
+    "Roughness": "/Game/Terrarium/Blender/TrailTerrain/T_TrailTerrain_Roughness.T_TrailTerrain_Roughness"
+  },
+  "source_fbx_sha256": "872c5ec0dda69cde1c79c94d619d35bc2292ab9fa2fd24d6e3dc74f219a433e6",
+  "dimensions_cm": [
+    240.00003051757812,
+    240.00003051757812,
+    14.899999976158142
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}

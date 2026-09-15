@@ -1,0 +1,47 @@
+{
+  "asset": "TrailTerrain",
+  "mesh": "SM_Blender_TrailTerrain",
+  "source": "SourceAssets/Voxel/terrain_trail_top_v8.png",
+  "source_sha256": "b0b2f1fc7c5d21fb37450c2cc38d18a754e4ed44f5f4ea32d0588f22dbce03f1",
+  "parts": 165,
+  "vertices": 3717,
+  "triangles": 6774,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -1.2000000476837158,
+      -1.2000000476837158,
+      -0.14000000059604645
+    ],
+    "max": [
+      1.2000000476837158,
+      1.2000000476837158,
+      0.008999999612569809
+    ]
+  },
+  "files": {
+    "SM_Blender_TrailTerrain.fbx": {
+      "bytes": 165916,
+      "sha256": "872c5ec0dda69cde1c79c94d619d35bc2292ab9fa2fd24d6e3dc74f219a433e6"
+    },
+    "SM_Blender_TrailTerrain.glb": {
+      "bytes": 2442112,
+      "sha256": "17a8adadc26ba1b034151244524ef60d710e8eab7eca33f7752b0b5c5cf25581"
+    },
+    "TrailTerrain_BaseColor.png": {
+      "bytes": 1994885,
+      "sha256": "b0b2f1fc7c5d21fb37450c2cc38d18a754e4ed44f5f4ea32d0588f22dbce03f1"
+    },
+    "TrailTerrain_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "TrailTerrain_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance"
+}

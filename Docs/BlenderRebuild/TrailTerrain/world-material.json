@@ -1,0 +1,7 @@
+{
+  "asset": "TrailTerrain",
+  "material": "/Game/Terrarium/Blender/TrailTerrain/M_TrailTerrain.M_TrailTerrain",
+  "mapping": "Authored UVs preserve physical paver and source-albedo alignment; no world projection.",
+  "collision": "ComplexAsSimple",
+  "visual_acceptance": false
+}

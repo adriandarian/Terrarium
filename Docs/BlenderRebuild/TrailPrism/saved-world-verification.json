@@ -1,0 +1,100 @@
+{
+  "reload_verified": true,
+  "actor": "Blender_TrailPrism_MarketCounter",
+  "materials": [
+    {
+      "role": "Crystal",
+      "material": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Crystal.M_TrailPrism_Crystal",
+      "passed": true
+    },
+    {
+      "role": "Core",
+      "material": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Core.M_TrailPrism_Core",
+      "passed": true
+    },
+    {
+      "role": "Frame",
+      "material": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Frame.M_TrailPrism_Frame",
+      "passed": true
+    }
+  ],
+  "counter_support": [
+    {
+      "xy": [
+        306.66,
+        622.66
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        306.66,
+        623.0
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        306.66,
+        623.34
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        307.0,
+        622.66
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        307.0,
+        623.0
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        307.0,
+        623.34
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        307.34,
+        622.66
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        307.34,
+        623.0
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        307.34,
+        623.34
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    }
+  ],
+  "base_clearance_cm": 0.01999999999998181,
+  "source_hash_verified": true,
+  "core_light_verified": true,
+  "world_exposure_bias": -12,
+  "limits": "Sampled static support and shader bindings; no gameplay pickup, rigid-body balance, translucency sorting across all views or performance validation. Visual refinement remains open."
+}

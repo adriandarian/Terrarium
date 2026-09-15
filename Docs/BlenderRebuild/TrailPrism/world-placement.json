@@ -1,0 +1,88 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "actor": "Blender_TrailPrism_MarketCounter",
+  "mesh": "/Game/Terrarium/Blender/TrailPrism/SM_Blender_TrailPrism.SM_Blender_TrailPrism",
+  "location_cm": [
+    307.0,
+    623.0,
+    635.0119962882995
+  ],
+  "scale": 0.19,
+  "yaw": 0,
+  "height_cm": 21.28,
+  "materials": [
+    "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Crystal.M_TrailPrism_Crystal",
+    "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Core.M_TrailPrism_Core",
+    "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Frame.M_TrailPrism_Frame"
+  ],
+  "camera": "Blender_TrailPrism_Review",
+  "support_actor": "Blender_MarketStall_UpperPath",
+  "support_probes": [
+    {
+      "xy": [
+        306.66,
+        622.66
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        306.66,
+        623.0
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        306.66,
+        623.34
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        307.0,
+        622.66
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        307.0,
+        623.0
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        307.0,
+        623.34
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        307.34,
+        622.66
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        307.34,
+        623.0
+      ],
+      "z": 634.9919962882996
+    },
+    {
+      "xy": [
+        307.34,
+        623.34
+      ],
+      "z": 634.9919962882996
+    }
+  ],
+  "base_clearance_cm": 0.02,
+  "status": "saved_reload_and_native_views_verified_fidelity_open",
+  "limits": "Static display on a small flat tip; rigid-body balance and gameplay pickup are untested."
+}

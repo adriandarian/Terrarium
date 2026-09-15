@@ -1,0 +1,25 @@
+{
+  "asset": "TrailPrism",
+  "changes": [
+    {
+      "map": "BaseColor",
+      "before_sha256": "c9a73ee5f45010a54230eacb5bf6ece234cac9875ab7d5c08e3ca5a91bbcfb37",
+      "after_sha256": "850297b9b7457ad26debe1ff61714341dd3a67d1578368397cfb7e1159074a41",
+      "bit_depth": 8
+    },
+    {
+      "map": "Emission",
+      "before_sha256": "533c61bb46bb4e80d338020a20ecbd24c6577aea9272cdac0ec58b02992c8018",
+      "after_sha256": "c6845669e87d3f16099ea2898570fb1e060d99e6a2147ad9c03d191f16fc6893",
+      "bit_depth": 8
+    },
+    {
+      "map": "Roughness",
+      "before_sha256": "3ea98047fbaf3ac64d2c665a4032af87efaa2c94d7ff8deff7512d4982707d1c",
+      "after_sha256": "d3624f88b70f86015e374108257cb9a154ca941b0fda6e16e259bcac81b94c45",
+      "bit_depth": 8
+    }
+  ],
+  "color_transform": "Standard sRGB for BaseColor and Emission; Raw for non-color Roughness. Exposure 0, gamma 1, no look.",
+  "reason": "These PNG16 atlas imports sampled encoded RGB in Unreal despite srgb=true. PNG8 was verified through an RGBA32F shader readback."
+}
