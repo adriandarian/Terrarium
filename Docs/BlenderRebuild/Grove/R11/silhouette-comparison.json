@@ -1,0 +1,29 @@
+{
+  "source_sha256": "4f35d656b970b32d39222da6f53bffcdfa5b5d7754c1df5756ba1ef4dd3684b3",
+  "method": "Pixel silhouette intersection over union using source foreground against magenta and Blender alpha > 127, fixed matching 1254-pixel orthographic camera, no scaling/alignment optimization. Base crop rows 810 through 1199.",
+  "revisions": {
+    "r7": {
+      "full": {
+        "intersection_over_union": 0.8957269032069803,
+        "mismatched_pixels": 50742
+      },
+      "base_below_stem": {
+        "intersection_over_union": 0.845896843375414,
+        "mismatched_pixels": 27075
+      },
+      "render_sha256": "13544e18211183b716d28a1d1e532a18ab0c19bf6b1d4855725ea5c10e005a39"
+    },
+    "r11": {
+      "full": {
+        "intersection_over_union": 0.9548150185845067,
+        "mismatched_pixels": 21189
+      },
+      "base_below_stem": {
+        "intersection_over_union": 0.9778452459336211,
+        "mismatched_pixels": 3634
+      },
+      "render_sha256": "4a86900d533971a115be8054c46d828b6baa9d48441d40750961a186bb5e4c2e"
+    }
+  },
+  "limits": "Projected outline only; excludes color, internal block divisions, depth and rear fidelity."
+}

@@ -1,0 +1,35 @@
+{
+  "asset": "Grove",
+  "mesh": "/Game/Terrarium/Blender/Grove/SM_Blender_Grove.SM_Blender_Grove",
+  "material": "/Game/Terrarium/Blender/Grove/M_Grove.M_Grove",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/Grove/T_Grove_BaseColor.T_Grove_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/Grove/T_Grove_Emission.T_Grove_Emission",
+    "Roughness": "/Game/Terrarium/Blender/Grove/T_Grove_Roughness.T_Grove_Roughness"
+  },
+  "source_fbx_sha256": "b51d2d3f53d1e0f7dc544d03813947b603b2f229722a55f2d7712d40bb0799ee",
+  "dimensions_cm": [
+    106.4392318725586,
+    30.092994928359985,
+    113.04119925200939
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check",
+  "material_slots": [
+    {
+      "index": 0,
+      "imported_name": "M_Grove_Leaf_005",
+      "material": "/Game/Terrarium/Blender/Grove/M_Grove.M_Grove"
+    },
+    {
+      "index": 1,
+      "imported_name": "M_Grove_Stem_004",
+      "material": "/Game/Terrarium/Blender/Grove/M_Grove.M_Grove"
+    },
+    {
+      "index": 2,
+      "imported_name": "M_Grove_Soil_004",
+      "material": "/Game/Terrarium/Blender/Grove/M_Grove.M_Grove"
+    }
+  ]
+}

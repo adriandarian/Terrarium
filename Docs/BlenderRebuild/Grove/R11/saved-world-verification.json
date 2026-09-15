@@ -1,0 +1,162 @@
+{
+  "reload_verified": true,
+  "actor": "Blender_Grove_MarketCounter",
+  "materials": [
+    {
+      "role": "Leaf",
+      "material": "/Game/Terrarium/Blender/Grove/M_Grove_Leaf.M_Grove_Leaf",
+      "passed": true
+    },
+    {
+      "role": "Stem",
+      "material": "/Game/Terrarium/Blender/Grove/M_Grove_Stem.M_Grove_Stem",
+      "passed": true
+    },
+    {
+      "role": "Soil",
+      "material": "/Game/Terrarium/Blender/Grove/M_Grove_Soil.M_Grove_Soil",
+      "passed": true
+    }
+  ],
+  "counter_support": [
+    {
+      "xy": [
+        365.8407520055771,
+        620.3954401016235
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        368.2769877910614,
+        621.536279976368
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        370.5753059089184,
+        621.7771199941635
+      ],
+      "z": 634.9486351013184,
+      "passed": true
+    },
+    {
+      "xy": [
+        372.64376175403595,
+        621.8979599475861
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        374.39041018486023,
+        622.0188000798225
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        376.1217346191406,
+        622.0196399688721
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        377.69981729984283,
+        622.1404799222946
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        379.0786862373352,
+        622.0213199257851
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        367.2174805402756,
+        621.9021599292755
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        368.55037677288055,
+        621.902999997139
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        369.7913279533386,
+        621.7838400006294
+      ],
+      "z": 634.9624586105347,
+      "passed": true
+    },
+    {
+      "xy": [
+        370.9709824323654,
+        622.024680018425
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        374.3879643678665,
+        621.9055200219154
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        376.1192888021469,
+        621.906359910965
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        377.81996488571167,
+        621.9071999788284
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        379.33675050735474,
+        621.6680399179459
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        380.7769157886505,
+        621.4288800358772
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    }
+  ],
+  "base_clearance_cm": 0.01999999999998181,
+  "source_hash_verified": true,
+  "limits": "Sampled static support and shader bindings; no gameplay, full collision or performance validation. Visual refinement remains open."
+}

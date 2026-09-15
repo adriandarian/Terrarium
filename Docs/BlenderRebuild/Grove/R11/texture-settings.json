@@ -1,0 +1,90 @@
+{
+  "textures": [
+    {
+      "kind": "BaseColor",
+      "properties": {
+        "srgb": "True",
+        "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+        "adjust_brightness": "1.0",
+        "adjust_saturation": "1.0",
+        "adjust_rgb_curve": "1.0",
+        "adjust_brightness_curve": "1.0",
+        "lod_group": "<TextureGroup.TEXTUREGROUP_WORLD: 0>",
+        "source_color_settings": "<Struct 'TextureSourceColorSettings' (0x000001EC0786BDD8) {encoding_override: TSE_None, color_space: TCS_None, red_chromaticity_coordinate: {x: 0.000000, y: 0.000000}, green_chromaticity_coordinate: {x: 0.000000, y: 0.000000}, blue_chromaticity_coordinate: {x: 0.000000, y: 0.000000}, white_chromaticity_coordinate: {x: 0.000000, y: 0.000000}, chromatic_adaptation_method: TCAM_Bradford}>"
+      }
+    },
+    {
+      "kind": "Roughness",
+      "properties": {
+        "srgb": "False",
+        "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+        "adjust_brightness": "1.0",
+        "adjust_saturation": "1.0",
+        "adjust_rgb_curve": "1.0",
+        "adjust_brightness_curve": "1.0",
+        "lod_group": "<TextureGroup.TEXTUREGROUP_WORLD: 0>",
+        "source_color_settings": "<Struct 'TextureSourceColorSettings' (0x000001EBE3A1F9D8) {encoding_override: TSE_None, color_space: TCS_None, red_chromaticity_coordinate: {x: 0.000000, y: 0.000000}, green_chromaticity_coordinate: {x: 0.000000, y: 0.000000}, blue_chromaticity_coordinate: {x: 0.000000, y: 0.000000}, white_chromaticity_coordinate: {x: 0.000000, y: 0.000000}, chromatic_adaptation_method: TCAM_Bradford}>"
+      }
+    },
+    {
+      "kind": "Emission",
+      "properties": {
+        "srgb": "True",
+        "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+        "adjust_brightness": "1.0",
+        "adjust_saturation": "1.0",
+        "adjust_rgb_curve": "1.0",
+        "adjust_brightness_curve": "1.0",
+        "lod_group": "<TextureGroup.TEXTUREGROUP_WORLD: 0>",
+        "source_color_settings": "<Struct 'TextureSourceColorSettings' (0x000001EADF28E1D8) {encoding_override: TSE_None, color_space: TCS_None, red_chromaticity_coordinate: {x: 0.000000, y: 0.000000}, green_chromaticity_coordinate: {x: 0.000000, y: 0.000000}, blue_chromaticity_coordinate: {x: 0.000000, y: 0.000000}, white_chromaticity_coordinate: {x: 0.000000, y: 0.000000}, chromatic_adaptation_method: TCAM_Bradford}>"
+      }
+    }
+  ],
+  "materials": [
+    {
+      "role": "Leaf",
+      "pins": {
+        "BaseColor": {
+          "node": "/Game/Terrarium/Blender/Grove/M_Grove_Leaf.M_Grove_Leaf:MaterialExpressionTextureSample_2",
+          "texture": "/Game/Terrarium/Blender/Grove/T_Grove_BaseColor.T_Grove_BaseColor",
+          "sampler": "<MaterialSamplerType.SAMPLERTYPE_COLOR: 0>"
+        },
+        "Roughness": {
+          "node": "/Game/Terrarium/Blender/Grove/M_Grove_Leaf.M_Grove_Leaf:MaterialExpressionTextureSample_3",
+          "texture": "/Game/Terrarium/Blender/Grove/T_Grove_Roughness.T_Grove_Roughness",
+          "sampler": "<MaterialSamplerType.SAMPLERTYPE_LINEAR_COLOR: 6>"
+        }
+      }
+    },
+    {
+      "role": "Stem",
+      "pins": {
+        "BaseColor": {
+          "node": "/Game/Terrarium/Blender/Grove/M_Grove_Stem.M_Grove_Stem:MaterialExpressionTextureSample_2",
+          "texture": "/Game/Terrarium/Blender/Grove/T_Grove_BaseColor.T_Grove_BaseColor",
+          "sampler": "<MaterialSamplerType.SAMPLERTYPE_COLOR: 0>"
+        },
+        "Roughness": {
+          "node": "/Game/Terrarium/Blender/Grove/M_Grove_Stem.M_Grove_Stem:MaterialExpressionTextureSample_3",
+          "texture": "/Game/Terrarium/Blender/Grove/T_Grove_Roughness.T_Grove_Roughness",
+          "sampler": "<MaterialSamplerType.SAMPLERTYPE_LINEAR_COLOR: 6>"
+        }
+      }
+    },
+    {
+      "role": "Soil",
+      "pins": {
+        "BaseColor": {
+          "node": "/Game/Terrarium/Blender/Grove/M_Grove_Soil.M_Grove_Soil:MaterialExpressionTextureSample_2",
+          "texture": "/Game/Terrarium/Blender/Grove/T_Grove_BaseColor.T_Grove_BaseColor",
+          "sampler": "<MaterialSamplerType.SAMPLERTYPE_COLOR: 0>"
+        },
+        "Roughness": {
+          "node": "/Game/Terrarium/Blender/Grove/M_Grove_Soil.M_Grove_Soil:MaterialExpressionTextureSample_3",
+          "texture": "/Game/Terrarium/Blender/Grove/T_Grove_Roughness.T_Grove_Roughness",
+          "sampler": "<MaterialSamplerType.SAMPLERTYPE_LINEAR_COLOR: 6>"
+        }
+      }
+    }
+  ]
+}

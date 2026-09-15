@@ -1,0 +1,154 @@
+[
+  {
+    "actor": "BlueHouse_Plant_15",
+    "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+    "location": [
+      412.4844385779508,
+      603.6825914201438,
+      564.0
+    ],
+    "bounds_origin": [
+      413.6970384879998,
+      607.0099082161414,
+      595.8019452955663
+    ],
+    "bounds_extent": [
+      40.03865392691938,
+      43.138055366908816,
+      32.50882409341432
+    ]
+  },
+  {
+    "actor": "BlueHouse_Plant_17",
+    "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+    "location": [
+      413.50822536829975,
+      605.4840147459836,
+      564.0
+    ],
+    "bounds_origin": [
+      415.8312579520832,
+      606.9756720675863,
+      588.7913919928287
+    ],
+    "bounds_extent": [
+      35.97465681790527,
+      34.91972541657583,
+      25.342443483735906
+    ]
+  },
+  {
+    "actor": "BlueHouse_Plant_22",
+    "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+    "location": [
+      363.8208756805839,
+      614.4719723677622,
+      564.0
+    ],
+    "bounds_origin": [
+      361.7997074817832,
+      617.1969197442495,
+      577.8020313953724
+    ],
+    "bounds_extent": [
+      45.0154292289227,
+      45.88314923232508,
+      12.471779000153333
+    ]
+  },
+  {
+    "actor": "BlueHouse_Plant_25",
+    "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+    "location": [
+      362.2089433601308,
+      607.005878035146,
+      564.0
+    ],
+    "bounds_origin": [
+      362.35153345953046,
+      606.369025946651,
+      578.3746864311165
+    ],
+    "bounds_extent": [
+      20.677053329821774,
+      23.13228604236599,
+      14.569390707184539
+    ]
+  },
+  {
+    "actor": "BlueHouse_Plant_26",
+    "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+    "location": [
+      377.36061152091827,
+      621.2839084549396,
+      564.0
+    ],
+    "bounds_origin": [
+      376.92006242618794,
+      621.5176717687997,
+      574.9850289815995
+    ],
+    "bounds_extent": [
+      21.030774665874617,
+      21.188285503926522,
+      11.133820548337098
+    ]
+  },
+  {
+    "actor": "BlueHouse_Plant_27",
+    "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+    "location": [
+      371.56991227787205,
+      607.8917707338912,
+      564.0
+    ],
+    "bounds_origin": [
+      370.9509465475499,
+      607.9191282876126,
+      577.6467291626935
+    ],
+    "bounds_extent": [
+      24.993088804092167,
+      23.533345041570556,
+      13.831573300689229
+    ]
+  },
+  {
+    "actor": "Blender_TrailPrism_MarketCounter",
+    "mesh": "/Game/Terrarium/Blender/TrailPrism/SM_Blender_TrailPrism.SM_Blender_TrailPrism",
+    "location": [
+      307.0,
+      623.0,
+      635.0119962882995
+    ],
+    "bounds_origin": [
+      307.0,
+      623.0,
+      645.6519962882995
+    ],
+    "bounds_extent": [
+      5.271330547332752,
+      5.271330547332809,
+      10.639999999999986
+    ]
+  },
+  {
+    "actor": "Blender_DeepDelverMark_MarketFront",
+    "mesh": "/Game/Terrarium/Blender/DeepDelverMark/SM_Blender_DeepDelverMark.SM_Blender_DeepDelverMark",
+    "location": [
+      355.0,
+      627.988996720314,
+      590.0
+    ],
+    "bounds_origin": [
+      355.0,
+      628.4461384344102,
+      604.7725101459026
+    ],
+    "bounds_extent": [
+      10.933964195251463,
+      3.63114241600033,
+      15.01837532162665
+    ]
+  }
+]

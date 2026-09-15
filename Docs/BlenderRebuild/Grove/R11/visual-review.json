@@ -1,0 +1,27 @@
+{
+  "revision": "r11_individually_modeled_soil_and_turf",
+  "parts": 113,
+  "triangles": 12204,
+  "studio_views": [
+    "front.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "visually_checked": true,
+  "accepted_fidelity": false,
+  "remaining": [
+    "Leaf depth, stepped side faces and bevel widths still differ from the concept.",
+    "Some turf joints are too recessed; soil block depths and underside profile still need refinement.",
+    "Unreal shade is darker and less yellow than the studio source.",
+    "Rear structure is inferred from one view; full collision, gameplay and performance remain untested."
+  ],
+  "changes": [
+    "Replaced the concentric grid base with individually modeled soil and turf courses, hanging grass and recessed solid core blocks; increased block bevel width.",
+    "Removed coarse color checker variation from the blocks.",
+    "Replaced exported PNG16 maps with color-managed PNG8 maps to correct measured Unreal sampling."
+  ]
+}

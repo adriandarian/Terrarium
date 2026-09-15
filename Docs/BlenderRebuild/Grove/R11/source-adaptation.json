@@ -1,0 +1,7 @@
+{
+  "source": "SourceAssets/Voxel/grove.png",
+  "method": "Measured asymmetric leaf block fronts, physical stem cubes and a fully modeled irregular soil/turf volume. Three packed color, emission and roughness maps; no projected concept image.",
+  "inferred": "Leaf thickness, unseen rear colors and soil footprint inferred from the single view. No gameplay or growth animation is implied.",
+  "status": "imported_with_visual_refinement_open",
+  "revision": "r11_individually_modeled_soil_and_turf"
+}
