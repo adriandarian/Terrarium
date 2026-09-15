@@ -1,0 +1,120 @@
+{
+  "samples": [
+    {
+      "reference_pixel": [
+        665,
+        745
+      ],
+      "local_start_m": [
+        -2.9294421672821045,
+        -6.39010763168335,
+        1.984877109527588
+      ],
+      "local_end_m": [
+        5.33821964263916,
+        11.339948654174805,
+        -2.173356056213379
+      ],
+      "hits_solid": false,
+      "expected": false,
+      "part": null
+    },
+    {
+      "reference_pixel": [
+        680,
+        790
+      ],
+      "local_start_m": [
+        -2.9178733825683594,
+        -6.407890319824219,
+        1.9320571422576904
+      ],
+      "local_end_m": [
+        5.349788665771484,
+        11.322166442871094,
+        -2.2261760234832764
+      ],
+      "hits_solid": false,
+      "expected": false,
+      "part": null
+    },
+    {
+      "reference_pixel": [
+        650,
+        815
+      ],
+      "local_start_m": [
+        -2.953136444091797,
+        -6.39832878112793,
+        1.9027127027511597
+      ],
+      "local_end_m": [
+        5.314525604248047,
+        11.331727981567383,
+        -2.2555203437805176
+      ],
+      "hits_solid": false,
+      "expected": false,
+      "part": null
+    },
+    {
+      "reference_pixel": [
+        610,
+        125
+      ],
+      "local_start_m": [
+        -2.9238851070404053,
+        -6.222021579742432,
+        2.712618827819824
+      ],
+      "local_end_m": [
+        5.343776702880859,
+        11.508035659790039,
+        -1.4456143379211426
+      ],
+      "hits_solid": true,
+      "expected": true,
+      "part": "Wave block"
+    },
+    {
+      "reference_pixel": [
+        850,
+        700
+      ],
+      "local_start_m": [
+        -2.723496913909912,
+        -6.473753452301025,
+        2.0376970767974854
+      ],
+      "local_end_m": [
+        5.544165134429932,
+        11.256303787231445,
+        -2.1205360889434814
+      ],
+      "hits_solid": true,
+      "expected": true,
+      "part": "Wave block.076"
+    },
+    {
+      "reference_pixel": [
+        550,
+        1010
+      ],
+      "local_start_m": [
+        -3.0824544429779053,
+        -6.391707897186279,
+        1.6738262176513672
+      ],
+      "local_end_m": [
+        5.185207366943359,
+        11.338348388671875,
+        -2.4844069480895996
+      ],
+      "hits_solid": true,
+      "expected": true,
+      "part": "Wave block.126"
+    }
+  ],
+  "method": "Rays through three reference curl-opening pixels and three neighboring solid blocks in evaluated Blender geometry. No transparency or alpha mask is used on the model.",
+  "limits": "Sampled opening verification only; not a complete collision or character-clearance test."
+}

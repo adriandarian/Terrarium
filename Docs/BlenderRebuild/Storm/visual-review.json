@@ -1,0 +1,30 @@
+{
+  "revision": "r32_broad_upper_gold_column",
+  "accepted_fidelity": false,
+  "visually_checked": true,
+  "parts": 53,
+  "triangles": 8796,
+  "connected_body_parts": 43,
+  "detached_source_sparks": 10,
+  "studio_views": [
+    "front.png",
+    "side.png",
+    "left.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "remaining": [
+    "The broad upper gold column replaces two narrow overlapping ribs; the adjoining blocks connect in depth and the central shoulder no longer protrudes through its visible face. The cream crest steps and gold course proportions still differ from the concept.",
+    "The 43 non-spark solids now form one connected group with positive interior overlap witnesses. They remain editable overlapping meshes, not a Boolean-unioned manifold.",
+    "Cloud cluster sizes, spacing and partial overlaps still differ from the source.",
+    "The gold edge has four measured sections, but the upper cap has an exaggerated triangular crease and some middle facets shade too dark. Section seams and narrow side gaps still need refinement.",
+    "The cream now has raised blocks, a broad crossbar and lower facets. Block depths and seam transitions still differ from the source. Shorter cream backs reduce the exposed lower rear patches, but a narrow edge of the tip remains visible from the rear.",
+    "The flat gold rear cap has been replaced with a continuous raised ridge and angular surfaces. This unseen back is inferred from the front spine; its facet layout and transitions still need visual refinement.",
+    "Ten sparks follow the concept arrangement, with small remaining position and size differences.",
+    "Static tip contact and sampled post clearance passed; rigid-body balance, animation, gameplay and full collision have not been tested."
+  ]
+}

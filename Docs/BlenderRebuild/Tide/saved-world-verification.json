@@ -1,0 +1,158 @@
+{
+  "reload_verified": true,
+  "opening_collision": [
+    {
+      "reference_pixel": [
+        665,
+        745
+      ],
+      "trace_complex": false,
+      "hits_solid": false,
+      "passed": true
+    },
+    {
+      "reference_pixel": [
+        665,
+        745
+      ],
+      "trace_complex": true,
+      "hits_solid": false,
+      "passed": true
+    },
+    {
+      "reference_pixel": [
+        680,
+        790
+      ],
+      "trace_complex": false,
+      "hits_solid": false,
+      "passed": true
+    },
+    {
+      "reference_pixel": [
+        680,
+        790
+      ],
+      "trace_complex": true,
+      "hits_solid": false,
+      "passed": true
+    },
+    {
+      "reference_pixel": [
+        650,
+        815
+      ],
+      "trace_complex": false,
+      "hits_solid": false,
+      "passed": true
+    },
+    {
+      "reference_pixel": [
+        650,
+        815
+      ],
+      "trace_complex": true,
+      "hits_solid": false,
+      "passed": true
+    },
+    {
+      "reference_pixel": [
+        610,
+        125
+      ],
+      "trace_complex": false,
+      "hits_solid": true,
+      "passed": true
+    },
+    {
+      "reference_pixel": [
+        610,
+        125
+      ],
+      "trace_complex": true,
+      "hits_solid": true,
+      "passed": true
+    },
+    {
+      "reference_pixel": [
+        850,
+        700
+      ],
+      "trace_complex": false,
+      "hits_solid": true,
+      "passed": true
+    },
+    {
+      "reference_pixel": [
+        850,
+        700
+      ],
+      "trace_complex": true,
+      "hits_solid": true,
+      "passed": true
+    },
+    {
+      "reference_pixel": [
+        550,
+        1010
+      ],
+      "trace_complex": false,
+      "hits_solid": true,
+      "passed": true
+    },
+    {
+      "reference_pixel": [
+        550,
+        1010
+      ],
+      "trace_complex": true,
+      "hits_solid": true,
+      "passed": true
+    }
+  ],
+  "actor": "Blender_Tide_MarketCounter",
+  "materials": [
+    {
+      "role": "Wave",
+      "material": "/Game/Terrarium/Blender/Tide/M_Tide_Wave.M_Tide_Wave",
+      "passed": true
+    }
+  ],
+  "counter_support": [
+    {
+      "xy": [
+        199.14055441319942,
+        622.8407999575138
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        200.93569123744965,
+        622.8413999676704
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        202.4607208967209,
+        622.8419999778271
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    },
+    {
+      "xy": [
+        203.90630781650543,
+        622.8425999879837
+      ],
+      "z": 634.9919962882996,
+      "passed": true
+    }
+  ],
+  "base_clearance_cm": 0.01999999999998181,
+  "source_hash_verified": true,
+  "limits": "Sampled static support and shader bindings; no gameplay, full collision or performance validation. Visual refinement remains open."
+}

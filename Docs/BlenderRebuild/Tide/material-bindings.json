@@ -1,0 +1,16 @@
+{
+  "slots": [
+    {
+      "index": 0,
+      "imported_name": "M_Tide_Wave_004",
+      "role": "Wave",
+      "material": "/Game/Terrarium/Blender/Tide/M_Tide_Wave.M_Tide_Wave",
+      "parameters": {
+        "Metallic": 0,
+        "Specular": 0.5
+      },
+      "blend_mode": "<BlendMode.BLEND_OPAQUE: 0>"
+    }
+  ],
+  "emission": "None. Opaque leaf, stem and soil surfaces."
+}

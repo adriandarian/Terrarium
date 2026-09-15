@@ -1,0 +1,7 @@
+{
+  "source": "SourceAssets/Voxel/tide.png",
+  "method": "Individually measured solid beveled wave blocks with uniform blue/aqua pigments and an open curl. Original image is a reference only.",
+  "inferred": "Unseen rear surfaces and block depth are inferred from the single-view concept. No fluid simulation or gameplay behavior is implied.",
+  "status": "imported_with_visual_refinement_open",
+  "revision": "r5_solid_wave_and_open_curl"
+}

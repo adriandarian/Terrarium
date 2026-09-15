@@ -1,0 +1,40 @@
+[
+  {
+    "actor": "Blender_MossTonic_MarketCounter",
+    "mesh": "/Game/Terrarium/Blender/MossTonic/SM_Blender_MossTonic.SM_Blender_MossTonic",
+    "location": [
+      241.4,
+      623.0,
+      634.5939962673187
+    ],
+    "bounds_origin": [
+      243.13630781173705,
+      623.0060500335693,
+      644.2079962778091
+    ],
+    "bounds_extent": [
+      6.917308063507079,
+      4.4929505538940475,
+      9.195999989509573
+    ]
+  },
+  {
+    "actor": "Blender_EmberCrest_MarketFront",
+    "mesh": "/Game/Terrarium/Blender/EmberCrest/SM_Blender_EmberCrest.SM_Blender_EmberCrest",
+    "location": [
+      184.0,
+      628.1750094509125,
+      592.0
+    ],
+    "bounds_origin": [
+      184.0,
+      628.4150092220307,
+      605.6761276340485
+    ],
+    "bounds_extent": [
+      10.9440005493164,
+      3.600000686645558,
+      14.314092092513988
+    ]
+  }
+]

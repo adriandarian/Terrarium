@@ -1,0 +1,11 @@
+{
+  "asset": "Tide",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_Tide",
+  "parts": 155,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 16740,
+  "sha256": "29856a09dd449d5907279484ea78c63e05c4c45f1a80d8ce1334e4b28dc3e656",
+  "active_camera": "Reference camera.001"
+}

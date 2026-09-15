@@ -1,0 +1,50 @@
+{
+  "asset": "Tide",
+  "mesh": "SM_Blender_Tide",
+  "source": "SourceAssets/Voxel/tide.png",
+  "source_sha256": "c2902bf9d463ba38a6dd8bf7267994c03c151a94fbdd81a7f28812cdf701a8f1",
+  "parts": 155,
+  "vertices": 8680,
+  "triangles": 16740,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.48545336723327637,
+      -0.028324998915195465,
+      -0.018268009647727013
+    ],
+    "max": [
+      0.4907376170158386,
+      0.12929999828338623,
+      1.2827554941177368
+    ]
+  },
+  "files": {
+    "SM_Blender_Tide.fbx": {
+      "bytes": 290476,
+      "sha256": "01bc439341ff7fc89ada3d33faa1873d9f9eb2fd3205f0a893fb56ad793b8c31"
+    },
+    "SM_Blender_Tide.glb": {
+      "bytes": 1186808,
+      "sha256": "1f0667ee74ba0ebef5b960af4d9f2d0aa7c3f811fbe58e28ad101db3414ea2c5"
+    },
+    "Tide_BaseColor.png": {
+      "bytes": 4779,
+      "sha256": "eb65bcc691bab963236d183eda9784a87b5f4db1d0c8b69a7effc4e942fec37e"
+    },
+    "Tide_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "Tide_Roughness.png": {
+      "bytes": 4762,
+      "sha256": "cd2eababca1cfd8aa99f16bd718f09a9e23e9c022d17418658b31e0887b92710"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "materials": [
+    "M_Tide_Wave.004"
+  ]
+}

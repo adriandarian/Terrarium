@@ -1,0 +1,8 @@
+{
+  "intersection_over_union": 0.950207543548155,
+  "mismatched_pixels": 24903,
+  "render_sha256": "2e8f73850c6d8500decb737361ce85be9e59037d2296d70ebaf6b9204ded1dc8",
+  "source_sha256": "c2902bf9d463ba38a6dd8bf7267994c03c151a94fbdd81a7f28812cdf701a8f1",
+  "method": "Fixed 1254-square orthographic camera; source foreground excludes magenta, model mask uses alpha >127. No registration or scaling optimization.",
+  "limits": "Single-view projected outline and holes only, not block shape, shading, color or unseen rear."
+}
