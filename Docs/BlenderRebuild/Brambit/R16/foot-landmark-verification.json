@@ -1,0 +1,43 @@
+{
+  "source_blend_sha256": "25548177c013ce2315d9f300eb8e48a2eed38dad1408f236d145ac8e0a610b9c",
+  "landmarks": [
+    {
+      "foot": "Dark foot",
+      "reference_pixel": [
+        525,
+        1155
+      ],
+      "projected_pixel": [
+        525.5578485131264,
+        1154.3998638689518
+      ],
+      "error_pixels": 0.819364594906816
+    },
+    {
+      "foot": "Dark foot.001",
+      "reference_pixel": [
+        362,
+        1066
+      ],
+      "projected_pixel": [
+        362.1669736504555,
+        1065.4645139873028
+      ],
+      "error_pixels": 0.5609148507044489
+    },
+    {
+      "foot": "Dark foot.002",
+      "reference_pixel": [
+        813,
+        1089
+      ],
+      "projected_pixel": [
+        813.3202353715897,
+        1088.37158203125
+      ],
+      "error_pixels": 0.7053083273753713
+    }
+  ],
+  "method": "Unbeveled lower front-left corner of each visible authored foot, projected through the saved reference camera.",
+  "limits": "Three manually read approximate concept landmarks only. Does not prove whole-foot shape, hidden fourth foot or overall asset fidelity."
+}

@@ -1,0 +1,88 @@
+{
+  "source_blend_sha256": "25548177c013ce2315d9f300eb8e48a2eed38dad1408f236d145ac8e0a610b9c",
+  "base_color_sha256": "d1c2af73ec816b46d36300d83a4d8009a625a76d7297d3f8ebbf781879310db7",
+  "samples": [
+    {
+      "region": "forehead pigment",
+      "encoded_rgb": [
+        198,
+        144,
+        75
+      ],
+      "max_channel_error": 2
+    },
+    {
+      "region": "left cheek",
+      "encoded_rgb": [
+        223,
+        174,
+        111
+      ],
+      "max_channel_error": 0
+    },
+    {
+      "region": "upper face",
+      "encoded_rgb": [
+        238,
+        190,
+        130
+      ],
+      "max_channel_error": 1
+    },
+    {
+      "region": "right cheek",
+      "encoded_rgb": [
+        226,
+        176,
+        115
+      ],
+      "max_channel_error": 1
+    },
+    {
+      "region": "lower left face",
+      "encoded_rgb": [
+        211,
+        159,
+        95
+      ],
+      "max_channel_error": 3
+    },
+    {
+      "region": "lower ochre band",
+      "encoded_rgb": [
+        203,
+        146,
+        77
+      ],
+      "max_channel_error": 1
+    },
+    {
+      "region": "upper belly band",
+      "encoded_rgb": [
+        224,
+        184,
+        130
+      ],
+      "max_channel_error": 3
+    },
+    {
+      "region": "lower belly block",
+      "encoded_rgb": [
+        208,
+        158,
+        93
+      ],
+      "max_channel_error": 2
+    },
+    {
+      "region": "right belly block",
+      "encoded_rgb": [
+        217,
+        163,
+        100
+      ],
+      "max_channel_error": 1
+    }
+  ],
+  "limits": "Nine stored region-center samples after color-managed PNG export; does not establish overall concept fidelity."
+}
