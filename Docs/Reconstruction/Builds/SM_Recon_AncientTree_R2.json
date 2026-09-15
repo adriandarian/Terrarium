@@ -1,0 +1,25 @@
+{
+  "source": "tree.png",
+  "key": "tree",
+  "module": "environment",
+  "revision": 2,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_AncientTree_R2",
+  "name": "SM_Recon_AncientTree_R2",
+  "bounds_cm": {
+    "min": [
+      -191.86643960245897,
+      -69.64542263946497,
+      0
+    ],
+    "max": [
+      194.9955725386293,
+      74.88146600762083,
+      434.54472190728427
+    ]
+  },
+  "triangles": 205392,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "da46e6acfeb0ddfb851a20b448c26e9caf77081429930589f19429f2ad0edf8e",
+  "seconds": 10.62,
+  "visual_acceptance": "pending_independent_comparison"
+}

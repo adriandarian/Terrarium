@@ -1,0 +1,30 @@
+{
+  "source": "civic_hall.png",
+  "key": "civic_hall",
+  "module": "architecture",
+  "revision": 4,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R4",
+  "name": "SM_Recon_CivicHall_R4",
+  "bounds_cm": {
+    "min": [
+      -511.50000000000006,
+      -350.5,
+      0.0
+    ],
+    "max": [
+      511.50000000000006,
+      210.0,
+      1121.0
+    ]
+  },
+  "triangles": 150672,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "4e6a471e33bd9d670c3287cb8c70ea5ae454ab61a6cc4bc1739c986a15ead54b",
+  "visual_acceptance": "pending_user_review_warm_palette",
+  "visual_review_document": "Docs/Reconstruction/civic-hall-color-review.md",
+  "source_geometry_asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R3",
+  "geometry_change": "none; editor duplicate of R3 with dedicated material",
+  "material": "/Game/Terrarium/Reconstruction/Materials/M_CivicHall_Warm_R4",
+  "color_recipe": "Scripts/Reconstruction/civic_hall_color.py",
+  "color_recipe_sha256": "df907096015ff0c81735591f2750776030cd12e44907b357fd03c189c265e70c"
+}

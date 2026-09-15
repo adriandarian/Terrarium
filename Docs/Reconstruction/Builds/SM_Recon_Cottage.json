@@ -1,0 +1,25 @@
+{
+  "source": "cottage.png",
+  "key": "cottage",
+  "module": "architecture",
+  "revision": 1,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Cottage",
+  "name": "SM_Recon_Cottage",
+  "bounds_cm": {
+    "min": [
+      -279.35,
+      -243.5,
+      0.0
+    ],
+    "max": [
+      279.35,
+      186.0,
+      520.5
+    ]
+  },
+  "triangles": 70812,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "8f9ddbf6af20eaba9c4d39432853b4feebb530f061ffa011e7aa2673a1f45fbb",
+  "seconds": 9.89,
+  "visual_acceptance": "pending_independent_comparison"
+}

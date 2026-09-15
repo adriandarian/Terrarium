@@ -1,0 +1,25 @@
+{
+  "source": "civic_hall.png",
+  "key": "civic_hall",
+  "module": "architecture",
+  "revision": 1,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall",
+  "name": "SM_Recon_CivicHall",
+  "bounds_cm": {
+    "min": [
+      -511.50000000000006,
+      -350.5,
+      0.0
+    ],
+    "max": [
+      511.50000000000006,
+      210.0,
+      1121.0
+    ]
+  },
+  "triangles": 203824,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "8f9ddbf6af20eaba9c4d39432853b4feebb530f061ffa011e7aa2673a1f45fbb",
+  "seconds": 13.53,
+  "visual_acceptance": "pending_independent_comparison"
+}

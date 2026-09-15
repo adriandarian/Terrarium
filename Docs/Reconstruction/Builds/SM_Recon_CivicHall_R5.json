@@ -1,0 +1,37 @@
+{
+  "source": "civic_hall.png",
+  "key": "civic_hall",
+  "module": "architecture",
+  "revision": 5,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R5",
+  "name": "SM_Recon_CivicHall_R5",
+  "bounds_cm": {
+    "min": [
+      -511.50000000000006,
+      -350.5,
+      0.0
+    ],
+    "max": [
+      511.50000000000006,
+      210.0,
+      1121.0
+    ]
+  },
+  "triangles": 155952,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "91d20594148b73598a8fe3a6d5c2e33da0f6c9d79bc3ab0c5114ff340fe3ff43",
+  "seconds": 10.98,
+  "visual_acceptance": "pending_user_review_rear_center_windows",
+  "material": "/Game/Terrarium/Reconstruction/Materials/M_CivicHall_Warm_R4",
+  "added_rear_center_windows": 4,
+  "rear_center_window_x_cm": [
+    -71.5,
+    71.5
+  ],
+  "rear_window_story_centers_z_cm": [
+    206,
+    443
+  ],
+  "visual_review_document": "Docs/Reconstruction/civic-hall-windows-review.md",
+  "geometry_and_colors_outside_rear_facade_unchanged": true
+}

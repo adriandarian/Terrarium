@@ -1,0 +1,25 @@
+{
+  "source": "brambit.png",
+  "key": "brambit",
+  "module": "creatures_items",
+  "revision": 1,
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Brambit",
+  "name": "SM_Recon_Brambit",
+  "bounds_cm": {
+    "min": [
+      -46.0,
+      -44.0,
+      0.0
+    ],
+    "max": [
+      46.0,
+      37.5,
+      169.8353
+    ]
+  },
+  "triangles": 54428,
+  "saved_normal_errors": 0,
+  "recipe_sha256": "5eae6822e36eb26af2ed3f6222037b84c80b776dc78b824cc7cfd717f01cf6b6",
+  "seconds": 5.2,
+  "visual_acceptance": "pending_independent_comparison"
+}
