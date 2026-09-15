@@ -1,0 +1,13 @@
+{
+  "changes": [
+    {
+      "old_mesh": "CliffColumn_v2",
+      "new_mesh": "CliffColumn_v3",
+      "instances": 512,
+      "max_transform_component_deviation": 0.0,
+      "asset_refinement_pass": 3
+    }
+  ],
+  "placement_transforms_preserved": true,
+  "camera_and_lighting_unchanged": true
+}

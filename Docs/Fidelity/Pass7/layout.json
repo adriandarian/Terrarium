@@ -1,0 +1,81 @@
+{
+  "broad_visual_pass": 7,
+  "map": "/Game/Terrarium/Maps/HomesteadFidelity",
+  "counts": {
+    "MeadowTile_Edge_v6": 755,
+    "CliffColumn_v6C": 743,
+    "CliffColumn_v6B": 665,
+    "CliffColumn_v6A": 668,
+    "MeadowTile_v5": 5086,
+    "WaterShallow_v4": 166,
+    "WaterTile_v4": 11,
+    "WaterDeep_v4": 13,
+    "PathTile_v4": 75,
+    "StoneStairs_v3": 1,
+    "PlankBridge_v4": 1,
+    "Cottage_v6": 1,
+    "Shed_v2": 1,
+    "GardenWell_v2": 1,
+    "LanternPost": 1,
+    "GardenBed_v3": 1,
+    "GardenBed_v2": 1,
+    "FencePost": 18,
+    "FenceRails": 12,
+    "WheatPatch_v2": 40,
+    "Tree_v3": 14,
+    "Bush_v2": 620,
+    "RockCluster": 58,
+    "CliffMoss_v1": 209,
+    "MeadowGrass_v2": 1414,
+    "MeadowFlowers_v2": 369,
+    "GroundPlants_v2": 1259,
+    "ShoreOutcrop": 32,
+    "Reeds": 28,
+    "ShoreOutcrop_v2": 8,
+    "RiverStones_v2": 41,
+    "Traveler_v2": 1
+  },
+  "terrain_cells": 5841,
+  "reference_size": [
+    481,
+    809
+  ],
+  "visual_acceptance": "pending direct rendered comparison",
+  "camera": {
+    "pitch": -45,
+    "yaw": 135,
+    "cm_per_pixel": 5.5
+  },
+  "anchors": {
+    "cottage": [
+      260,
+      308,
+      560
+    ],
+    "shed": [
+      132,
+      351,
+      560
+    ],
+    "well": [
+      351,
+      352,
+      560
+    ],
+    "lantern": [
+      273,
+      369,
+      560
+    ],
+    "stair_top": [
+      157,
+      429,
+      560
+    ],
+    "bridge_deck": [
+      307,
+      579,
+      280
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "actor": "Fidelity_GardenWell_001",
+  "new_mesh": "SM_GardenWell_v2",
+  "pose": [
+    -316.8574945521653,
+    -542.6307979800832,
+    568.0,
+    0.0,
+    89.99999999999999,
+    -0.0,
+    1.08,
+    1.08,
+    1.08
+  ],
+  "asset_refinement_pass": 2,
+  "instances": 1
+}

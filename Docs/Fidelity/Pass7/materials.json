@@ -1,0 +1,47 @@
+{
+  "Ground": {
+    "material": "/Game/Terrarium/Materials/M_Pass7_Ground.M_Pass7_Ground",
+    "components": 2,
+    "instances": 5841,
+    "meshes": [
+      "SM_MeadowTile_Edge_v6",
+      "SM_MeadowTile_v5"
+    ]
+  },
+  "Stone": {
+    "material": "/Game/Terrarium/Materials/M_Pass7_Stone.M_Pass7_Stone",
+    "components": 7,
+    "instances": 2175,
+    "meshes": [
+      "SM_CliffColumn_v6A",
+      "SM_CliffColumn_v6B",
+      "SM_CliffColumn_v6C",
+      "SM_RockCluster",
+      "SM_ShoreOutcrop",
+      "SM_ShoreOutcrop_v2",
+      "SM_StoneStairs_v3"
+    ]
+  },
+  "Details": {
+    "material": "/Game/Terrarium/Materials/M_Pass7_Details.M_Pass7_Details",
+    "components": 7,
+    "instances": 35,
+    "meshes": [
+      "SM_Cottage_v6",
+      "SM_FencePost",
+      "SM_FenceRails",
+      "SM_GardenWell_v2",
+      "SM_LanternPost",
+      "SM_PlankBridge_v4",
+      "SM_Shed_v2"
+    ]
+  },
+  "Path": {
+    "material": "/Game/Terrarium/Materials/M_Pass7_Path.M_Pass7_Path",
+    "components": 1,
+    "instances": 75,
+    "meshes": [
+      "SM_PathTile_v4"
+    ]
+  }
+}

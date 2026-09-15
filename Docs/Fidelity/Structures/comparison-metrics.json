@@ -1,0 +1,71 @@
+{
+  "candidate": "Docs/Fidelity/Structures/structure-update.png",
+  "comparison_resolution": [
+    481,
+    809
+  ],
+  "metrics": {
+    "full_frame": {
+      "before_rgb_mae": 27.806413811358187,
+      "current_rgb_mae": 27.81408564597687,
+      "exact_pixel_fraction": 2.3128576898663426e-05
+    },
+    "shed": {
+      "before_rgb_mae": 26.92669018224574,
+      "current_rgb_mae": 26.947854203409758,
+      "exact_pixel_fraction": 0.0
+    },
+    "bridge": {
+      "before_rgb_mae": 24.140917107583775,
+      "current_rgb_mae": 24.112219702695892,
+      "exact_pixel_fraction": 0.0
+    },
+    "wheat": {
+      "before_rgb_mae": 27.547839235196566,
+      "current_rgb_mae": 27.54299092771437,
+      "exact_pixel_fraction": 2.92654375182909e-05
+    },
+    "garden": {
+      "before_rgb_mae": 29.894252873563218,
+      "current_rgb_mae": 30.1079107505071,
+      "exact_pixel_fraction": 0.0
+    },
+    "stairs": {
+      "before_rgb_mae": 32.48982498982499,
+      "current_rgb_mae": 32.459232125898794,
+      "exact_pixel_fraction": 0.0
+    },
+    "upper_land": {
+      "before_rgb_mae": 25.854413154413155,
+      "current_rgb_mae": 25.846393246393248,
+      "exact_pixel_fraction": 1.89000189000189e-05
+    },
+    "river": {
+      "before_rgb_mae": 22.93139708109768,
+      "current_rgb_mae": 22.92831385046954,
+      "exact_pixel_fraction": 3.7347342736564295e-05
+    },
+    "lower_land": {
+      "before_rgb_mae": 26.332690746753247,
+      "current_rgb_mae": 26.326839826839826,
+      "exact_pixel_fraction": 5.0730519480519484e-05
+    },
+    "well": {
+      "before_rgb_mae": 25.075176886792452,
+      "current_rgb_mae": 25.95558176100629,
+      "exact_pixel_fraction": 0.0
+    },
+    "upper_cliff": {
+      "before_rgb_mae": 21.08319957196362,
+      "current_rgb_mae": 21.056233279828785,
+      "exact_pixel_fraction": 0.0
+    },
+    "main_cliff": {
+      "before_rgb_mae": 22.22303143479614,
+      "current_rgb_mae": 22.237161531279177,
+      "exact_pixel_fraction": 0.0
+    }
+  },
+  "pixel_parity_achieved": false,
+  "limits": "RGB error is not perceptual equivalence. Full frame includes reference character and inset excluded from the static environment brief. No image warp or registration applied."
+}

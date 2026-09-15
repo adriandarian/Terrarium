@@ -1,0 +1,7 @@
+{
+  "material": "/Game/Terrarium/Materials/M_Pass7_ContinuousRiver",
+  "components": 3,
+  "instances": 190,
+  "base_color_coordinates": "absolute world position",
+  "uses_vertex_or_tile_local_color": false
+}

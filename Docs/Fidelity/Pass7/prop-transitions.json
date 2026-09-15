@@ -1,0 +1,17 @@
+{
+  "instances": 45,
+  "zones": {
+    "near_abutment": 10,
+    "far_abutment": 11,
+    "stair_foot": 9,
+    "stair_head": 7,
+    "stair_sides": 8
+  },
+  "meshes": {
+    "PathTile_v4": 11,
+    "RockCluster": 14,
+    "MeadowGrass_v2": 14,
+    "GroundPlants_v2": 6
+  },
+  "full_footprint_ground_checks": true
+}
