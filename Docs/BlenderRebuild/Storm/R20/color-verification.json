@@ -1,0 +1,9 @@
+{
+  "unique_colors": 8,
+  "samples": 32,
+  "mean_linear_channel_error": 0.0015658473118103687,
+  "max_linear_channel_error": 0.005426136516096247,
+  "source_sha256": "e550bf85b6257912c9e9ad393c6d20fe765111317b4f77d84ef4e7a1bbd3bb47",
+  "method": "RGBA32F native texture-sampling readback compared with linearized PNG8 source pixels.",
+  "limits": "Color sampling only; shaded appearance remains a separate visual review."
+}

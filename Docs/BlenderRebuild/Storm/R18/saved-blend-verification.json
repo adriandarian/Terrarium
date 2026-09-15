@@ -1,0 +1,11 @@
+{
+  "asset": "Storm",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_Storm",
+  "parts": 54,
+  "packed_images": 3,
+  "material_slots": 2,
+  "triangles": 6936,
+  "sha256": "a836b7e9da28833287a430a6154bc6b6588ab4ecc01ce9553f84f23766dab089",
+  "active_camera": "Reference camera"
+}
