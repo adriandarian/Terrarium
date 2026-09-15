@@ -1,0 +1,75 @@
+[
+  {
+    "key": "kindlehorn",
+    "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Kindlehorn_R3",
+    "material": "/Game/Terrarium/Reconstruction/Materials/M_Energy_kindlehorn",
+    "reserved_srgb_colors": [
+      "ffd73b",
+      "ffe66a",
+      "ffdb43",
+      "ffc72b"
+    ],
+    "lit_base_color": true,
+    "translucent": false
+  },
+  {
+    "key": "trail_prism",
+    "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_TrailPrism_R3",
+    "material": "/Game/Terrarium/Reconstruction/Materials/M_Energy_trail_prism",
+    "reserved_srgb_colors": [
+      "fff1ad",
+      "ffe681",
+      "fff4b5",
+      "fff0a1"
+    ],
+    "lit_base_color": true,
+    "translucent": false
+  },
+  {
+    "key": "ember",
+    "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Ember_R3",
+    "material": "/Game/Terrarium/Reconstruction/Materials/M_Energy_ember",
+    "reserved_srgb_colors": [
+      "ffedc2",
+      "ffe9b4",
+      "ffc448"
+    ],
+    "lit_base_color": true,
+    "translucent": false
+  },
+  {
+    "key": "storm",
+    "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Storm_R3",
+    "material": "/Game/Terrarium/Reconstruction/Materials/M_Energy_storm",
+    "reserved_srgb_colors": [
+      "ffe6a1",
+      "ffe078"
+    ],
+    "lit_base_color": true,
+    "translucent": false
+  },
+  {
+    "key": "ember_crest",
+    "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_EmberCrest_R3",
+    "material": "/Game/Terrarium/Reconstruction/Materials/M_Energy_ember_crest",
+    "reserved_srgb_colors": [
+      "ffea83",
+      "ffe480",
+      "ffcb32"
+    ],
+    "lit_base_color": true,
+    "translucent": false
+  },
+  {
+    "key": "lantern",
+    "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Lantern_R3",
+    "material": "/Game/Terrarium/Reconstruction/Materials/M_Energy_lantern",
+    "reserved_srgb_colors": [
+      "ffe09a",
+      "f4bf55",
+      "eaa331"
+    ],
+    "lit_base_color": true,
+    "translucent": false
+  }
+]

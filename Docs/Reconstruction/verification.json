@@ -1,0 +1,748 @@
+{
+  "verified_utc": "2026-09-12T22:10:24.152846+00:00",
+  "original_pngs": 77,
+  "all_original_hashes_match": true,
+  "distinct_models": 72,
+  "models_by_module": {
+    "environment": 7,
+    "creatures_items": 11,
+    "architecture": 6,
+    "surfaces": 45,
+    "compound": 1,
+    "humanoids": 2
+  },
+  "current_front_renders": 72,
+  "current_back_renders": 72,
+  "gallery_maps": 5,
+  "gallery_model_bindings": 72,
+  "all_gallery_bindings_current": true,
+  "all_recipe_hashes_current": true,
+  "all_saved_normal_errors_zero": true,
+  "maximum_ground_error_cm": 0.0,
+  "current_model_triangles": 2757580,
+  "visual_review": "Main agent inspected source comparisons, front/back contact sheets and focused full-size captures; visible reconstruction differences remain documented.",
+  "exact_source_parity_claimed": false,
+  "rigging_animation_collision_gameplay_tested": false,
+  "models": [
+    {
+      "key": "brambit",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Brambit_R3",
+      "revision": 3,
+      "triangles": 24140,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "civic_hall",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_CivicHall_R3",
+      "revision": 3,
+      "triangles": 150672,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "cottage",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Cottage_R3",
+      "revision": 3,
+      "triangles": 59108,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "cottage_plaster_v5",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_plaster_v5",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_cottage_plaster_v5"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "cottage_roof_tile_v5",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_roof_tile_v5",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_cottage_roof_tile_v5"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "cottage_roof_tile_v6_candidate",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_roof_tile_v6_candidate",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_cottage_roof_tile_v6_candidate"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "deep_delver_mark",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_DeepDelverMark_R3",
+      "revision": 3,
+      "triangles": 21716,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "ember",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Ember_R3",
+      "revision": 3,
+      "triangles": 24728,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_Energy_ember"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "ember_crest",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_EmberCrest_R3",
+      "revision": 3,
+      "triangles": 26272,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_Energy_ember_crest"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "grove",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Grove_R3",
+      "revision": 3,
+      "triangles": 14432,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "homestead_compound",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_HomesteadCompound",
+      "revision": 1,
+      "triangles": 80816,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "homestead_riverbank_v2",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Riverbank_R3",
+      "revision": 3,
+      "triangles": 17732,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "homestead_tree_v2",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_HomesteadTree_R3",
+      "revision": 3,
+      "triangles": 209880,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "kindlehorn",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Kindlehorn_R3",
+      "revision": 3,
+      "triangles": 59228,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_Energy_kindlehorn"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "lantern",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Lantern_R3",
+      "revision": 3,
+      "triangles": 10516,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_Energy_lantern"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "lodge",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Lodge_R3",
+      "revision": 3,
+      "triangles": 64432,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "market_stall",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MarketStall_R3",
+      "revision": 3,
+      "triangles": 40744,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "meadow_shrub",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MeadowShrub_R3",
+      "revision": 3,
+      "triangles": 81400,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "moss_tonic",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MossTonic_R3",
+      "revision": 3,
+      "triangles": 51472,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "player_front",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Player_R3",
+      "revision": 3,
+      "triangles": 123596,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "ranger_sela",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_RangerSela_R3",
+      "revision": 3,
+      "triangles": 115148,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "rillip",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Rillip_R3",
+      "revision": 3,
+      "triangles": 39752,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "river_crossing",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_RiverCrossing_R3",
+      "revision": 3,
+      "triangles": 48840,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "rock",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_MossRock_R3",
+      "revision": 3,
+      "triangles": 25696,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "sign",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Sign_R3",
+      "revision": 3,
+      "triangles": 3784,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "storm",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Storm_R3",
+      "revision": 3,
+      "triangles": 1972,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_Energy_storm"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_cliff_3d",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_3d",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_3d"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_cliff_face_v2",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v2",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v2"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_cliff_face_v4",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v4",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v4"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_cliff_face_v5",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v5",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v5"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_cliff_face_v6",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v6",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v6"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_cliff_face_v7",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v7",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v7"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_cliff_face_v8_candidate",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v8_candidate",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v8_candidate"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_cliff_face_v9_candidate",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v9_candidate",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_cliff_face_v9_candidate"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_foliage_v4",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v4",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_foliage_v4"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_foliage_v5",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v5",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_foliage_v5"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_foliage_v6",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v6",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_foliage_v6"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_foliage_v7_candidate",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v7_candidate",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_foliage_v7_candidate"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_grass",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_grass_3d",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_3d",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_3d"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_grass_top_v2",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v2",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v2"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_grass_top_v3",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v3",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v3"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_grass_top_v4",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v4",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v4"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_grass_top_v5",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v5",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v5"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_grass_top_v6",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v6",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v6"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_grass_top_v7",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v7",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v7"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_grass_top_v8",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v8",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v8"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_grass_top_v9",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v9",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_grass_top_v9"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_moss_cap_v1",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_moss_cap_v1",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_moss_cap_v1"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_stair_paver_v1",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_stair_paver_v1",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_stair_paver_v1"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_stair_paver_v2_candidate",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_stair_paver_v2_candidate",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_stair_paver_v2_candidate"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_trail_3d",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_3d",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_3d"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_trail_top_v10_candidate",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v10_candidate",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v10_candidate"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_trail_top_v11_candidate",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v11_candidate",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v11_candidate"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_trail_top_v5",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v5",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v5"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_trail_top_v6",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v6",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v6"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_trail_top_v7",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v7",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v7"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_trail_top_v8",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v8",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v8"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_trail_top_v9_candidate",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v9_candidate",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_trail_top_v9_candidate"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_water",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_water_3d",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_3d",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_3d"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_water_v4",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v4",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v4"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_water_v5",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v5",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v5"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_water_v6",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v6",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v6"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_water_v7",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v7",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v7"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_water_v8",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v8",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v8"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_water_v9",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v9",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_water_v9"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "terrain_wood_3d",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_wood_3d",
+      "revision": 1,
+      "triangles": 17600,
+      "materials": [
+        "/Game/Terrarium/Migration/Materials/MI_Surface_terrain_wood_3d"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "tide",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Tide_R3",
+      "revision": 3,
+      "triangles": 25168,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "trail_prism",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_TrailPrism_R3",
+      "revision": 3,
+      "triangles": 16544,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_Energy_trail_prism"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "tree",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_AncientTree_R3",
+      "revision": 3,
+      "triangles": 205392,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    },
+    {
+      "key": "wheat_field",
+      "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_WheatField_R3",
+      "revision": 3,
+      "triangles": 422400,
+      "materials": [
+        "/Game/Terrarium/Reconstruction/Materials/M_SculptedPalette"
+      ],
+      "ground_error_cm": 0.0
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Riverbank_R6",
+  "revision": 6,
+  "saved_and_reopened_gallery": true,
+  "other_six_gallery_mesh_bindings_unchanged": true,
+  "saved_normal_errors": 0,
+  "triangles": 50160,
+  "ground_error_cm": 0.0,
+  "front_back_native_renders_inspected": true,
+  "pixel_parity": "not_claimed; material finish and exact block placement still differ",
+  "user_acceptance": "pending",
+  "gameplay_collision_tested": false,
+  "environment_overview_recaptured": true,
+  "restored_editor_map": "/Game/Terrarium/Maps/HomesteadReference",
+  "homestead_map_and_project_defaults_modified": false
+}

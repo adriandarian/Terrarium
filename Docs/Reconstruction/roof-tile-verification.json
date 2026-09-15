@@ -1,0 +1,17 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_roof_tile_v5_R2",
+  "source_png_sha256": "134202889db1a5cbda67abaf9469aa2648d520e1b762b0e34437f9484eafc555",
+  "original_texture_and_material_preserved": true,
+  "tile_count": 188,
+  "closed_components": 189,
+  "triangles": 8316,
+  "saved_normal_errors": 0,
+  "cube_grid_and_periodic_height_reset_removed": true,
+  "saved_reopened_gallery": true,
+  "other_44_gallery_meshes_materials_transforms_unchanged": true,
+  "roof_transform_unchanged": true,
+  "ground_error_cm": 0.0,
+  "user_acceptance": "pending",
+  "gameplay_tested": false
+}

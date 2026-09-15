@@ -1,0 +1,322 @@
+{
+  "source": "cottage_roof_tile_v6_candidate.png",
+  "source_sha256": "c97b792e2105e51bcf43aea6cdb607318e7fa7eb285aa26a3514f52b21d6fe72",
+  "size_px": [
+    1254,
+    1254
+  ],
+  "method": "source course guides and local dark vertical seam detection",
+  "height_inference": "none; relief depth is explicitly authored in roof_surface.py",
+  "rows": [
+    {
+      "row": 0,
+      "seams_x_px": [
+        173,
+        395,
+        624,
+        856,
+        1075
+      ],
+      "tiles": [
+        {
+          "left": 0,
+          "right": 173,
+          "top": 0,
+          "bottom": 189
+        },
+        {
+          "left": 173,
+          "right": 395,
+          "top": 0,
+          "bottom": 187
+        },
+        {
+          "left": 395,
+          "right": 624,
+          "top": 0,
+          "bottom": 189
+        },
+        {
+          "left": 624,
+          "right": 856,
+          "top": 0,
+          "bottom": 189
+        },
+        {
+          "left": 856,
+          "right": 1075,
+          "top": 0,
+          "bottom": 190
+        },
+        {
+          "left": 1075,
+          "right": 1254,
+          "top": 0,
+          "bottom": 187
+        }
+      ]
+    },
+    {
+      "row": 1,
+      "seams_x_px": [
+        79,
+        288,
+        505,
+        729,
+        947,
+        1168
+      ],
+      "tiles": [
+        {
+          "left": 0,
+          "right": 79,
+          "top": 194,
+          "bottom": 397
+        },
+        {
+          "left": 79,
+          "right": 288,
+          "top": 194,
+          "bottom": 400
+        },
+        {
+          "left": 288,
+          "right": 505,
+          "top": 194,
+          "bottom": 400
+        },
+        {
+          "left": 505,
+          "right": 729,
+          "top": 194,
+          "bottom": 400
+        },
+        {
+          "left": 729,
+          "right": 947,
+          "top": 194,
+          "bottom": 400
+        },
+        {
+          "left": 947,
+          "right": 1168,
+          "top": 194,
+          "bottom": 400
+        },
+        {
+          "left": 1168,
+          "right": 1254,
+          "top": 194,
+          "bottom": 400
+        }
+      ]
+    },
+    {
+      "row": 2,
+      "seams_x_px": [
+        187,
+        403,
+        616,
+        835,
+        1050
+      ],
+      "tiles": [
+        {
+          "left": 0,
+          "right": 187,
+          "top": 409,
+          "bottom": 612
+        },
+        {
+          "left": 187,
+          "right": 403,
+          "top": 409,
+          "bottom": 610
+        },
+        {
+          "left": 403,
+          "right": 616,
+          "top": 409,
+          "bottom": 611
+        },
+        {
+          "left": 616,
+          "right": 835,
+          "top": 409,
+          "bottom": 610
+        },
+        {
+          "left": 835,
+          "right": 1050,
+          "top": 409,
+          "bottom": 612
+        },
+        {
+          "left": 1050,
+          "right": 1254,
+          "top": 409,
+          "bottom": 613
+        }
+      ]
+    },
+    {
+      "row": 3,
+      "seams_x_px": [
+        80,
+        290,
+        501,
+        721,
+        944,
+        1163
+      ],
+      "tiles": [
+        {
+          "left": 0,
+          "right": 80,
+          "top": 618,
+          "bottom": 823
+        },
+        {
+          "left": 80,
+          "right": 290,
+          "top": 618,
+          "bottom": 824
+        },
+        {
+          "left": 290,
+          "right": 501,
+          "top": 618,
+          "bottom": 824
+        },
+        {
+          "left": 501,
+          "right": 721,
+          "top": 618,
+          "bottom": 820
+        },
+        {
+          "left": 721,
+          "right": 944,
+          "top": 618,
+          "bottom": 824
+        },
+        {
+          "left": 944,
+          "right": 1163,
+          "top": 618,
+          "bottom": 822
+        },
+        {
+          "left": 1163,
+          "right": 1254,
+          "top": 618,
+          "bottom": 825
+        }
+      ]
+    },
+    {
+      "row": 4,
+      "seams_x_px": [
+        187,
+        403,
+        614,
+        825,
+        1043
+      ],
+      "tiles": [
+        {
+          "left": 0,
+          "right": 187,
+          "top": 834,
+          "bottom": 1031
+        },
+        {
+          "left": 187,
+          "right": 403,
+          "top": 834,
+          "bottom": 1030
+        },
+        {
+          "left": 403,
+          "right": 614,
+          "top": 834,
+          "bottom": 1034
+        },
+        {
+          "left": 614,
+          "right": 825,
+          "top": 834,
+          "bottom": 1033
+        },
+        {
+          "left": 825,
+          "right": 1043,
+          "top": 834,
+          "bottom": 1034
+        },
+        {
+          "left": 1043,
+          "right": 1254,
+          "top": 834,
+          "bottom": 1032
+        }
+      ]
+    },
+    {
+      "row": 5,
+      "seams_x_px": [
+        78,
+        284,
+        502,
+        721,
+        942,
+        1158
+      ],
+      "tiles": [
+        {
+          "left": 0,
+          "right": 78,
+          "top": 1040,
+          "bottom": 1254
+        },
+        {
+          "left": 78,
+          "right": 284,
+          "top": 1040,
+          "bottom": 1254
+        },
+        {
+          "left": 284,
+          "right": 502,
+          "top": 1040,
+          "bottom": 1254
+        },
+        {
+          "left": 502,
+          "right": 721,
+          "top": 1040,
+          "bottom": 1254
+        },
+        {
+          "left": 721,
+          "right": 942,
+          "top": 1040,
+          "bottom": 1254
+        },
+        {
+          "left": 942,
+          "right": 1158,
+          "top": 1040,
+          "bottom": 1254
+        },
+        {
+          "left": 1158,
+          "right": 1254,
+          "top": 1040,
+          "bottom": 1254
+        }
+      ]
+    }
+  ],
+  "tile_count": 39
+}

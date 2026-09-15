@@ -1,0 +1,28 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_EmberCrest_R8",
+  "revision": 8,
+  "saved_and_reopened_gallery": true,
+  "other_seven_gallery_mesh_bindings_unchanged": true,
+  "saved_normal_errors": 0,
+  "triangles": 24076,
+  "ground_error_cm": 0.0,
+  "front_back_native_renders_inspected": true,
+  "pixel_parity": "not_claimed; material finish and exact block placement still differ",
+  "user_acceptance": "pending",
+  "gameplay_collision_tested": false,
+  "saved_bronze_mask_vertices": 1872,
+  "saved_nonmetal_mask_vertices": 11816,
+  "red_flame_and_gem_vertices_nonmetal": true,
+  "material": "/Game/Terrarium/Reconstruction/Materials/M_EmberCrest_Patina_R6",
+  "collectibles_overview_recaptured": true,
+  "restored_editor_map": "/Game/Terrarium/Maps/HomesteadReference",
+  "homestead_map_and_project_defaults_modified": false,
+  "front_preservation": {
+    "baseline_revision": 7,
+    "new_revision": 8,
+    "front_vertex_position_color_and_material_masks_identical": true,
+    "compared_vertices": 12356,
+    "selection": "all vertices with Y < 7.0 cm; new rear cap fronts begin at Y = 7.2 cm"
+  }
+}

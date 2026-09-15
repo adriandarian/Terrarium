@@ -1,0 +1,18 @@
+{
+  "project": "../../../../../../Users/hello/Projects/Terrarium/Terrarium.uproject",
+  "asset": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_plaster_v5_R2",
+  "saved_and_reopened_gallery": true,
+  "other_44_gallery_mesh_bindings_unchanged": true,
+  "triangles": 44,
+  "closed_components": 1,
+  "saved_normal_errors": 0,
+  "material": "/Game/Terrarium/Migration/Materials/MI_Surface_cottage_plaster_v5",
+  "front_back_renders_inspected": true,
+  "internal_block_seams": "removed",
+  "source_texture": "unchanged",
+  "pixel_parity": "not_claimed; studio render remains lighter than source",
+  "editor_map_preservation": {
+    "original": "/Game/Terrarium/Maps/HomesteadReference",
+    "restore": "/Game/Terrarium/Reconstruction/Backups/BeforePlasterR2_20260912_201554"
+  }
+}
