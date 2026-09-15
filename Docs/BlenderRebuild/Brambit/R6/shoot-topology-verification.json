@@ -1,0 +1,30 @@
+{
+  "source_blend_sha256": "c363891eed56babfe843af7ea9f91750b08af0ba7fa4788aab92b9092e9329f4",
+  "shoots": [
+    {
+      "part": "Central leafy shoot",
+      "authored_blocks": 15,
+      "planar_boundary_quads": 1892,
+      "evaluated_connected_components": 1,
+      "authored_bounds_error_m": 4.76837158203125e-07,
+      "closed_positive_volume": true
+    },
+    {
+      "part": "Left leafy shoot",
+      "authored_blocks": 11,
+      "planar_boundary_quads": 1014,
+      "evaluated_connected_components": 1,
+      "authored_bounds_error_m": 4.6938657760620117e-07,
+      "closed_positive_volume": true
+    },
+    {
+      "part": "Right leafy shoot",
+      "authored_blocks": 6,
+      "planar_boundary_quads": 426,
+      "evaluated_connected_components": 1,
+      "authored_bounds_error_m": 4.3213367462158203e-07,
+      "closed_positive_volume": true
+    }
+  ],
+  "limits": "Planar surfaces, connected closed topology and authored bounds. Does not establish concept fidelity."
+}

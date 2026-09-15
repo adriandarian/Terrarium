@@ -1,0 +1,28 @@
+{
+  "revision": "r6_planar_shoot_surfaces",
+  "accepted_fidelity": false,
+  "visually_checked": true,
+  "parts": 5,
+  "editable_construction_blocks": 271,
+  "triangles": 47882,
+  "studio_views": [
+    "front.png",
+    "left.png",
+    "side.png",
+    "rear.png"
+  ],
+  "world_views": [
+    "World/unreal-viewport.png",
+    "Side/unreal-viewport.png",
+    "Rear/unreal-viewport.png",
+    "Context/unreal-viewport.png"
+  ],
+  "remaining": [
+    "The body remains more rectangular and regularly tiled than the reference; the newly asymmetric cap exposes the stems, but its block footprint and shoulder proportions still need closer matching. The forehead now has physical depth, while its transition into surrounding moss remains too regular.",
+    "Bark size, depth and distribution still differ from the source. The rear now has four shrinking cross-sections, but the dense bark pattern still reads as tiles; rear anatomy is inferred because no rear concept was supplied.",
+    "The main tan face follows measured source boundaries, but the lower belly steps, foot proportions and spacing need closer matching.",
+    "The three leaf silhouettes are recognizable, but their block seams, stem exposure and depth arrangement remain different. The earlier diagonal surface artifacts are removed in the checked studio views; the inferred rear still needs a more coherent arrangement of leaf blocks.",
+    "The current pigment maps are simple flat colors. Surface variation and source lighting are not matched; the Unreal face is darker than the studio reference.",
+    "Four feet and twenty sole samples pass static support checks, with uneven-ground clearance below 5.5 mm. This model has no rig, animation, locomotion or physics validation."
+  ]
+}

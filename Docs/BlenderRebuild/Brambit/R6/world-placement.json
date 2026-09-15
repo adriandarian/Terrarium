@@ -1,0 +1,264 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "actor": "Blender_Brambit_Courtyard",
+  "mesh": "/Game/Terrarium/Blender/Brambit/SM_Blender_Brambit.SM_Blender_Brambit",
+  "materials": [
+    "/Game/Terrarium/Blender/Brambit/M_Brambit.M_Brambit"
+  ],
+  "location_cm": [
+    500,
+    0,
+    552.4488992595673
+  ],
+  "scale": 0.8,
+  "yaw": 0,
+  "height_cm": 76.69864196777344,
+  "camera": "Blender_Brambit_Review",
+  "support_probes": [
+    {
+      "foot": "Dark foot",
+      "xy": [
+        476.2400007247925,
+        18.480000495910645
+      ],
+      "ground_z": 559.4574928283691,
+      "local_bottom_m": 0.09300000220537186,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.43140660762787775
+    },
+    {
+      "foot": "Dark foot",
+      "xy": [
+        474.40000072479245,
+        20.560000495910646
+      ],
+      "ground_z": 559.4813466072083,
+      "local_bottom_m": 0.09300000220537186,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.4075528287887664
+    },
+    {
+      "foot": "Dark foot",
+      "xy": [
+        474.40000072479245,
+        16.400000495910646
+      ],
+      "ground_z": 559.4616949558258,
+      "local_bottom_m": 0.09299998730421066,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.4272032880783172
+    },
+    {
+      "foot": "Dark foot",
+      "xy": [
+        478.08000072479246,
+        20.560000495910646
+      ],
+      "ground_z": 559.592193365097,
+      "local_bottom_m": 0.09300000220537186,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.2967060708999725
+    },
+    {
+      "foot": "Dark foot",
+      "xy": [
+        478.08000072479246,
+        16.400000495910646
+      ],
+      "ground_z": 559.475427865982,
+      "local_bottom_m": 0.09300000220537186,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.4134715700149627
+    },
+    {
+      "foot": "Dark foot.001",
+      "xy": [
+        476.2400007247925,
+        -6.480000019073486
+      ],
+      "ground_z": 559.7994208335876,
+      "local_bottom_m": 0.09299998730421066,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.08947741031647638
+    },
+    {
+      "foot": "Dark foot.001",
+      "xy": [
+        474.40000072479245,
+        -4.400000019073487
+      ],
+      "ground_z": 559.8199844360352,
+      "local_bottom_m": 0.09300000220537186,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.06891499996186212
+    },
+    {
+      "foot": "Dark foot.001",
+      "xy": [
+        474.40000072479245,
+        -8.560000019073486
+      ],
+      "ground_z": 559.8488986492157,
+      "local_bottom_m": 0.09300000220537186,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.04000078678132013
+    },
+    {
+      "foot": "Dark foot.001",
+      "xy": [
+        478.08000072479246,
+        -4.400000019073487
+      ],
+      "ground_z": 559.7333312034607,
+      "local_bottom_m": 0.09299998730421066,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.1555670404434295
+    },
+    {
+      "foot": "Dark foot.001",
+      "xy": [
+        478.08000072479246,
+        -8.560000019073486
+      ],
+      "ground_z": 559.7622632980347,
+      "local_bottom_m": 0.09300000220537186,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.1266361379623504
+    },
+    {
+      "foot": "Dark foot.002",
+      "xy": [
+        508.56000006198883,
+        18.480000495910645
+      ],
+      "ground_z": 559.6221625804901,
+      "local_bottom_m": 0.09299998730421066,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.26673566341401056
+    },
+    {
+      "foot": "Dark foot.002",
+      "xy": [
+        506.72000006198886,
+        20.560000495910646
+      ],
+      "ground_z": 559.613847732544,
+      "local_bottom_m": 0.09299998730421066,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.27505051136017755
+    },
+    {
+      "foot": "Dark foot.002",
+      "xy": [
+        506.72000006198886,
+        16.400000495910646
+      ],
+      "ground_z": 559.4624638557434,
+      "local_bottom_m": 0.09299998730421066,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.42643438816071466
+    },
+    {
+      "foot": "Dark foot.002",
+      "xy": [
+        510.4000000619888,
+        20.560000495910646
+      ],
+      "ground_z": 559.78724360466,
+      "local_bottom_m": 0.09299998730421066,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.10165463924408868
+    },
+    {
+      "foot": "Dark foot.002",
+      "xy": [
+        510.4000000619888,
+        16.400000495910646
+      ],
+      "ground_z": 559.6867680549622,
+      "local_bottom_m": 0.09299998730421066,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.20213018894196466
+    },
+    {
+      "foot": "Dark foot.003",
+      "xy": [
+        508.56000006198883,
+        -6.480000019073486
+      ],
+      "ground_z": 559.7462058067322,
+      "local_bottom_m": 0.09300001710653305,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.14269482135773615
+    },
+    {
+      "foot": "Dark foot.003",
+      "xy": [
+        506.72000006198886,
+        -4.400000019073487
+      ],
+      "ground_z": 559.7677171230316,
+      "local_bottom_m": 0.09299998730421066,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.12118112087250665
+    },
+    {
+      "foot": "Dark foot.003",
+      "xy": [
+        506.72000006198886,
+        -8.560000019073486
+      ],
+      "ground_z": 559.6925437450409,
+      "local_bottom_m": 0.09299998730421066,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.1963544988632293
+    },
+    {
+      "foot": "Dark foot.003",
+      "xy": [
+        510.4000000619888,
+        -4.400000019073487
+      ],
+      "ground_z": 559.7284317016602,
+      "local_bottom_m": 0.09300000220537186,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.16046773433686212
+    },
+    {
+      "foot": "Dark foot.003",
+      "xy": [
+        510.4000000619888,
+        -8.560000019073486
+      ],
+      "ground_z": 559.7480475902557,
+      "local_bottom_m": 0.09299998730421066,
+      "ground_actor": "Fidelity_StaticInstances",
+      "ground_component": "FoliageInstancedStaticMeshComponent_6",
+      "clearance_cm": 0.14085065364838556
+    }
+  ],
+  "ground_height_spread_cm": 0.3914058208465576,
+  "max_clearance_cm": 0.43140660762787775,
+  "source_blend_sha256": "c363891eed56babfe843af7ea9f91750b08af0ba7fa4788aab92b9092e9329f4",
+  "status": "saved_reload_and_native_views_verified_fidelity_open",
+  "limits": "Static courtyard placement. Foot samples and vertical obstruction samples only; no rig, locomotion, rigid-body or complete collision audit."
+}
