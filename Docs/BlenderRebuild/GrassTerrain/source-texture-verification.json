@@ -1,0 +1,7 @@
+{
+  "source": "SourceAssets\\Voxel\\terrain_grass_top_v9.png",
+  "copied_albedo": "SourceAssets\\Blender\\GrassTerrain\\GrassTerrain_BaseColor.png",
+  "byte_identical": true,
+  "sha256": "c1d9163a0b19a256e75ec1644fdb950c3c419e1144b2a59f9d38cab6e190f3db",
+  "relief_policy": "Up to 0.9 cm shallow relief sampled from source luminance; this is an inferred height surface, not height data supplied by the reference."
+}

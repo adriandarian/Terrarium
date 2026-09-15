@@ -1,0 +1,11 @@
+{
+  "asset": "GrassTerrain",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_GrassTerrain",
+  "parts": 1,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 222,
+  "sha256": "3c4fa457d083a9b926e87453a95e1211f770c180528d6ead27cbbd11c131ecc4",
+  "active_camera": "Reference camera.015"
+}

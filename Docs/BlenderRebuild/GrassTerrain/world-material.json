@@ -1,0 +1,7 @@
+{
+  "albedo": "T_GrassTerrain_BaseColor",
+  "world_tile_size_cm": 200,
+  "uv_code": "float2(World.x, -World.y) / 200.0 + 0.5",
+  "purpose": "Continuous source texture coordinates across rotated/scaled meadow instances.",
+  "mesh_collision": "ComplexAsSimple"
+}

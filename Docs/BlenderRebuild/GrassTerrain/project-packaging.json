@@ -1,0 +1,12 @@
+{
+  "asset": "GrassTerrain",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "b8d8e3cdcdf2f962df925de0c617606c0063571377face07de54ad47e3b55ee2",
+  "sha256": "3c4fa457d083a9b926e87453a95e1211f770c180528d6ead27cbbd11c131ecc4",
+  "scene": "Terrarium_GrassTerrain",
+  "parts": 1,
+  "packed_images": 3,
+  "active_camera": "Reference camera.015",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

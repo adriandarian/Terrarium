@@ -1,0 +1,362 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "reloaded_from_disk": true,
+  "count": 5841,
+  "all_transforms_verified": true,
+  "groups": [
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "count": 755,
+      "profile": "BlockAll"
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "count": 5086,
+      "profile": "BlockAll"
+    }
+  ],
+  "source_albedo_byte_identical": true,
+  "source_sha256": "c1d9163a0b19a256e75ec1644fdb950c3c419e1144b2a59f9d38cab6e190f3db",
+  "import_export_hash_match": true,
+  "surface_probes": [
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "index": 0,
+      "xy_cm": [
+        -3900.0,
+        928.0
+      ],
+      "top_cm": 343.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "index": 62,
+      "xy_cm": [
+        -2676.0,
+        -296.0
+      ],
+      "top_cm": 343.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": true
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "index": 124,
+      "xy_cm": [
+        -1884.0,
+        2368.0
+      ],
+      "top_cm": 727.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "index": 186,
+      "xy_cm": [
+        -1308.0,
+        3880.0
+      ],
+      "top_cm": 559.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "index": 248,
+      "xy_cm": [
+        -876.0,
+        -944.0
+      ],
+      "top_cm": 431.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "index": 310,
+      "xy_cm": [
+        -444.0,
+        -2528.0
+      ],
+      "top_cm": 111.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "index": 372,
+      "xy_cm": [
+        132.0,
+        -2168.0
+      ],
+      "top_cm": 281.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "index": 434,
+      "xy_cm": [
+        564.0,
+        -224.0
+      ],
+      "top_cm": 287.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "index": 496,
+      "xy_cm": [
+        1068.0,
+        -656.0
+      ],
+      "top_cm": 279.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "index": 558,
+      "xy_cm": [
+        1500.0,
+        -1592.0
+      ],
+      "top_cm": 127.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "index": 620,
+      "xy_cm": [
+        2220.0,
+        -4256.0
+      ],
+      "top_cm": 143.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "index": 682,
+      "xy_cm": [
+        3156.0,
+        -3248.0
+      ],
+      "top_cm": 279.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_5",
+      "index": 744,
+      "xy_cm": [
+        3876.0,
+        -1592.0
+      ],
+      "top_cm": 119.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "index": 0,
+      "xy_cm": [
+        -3756.0,
+        928.0
+      ],
+      "top_cm": 879.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "index": 423,
+      "xy_cm": [
+        -2316.0,
+        784.0
+      ],
+      "top_cm": 879.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "index": 846,
+      "xy_cm": [
+        -1740.0,
+        1576.0
+      ],
+      "top_cm": 879.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "index": 1269,
+      "xy_cm": [
+        -1236.0,
+        -1304.0
+      ],
+      "top_cm": 279.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "index": 1692,
+      "xy_cm": [
+        -876.0,
+        3664.0
+      ],
+      "top_cm": 559.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "index": 2115,
+      "xy_cm": [
+        -372.0,
+        -584.0
+      ],
+      "top_cm": 559.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "index": 2538,
+      "xy_cm": [
+        60.0,
+        928.0
+      ],
+      "top_cm": 559.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "index": 2961,
+      "xy_cm": [
+        564.0,
+        -2600.0
+      ],
+      "top_cm": 279.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "index": 3384,
+      "xy_cm": [
+        996.0,
+        208.0
+      ],
+      "top_cm": 559.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "index": 3807,
+      "xy_cm": [
+        1644.0,
+        -4328.0
+      ],
+      "top_cm": 279.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "index": 4230,
+      "xy_cm": [
+        2364.0,
+        -3392.0
+      ],
+      "top_cm": 279.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "index": 4653,
+      "xy_cm": [
+        2940.0,
+        -2240.0
+      ],
+      "top_cm": 279.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    },
+    {
+      "component": "FoliageInstancedStaticMeshComponent_6",
+      "index": 5076,
+      "xy_cm": [
+        3732.0,
+        -1160.0
+      ],
+      "top_cm": 279.8930494650267,
+      "tolerance_cm": 0.05,
+      "passed": true,
+      "trace_scope": "meadow_component",
+      "unfiltered_world_obstructed_above": false
+    }
+  ],
+  "limits": "Sampled component collision verifies the grass mesh. Unfiltered world obstructions are reported separately; some lower meadow edge tiles overlap solid cliffs. This does not establish exposed ground, character traversal or performance. Inferred relief and world appearance still require visual review."
+}

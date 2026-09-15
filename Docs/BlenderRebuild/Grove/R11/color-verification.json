@@ -1,0 +1,153 @@
+{
+  "source_basecolor_sha256": "8c8db7cbc9868931f5a042fc37db15b62a5155ab4b1f94be095b85d6712ed7dc",
+  "png_bit_depth": 8,
+  "samples": [
+    {
+      "palette_index": 0,
+      "pixel": [
+        16,
+        240
+      ],
+      "linear_rgb": [
+        0.045166015625,
+        0.1650390625,
+        0.0024261474609375
+      ],
+      "expected_linear_rgb": [
+        0.04518620438567554,
+        0.1651321945016676,
+        0.0024282158683907
+      ],
+      "max_channel_error": 9.313200166760627e-05
+    },
+    {
+      "palette_index": 5,
+      "pixel": [
+        176,
+        240
+      ],
+      "linear_rgb": [
+        0.59765625,
+        0.82421875,
+        0.09521484375
+      ],
+      "expected_linear_rgb": [
+        0.5972017883637634,
+        0.8148465722161012,
+        0.0953074666309647
+      ],
+      "max_channel_error": 0.00937217778389876
+    },
+    {
+      "palette_index": 6,
+      "pixel": [
+        208,
+        240
+      ],
+      "linear_rgb": [
+        0.75390625,
+        0.88671875,
+        0.23046875
+      ],
+      "expected_linear_rgb": [
+        0.7454042095403874,
+        0.8796223968878317,
+        0.23074004852434915
+      ],
+      "max_channel_error": 0.008502040459612559
+    },
+    {
+      "palette_index": 8,
+      "pixel": [
+        16,
+        208
+      ],
+      "linear_rgb": [
+        0.15625,
+        0.2236328125,
+        0.0091552734375
+      ],
+      "expected_linear_rgb": [
+        0.15292615199615017,
+        0.2232279573168085,
+        0.008568125618069307
+      ],
+      "max_channel_error": 0.0033238480038498275
+    },
+    {
+      "palette_index": 12,
+      "pixel": [
+        144,
+        208
+      ],
+      "linear_rgb": [
+        0.171875,
+        0.080078125,
+        0.01519775390625
+      ],
+      "expected_linear_rgb": [
+        0.1714411007328226,
+        0.08021982031446832,
+        0.01599629336550963
+      ],
+      "max_channel_error": 0.0007985394592596312
+    },
+    {
+      "palette_index": 13,
+      "pixel": [
+        176,
+        208
+      ],
+      "linear_rgb": [
+        0.2197265625,
+        0.10009765625,
+        0.022216796875
+      ],
+      "expected_linear_rgb": [
+        0.21586050011389926,
+        0.09989872824711389,
+        0.02315336617811041
+      ],
+      "max_channel_error": 0.003866062386100738
+    },
+    {
+      "palette_index": 14,
+      "pixel": [
+        208,
+        208
+      ],
+      "linear_rgb": [
+        0.1328125,
+        0.054443359375,
+        0.010986328125
+      ],
+      "expected_linear_rgb": [
+        0.13563332965520566,
+        0.05448027644244237,
+        0.010329823029626936
+      ],
+      "max_channel_error": 0.0028208296552056644
+    },
+    {
+      "palette_index": 15,
+      "pixel": [
+        240,
+        208
+      ],
+      "linear_rgb": [
+        0.296875,
+        0.1298828125,
+        0.03076171875
+      ],
+      "expected_linear_rgb": [
+        0.29177064981753587,
+        0.1301364766903643,
+        0.03189603307301153
+      ],
+      "max_channel_error": 0.005104350182464135
+    }
+  ],
+  "method": "Material albedo routed to emission and drawn into an RGBA32F target, then read without normalization; a constant-color control verified the linear readback. Original opaque material restored and saved afterward.",
+  "finding": "The previous PNG16 import sampled approximately encoded RGB despite srgb=true. This PNG8 import samples decoded linear RGB within 0.02 per channel at the eight checked palette cells.",
+  "limits": "Texture sampling check only; no claim that all 16-bit textures are affected or that the shaded scene matches the concept."
+}

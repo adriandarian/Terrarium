@@ -1,0 +1,18 @@
+{
+  "asset": "GrassTerrain",
+  "mesh": "/Game/Terrarium/Blender/GrassTerrain/SM_Blender_GrassTerrain.SM_Blender_GrassTerrain",
+  "material": "/Game/Terrarium/Blender/GrassTerrain/M_GrassTerrain.M_GrassTerrain",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/GrassTerrain/T_GrassTerrain_BaseColor.T_GrassTerrain_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/GrassTerrain/T_GrassTerrain_Emission.T_GrassTerrain_Emission",
+    "Roughness": "/Game/Terrarium/Blender/GrassTerrain/T_GrassTerrain_Roughness.T_GrassTerrain_Roughness"
+  },
+  "source_fbx_sha256": "b86554bb1a72b847f4db438edf0feadc8d19ce6c47683d291069753c7d9a3037",
+  "dimensions_cm": [
+    200.00001525878906,
+    200.00001525878906,
+    12.0
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_pending_visual_check"
+}
