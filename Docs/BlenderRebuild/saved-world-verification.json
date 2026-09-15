@@ -1,0 +1,242 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "bindings": [
+    {
+      "asset": "AncientTree",
+      "actor": "Blender_AncientTree_NorthMeadow",
+      "mesh": "/Game/Terrarium/Blender/AncientTree/SM_Blender_AncientTree.SM_Blender_AncientTree",
+      "material": "/Game/Terrarium/Blender/AncientTree/M_AncientTree.M_AncientTree",
+      "location_cm": [
+        564.0,
+        1792.0,
+        558.8362495541572
+      ]
+    },
+    {
+      "asset": "Brambit",
+      "actor": "Blender_Brambit_Courtyard",
+      "mesh": "/Game/Terrarium/Blender/Brambit/SM_Blender_Brambit.SM_Blender_Brambit",
+      "material": "/Game/Terrarium/Blender/Brambit/M_Brambit.M_Brambit",
+      "location_cm": [
+        500.0,
+        -12.0,
+        550.3681987190246
+      ]
+    },
+    {
+      "asset": "BridgeThreshold",
+      "actor": "Blender_BridgeThreshold_South",
+      "mesh": "/Game/Terrarium/Blender/BridgeThreshold/SM_Blender_BridgeThreshold.SM_Blender_BridgeThreshold",
+      "material": "/Game/Terrarium/Blender/BridgeThreshold/M_BridgeThreshold.M_BridgeThreshold",
+      "location_cm": [
+        868.4032036437609,
+        -1758.2932047080294,
+        280.0
+      ]
+    },
+    {
+      "asset": "CivicHall",
+      "actor": "Blender_CivicHall_NorthPath",
+      "mesh": "/Game/Terrarium/Blender/CivicHall/SM_Blender_CivicHall.SM_Blender_CivicHall",
+      "material": "/Game/Terrarium/Blender/CivicHall/M_CivicHall.M_CivicHall",
+      "location_cm": [
+        -450.0,
+        1400.0,
+        560.0
+      ]
+    },
+    {
+      "asset": "Cottage",
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/Blender/Cottage/SM_Blender_Cottage.SM_Blender_Cottage",
+      "material": "/Game/Terrarium/Blender/Cottage/M_Cottage.M_Cottage",
+      "location_cm": [
+        -204.95055056829824,
+        53.27614600378365,
+        560.0
+      ]
+    },
+    {
+      "asset": "DeepDelverMark",
+      "actor": "Blender_DeepDelverMark_MarketFront",
+      "mesh": "/Game/Terrarium/Blender/DeepDelverMark/SM_Blender_DeepDelverMark.SM_Blender_DeepDelverMark",
+      "material": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Frame.M_DeepDelverMark_Frame",
+      "location_cm": [
+        355.0,
+        627.988996720314,
+        590.0
+      ]
+    },
+    {
+      "asset": "Ember",
+      "actor": "Blender_Ember_MarketCounter",
+      "mesh": "/Game/Terrarium/Blender/Ember/SM_Blender_Ember.SM_Blender_Ember",
+      "material": "/Game/Terrarium/Blender/Ember/M_Ember_Flame.M_Ember_Flame",
+      "location_cm": [
+        337.5,
+        626.3,
+        635.040996293053
+      ]
+    },
+    {
+      "asset": "EmberCrest",
+      "actor": "Blender_EmberCrest_MarketFront",
+      "mesh": "/Game/Terrarium/Blender/EmberCrest/SM_Blender_EmberCrest.SM_Blender_EmberCrest",
+      "material": "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Field.M_EmberCrest_Field",
+      "location_cm": [
+        184.0,
+        628.1750094509125,
+        592.0
+      ]
+    },
+    {
+      "asset": "Grove",
+      "actor": "Blender_Grove_MarketCounter",
+      "mesh": "/Game/Terrarium/Blender/Grove/SM_Blender_Grove.SM_Blender_Grove",
+      "material": "/Game/Terrarium/Blender/Grove/M_Grove_Leaf.M_Grove_Leaf",
+      "location_cm": [
+        371.75,
+        624.0,
+        635.0436862301826
+      ]
+    },
+    {
+      "asset": "Lantern",
+      "actor": "Reference_Lantern",
+      "mesh": "/Game/Terrarium/Blender/Lantern/SM_Blender_Lantern.SM_Blender_Lantern",
+      "material": "/Game/Terrarium/Blender/Lantern/M_Lantern.M_Lantern",
+      "location_cm": [
+        122.0,
+        -350.0,
+        560.0
+      ]
+    },
+    {
+      "asset": "Lodge",
+      "actor": "Blender_Lodge_UpperTerrace",
+      "mesh": "/Game/Terrarium/Blender/Lodge/SM_Blender_Lodge.SM_Blender_Lodge",
+      "material": "/Game/Terrarium/Blender/Lodge/M_Lodge.M_Lodge",
+      "location_cm": [
+        -2170.0,
+        -140.0,
+        880.0
+      ]
+    },
+    {
+      "asset": "MarketStall",
+      "actor": "Blender_MarketStall_UpperPath",
+      "mesh": "/Game/Terrarium/Blender/MarketStall/SM_Blender_MarketStall.SM_Blender_MarketStall",
+      "material": "/Game/Terrarium/Blender/MarketStall/M_MarketStall.M_MarketStall",
+      "location_cm": [
+        275.0,
+        550.0,
+        560.0
+      ]
+    },
+    {
+      "asset": "MossTonic",
+      "actor": "Blender_MossTonic_MarketCounter",
+      "mesh": "/Game/Terrarium/Blender/MossTonic/SM_Blender_MossTonic.SM_Blender_MossTonic",
+      "material": "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Glass.M_MossTonic_Glass",
+      "location_cm": [
+        241.4,
+        623.0,
+        634.5939962673187
+      ]
+    },
+    {
+      "asset": "RiverBridge",
+      "actor": "Fidelity_PlankBridge_v4_001",
+      "mesh": "/Game/Terrarium/Blender/RiverBridge/SM_Blender_RiverBridge.SM_Blender_RiverBridge",
+      "material": "/Game/Terrarium/Blender/RiverBridge/M_RiverBridge.M_RiverBridge",
+      "location_cm": [
+        894.2828554028314,
+        -1388.1969420616347,
+        146.16564564564564
+      ]
+    },
+    {
+      "asset": "Sign",
+      "actor": "Blender_Sign_Courtyard",
+      "mesh": "/Game/Terrarium/Blender/Sign/SM_Blender_Sign.SM_Blender_Sign",
+      "material": "/Game/Terrarium/Blender/Sign/M_Sign.M_Sign",
+      "location_cm": [
+        257.0,
+        -490.0,
+        560.0
+      ]
+    },
+    {
+      "asset": "StoneStairs",
+      "actor": "Fidelity_StoneStairs_v3_001",
+      "mesh": "/Game/Terrarium/Blender/StoneStairs/SM_Blender_StoneStairs.SM_Blender_StoneStairs",
+      "material": "/Game/Terrarium/Blender/StoneStairs/M_StoneStairs.M_StoneStairs",
+      "location_cm": [
+        859.3162562358393,
+        -316.1738468834001,
+        280.0
+      ]
+    },
+    {
+      "asset": "Storm",
+      "actor": "Blender_Storm_MarketCounter",
+      "mesh": "/Game/Terrarium/Blender/Storm/SM_Blender_Storm.SM_Blender_Storm",
+      "material": "/Game/Terrarium/Blender/Storm/M_Storm_Lightning.M_Storm_Lightning",
+      "location_cm": [
+        397.0,
+        626.0,
+        635.5572565947473
+      ]
+    },
+    {
+      "asset": "Tide",
+      "actor": "Blender_Tide_MarketCounter",
+      "mesh": "/Game/Terrarium/Blender/Tide/SM_Blender_Tide.SM_Blender_Tide",
+      "material": "/Game/Terrarium/Blender/Tide/M_Tide_Wave.M_Tide_Wave",
+      "location_cm": [
+        199.0,
+        624.0,
+        635.4504285144806
+      ]
+    },
+    {
+      "asset": "TrailPrism",
+      "actor": "Blender_TrailPrism_MarketCounter",
+      "mesh": "/Game/Terrarium/Blender/TrailPrism/SM_Blender_TrailPrism.SM_Blender_TrailPrism",
+      "material": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Crystal.M_TrailPrism_Crystal",
+      "location_cm": [
+        307.0,
+        623.0,
+        635.0119962882995
+      ]
+    }
+  ],
+  "lodge_stair_probes": [
+    {
+      "step": 1,
+      "expected_top_cm": 935.845,
+      "collision_top_tolerance_cm": 0.05,
+      "clear_above": true,
+      "blocked_below": true,
+      "passed": true
+    },
+    {
+      "step": 2,
+      "expected_top_cm": 917.145,
+      "collision_top_tolerance_cm": 0.05,
+      "clear_above": true,
+      "blocked_below": true,
+      "passed": true
+    },
+    {
+      "step": 3,
+      "expected_top_cm": 898.445,
+      "collision_top_tolerance_cm": 0.05,
+      "clear_above": true,
+      "blocked_below": true,
+      "passed": true
+    }
+  ],
+  "limits": "Static point traces only; full character movement and performance not tested.",
+  "fidelity": "not_complete"
+}

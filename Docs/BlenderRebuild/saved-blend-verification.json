@@ -1,0 +1,23 @@
+[
+  {
+    "asset": "Cottage",
+    "read_saved_blend_via_identical_copy": true,
+    "parts": 2713,
+    "packed_images": 1,
+    "sha256": "2bcd09823bb68ad86a32837ffae58aeb1e888209812ca3b871558b4014ed2ae1"
+  },
+  {
+    "asset": "Lantern",
+    "read_saved_blend_via_identical_copy": true,
+    "parts": 95,
+    "packed_images": 3,
+    "sha256": "848d0fc8ff1880f94b5b26e7dda31e79d425ff34c1eb0af69c18a1fae4b4eb22"
+  },
+  {
+    "asset": "Sign",
+    "read_saved_blend_via_identical_copy": true,
+    "parts": 76,
+    "packed_images": 3,
+    "sha256": "32bbe69d7fd53f4e78e773248deb9761b72571d08ed34fde1cc314c7db91444f"
+  }
+]

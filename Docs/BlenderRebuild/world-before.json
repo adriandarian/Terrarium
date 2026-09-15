@@ -1,0 +1,1347 @@
+{
+  "project": "C:\\Users\\hello\\Projects\\Terrarium",
+  "level": "<Object '/Game/Terrarium/Maps/HomesteadReference.HomesteadReference:PersistentLevel' (0x0000021D7F7C5400) Class 'Level'>",
+  "actors": [
+    {
+      "label": "Baseline_SkyLight",
+      "class": "SkyLight",
+      "mesh": null,
+      "location": "<Struct 'Vector' (0x0000021DA7212310) {x: 0.000000, y: 0.000000, z: 500.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA7212310) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA7212310) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA7212310) {x: 0.000000, y: 0.000000, z: 377.500000}>, <Struct 'Vector' (0x0000021DA7212770) {x: 256.000000, y: 256.000000, z: 378.500000}>)"
+    },
+    {
+      "label": "Baseline_FixedExposure_EV12",
+      "class": "PostProcessVolume",
+      "mesh": null,
+      "location": "<Struct 'Vector' (0x0000021DA72133F0) {x: 0.000000, y: 0.000000, z: 0.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72133F0) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72133F0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72133F0) {x: 0.000000, y: 0.000000, z: 0.000000}>, <Struct 'Vector' (0x0000021DA72127C0) {x: 100.000000, y: 100.000000, z: 100.000000}>)"
+    },
+    {
+      "label": "Reference_Cottage",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_Cottage.SM_Env_Cottage",
+      "location": "<Struct 'Vector' (0x0000021DA72133F0) {x: -204.950551, y: 53.276146, z: 560.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72133F0) {pitch: 0.000000, yaw: 90.000000, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72133F0) {x: 1.060000, y: 1.060000, z: 1.060000}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72133F0) {x: -176.781054, y: 22.006146, z: 812.810000}>, <Struct 'Vector' (0x0000021DA7212180) {x: 237.360503, y: 215.021006, z: 252.810000}>)"
+    },
+    {
+      "label": "Reference_BlueShed",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_BlueShed.SM_Env_BlueShed",
+      "location": "<Struct 'Vector' (0x0000021DA72133F0) {x: 529.352623, y: 314.579320, z: 560.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72133F0) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72133F0) {x: 1.200000, y: 1.200000, z: 1.200000}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72133F0) {x: 529.352623, y: 303.179320, z: 689.000000}>, <Struct 'Vector' (0x0000021DA72A14B0) {x: 114.600000, y: 110.400000, z: 129.000000}>)"
+    },
+    {
+      "label": "BlueHouse_Approach_0",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_PathTile_v4_Detail.SM_PathTile_v4_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A14B0) {x: 442.830863, y: 90.058408, z: 571.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A14B0) {pitch: 0.000000, yaw: 7.710742, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A14B0) {x: 0.294973, y: 0.275000, z: 0.650000}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A14B0) {x: 443.336347, y: 90.285032, z: 570.857284}>, <Struct 'Vector' (0x0000021DA72A1500) {x: 39.332166, y: 36.936497, z: 8.957284}>)"
+    },
+    {
+      "label": "BlueHouse_Approach_1",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_PathTile_v4_Detail.SM_PathTile_v4_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1500) {x: 497.784384, y: 97.498907, z: 571.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1500) {pitch: 0.000000, yaw: 23.744953, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1500) {x: 0.294973, y: 0.275000, z: 0.650000}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1500) {x: 498.207607, y: 97.856335, z: 570.857284}>, <Struct 'Vector' (0x0000021DA72A1550) {x: 45.388522, y: 43.955009, z: 8.957284}>)"
+    },
+    {
+      "label": "BlueHouse_Approach_2",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_PathTile_v4_Detail.SM_PathTile_v4_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1550) {x: 530.064733, y: 139.870767, z: 571.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1550) {pitch: 0.000000, yaw: 58.561752, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1550) {x: 0.294973, y: 0.275000, z: 0.650000}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1550) {x: 530.208116, y: 140.405850, z: 570.857284}>, <Struct 'Vector' (0x0000021DA72A15A0) {x: 46.132227, y: 47.059483, z: 8.957284}>)"
+    },
+    {
+      "label": "BlueHouse_Approach_3",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_PathTile_v4_Detail.SM_PathTile_v4_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A15A0) {x: 539.009851, y: 192.462575, z: 571.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A15A0) {pitch: 0.000000, yaw: 91.686142, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A15A0) {x: 0.294973, y: 0.275000, z: 0.650000}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A15A0) {x: 538.837532, y: 192.989051, z: 570.857284}>, <Struct 'Vector' (0x0000021DA72A1460) {x: 33.519569, y: 36.232195, z: 8.957284}>)"
+    },
+    {
+      "label": "BlueHouse_Stone_0",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Shed_FlatStones.SM_Shed_FlatStones",
+      "location": "<Struct 'Vector' (0x0000021DA72A1460) {x: 420.732043, y: 244.301885, z: 572.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1460) {pitch: 0.000000, yaw: 12.000000, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1460) {x: 1.080000, y: 1.080000, z: 1.080000}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1460) {x: 423.096117, y: 255.984907, z: 579.560000}>, <Struct 'Vector' (0x0000021DA72A1640) {x: 74.829889, y: 64.549777, z: 8.640000}>)"
+    },
+    {
+      "label": "BlueHouse_Stone_1",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Shed_FlatStones.SM_Shed_FlatStones",
+      "location": "<Struct 'Vector' (0x0000021DA72A1640) {x: 434.953868, y: 214.523710, z: 572.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1640) {pitch: 0.000000, yaw: -19.000000, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1640) {x: 0.720000, y: 0.720000, z: 0.720000}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1640) {x: 440.316274, y: 220.388188, z: 577.040000}>, <Struct 'Vector' (0x0000021DA72A1690) {x: 52.548652, y: 47.032454, z: 5.760000}>)"
+    },
+    {
+      "label": "BlueHouse_Stone_2",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Shed_FlatStones.SM_Shed_FlatStones",
+      "location": "<Struct 'Vector' (0x0000021DA72A1690) {x: 616.130058, y: 406.699901, z: 572.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1690) {pitch: 0.000000, yaw: 47.000000, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1690) {x: 0.640000, y: 0.640000, z: 0.640000}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1690) {x: 613.306610, y: 413.174655, z: 576.480000}>, <Struct 'Vector' (0x0000021DA72A16E0) {x: 49.016660, y: 49.407019, z: 5.120000}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_0",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A16E0) {x: 528.877749, y: 533.265876, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A16E0) {pitch: 0.000000, yaw: 103.974403, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A16E0) {x: 0.398316, y: 0.398316, z: 0.398316}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A16E0) {x: 529.414304, y: 530.900712, z: 585.779027}>, <Struct 'Vector' (0x0000021DA72A1730) {x: 25.953663, y: 28.434306, z: 22.263121}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_1",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1730) {x: 538.515690, y: 535.078705, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1730) {pitch: 0.000000, yaw: -155.502121, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1730) {x: 0.403413, y: 0.403413, z: 0.403413}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1730) {x: 540.771581, y: 536.050484, z: 586.057748}>, <Struct 'Vector' (0x0000021DA72A1780) {x: 30.957894, y: 29.250660, z: 22.548038}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_2",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1780) {x: 536.132165, y: 528.537672, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1780) {pitch: 0.000000, yaw: -131.081146, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1780) {x: 0.494412, y: 0.494412, z: 0.494412}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1780) {x: 538.157169, y: 530.765159, z: 591.033373}>, <Struct 'Vector' (0x0000021DA72A17D0) {x: 39.093728, y: 39.502011, z: 27.634258}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_3",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A17D0) {x: 513.174114, y: 516.826015, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A17D0) {pitch: 0.000000, yaw: 23.569021, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A17D0) {x: 0.565378, y: 0.565378, z: 0.565378}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A17D0) {x: 509.990847, y: 515.515510, z: 594.913658}>, <Struct 'Vector' (0x0000021DA72A1820) {x: 43.177517, y: 40.681433, z: 31.600792}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_4",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1820) {x: 527.809942, y: 540.788098, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1820) {pitch: 0.000000, yaw: -133.304199, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1820) {x: 0.966788, y: 0.966788, z: 0.966788}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1820) {x: 525.236650, y: 543.017475, z: 577.850805}>, <Struct 'Vector' (0x0000021DA72A15F0) {x: 46.485930, y: 46.348844, z: 12.515852}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_5",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A15F0) {x: 508.881574, y: 527.065882, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A15F0) {pitch: 0.000000, yaw: -97.102814, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A15F0) {x: 0.912452, y: 0.912452, z: 0.912452}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A15F0) {x: 505.679049, y: 527.329330, z: 577.072353}>, <Struct 'Vector' (0x0000021DA72A1870) {x: 35.927900, y: 33.242384, z: 11.812427}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_6",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1870) {x: 543.068439, y: 547.273938, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1870) {pitch: 0.000000, yaw: -144.349945, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1870) {x: 0.824343, y: 0.824343, z: 0.824343}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1870) {x: 541.279138, y: 549.560011, z: 575.810052}>, <Struct 'Vector' (0x0000021DA72A1910) {x: 38.748767, y: 39.390479, z: 10.671788}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_7",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1910) {x: 501.785454, y: 525.110610, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1910) {pitch: 0.000000, yaw: -21.735443, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1910) {x: 0.632880, y: 0.632880, z: 0.632880}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1910) {x: 501.047510, y: 523.007534, z: 573.067030}>, <Struct 'Vector' (0x0000021DA72A1960) {x: 27.328514, y: 28.526270, z: 8.193141}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_8",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1960) {x: 502.508479, y: 528.391916, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1960) {pitch: 0.000000, yaw: 156.948776, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1960) {x: 0.946869, y: 0.946869, z: 0.946869}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1960) {x: 501.776078, y: 528.431122, z: 580.155070}>, <Struct 'Vector' (0x0000021DA72A19B0) {x: 29.676902, y: 27.987800, z: 16.373890}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_9",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A19B0) {x: 517.592237, y: 500.617103, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A19B0) {pitch: 0.000000, yaw: -48.399597, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A19B0) {x: 0.921602, y: 0.921602, z: 0.921602}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A19B0) {x: 518.220124, y: 500.277427, z: 579.723967}>, <Struct 'Vector' (0x0000021DA72A1A00) {x: 30.072296, y: 30.333119, z: 15.936947}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_10",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1A00) {x: 501.104988, y: 515.493762, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1A00) {pitch: 0.000000, yaw: -166.595276, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1A00) {x: 0.721770, y: 0.721770, z: 0.721770}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1A00) {x: 500.638191, y: 515.186063, z: 576.314518}>, <Struct 'Vector' (0x0000021DA72A1A50) {x: 21.085495, y: 19.280763, z: 12.481317}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_11",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1A50) {x: 522.166552, y: 554.819002, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1A50) {pitch: 0.000000, yaw: 80.677055, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1A50) {x: 0.661155, y: 0.661155, z: 0.661155}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1A50) {x: 522.071781, y: 555.322291, z: 575.280338}>, <Struct 'Vector' (0x0000021DA72A1AA0) {x: 16.711648, y: 18.551934, z: 11.433130}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_12",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1AA0) {x: 524.118226, y: 564.502749, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1AA0) {pitch: 0.000000, yaw: -169.340271, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1AA0) {x: 0.944728, y: 0.944728, z: 0.944728}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1AA0) {x: 523.488646, y: 564.129723, z: 580.118528}>, <Struct 'Vector' (0x0000021DA72A1AF0) {x: 26.880999, y: 24.337566, z: 16.336853}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_13",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1AF0) {x: 524.554815, y: 517.043844, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1AF0) {pitch: 0.000000, yaw: -24.033173, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1AF0) {x: 0.895038, y: 0.895038, z: 0.895038}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1AF0) {x: 525.246388, y: 516.994924, z: 579.270751}>, <Struct 'Vector' (0x0000021DA72A1B40) {x: 28.202556, y: 26.674048, z: 15.477592}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_14",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1B40) {x: 536.639503, y: 519.896516, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1B40) {pitch: 0.000000, yaw: 8.579247, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1B40) {x: 0.930269, y: 0.930269, z: 0.930269}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1B40) {x: 537.272373, y: 520.241085, z: 579.871839}>, <Struct 'Vector' (0x0000021DA72A1B90) {x: 25.893251, y: 23.257310, z: 16.086822}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_15",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1B90) {x: 412.484439, y: 603.682591, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1B90) {pitch: 0.000000, yaw: -108.830887, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1B90) {x: 0.581624, y: 0.581624, z: 0.581624}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1B90) {x: 413.697038, y: 607.009908, z: 595.801945}>, <Struct 'Vector' (0x0000021DA72A18C0) {x: 40.038654, y: 43.138055, z: 32.508824}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_16",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A18C0) {x: 401.740732, y: 594.931385, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A18C0) {pitch: 0.000000, yaw: 117.023697, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A18C0) {x: 0.595872, y: 0.595872, z: 0.595872}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A18C0) {x: 403.321574, y: 591.665757, z: 596.580966}>, <Struct 'Vector' (0x0000021DA72A1C30) {x: 44.044816, y: 46.266882, z: 33.305160}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_17",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1C30) {x: 413.508225, y: 605.484015, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1C30) {pitch: 0.000000, yaw: -146.102051, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1C30) {x: 0.453409, y: 0.453409, z: 0.453409}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1C30) {x: 415.831258, y: 606.975672, z: 588.791392}>, <Struct 'Vector' (0x0000021DA72A1C80) {x: 35.974657, y: 34.919725, z: 25.342443}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_18",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1C80) {x: 368.795546, y: 594.218082, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1C80) {pitch: 0.000000, yaw: 151.182022, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1C80) {x: 0.605296, y: 0.605296, z: 0.605296}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1C80) {x: 371.986954, y: 592.374724, z: 597.096250}>, <Struct 'Vector' (0x0000021DA72A1BE0) {x: 47.332665, y: 45.294386, z: 33.831898}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_19",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1BE0) {x: 344.485095, y: 593.246924, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1BE0) {pitch: 0.000000, yaw: 3.076063, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1BE0) {x: 0.503710, y: 0.503710, z: 0.503710}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1BE0) {x: 341.419766, y: 593.146131, z: 591.541772}>, <Struct 'Vector' (0x0000021DA72A1CD0) {x: 31.891853, y: 27.825310, z: 28.153957}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_20",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1CD0) {x: 382.348091, y: 571.235987, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1CD0) {pitch: 0.000000, yaw: -46.500031, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1CD0) {x: 0.429443, y: 0.429443, z: 0.429443}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1CD0) {x: 380.588060, y: 573.169747, z: 587.481033}>, <Struct 'Vector' (0x0000021DA72A1D20) {x: 34.134261, y: 34.270095, z: 24.002959}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_21",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1D20) {x: 348.092621, y: 581.208201, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1D20) {pitch: 0.000000, yaw: 171.098785, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1D20) {x: 0.822141, y: 0.822141, z: 0.822141}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1D20) {x: 348.420434, y: 584.084882, z: 575.778501}>, <Struct 'Vector' (0x0000021DA72A1D70) {x: 30.747444, y: 33.068409, z: 10.643278}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_22",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1D70) {x: 363.820876, y: 614.471972, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1D70) {pitch: 0.000000, yaw: -145.834763, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1D70) {x: 0.963384, y: 0.963384, z: 0.963384}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1D70) {x: 361.799707, y: 617.196920, z: 577.802031}>, <Struct 'Vector' (0x0000021DA72A1DC0) {x: 45.015429, y: 45.883149, z: 12.471779}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_23",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1DC0) {x: 386.582442, y: 567.082009, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1DC0) {pitch: 0.000000, yaw: 52.146000, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1DC0) {x: 0.917608, y: 0.917608, z: 0.917608}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1DC0) {x: 386.800516, y: 567.758513, z: 579.655817}>, <Struct 'Vector' (0x0000021DA72A1E60) {x: 29.618427, y: 30.163210, z: 15.867874}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_24",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1E60) {x: 425.598133, y: 593.901378, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1E60) {pitch: 0.000000, yaw: 71.359337, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1E60) {x: 0.609458, y: 0.609458, z: 0.609458}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1E60) {x: 425.587041, y: 594.373337, z: 574.398299}>, <Struct 'Vector' (0x0000021DA72A1EB0) {x: 17.282284, y: 18.573737, z: 10.539143}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_25",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1EB0) {x: 362.208943, y: 607.005878, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1EB0) {pitch: 0.000000, yaw: -97.366730, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1EB0) {x: 0.842519, y: 0.842519, z: 0.842519}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1EB0) {x: 362.351533, y: 606.369026, z: 578.374686}>, <Struct 'Vector' (0x0000021DA72A1F00) {x: 20.677053, y: 23.132286, z: 14.569391}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_26",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1F00) {x: 377.360612, y: 621.283908, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1F00) {pitch: 0.000000, yaw: 132.061752, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1F00) {x: 0.643847, y: 0.643847, z: 0.643847}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1F00) {x: 376.920062, y: 621.517672, z: 574.985029}>, <Struct 'Vector' (0x0000021DA72A1E10) {x: 21.030775, y: 21.188286, z: 11.133821}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_27",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1E10) {x: 371.569912, y: 607.891771, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1E10) {pitch: 0.000000, yaw: 157.482224, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1E10) {x: 0.799852, y: 0.799852, z: 0.799852}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1E10) {x: 370.950947, y: 607.919128, z: 577.646729}>, <Struct 'Vector' (0x0000021DA72A1FA0) {x: 24.993089, y: 23.533345, z: 13.831573}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_28",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1FA0) {x: 357.894246, y: 586.313343, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1FA0) {pitch: 0.000000, yaw: 156.013138, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1FA0) {x: 0.606270, y: 0.606270, z: 0.606270}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1FA0) {x: 357.425770, y: 586.346101, z: 574.343909}>, <Struct 'Vector' (0x0000021DA72A1FF0) {x: 19.098823, y: 18.061277, z: 10.484017}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_29",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1FF0) {x: 386.077920, y: 552.721275, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1FF0) {pitch: 0.000000, yaw: -139.101074, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1FF0) {x: 0.954246, y: 0.954246, z: 0.954246}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1FF0) {x: 385.718280, y: 552.075503, z: 580.280918}>, <Struct 'Vector' (0x0000021DA72A2040) {x: 31.410265, y: 31.084565, z: 16.501442}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_30",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2040) {x: 255.262879, y: 478.507727, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2040) {pitch: 0.000000, yaw: 35.217594, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2040) {x: 0.378057, y: 0.378057, z: 0.378057}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2040) {x: 253.355065, y: 477.219686, z: 584.671361}>, <Struct 'Vector' (0x0000021DA72A2090) {x: 30.070099, y: 29.293952, z: 21.130834}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_31",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2090) {x: 307.994871, y: 502.669936, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2090) {pitch: 0.000000, yaw: -19.843292, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2090) {x: 0.470872, y: 0.470872, z: 0.470872}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2090) {x: 305.318903, y: 503.699077, z: 589.746263}>, <Struct 'Vector' (0x0000021DA72A1F50) {x: 35.165530, y: 32.746928, z: 26.318539}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_32",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A1F50) {x: 288.098158, y: 490.062935, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A1F50) {pitch: 0.000000, yaw: 156.746460, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A1F50) {x: 0.616067, y: 0.616067, z: 0.616067}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A1F50) {x: 291.512973, y: 488.510577, z: 597.685187}>, <Struct 'Vector' (0x0000021DA72A2130) {x: 46.968166, y: 44.210187, z: 34.433925}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_33",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2130) {x: 242.215281, y: 490.643481, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2130) {pitch: 0.000000, yaw: -54.293152, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2130) {x: 0.432818, y: 0.432818, z: 0.432818}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2130) {x: 240.722074, y: 492.814967, z: 587.665559}>, <Struct 'Vector' (0x0000021DA72A2180) {x: 33.607922, y: 34.452452, z: 24.191586}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_34",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2180) {x: 242.529914, y: 461.954647, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2180) {pitch: 0.000000, yaw: -92.253693, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2180) {x: 0.524821, y: 0.524821, z: 0.524821}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2180) {x: 242.722016, y: 465.144392, z: 592.696052}>, <Struct 'Vector' (0x0000021DA72A21D0) {x: 28.553663, y: 32.857918, z: 29.333895}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_35",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A21D0) {x: 259.896886, y: 450.963937, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A21D0) {pitch: 0.000000, yaw: -132.079178, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A21D0) {x: 0.654242, y: 0.654242, z: 0.654242}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A21D0) {x: 258.123639, y: 452.435021, z: 573.373078}>, <Struct 'Vector' (0x0000021DA72A20E0) {x: 31.464251, y: 31.304513, z: 8.469692}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_36",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A20E0) {x: 295.170422, y: 491.126600, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A20E0) {pitch: 0.000000, yaw: 14.589658, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A20E0) {x: 0.871403, y: 0.871403, z: 0.871403}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A20E0) {x: 296.067122, y: 488.191750, z: 576.484255}>, <Struct 'Vector' (0x0000021DA72A2270) {x: 35.040856, y: 37.154380, z: 11.281011}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_37",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2270) {x: 288.649794, y: 479.371730, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2270) {pitch: 0.000000, yaw: 153.431320, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2270) {x: 0.974001, y: 0.974001, z: 0.974001}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2270) {x: 290.054154, y: 482.501163, z: 577.954146}>, <Struct 'Vector' (0x0000021DA72A22C0) {x: 43.646553, y: 45.122097, z: 12.609233}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_38",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A22C0) {x: 274.873395, y: 446.546357, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A22C0) {pitch: 0.000000, yaw: -32.766846, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A22C0) {x: 0.959592, y: 0.959592, z: 0.959592}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A22C0) {x: 275.598287, y: 446.381934, z: 580.372144}>, <Struct 'Vector' (0x0000021DA72A2310) {x: 31.273039, y: 30.302639, z: 16.593903}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_39",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2310) {x: 289.803095, y: 464.802264, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2310) {pitch: 0.000000, yaw: -124.232071, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2310) {x: 0.830146, y: 0.830146, z: 0.830146}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2310) {x: 289.644864, y: 464.179000, z: 578.163593}>, <Struct 'Vector' (0x0000021DA72A2360) {x: 26.403503, y: 27.143717, z: 14.355438}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_40",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2360) {x: 290.664837, y: 497.416817, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2360) {pitch: 0.000000, yaw: -68.059143, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2360) {x: 0.766177, y: 0.766177, z: 0.766177}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2360) {x: 291.061400, y: 496.975272, z: 577.072170}>, <Struct 'Vector' (0x0000021DA72A23B0) {x: 22.427535, y: 23.859769, z: 13.249232}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_41",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A23B0) {x: 294.807554, y: 517.876609, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A23B0) {pitch: 0.000000, yaw: 132.407547, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A23B0) {x: 0.699672, y: 0.699672, z: 0.699672}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A23B0) {x: 294.327283, y: 518.127747, z: 575.937492}>, <Struct 'Vector' (0x0000021DA72A2400) {x: 22.871012, y: 23.022050, z: 12.099184}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_42",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2400) {x: 268.712809, y: 475.436120, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2400) {pitch: 0.000000, yaw: -11.809357, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2400) {x: 0.743788, y: 0.743788, z: 0.743788}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2400) {x: 269.283094, y: 475.518072, z: 576.690189}>, <Struct 'Vector' (0x0000021DA72A2450) {x: 21.406231, y: 19.462985, z: 12.862077}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_43",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2450) {x: 274.959570, y: 505.244168, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2450) {pitch: 0.000000, yaw: 97.950928, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2450) {x: 0.686463, y: 0.686463, z: 0.686463}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2450) {x: 274.710443, y: 505.713935, z: 575.712125}>, <Struct 'Vector' (0x0000021DA72A24A0) {x: 16.999789, y: 18.973691, z: 11.870765}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_44",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A24A0) {x: 283.787721, y: 502.505977, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A24A0) {pitch: 0.000000, yaw: -74.811920, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A24A0) {x: 0.644441, y: 0.644441, z: 0.644441}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A24A0) {x: 284.075292, y: 502.097944, z: 574.995175}>, <Struct 'Vector' (0x0000021DA72A2220) {x: 17.592453, y: 19.121523, z: 11.144104}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_45",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2220) {x: 293.238468, y: 301.832628, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2220) {pitch: 0.000000, yaw: 153.901398, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2220) {x: 0.391467, y: 0.391467, z: 0.391467}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2220) {x: 295.356708, y: 300.739727, z: 585.404578}>, <Struct 'Vector' (0x0000021DA72A24F0) {x: 30.272709, y: 28.740438, z: 21.880349}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_46",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A24F0) {x: 285.706258, y: 316.821007, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A24F0) {pitch: 0.000000, yaw: 112.952003, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A24F0) {x: 0.532009, y: 0.532009, z: 0.532009}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A24F0) {x: 286.907088, y: 313.812514, z: 593.089105}>, <Struct 'Vector' (0x0000021DA72A2540) {x: 38.079165, y: 40.492229, z: 29.735684}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_47",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2540) {x: 302.388690, y: 315.689853, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2540) {pitch: 0.000000, yaw: 152.476624, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2540) {x: 0.399313, y: 0.399313, z: 0.399313}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2540) {x: 304.520998, y: 314.521667, z: 585.833592}>, <Struct 'Vector' (0x0000021DA72A2590) {x: 31.069415, y: 29.620415, z: 22.318898}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_48",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2590) {x: 285.021881, y: 333.659678, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2590) {pitch: 0.000000, yaw: 160.638458, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2590) {x: 0.608357, y: 0.608357, z: 0.608357}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2590) {x: 285.646886, y: 335.708909, z: 572.715699}>, <Struct 'Vector' (0x0000021DA72A25E0) {x: 25.713513, y: 26.974793, z: 7.875672}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_49",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A25E0) {x: 294.690920, y: 314.624382, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A25E0) {pitch: 0.000000, yaw: 48.966137, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A25E0) {x: 0.958533, y: 0.958533, z: 0.958533}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A25E0) {x: 297.327800, y: 312.516844, z: 577.732544}>, <Struct 'Vector' (0x0000021DA72A2630) {x: 46.089803, y: 45.772130, z: 12.408989}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_50",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2630) {x: 283.004115, y: 309.370010, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2630) {pitch: 0.000000, yaw: 1.469933, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2630) {x: 0.795430, y: 0.795430, z: 0.795430}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2630) {x: 283.193180, y: 306.575167, z: 575.395819}>, <Struct 'Vector' (0x0000021DA72A2680) {x: 26.387981, y: 29.012980, z: 10.297480}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_51",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2680) {x: 275.128311, y: 297.282220, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2680) {pitch: 0.000000, yaw: 115.124046, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2680) {x: 0.621115, y: 0.621115, z: 0.621115}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2680) {x: 277.068093, y: 298.293045, z: 572.898482}>, <Struct 'Vector' (0x0000021DA72A26D0) {x: 28.562754, y: 27.550925, z: 8.040838}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_52",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A26D0) {x: 269.144731, y: 294.284933, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A26D0) {pitch: 0.000000, yaw: -117.624542, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A26D0) {x: 0.716380, y: 0.716380, z: 0.716380}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A26D0) {x: 266.862452, y: 295.360081, z: 574.263302}>, <Struct 'Vector' (0x0000021DA72A2720) {x: 33.352227, y: 32.327154, z: 9.274116}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_53",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2720) {x: 279.003523, y: 324.514146, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2720) {pitch: 0.000000, yaw: 125.072807, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2720) {x: 0.762690, y: 0.762690, z: 0.762690}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2720) {x: 278.519227, y: 324.852500, z: 577.012689}>, <Struct 'Vector' (0x0000021DA72A2770) {x: 24.350274, y: 24.977797, z: 13.188945}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_54",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2770) {x: 277.243698, y: 311.886363, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2770) {pitch: 0.000000, yaw: -42.753967, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2770) {x: 0.693450, y: 0.693450, z: 0.693450}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2770) {x: 277.738996, y: 311.678495, z: 575.831334}>, <Struct 'Vector' (0x0000021DA72A27C0) {x: 22.813134, y: 22.683431, z: 11.991589}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_55",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A27C0) {x: 283.301266, y: 329.506050, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A27C0) {pitch: 0.000000, yaw: 146.278488, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A27C0) {x: 0.962940, y: 0.962940, z: 0.962940}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A27C0) {x: 282.576696, y: 329.683144, z: 580.429260}>, <Struct 'Vector' (0x0000021DA72A2810) {x: 31.451973, y: 30.553155, z: 16.651793}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_56",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2810) {x: 259.713778, y: 307.554921, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2810) {pitch: 0.000000, yaw: -116.755844, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2810) {x: 0.945548, y: 0.945548, z: 0.945548}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2810) {x: 259.627452, y: 306.827599, z: 580.132531}>, <Struct 'Vector' (0x0000021DA72A2860) {x: 28.775263, y: 30.188040, z: 16.351045}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_57",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2860) {x: 267.896730, y: 308.891188, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2860) {pitch: 0.000000, yaw: 88.319176, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2860) {x: 0.637682, y: 0.637682, z: 0.637682}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2860) {x: 267.741582, y: 309.360142, z: 574.879854}>, <Struct 'Vector' (0x0000021DA72A28B0) {x: 14.187098, y: 16.275049, z: 11.027221}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_58",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A28B0) {x: 296.198373, y: 303.954534, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A28B0) {pitch: 0.000000, yaw: 168.688126, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A28B0) {x: 0.668346, y: 0.668346, z: 0.668346}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A28B0) {x: 295.686592, y: 303.876447, z: 575.403018}>, <Struct 'Vector' (0x0000021DA72A2900) {x: 19.141562, y: 17.372309, z: 11.557471}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_59",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2900) {x: 283.591476, y: 289.841408, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2900) {pitch: 0.000000, yaw: 111.322121, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2900) {x: 0.925459, y: 0.925459, z: 0.925459}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2900) {x: 283.118257, y: 290.379888, z: 579.789780}>, <Struct 'Vector' (0x0000021DA72A2950) {x: 26.938027, y: 28.711797, z: 16.003652}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_66",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2950) {x: 687.693363, y: 218.008433, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2950) {pitch: 0.000000, yaw: 168.545547, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2950) {x: 0.559251, y: 0.559251, z: 0.559251}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2950) {x: 691.015907, y: 217.262881, z: 594.578634}>, <Struct 'Vector' (0x0000021DA72A29A0) {x: 39.001903, y: 35.267746, z: 31.258322}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_67",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A29A0) {x: 670.749992, y: 216.251757, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A29A0) {pitch: 0.000000, yaw: -73.849548, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A29A0) {x: 0.489511, y: 0.489511, z: 0.489511}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A29A0) {x: 669.980701, y: 219.131295, z: 590.765370}>, <Struct 'Vector' (0x0000021DA72A29F0) {x: 32.732264, y: 35.586202, z: 27.360299}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_68",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A29F0) {x: 671.146372, y: 232.134507, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A29F0) {pitch: 0.000000, yaw: -74.409668, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A29F0) {x: 0.768539, y: 0.768539, z: 0.768539}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A29F0) {x: 668.572169, y: 231.298573, z: 575.010563}>, <Struct 'Vector' (0x0000021DA72A2A40) {x: 33.062135, y: 31.253848, z: 9.949355}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_69",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2A40) {x: 678.640905, y: 227.043291, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2A40) {pitch: 0.000000, yaw: -8.064392, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2A40) {x: 0.721019, y: 0.721019, z: 0.721019}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2A40) {x: 678.390289, y: 224.516505, z: 574.329772}>, <Struct 'Vector' (0x0000021DA72A2A90) {x: 26.644308, y: 28.720352, z: 9.334179}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_70",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2A90) {x: 674.402885, y: 230.275054, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2A90) {pitch: 0.000000, yaw: -143.128311, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2A90) {x: 0.669893, y: 0.669893, z: 0.669893}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2A90) {x: 672.909554, y: 232.101383, z: 573.597306}>, <Struct 'Vector' (0x0000021DA72A2AE0) {x: 31.626809, y: 32.080646, z: 8.672309}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_71",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2AE0) {x: 695.137896, y: 229.183011, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2AE0) {pitch: 0.000000, yaw: 134.139374, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2AE0) {x: 0.841459, y: 0.841459, z: 0.841459}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2AE0) {x: 697.176236, y: 231.333939, z: 576.055261}>, <Struct 'Vector' (0x0000021DA72A2B30) {x: 40.443508, y: 40.382948, z: 10.893364}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_72",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2B30) {x: 678.436677, y: 220.299924, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2B30) {pitch: 0.000000, yaw: -135.889862, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2B30) {x: 0.985626, y: 0.985626, z: 0.985626}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2B30) {x: 675.918448, y: 222.688779, z: 578.120692}>, <Struct 'Vector' (0x0000021DA72A2B80) {x: 47.300196, y: 47.373541, z: 12.759727}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_73",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2B80) {x: 687.783223, y: 238.788059, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2B80) {pitch: 0.000000, yaw: 21.072632, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2B80) {x: 0.688697, y: 0.688697, z: 0.688697}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2B80) {x: 688.749273, y: 236.563402, z: 573.866705}>, <Struct 'Vector' (0x0000021DA72A2BD0) {x: 29.568106, y: 30.906482, z: 8.915743}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_74",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2BD0) {x: 702.663332, y: 237.739676, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2BD0) {pitch: 0.000000, yaw: -153.900711, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2BD0) {x: 0.762374, y: 0.762374, z: 0.762374}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2BD0) {x: 702.253750, y: 237.314260, z: 577.007285}>, <Struct 'Vector' (0x0000021DA72A2C20) {x: 24.268330, y: 23.089718, z: 13.183468}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_75",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2C20) {x: 685.464058, y: 227.874713, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2C20) {pitch: 0.000000, yaw: 177.355453, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2C20) {x: 0.829478, y: 0.829478, z: 0.829478}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2C20) {x: 684.850749, y: 227.683190, z: 578.152185}>, <Struct 'Vector' (0x0000021DA72A2C70) {x: 21.457104, y: 18.789987, z: 14.343876}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_77",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2C70) {x: 686.597421, y: 228.346125, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2C70) {pitch: 0.000000, yaw: 55.341763, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2C70) {x: 0.632744, y: 0.632744, z: 0.632744}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2C70) {x: 686.721556, y: 228.820271, z: 574.795597}>, <Struct 'Vector' (0x0000021DA72A2CC0) {x: 20.164291, y: 20.706406, z: 10.941823}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_78",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2CC0) {x: 674.152774, y: 237.865892, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2CC0) {pitch: 0.000000, yaw: -119.542282, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2CC0) {x: 0.682556, y: 0.682556, z: 0.682556}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2CC0) {x: 674.065008, y: 237.344516, z: 575.645470}>, <Struct 'Vector' (0x0000021DA72A2D10) {x: 21.163461, y: 22.031686, z: 11.803207}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_79",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2D10) {x: 694.340541, y: 237.948099, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2D10) {pitch: 0.000000, yaw: -35.598511, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2D10) {x: 0.692401, y: 0.692401, z: 0.692401}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2D10) {x: 694.857092, y: 237.803764, z: 575.813434}>, <Struct 'Vector' (0x0000021DA72A2D60) {x: 22.695901, y: 22.156101, z: 11.973447}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_80",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2D60) {x: 668.379647, y: 229.410220, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2D60) {pitch: 0.000000, yaw: -108.302872, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2D60) {x: 0.708867, y: 0.708867, z: 0.708867}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2D60) {x: 668.395785, y: 228.861365, z: 576.094381}>, <Struct 'Vector' (0x0000021DA72A2DB0) {x: 20.031022, y: 21.550971, z: 12.258198}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_81",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2DB0) {x: 619.082658, y: 149.100232, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2DB0) {pitch: 0.000000, yaw: -32.430176, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2DB0) {x: 0.623099, y: 0.623099, z: 0.623099}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2DB0) {x: 615.923460, y: 151.201022, z: 598.069710}>, <Struct 'Vector' (0x0000021DA72A2E00) {x: 49.271923, y: 47.633411, z: 34.826995}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_82",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2E00) {x: 617.986551, y: 127.903548, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2E00) {pitch: 0.000000, yaw: -55.011719, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2E00) {x: 0.666499, y: 0.666499, z: 0.666499}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2E00) {x: 616.121626, y: 126.478304, z: 573.548683}>, <Struct 'Vector' (0x0000021DA72A2E50) {x: 31.804058, y: 31.248859, z: 8.628372}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_84",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2E50) {x: 618.144446, y: 146.148691, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2E50) {pitch: 0.000000, yaw: -106.917801, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2E50) {x: 0.866591, y: 0.866591, z: 0.866591}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2E50) {x: 615.190052, y: 146.913723, z: 576.415328}>, <Struct 'Vector' (0x0000021DA72A2EA0) {x: 37.701933, y: 35.747285, z: 11.218727}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_85",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2EA0) {x: 618.159266, y: 143.173921, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2EA0) {pitch: 0.000000, yaw: -144.381195, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2EA0) {x: 0.844760, y: 0.844760, z: 0.844760}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2EA0) {x: 616.326928, y: 145.517612, z: 576.102551}>, <Struct 'Vector' (0x0000021DA72A2EF0) {x: 39.703765, y: 40.363548, z: 10.936096}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_86",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2EF0) {x: 626.696763, y: 146.988681, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2EF0) {pitch: 0.000000, yaw: -142.455750, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2EF0) {x: 0.980262, y: 0.980262, z: 0.980262}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2EF0) {x: 624.480334, y: 149.635333, z: 578.043848}>, <Struct 'Vector' (0x0000021DA72A2F40) {x: 46.382116, y: 46.991596, z: 12.690289}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_87",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2F40) {x: 615.518735, y: 121.909139, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2F40) {pitch: 0.000000, yaw: 146.489822, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2F40) {x: 0.885157, y: 0.885157, z: 0.885157}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2F40) {x: 617.129353, y: 124.578030, z: 576.681315}>, <Struct 'Vector' (0x0000021DA72A2F90) {x: 41.242316, y: 42.087151, z: 11.459078}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_88",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2F90) {x: 611.590209, y: 117.760315, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2F90) {pitch: 0.000000, yaw: 31.128832, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2F90) {x: 0.864401, y: 0.864401, z: 0.864401}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2F90) {x: 613.271655, y: 115.222712, z: 576.383947}>, <Struct 'Vector' (0x0000021DA72A2FE0) {x: 39.812467, y: 40.805423, z: 11.190371}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_89",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A2FE0) {x: 617.089280, y: 122.217653, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A2FE0) {pitch: 0.000000, yaw: 27.314175, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A2FE0) {x: 0.669151, y: 0.669151, z: 0.669151}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A2FE0) {x: 617.440781, y: 122.598588, z: 575.416762}>, <Struct 'Vector' (0x0000021DA72A3030) {x: 21.414872, y: 20.444673, z: 11.571401}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_90",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3030) {x: 621.454962, y: 131.193124, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3030) {pitch: 0.000000, yaw: -90.336182, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3030) {x: 0.896301, y: 0.896301, z: 0.896301}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3030) {x: 621.688440, y: 130.539280, z: 579.292286}>, <Struct 'Vector' (0x0000021DA72A3080) {x: 19.425082, y: 22.432044, z: 15.499419}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_91",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3080) {x: 597.617881, y: 124.433868, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3080) {pitch: 0.000000, yaw: 15.528485, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3080) {x: 0.637150, y: 0.637150, z: 0.637150}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3080) {x: 598.019602, y: 124.720577, z: 574.870779}>, <Struct 'Vector' (0x0000021DA72A30D0) {x: 18.958799, y: 17.462731, z: 11.018023}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_92",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A30D0) {x: 617.542551, y: 129.605742, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A30D0) {pitch: 0.000000, yaw: 10.181271, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A30D0) {x: 0.860293, y: 0.860293, z: 0.860293}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A30D0) {x: 618.118679, y: 129.940629, z: 578.677941}>, <Struct 'Vector' (0x0000021DA72A3120) {x: 24.358778, y: 22.014434, z: 14.876753}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_93",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3120) {x: 611.219865, y: 120.405988, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3120) {pitch: 0.000000, yaw: -5.755859, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3120) {x: 0.749358, y: 0.749358, z: 0.749358}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3120) {x: 611.782509, y: 120.548684, z: 576.785217}>, <Struct 'Vector' (0x0000021DA72A3170) {x: 20.183853, y: 17.921350, z: 12.958392}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_95",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3170) {x: 614.205661, y: 144.319754, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3170) {pitch: 0.000000, yaw: 9.262813, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3170) {x: 0.716183, y: 0.716183, z: 0.716183}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3170) {x: 614.689687, y: 144.590820, z: 576.219195}>, <Struct 'Vector' (0x0000021DA72A31C0) {x: 20.083056, y: 18.086691, z: 12.384704}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_96",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A31C0) {x: 406.614103, y: 188.047648, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A31C0) {pitch: 0.000000, yaw: 97.976303, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A31C0) {x: 0.513069, y: 0.513069, z: 0.513069}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A31C0) {x: 406.983103, y: 184.945544, z: 592.053518}>, <Struct 'Vector' (0x0000021DA72A3210) {x: 30.768700, y: 34.501652, z: 28.677079}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_97",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3210) {x: 401.711974, y: 189.067423, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3210) {pitch: 0.000000, yaw: -55.712585, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3210) {x: 0.491683, y: 0.491683, z: 0.491683}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3210) {x: 400.077313, y: 191.575500, z: 590.884153}>, <Struct 'Vector' (0x0000021DA72A3260) {x: 37.937679, y: 39.042009, z: 27.481721}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_98",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3260) {x: 391.578239, y: 193.075717, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3260) {pitch: 0.000000, yaw: -62.477295, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3260) {x: 0.835327, y: 0.835327, z: 0.835327}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3260) {x: 389.028642, y: 191.608283, z: 575.967413}>, <Struct 'Vector' (0x0000021DA72A32B0) {x: 38.872041, y: 37.669978, z: 10.813982}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_99",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A32B0) {x: 367.626698, y: 191.706319, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A32B0) {pitch: 0.000000, yaw: -20.954376, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A32B0) {x: 0.861108, y: 0.861108, z: 0.861108}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A32B0) {x: 366.661739, y: 188.831413, z: 576.336773}>, <Struct 'Vector' (0x0000021DA72A3300) {x: 36.931703, y: 38.612913, z: 11.147743}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_100",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3300) {x: 388.321409, y: 167.166309, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3300) {pitch: 0.000000, yaw: -12.886688, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3300) {x: 0.756164, y: 0.756164, z: 0.756164}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3300) {x: 387.836738, y: 164.547835, z: 574.833282}>, <Struct 'Vector' (0x0000021DA72A3350) {x: 29.800666, y: 31.726738, z: 9.789161}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_101",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3350) {x: 367.039915, y: 179.070343, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3350) {pitch: 0.000000, yaw: 26.182259, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3350) {x: 0.804372, y: 0.804372, z: 0.804372}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3350) {x: 368.395150, y: 176.582845, z: 575.523927}>, <Struct 'Vector' (0x0000021DA72A33A0) {x: 35.949644, y: 37.192843, z: 10.413241}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_102",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A33A0) {x: 393.619836, y: 178.569398, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A33A0) {pitch: 0.000000, yaw: 138.036850, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A33A0) {x: 0.636898, y: 0.636898, z: 0.636898}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A33A0) {x: 395.048424, y: 180.298534, z: 573.124604}>, <Struct 'Vector' (0x0000021DA72A33F0) {x: 30.468347, y: 30.630022, z: 8.245166}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_103",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A33F0) {x: 386.891478, y: 199.926369, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A33F0) {pitch: 0.000000, yaw: -95.354034, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A33F0) {x: 0.951745, y: 0.951745, z: 0.951745}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A33F0) {x: 383.544212, y: 200.099093, z: 577.635291}>, <Struct 'Vector' (0x0000021DA72A3440) {x: 36.655593, y: 33.745916, z: 12.321109}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_104",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3440) {x: 379.359815, y: 197.730115, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3440) {pitch: 0.000000, yaw: 101.613403, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3440) {x: 0.772917, y: 0.772917, z: 0.772917}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3440) {x: 379.046098, y: 198.240046, z: 577.187163}>, <Struct 'Vector' (0x0000021DA72A3490) {x: 20.172292, y: 22.202186, z: 13.365782}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_105",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3490) {x: 383.998655, y: 184.948892, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3490) {pitch: 0.000000, yaw: 62.093063, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3490) {x: 0.816592, y: 0.816592, z: 0.816592}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3490) {x: 384.085811, y: 185.575395, z: 577.932334}>, <Struct 'Vector' (0x0000021DA72A34E0) {x: 25.051585, y: 26.197082, z: 14.121047}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_106",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A34E0) {x: 390.719835, y: 209.406832, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A34E0) {pitch: 0.000000, yaw: 78.201561, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A34E0) {x: 0.780789, y: 0.780789, z: 0.780789}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A34E0) {x: 390.633692, y: 210.005469, z: 577.321482}>, <Struct 'Vector' (0x0000021DA72A3530) {x: 20.428230, y: 22.468740, z: 13.501921}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_107",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3530) {x: 370.993091, y: 178.262410, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3530) {pitch: 0.000000, yaw: 106.978500, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3530) {x: 0.783702, y: 0.783702, z: 0.783702}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3530) {x: 370.628045, y: 178.747449, z: 577.371183}>, <Struct 'Vector' (0x0000021DA72A3580) {x: 21.833997, y: 23.591190, z: 13.552294}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_108",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3580) {x: 392.450688, y: 186.360041, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3580) {pitch: 0.000000, yaw: 117.378433, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3580) {x: 0.908623, y: 0.908623, z: 0.908623}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3580) {x: 391.932893, y: 186.836755, z: 579.502521}>, <Struct 'Vector' (0x0000021DA72A35D0) {x: 27.773747, y: 29.086521, z: 15.712502}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_109",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A35D0) {x: 409.597284, y: 191.274248, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A35D0) {pitch: 0.000000, yaw: 45.966499, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A35D0) {x: 0.625622, y: 0.625622, z: 0.625622}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A35D0) {x: 409.794752, y: 191.716801, z: 574.674085}>, <Struct 'Vector' (0x0000021DA72A3620) {x: 20.510898, y: 20.561262, z: 10.818665}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_110",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3620) {x: 399.682992, y: 202.450935, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3620) {pitch: 0.000000, yaw: 99.206230, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3620) {x: 0.624864, y: 0.624864, z: 0.624864}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3620) {x: 399.446907, y: 202.873477, z: 574.661157}>, <Struct 'Vector' (0x0000021DA72A3670) {x: 15.767468, y: 17.511672, z: 10.805562}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_111",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3670) {x: 449.979109, y: 550.821355, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3670) {pitch: 0.000000, yaw: -36.823578, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3670) {x: 0.651160, y: 0.651160, z: 0.651160}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3670) {x: 450.461880, y: 550.675262, z: 575.109798}>, <Struct 'Vector' (0x0000021DA72A36C0) {x: 21.381084, y: 20.939101, z: 11.260279}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_112",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A36C0) {x: 214.028323, y: 365.088340, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A36C0) {pitch: 0.000000, yaw: 78.230583, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A36C0) {x: 0.769974, y: 0.769974, z: 0.769974}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A36C0) {x: 213.943074, y: 365.678642, z: 577.136962}>, <Struct 'Vector' (0x0000021DA72A3710) {x: 20.137480, y: 22.151283, z: 13.314901}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_114",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3710) {x: 379.017121, y: 339.602053, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3710) {pitch: 0.000000, yaw: -144.329926, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3710) {x: 0.685292, y: 0.685292, z: 0.685292}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3710) {x: 378.717656, y: 339.163759, z: 575.692152}>, <Struct 'Vector' (0x0000021DA72A3760) {x: 22.465452, y: 21.935224, z: 11.850522}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_115",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3760) {x: 538.008318, y: 479.117260, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3760) {pitch: 0.000000, yaw: -44.253906, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3760) {x: 0.518807, y: 0.518807, z: 0.518807}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3760) {x: 538.374680, y: 478.952096, z: 572.851659}>, <Struct 'Vector' (0x0000021DA72A37B0) {x: 17.046980, y: 17.014738, z: 8.971555}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_116",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A37B0) {x: 335.214924, y: 500.583253, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A37B0) {pitch: 0.000000, yaw: 65.873779, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A37B0) {x: 0.529418, y: 0.529418, z: 0.529418}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A37B0) {x: 335.244524, y: 500.992273, z: 573.032699}>, <Struct 'Vector' (0x0000021DA72A3800) {x: 15.789782, y: 16.690067, z: 9.155047}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_117",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3800) {x: 443.761822, y: 602.843563, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3800) {pitch: 0.000000, yaw: 87.528793, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3800) {x: 0.693312, y: 0.693312, z: 0.693312}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3800) {x: 443.600189, y: 603.355706, z: 575.828984}>, <Struct 'Vector' (0x0000021DA72A3850) {x: 15.655287, y: 17.891961, z: 11.989207}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_118",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3850) {x: 244.942878, y: 298.902525, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3850) {pitch: 0.000000, yaw: 133.745026, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3850) {x: 0.763247, y: 0.763247, z: 0.763247}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3850) {x: 244.412715, y: 299.164179, z: 577.022184}>, <Struct 'Vector' (0x0000021DA72A38A0) {x: 25.011297, y: 25.091077, z: 13.198568}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_119",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A38A0) {x: 511.015218, y: 476.561142, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A38A0) {pitch: 0.000000, yaw: 5.756686, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A38A0) {x: 0.699541, y: 0.699541, z: 0.699541}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A38A0) {x: 511.503303, y: 476.796501, z: 575.935253}>, <Struct 'Vector' (0x0000021DA72A38F0) {x: 18.842216, y: 16.730163, z: 12.096915}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_120",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A38F0) {x: 773.411358, y: 282.738496, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A38F0) {pitch: 0.000000, yaw: -167.433258, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A38F0) {x: 0.627325, y: 0.627325, z: 0.627325}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A38F0) {x: 773.001774, y: 282.477022, z: 574.703150}>, <Struct 'Vector' (0x0000021DA72A3940) {x: 18.185320, y: 16.579611, z: 10.848124}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_121",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3940) {x: 336.869438, y: 235.130452, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3940) {pitch: 0.000000, yaw: 165.309052, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3940) {x: 0.771896, y: 0.771896, z: 0.771896}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3940) {x: 336.274076, y: 235.075263, z: 577.169756}>, <Struct 'Vector' (0x0000021DA72A3990) {x: 22.806995, y: 20.947847, z: 13.348140}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_122",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3990) {x: 413.302373, y: 510.330352, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3990) {pitch: 0.000000, yaw: 48.599632, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3990) {x: 0.540837, y: 0.540837, z: 0.540837}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3990) {x: 413.455323, y: 510.720369, z: 573.227524}>, <Struct 'Vector' (0x0000021DA72A39E0) {x: 17.639480, y: 17.801538, z: 9.352510}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_123",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A39E0) {x: 600.399033, y: 442.632376, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A39E0) {pitch: 0.000000, yaw: 65.795792, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A39E0) {x: 0.809606, y: 0.809606, z: 0.809606}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A39E0) {x: 600.445150, y: 443.257803, z: 577.813135}>, <Struct 'Vector' (0x0000021DA72A3A30) {x: 24.161640, y: 25.533473, z: 14.000233}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_124",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3A30) {x: 248.605775, y: 379.019345, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3A30) {pitch: 0.000000, yaw: 109.196220, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3A30) {x: 0.703804, y: 0.703804, z: 0.703804}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3A30) {x: 248.261335, y: 379.441923, z: 576.007988}>, <Struct 'Vector' (0x0000021DA72A3A80) {x: 20.070762, y: 21.532883, z: 12.170636}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_125",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3A80) {x: 312.218564, y: 436.103678, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3A80) {pitch: 0.000000, yaw: 11.789001, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3A80) {x: 0.642531, y: 0.642531, z: 0.642531}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3A80) {x: 312.641672, y: 436.365771, z: 574.962580}>, <Struct 'Vector' (0x0000021DA72A3AD0) {x: 18.488396, y: 16.808787, z: 11.111068}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_126",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3AD0) {x: 308.862755, y: 467.362790, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3AD0) {pitch: 0.000000, yaw: -16.820068, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3AD0) {x: 0.561793, y: 0.561793, z: 0.561793}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3AD0) {x: 309.297258, y: 467.386832, z: 573.585061}>, <Struct 'Vector' (0x0000021DA72A3B20) {x: 16.890467, y: 15.624293, z: 9.714890}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_127",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3B20) {x: 320.628663, y: 260.333513, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3B20) {pitch: 0.000000, yaw: 130.550690, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3B20) {x: 0.582686, y: 0.582686, z: 0.582686}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3B20) {x: 320.235680, y: 260.555511, z: 573.941525}>, <Struct 'Vector' (0x0000021DA72A3B70) {x: 18.963898, y: 19.179633, z: 10.076182}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_128",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3B70) {x: 218.980464, y: 391.511894, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3B70) {pitch: 0.000000, yaw: -166.135330, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3B70) {x: 0.662617, y: 0.662617, z: 0.662617}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3B70) {x: 218.554205, y: 391.225982, z: 575.305283}>, <Struct 'Vector' (0x0000021DA72A3BC0) {x: 19.437490, y: 17.802341, z: 11.458413}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_130",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3BC0) {x: 470.132134, y: 569.416017, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3BC0) {pitch: 0.000000, yaw: 18.062386, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3BC0) {x: 0.509251, y: 0.509251, z: 0.509251}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3BC0) {x: 470.442770, y: 569.659145, z: 572.688616}>, <Struct 'Vector' (0x0000021DA72A3C10) {x: 15.455134, y: 14.354097, z: 8.806302}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_131",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3C10) {x: 564.243518, y: 522.820641, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3C10) {pitch: 0.000000, yaw: 39.600506, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3C10) {x: 0.763388, y: 0.763388, z: 0.763388}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3C10) {x: 564.542860, y: 523.330602, z: 577.024586}>, <Struct 'Vector' (0x0000021DA72A3C60) {x: 25.122032, y: 24.779197, z: 13.201003}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_132",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3C60) {x: 240.285409, y: 318.929970, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3C60) {pitch: 0.000000, yaw: -156.277252, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3C60) {x: 0.774487, y: 0.774487, z: 0.774487}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3C60) {x: 239.851756, y: 318.515420, z: 577.213959}>, <Struct 'Vector' (0x0000021DA72A3CB0) {x: 24.363701, y: 23.022384, z: 13.392941}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_133",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3CB0) {x: 301.853275, y: 413.947802, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3CB0) {pitch: 0.000000, yaw: -145.530579, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3CB0) {x: 0.773265, y: 0.773265, z: 0.773265}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3CB0) {x: 301.505077, y: 413.460431, z: 577.193115}>, <Struct 'Vector' (0x0000021DA72A3D00) {x: 25.295772, y: 24.621302, z: 13.371815}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_134",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3D00) {x: 433.962434, y: 180.287567, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3D00) {pitch: 0.000000, yaw: -121.201553, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3D00) {x: 0.615192, y: 0.615192, z: 0.615192}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3D00) {x: 433.869757, y: 179.820135, z: 574.496136}>, <Struct 'Vector' (0x0000021DA72A3D50) {x: 19.263601, y: 19.963870, z: 10.638306}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_135",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3D50) {x: 339.533564, y: 432.141743, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3D50) {pitch: 0.000000, yaw: -88.084259, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3D50) {x: 0.611139, y: 0.611139, z: 0.611139}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3D50) {x: 339.710155, y: 431.702522, z: 574.426982}>, <Struct 'Vector' (0x0000021DA72A3DA0) {x: 13.657236, y: 15.649558, z: 10.568215}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_136",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3DA0) {x: 579.581420, y: 496.965915, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3DA0) {pitch: 0.000000, yaw: 83.403687, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3DA0) {x: 0.613657, y: 0.613657, z: 0.613657}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3DA0) {x: 579.471335, y: 497.428334, z: 574.469949}>, <Struct 'Vector' (0x0000021DA72A3DF0) {x: 14.877985, y: 16.697303, z: 10.611764}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_137",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3DF0) {x: 226.397907, y: 407.554670, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3DF0) {pitch: 0.000000, yaw: 125.500816, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3DF0) {x: 0.585675, y: 0.585675, z: 0.585675}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3DF0) {x: 226.024082, y: 407.811709, z: 573.992536}>, <Struct 'Vector' (0x0000021DA72A3E40) {x: 18.733272, y: 19.194570, z: 10.127884}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_138",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3E40) {x: 424.431209, y: 561.112914, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3E40) {pitch: 0.000000, yaw: -98.612762, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3E40) {x: 0.832335, y: 0.832335, z: 0.832335}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3E40) {x: 423.500852, y: 554.970467, z: 578.946774}>, <Struct 'Vector' (0x0000021DA72A3E90) {x: 18.577225, y: 24.113245, z: 14.988604}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_139",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3E90) {x: 377.338947, y: 484.274560, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3E90) {pitch: 0.000000, yaw: -72.375702, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3E90) {x: 0.597151, y: 0.597151, z: 0.597151}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3E90) {x: 377.621246, y: 483.908137, z: 574.188325}>, <Struct 'Vector' (0x0000021DA72A3EE0) {x: 16.753593, y: 18.064064, z: 10.326325}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_140",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3EE0) {x: 612.121010, y: 466.816458, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3EE0) {pitch: 0.000000, yaw: 120.341202, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3EE0) {x: 0.675067, y: 0.675067, z: 0.675067}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3EE0) {x: 611.718518, y: 467.150279, z: 575.517702}>, <Struct 'Vector' (0x0000021DA72A3F30) {x: 21.033241, y: 21.848559, z: 11.673708}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_141",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3F30) {x: 348.339624, y: 345.058598, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3F30) {pitch: 0.000000, yaw: -63.201843, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3F30) {x: 0.713313, y: 0.713313, z: 0.713313}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3F30) {x: 348.742308, y: 344.680257, z: 576.170238}>, <Struct 'Vector' (0x0000021DA72A3F80) {x: 21.714406, y: 22.777805, z: 12.335083}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_143",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3F80) {x: 346.597089, y: 551.485404, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3F80) {pitch: 0.000000, yaw: -57.801666, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3F80) {x: 0.827896, y: 0.827896, z: 0.827896}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3F80) {x: 347.103709, y: 551.092221, z: 578.125193}>, <Struct 'Vector' (0x0000021DA72A3FD0) {x: 26.066248, y: 26.941740, z: 14.316518}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_144",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72A3FD0) {x: 352.498133, y: 305.380943, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72A3FD0) {pitch: 0.000000, yaw: -94.402802, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72A3FD0) {x: 0.558567, y: 0.558567, z: 0.558567}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72A3FD0) {x: 352.614371, y: 304.964181, z: 573.530023}>, <Struct 'Vector' (0x0000021DA72D8060) {x: 13.056433, y: 14.791169, z: 9.659106}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_145",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72D8060) {x: 781.399098, y: 299.898899, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72D8060) {pitch: 0.000000, yaw: 36.658024, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72D8060) {x: 0.738012, y: 0.738012, z: 0.738012}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72D8060) {x: 781.713416, y: 300.376403, z: 576.591643}>, <Struct 'Vector' (0x0000021DA72D80B0) {x: 24.227911, y: 23.716903, z: 12.762196}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_146",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72D80B0) {x: 411.847379, y: 309.357790, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72D80B0) {pitch: 0.000000, yaw: 23.095337, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72D80B0) {x: 0.836040, y: 0.836040, z: 0.836040}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72D80B0) {x: 412.320369, y: 309.800133, z: 578.264149}>, <Struct 'Vector' (0x0000021DA72D8100) {x: 26.209741, y: 24.721195, z: 14.457356}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_147",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72D8100) {x: 340.150024, y: 212.354403, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72D8100) {pitch: 0.000000, yaw: -117.211258, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72D8100) {x: 0.561026, y: 0.561026, z: 0.561026}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72D8100) {x: 340.095375, y: 211.923279, z: 573.571983}>, <Struct 'Vector' (0x0000021DA72D8150) {x: 17.128747, y: 17.946757, z: 9.701634}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_148",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72D8150) {x: 490.093091, y: 551.506852, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72D8150) {pitch: 0.000000, yaw: 108.572029, roll: -0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72D8150) {x: 0.737115, y: 0.737115, z: 0.737115}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72D8150) {x: 489.737191, y: 551.953334, z: 576.576335}>, <Struct 'Vector' (0x0000021DA72D81A0) {x: 20.887472, y: 22.453208, z: 12.746680}>)"
+    },
+    {
+      "label": "BlueHouse_Plant_149",
+      "class": "StaticMeshActor",
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "location": "<Struct 'Vector' (0x0000021DA72D81A0) {x: 348.839363, y: 370.900204, z: 564.000000}>",
+      "rotation": "<Struct 'Rotator' (0x0000021DA72D81A0) {pitch: 0.000000, yaw: -178.822418, roll: 0.000000}>",
+      "scale": "<Struct 'Vector' (0x0000021DA72D81A0) {x: 0.846029, y: 0.846029, z: 0.846029}>",
+      "bounds": "(<Struct 'Vector' (0x0000021DA72D81A0) {x: 348.228229, y: 370.663595, z: 578.434582}>, <Struct 'Vector' (0x0000021DA72D81F0) {x: 21.437228, y: 18.641396, z: 14.630097}>)"
+    }
+  ]
+}

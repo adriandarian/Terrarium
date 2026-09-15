@@ -1,0 +1,22 @@
+[
+  {
+    "label": "Reference_Lantern",
+    "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_Lantern.SM_Env_Lantern",
+    "location": [
+      79.99131457686372,
+      -332.7819888510544,
+      560.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "scale": [
+      1.04,
+      1.04,
+      1.04
+    ],
+    "bounds": "(<Struct 'Vector' (0x00000236FDD91D70) {x: 79.991315, y: -332.781989, z: 656.200000}>, <Struct 'Vector' (0x00000236FDD92400) {x: 21.320000, y: 21.320000, z: 96.200000}>)"
+  }
+]
