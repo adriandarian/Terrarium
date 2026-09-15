@@ -1,0 +1,75 @@
+{
+  "method": "Evaluated surface nearest-normal interior test plus three-direction odd ray parity; witness at least 0.2 mm from both boundaries. Missing edges are inconclusive. Individually closed outward meshes are required.",
+  "edges": [
+    {
+      "a": "Left leafy shoot",
+      "b": "Joined body face and feet",
+      "interior_witness_m": [
+        -0.17381960153579712,
+        0.10283895581960678,
+        0.6488943696022034
+      ]
+    },
+    {
+      "a": "Right leafy shoot",
+      "b": "Joined moss crown",
+      "interior_witness_m": [
+        0.11119519919157028,
+        -0.19529539346694946,
+        0.6841050386428833
+      ]
+    },
+    {
+      "a": "Joined moss crown",
+      "b": "Joined body face and feet",
+      "interior_witness_m": [
+        -0.0950000137090683,
+        -0.06799998879432678,
+        0.6618276834487915
+      ]
+    },
+    {
+      "a": "Central leafy shoot",
+      "b": "Joined moss crown",
+      "interior_witness_m": [
+        0.043912388384342194,
+        0.07904119044542313,
+        0.693411111831665
+      ],
+      "sampling": "Measured stem base"
+    },
+    {
+      "a": "Left leafy shoot",
+      "b": "Joined moss crown",
+      "interior_witness_m": [
+        -0.17036233842372894,
+        0.11904119700193405,
+        0.6467227339744568
+      ],
+      "sampling": "Measured stem base"
+    },
+    {
+      "a": "Right leafy shoot",
+      "b": "Joined moss crown",
+      "interior_witness_m": [
+        0.10082882642745972,
+        -0.22145730257034302,
+        0.6798210740089417
+      ],
+      "sampling": "Measured stem base"
+    }
+  ],
+  "components": [
+    [
+      "Central leafy shoot",
+      "Joined body face and feet",
+      "Joined moss crown",
+      "Left leafy shoot",
+      "Right leafy shoot"
+    ]
+  ],
+  "source_blend_sha256": "4c421df50a8145ea43757e0bd72cbcf00f5f67f046d472c31d263f2449b44fd3",
+  "parts": 5,
+  "editable_construction_blocks": 270,
+  "limits": "Five closed union volumes overlap at their joins. Static geometry only; no character rig or physics simulation."
+}
