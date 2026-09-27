@@ -1,0 +1,25 @@
+{
+  "asset": "Kindlehorn",
+  "mesh": "/Game/Terrarium/Blender/Kindlehorn/SM_Blender_Kindlehorn.SM_Blender_Kindlehorn",
+  "material": "/Game/Terrarium/Blender/Kindlehorn/M_Kindlehorn.M_Kindlehorn",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/Kindlehorn/T_Kindlehorn_BaseColor.T_Kindlehorn_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/Kindlehorn/T_Kindlehorn_Emission.T_Kindlehorn_Emission",
+    "Roughness": "/Game/Terrarium/Blender/Kindlehorn/T_Kindlehorn_Roughness.T_Kindlehorn_Roughness"
+  },
+  "source_fbx_sha256": "ac79591e6cb923507d3c22a44cb3723f19fc033be839151b21de3228295699c4",
+  "dimensions_cm": [
+    148.01283264160156,
+    188.7952880859375,
+    259.5337764620781
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_visual_reviewed_fidelity_pending",
+  "material_slots": [
+    {
+      "index": 0,
+      "imported_name": "M_Kindlehorn_Frame_002",
+      "material": "/Game/Terrarium/Blender/Kindlehorn/M_Kindlehorn.M_Kindlehorn"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "project": "C:\\Users\\hello\\Projects\\Terrarium",
+  "engine": "5.8.2-56702186+++UE5+Release-5.8",
+  "map": "/Game/Terrarium/Blender/Maps/RemainingModelsReview",
+  "saved_and_reopened": true,
+  "actors": [
+    {
+      "asset": "Kindlehorn",
+      "actor": "Review_Kindlehorn",
+      "mesh": "/Game/Terrarium/Blender/Kindlehorn/SM_Blender_Kindlehorn.SM_Blender_Kindlehorn",
+      "material_count": 1,
+      "location": [
+        -510,
+        220,
+        0
+      ]
+    },
+    {
+      "asset": "Rillip",
+      "actor": "Review_Rillip",
+      "mesh": "/Game/Terrarium/Blender/Rillip/SM_Blender_Rillip.SM_Blender_Rillip",
+      "material_count": 1,
+      "location": [
+        -190,
+        220,
+        0
+      ]
+    },
+    {
+      "asset": "Player",
+      "actor": "Review_Player",
+      "mesh": "/Game/Terrarium/Blender/Player/SM_Blender_Player.SM_Blender_Player",
+      "material_count": 1,
+      "location": [
+        120,
+        220,
+        0
+      ]
+    },
+    {
+      "asset": "RangerSela",
+      "actor": "Review_RangerSela",
+      "mesh": "/Game/Terrarium/Blender/RangerSela/SM_Blender_RangerSela.SM_Blender_RangerSela",
+      "material_count": 1,
+      "location": [
+        410,
+        220,
+        0
+      ]
+    },
+    {
+      "asset": "HomesteadCompound",
+      "actor": "Review_HomesteadCompound",
+      "mesh": "/Game/Terrarium/Blender/HomesteadCompound/SM_Blender_HomesteadCompound.SM_Blender_HomesteadCompound",
+      "material_count": 2,
+      "location": [
+        0,
+        -460,
+        0
+      ],
+      "scale": 0.72
+    }
+  ],
+  "homestead_map_sha256_before": "faa58e94ef091bba1405e7f57f7e58d9b4e46d621bac36088809c9bf43ec7e73",
+  "homestead_map_sha256_after": "faa58e94ef091bba1405e7f57f7e58d9b4e46d621bac36088809c9bf43ec7e73",
+  "homestead_map_unchanged": true,
+  "animation_tested": false
+}

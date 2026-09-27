@@ -1,0 +1,55 @@
+{
+  "asset": "HomesteadCompound",
+  "mesh": "SM_Blender_HomesteadCompound",
+  "source": "SourceAssets/Voxel/homestead_compound.png",
+  "source_sha256": "1d13bfaebc22c887f58849561cdb09f08a032e006c17d783ed9e80a72de8113f",
+  "parts": 4039,
+  "vertices": 226184,
+  "triangles": 436212,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 2,
+  "bounds_m": {
+    "min": [
+      -4.590356826782227,
+      -3.0901083946228027,
+      -0.0003925636410713196
+    ],
+    "max": [
+      4.595394611358643,
+      3.695399522781372,
+      4.775000095367432
+    ]
+  },
+  "files": {
+    "Cottage_BaseColor.png": {
+      "bytes": 161745,
+      "sha256": "18a43619bb58663600d0e7c058299de2fab0664a6b907bfe12ffbe692fd33252"
+    },
+    "HomesteadCompound_BaseColor.png": {
+      "bytes": 6947,
+      "sha256": "d9b1fabd078914c0f0c6ef223a62cdc1231f6b8f1f54cadfa57174e334ed2ade"
+    },
+    "HomesteadCompound_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "HomesteadCompound_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_HomesteadCompound.fbx": {
+      "bytes": 5588188,
+      "sha256": "d0adbeddbeab32896080f8a93353d5f90221984a8e2619273f3f06a448cd921e"
+    },
+    "SM_Blender_HomesteadCompound.glb": {
+      "bytes": 33332304,
+      "sha256": "49944dfed5992bb9de856f77f07029491c5a23340cf11429dbb9f0e66d6afb49"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "materials": [
+    "M_Cottage_Atlas.003",
+    "M_HomesteadCompound_Frame"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "asset": "Rillip",
+  "mesh": "SM_Blender_Rillip",
+  "source": "SourceAssets/Voxel/rillip.png",
+  "source_sha256": "7278e5e09fb69cefd51a69ec0ef450fb46a781af64005837a7dd12419a82c5bd",
+  "parts": 902,
+  "vertices": 50512,
+  "triangles": 97416,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -1.03484046459198,
+      -0.5004550218582153,
+      0.024600014090538025
+    ],
+    "max": [
+      1.034663438796997,
+      0.4300999343395233,
+      1.9803342819213867
+    ]
+  },
+  "files": {
+    "Rillip_BaseColor.png": {
+      "bytes": 6794,
+      "sha256": "99100ee1b84f8563917416b333cf7b14dd16e239f51a557b8ee91c1a9b21ab56"
+    },
+    "Rillip_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "Rillip_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_Rillip.fbx": {
+      "bytes": 1260860,
+      "sha256": "3c734cb82206bbadb843851ef3e8b21bce5561e05cb42fdaf05f448a7ea70f9f"
+    },
+    "SM_Blender_Rillip.glb": {
+      "bytes": 7420668,
+      "sha256": "6dd7a7fca7fad830123567931c114e554ec64f7dfe0535245201cbb8370b0163"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "materials": [
+    "M_Rillip_Frame.002"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "asset": "HomesteadCompound",
+  "changes": [
+    {
+      "map": "BaseColor",
+      "before_sha256": "c3209b95d206e52a0db197695ccf88e5115fd52ba10224e9248a664d03800a15",
+      "after_sha256": "d9b1fabd078914c0f0c6ef223a62cdc1231f6b8f1f54cadfa57174e334ed2ade",
+      "bit_depth": 8
+    },
+    {
+      "map": "Emission",
+      "before_sha256": "3d0c0bfd2c5437cbdc4f382593564b7ad0f09885073c0bff5322ab996c038e15",
+      "after_sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c",
+      "bit_depth": 8
+    },
+    {
+      "map": "Roughness",
+      "before_sha256": "4b1482e7d817e2ae0f3c56630b21c9b95ab408be19aa5aff9cf05a02ac0736c6",
+      "after_sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2",
+      "bit_depth": 8
+    }
+  ],
+  "color_transform": "Standard sRGB for BaseColor and Emission; Raw for non-color Roughness. Exposure 0, gamma 1, no look.",
+  "reason": "These PNG16 atlas imports sampled encoded RGB in Unreal despite srgb=true. PNG8 was verified through an RGBA32F shader readback."
+}

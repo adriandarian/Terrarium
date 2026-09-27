@@ -1,0 +1,50 @@
+{
+  "asset": "Kindlehorn",
+  "mesh": "SM_Blender_Kindlehorn",
+  "source": "SourceAssets/Voxel/kindlehorn.png",
+  "source_sha256": "07d8b56f777e5d5deea372313aca39868ab29aedf825094a75e5238e7f993988",
+  "parts": 1028,
+  "vertices": 57568,
+  "triangles": 111024,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.7401156425476074,
+      -0.9077531099319458,
+      -0.0003377646207809448
+    ],
+    "max": [
+      0.7400126457214355,
+      0.9801997542381287,
+      2.5950000286102295
+    ]
+  },
+  "files": {
+    "Kindlehorn_BaseColor.png": {
+      "bytes": 5426,
+      "sha256": "4ead105bd61a279c7dff433ea8262ea72f08360adbfe321e3310ad1251b8ee1b"
+    },
+    "Kindlehorn_Emission.png": {
+      "bytes": 4189,
+      "sha256": "f2cddf358e08278558b75467f7dce148222fc54a86b9bb1bf18601030e70e499"
+    },
+    "Kindlehorn_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_Kindlehorn.fbx": {
+      "bytes": 1479692,
+      "sha256": "ac79591e6cb923507d3c22a44cb3723f19fc033be839151b21de3228295699c4"
+    },
+    "SM_Blender_Kindlehorn.glb": {
+      "bytes": 8454036,
+      "sha256": "ddf592b02e4b566bfb677d903636205dd51411b392be3e0f54d8e598eb242da3"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "materials": [
+    "M_Kindlehorn_Frame.002"
+  ]
+}

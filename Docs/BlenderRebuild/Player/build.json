@@ -1,0 +1,7 @@
+{
+  "asset": "Player",
+  "scene": "Terrarium_Player",
+  "parts": 1345,
+  "source": "SourceAssets/Voxel/player_front.png",
+  "status": "authored_pending_visual_review"
+}

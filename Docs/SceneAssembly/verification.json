@@ -1,0 +1,509 @@
+{
+  "project": "C:\\Users\\hello\\Projects\\Terrarium",
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "saved_and_reloaded": true,
+  "primary_model_families": 31,
+  "canonical_models": 26,
+  "placement_variant_families": 5,
+  "coverage": [
+    {
+      "source": "brambit.png",
+      "primary_model": "Brambit",
+      "represented_by": [
+        {
+          "asset": "Brambit",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "civic_hall.png",
+      "primary_model": "CivicHall",
+      "represented_by": [
+        {
+          "asset": "CivicHall",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "cottage.png",
+      "primary_model": "Cottage",
+      "represented_by": [
+        {
+          "asset": "Cottage",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "deep_delver_mark.png",
+      "primary_model": "DeepDelverMark",
+      "represented_by": [
+        {
+          "asset": "DeepDelverMark",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "ember.png",
+      "primary_model": "Ember",
+      "represented_by": [
+        {
+          "asset": "Ember",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "ember_crest.png",
+      "primary_model": "EmberCrest",
+      "represented_by": [
+        {
+          "asset": "EmberCrest",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "grove.png",
+      "primary_model": "Grove",
+      "represented_by": [
+        {
+          "asset": "Grove",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "homestead_compound.png",
+      "primary_model": "HomesteadCompound",
+      "represented_by": [
+        {
+          "asset": "HomesteadCompound",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "homestead_riverbank_v2.png",
+      "primary_model": "Riverbank",
+      "represented_by": [
+        {
+          "asset": "Riverbank",
+          "instances": 35
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "homestead_tree_v2.png",
+      "primary_model": "HomesteadTree",
+      "represented_by": [
+        {
+          "asset": "HomesteadTree",
+          "instances": 14
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "kindlehorn.png",
+      "primary_model": "Kindlehorn",
+      "represented_by": [
+        {
+          "asset": "Kindlehorn",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "lantern.png",
+      "primary_model": "Lantern",
+      "represented_by": [
+        {
+          "asset": "Lantern",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "lodge.png",
+      "primary_model": "Lodge",
+      "represented_by": [
+        {
+          "asset": "Lodge",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "market_stall.png",
+      "primary_model": "MarketStall",
+      "represented_by": [
+        {
+          "asset": "MarketStall",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "meadow_shrub.png",
+      "primary_model": "MeadowShrub",
+      "represented_by": [
+        {
+          "asset": "MeadowShrub",
+          "instances": 618
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "moss_tonic.png",
+      "primary_model": "MossTonic",
+      "represented_by": [
+        {
+          "asset": "MossTonic",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "player_front.png",
+      "primary_model": "Player",
+      "represented_by": [
+        {
+          "asset": "Player",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "ranger_sela.png",
+      "primary_model": "RangerSela",
+      "represented_by": [
+        {
+          "asset": "RangerSela",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "rillip.png",
+      "primary_model": "Rillip",
+      "represented_by": [
+        {
+          "asset": "Rillip",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "river_crossing.png",
+      "primary_model": "RiverCrossing",
+      "represented_by": [
+        {
+          "asset": "BridgeThreshold",
+          "instances": 1
+        },
+        {
+          "asset": "RiverBridge",
+          "instances": 1
+        },
+        {
+          "asset": "StoneStairs",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": true
+    },
+    {
+      "source": "rock.png",
+      "primary_model": "MossRock",
+      "represented_by": [
+        {
+          "asset": "MossRock",
+          "instances": 7
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "sign.png",
+      "primary_model": "Sign",
+      "represented_by": [
+        {
+          "asset": "Sign",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "storm.png",
+      "primary_model": "Storm",
+      "represented_by": [
+        {
+          "asset": "Storm",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "terrain_cliff_face_v7.png",
+      "primary_model": "CliffFace",
+      "represented_by": [
+        {
+          "asset": "CliffColumn",
+          "instances": 2076
+        }
+      ],
+      "uses_placement_variant": true
+    },
+    {
+      "source": "terrain_grass_top_v9.png",
+      "primary_model": "GrassTerrain",
+      "represented_by": [
+        {
+          "asset": "GrassTerrain",
+          "instances": 5841
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "terrain_moss_cap_v1.png",
+      "primary_model": "MossCap",
+      "represented_by": [
+        {
+          "asset": "MossFringe",
+          "instances": 209
+        }
+      ],
+      "uses_placement_variant": true
+    },
+    {
+      "source": "terrain_trail_top_v8.png",
+      "primary_model": "TrailTerrain",
+      "represented_by": [
+        {
+          "asset": "TrailPatch",
+          "instances": 84
+        }
+      ],
+      "uses_placement_variant": true
+    },
+    {
+      "source": "tide.png",
+      "primary_model": "Tide",
+      "represented_by": [
+        {
+          "asset": "Tide",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "trail_prism.png",
+      "primary_model": "TrailPrism",
+      "represented_by": [
+        {
+          "asset": "TrailPrism",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "tree.png",
+      "primary_model": "AncientTree",
+      "represented_by": [
+        {
+          "asset": "AncientTree",
+          "instances": 1
+        }
+      ],
+      "uses_placement_variant": false
+    },
+    {
+      "source": "wheat_field.png",
+      "primary_model": "WheatField",
+      "represented_by": [
+        {
+          "asset": "WheatPatch",
+          "instances": 40
+        }
+      ],
+      "uses_placement_variant": true
+    }
+  ],
+  "changed_actors_verified": [
+    {
+      "actor": "Reference_Player",
+      "materials": 1,
+      "location_cm": [
+        585.1868407938683,
+        -91.27275413506493,
+        559.9276489407571
+      ],
+      "scale": [
+        0.8121279477351955,
+        0.8121279477351955,
+        0.8121279477351955
+      ]
+    },
+    {
+      "actor": "Blender_RangerSela_Courtyard",
+      "materials": 1,
+      "location_cm": [
+        297.34696000850994,
+        -60.11263492042329,
+        559.889346769858
+      ],
+      "scale": [
+        0.8120282009659563,
+        0.8120282009659563,
+        0.8120282009659563
+      ]
+    },
+    {
+      "actor": "Blender_Kindlehorn_Meadow",
+      "materials": 1,
+      "location_cm": [
+        222.0919991090014,
+        909.632404180068,
+        559.9078530139807
+      ],
+      "scale": [
+        0.48163287917272085,
+        0.48163287917272085,
+        0.48163287917272085
+      ]
+    },
+    {
+      "actor": "Blender_Rillip_RiverShelf",
+      "materials": 1,
+      "location_cm": [
+        165.3848397626349,
+        -1017.0949577018315,
+        279.0437277423057
+      ],
+      "scale": [
+        0.40905351907903137,
+        0.40905351907903137,
+        0.40905351907903137
+      ]
+    },
+    {
+      "actor": "Blender_HomesteadCompound_WestClearing",
+      "materials": 2,
+      "location_cm": [
+        103.22791117475299,
+        2000.7683162458193,
+        559.7902066737413
+      ],
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ]
+    },
+    {
+      "actor": "Blender_CivicHall_NorthPath",
+      "materials": 1,
+      "location_cm": [
+        -1765.962564408368,
+        2936.577840662698,
+        559.6771514892578
+      ],
+      "scale": [
+        0.72,
+        0.72,
+        0.72
+      ]
+    },
+    {
+      "actor": "Fidelity_PlankBridge_v4_001",
+      "materials": 1,
+      "location_cm": [
+        894.2828554028314,
+        -1388.1969420616347,
+        146.16564564564564
+      ],
+      "scale": [
+        1.35,
+        2.1586186186186187,
+        2.1586186186186187
+      ]
+    },
+    {
+      "actor": "Blender_Brambit_Courtyard",
+      "materials": 1,
+      "location_cm": [
+        500.0,
+        -12.0,
+        550.2900713348388
+      ],
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ]
+    }
+  ],
+  "bridge": {
+    "width_cm": 193.05,
+    "span_cm": 718.82,
+    "deck_height_cm": 280.0,
+    "pile_bottom_cm": -30.841097550034192
+  },
+  "limits": [
+    "Static editor composition and material validation only.",
+    "No character animation, navigation, gameplay or performance validation.",
+    "Source model fidelity differences remain; material alternatives are retained in the library."
+  ],
+  "tree_instances_reloaded_verified": 14,
+  "north_approach_ground_checks": [
+    {
+      "actor": "SceneAssembly_NorthApproach_0",
+      "ground_cm": 559.661952495575,
+      "surface_cm": 560.835
+    },
+    {
+      "actor": "SceneAssembly_NorthApproach_1",
+      "ground_cm": 559.4426217079163,
+      "surface_cm": 560.835
+    },
+    {
+      "actor": "SceneAssembly_NorthApproach_2",
+      "ground_cm": 559.6667423248291,
+      "surface_cm": 560.835
+    },
+    {
+      "actor": "SceneAssembly_NorthApproach_3",
+      "ground_cm": 559.4052042961121,
+      "surface_cm": 560.835
+    }
+  ],
+  "final_camera": "Baseline_Orthographic_Review",
+  "dirty_maps": []
+}

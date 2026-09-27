@@ -1,7 +1,10 @@
 {
-  "scope": "Every PNG in SourceAssets/Voxel; object models, texture materials, and associated view/animation references retain explicit coverage.",
+  "scope": "Every PNG in SourceAssets/Voxel; object models, texture materials, and associated view/animation references retain explicit coverage. Coverage is not fidelity approval or completed animation.",
   "source_count": 77,
-  "blender_assets": 26,
+  "blender_assets": 31,
+  "surface_material_count": 45,
+  "associated_reference_count": 5,
+  "unassigned_source_count": 0,
   "placement_variant_count": 7,
   "accepted_count": 0,
   "assets": [
@@ -14,7 +17,8 @@
       "blender_model": "SourceAssets/Blender/Brambit/Brambit.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "civic_hall.png",
@@ -25,7 +29,8 @@
       "blender_model": "SourceAssets/Blender/CivicHall/CivicHall.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "cottage.png",
@@ -36,7 +41,8 @@
       "blender_model": "SourceAssets/Blender/Cottage/Cottage.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "cottage_plaster_v5.png",
@@ -46,8 +52,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_plaster_v5_R2",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_cottage_plaster_v5",
+      "related_model_family": "Cottage"
     },
     {
       "source": "cottage_roof_tile_v5.png",
@@ -57,8 +67,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_roof_tile_v5_R2",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_cottage_roof_tile_v5",
+      "related_model_family": "Cottage"
     },
     {
       "source": "cottage_roof_tile_v6_candidate.png",
@@ -68,8 +82,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_cottage_roof_tile_v6_candidate_R2",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_cottage_roof_tile_v6_candidate",
+      "related_model_family": "Cottage"
     },
     {
       "source": "deep_delver_mark.png",
@@ -80,7 +98,8 @@
       "blender_model": "SourceAssets/Blender/DeepDelverMark/DeepDelverMark.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "ember.png",
@@ -91,7 +110,8 @@
       "blender_model": "SourceAssets/Blender/Ember/Ember.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "ember_crest.png",
@@ -102,7 +122,8 @@
       "blender_model": "SourceAssets/Blender/EmberCrest/EmberCrest.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "grove.png",
@@ -113,7 +134,8 @@
       "blender_model": "SourceAssets/Blender/Grove/Grove.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "homestead_compound.png",
@@ -121,10 +143,11 @@
       "bytes": 1496669,
       "family": "compound",
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_HomesteadCompound",
-      "blender_model": null,
+      "blender_model": "SourceAssets/Blender/HomesteadCompound/HomesteadCompound.blend",
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "homestead_riverbank_v2.png",
@@ -135,7 +158,8 @@
       "blender_model": "SourceAssets/Blender/Riverbank/Riverbank.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "homestead_tree_v2.png",
@@ -146,7 +170,8 @@
       "blender_model": "SourceAssets/Blender/HomesteadTree/HomesteadTree.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "kindlehorn.png",
@@ -154,10 +179,11 @@
       "bytes": 1467573,
       "family": "creatures_items",
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Kindlehorn_R6",
-      "blender_model": null,
+      "blender_model": "SourceAssets/Blender/Kindlehorn/Kindlehorn.blend",
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "lantern.png",
@@ -168,7 +194,8 @@
       "blender_model": "SourceAssets/Blender/Lantern/Lantern.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "lodge.png",
@@ -179,7 +206,8 @@
       "blender_model": "SourceAssets/Blender/Lodge/Lodge.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "lodge_contact_shadow_v3.png",
@@ -187,10 +215,12 @@
       "bytes": 952325,
       "family": "architecture",
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Lodge_R3",
-      "blender_model": null,
+      "blender_model": "SourceAssets/Blender/Lodge/Lodge.blend",
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "associated_reference_not_separate_asset",
+      "accepted_fidelity": false,
+      "coverage_role": "lighting_reference",
+      "coverage_note": "2D contact-shadow reference; associated with physical Lodge grounding, not a separate mesh or magenta texture."
     },
     {
       "source": "market_stall.png",
@@ -201,7 +231,8 @@
       "blender_model": "SourceAssets/Blender/MarketStall/MarketStall.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "meadow_shrub.png",
@@ -212,7 +243,8 @@
       "blender_model": "SourceAssets/Blender/MeadowShrub/MeadowShrub.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "moss_tonic.png",
@@ -223,7 +255,8 @@
       "blender_model": "SourceAssets/Blender/MossTonic/MossTonic.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "player_animation_atlas.png",
@@ -231,10 +264,12 @@
       "bytes": 1673802,
       "family": "humanoids",
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Player_R3",
-      "blender_model": null,
+      "blender_model": "SourceAssets/Blender/Player/Player.blend",
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "associated_reference_not_separate_asset",
+      "accepted_fidelity": false,
+      "coverage_role": "animation_reference",
+      "coverage_note": "Nine pose references retained; static model only, no rig or animation delivery."
     },
     {
       "source": "player_back.png",
@@ -242,10 +277,12 @@
       "bytes": 1242208,
       "family": "humanoids",
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Player_R3",
-      "blender_model": null,
+      "blender_model": "SourceAssets/Blender/Player/Player.blend",
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "associated_reference_not_separate_asset",
+      "accepted_fidelity": false,
+      "coverage_role": "alternate_view",
+      "coverage_note": "Rear backpack and scarf reference used in the Player model."
     },
     {
       "source": "player_back_animation_atlas.png",
@@ -253,10 +290,12 @@
       "bytes": 1464219,
       "family": "humanoids",
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Player_R3",
-      "blender_model": null,
+      "blender_model": "SourceAssets/Blender/Player/Player.blend",
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "associated_reference_not_separate_asset",
+      "accepted_fidelity": false,
+      "coverage_role": "animation_reference",
+      "coverage_note": "Nine rear pose references retained; static model only, no rig or animation delivery."
     },
     {
       "source": "player_front.png",
@@ -264,10 +303,11 @@
       "bytes": 1403727,
       "family": "humanoids",
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Player_R3",
-      "blender_model": null,
+      "blender_model": "SourceAssets/Blender/Player/Player.blend",
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "ranger_sela.png",
@@ -275,10 +315,11 @@
       "bytes": 1236040,
       "family": "humanoids",
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_RangerSela_R3",
-      "blender_model": null,
+      "blender_model": "SourceAssets/Blender/RangerSela/RangerSela.blend",
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "ranger_sela_animation_atlas.png",
@@ -286,10 +327,12 @@
       "bytes": 1533392,
       "family": "humanoids",
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_RangerSela_R3",
-      "blender_model": null,
+      "blender_model": "SourceAssets/Blender/RangerSela/RangerSela.blend",
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "associated_reference_not_separate_asset",
+      "accepted_fidelity": false,
+      "coverage_role": "animation_reference",
+      "coverage_note": "Nine pose references retained; static model only, no rig or animation delivery."
     },
     {
       "source": "rillip.png",
@@ -297,10 +340,11 @@
       "bytes": 1325502,
       "family": "creatures_items",
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Rillip_R3",
-      "blender_model": null,
+      "blender_model": "SourceAssets/Blender/Rillip/Rillip.blend",
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "blender_authored_visual_refinement_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "river_crossing.png",
@@ -327,7 +371,8 @@
         }
       ],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "rock.png",
@@ -338,7 +383,8 @@
       "blender_model": "SourceAssets/Blender/MossRock/MossRock.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "sign.png",
@@ -349,7 +395,8 @@
       "blender_model": "SourceAssets/Blender/Sign/Sign.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "storm.png",
@@ -360,7 +407,8 @@
       "blender_model": "SourceAssets/Blender/Storm/Storm.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "terrain_cliff_3d.png",
@@ -370,8 +418,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_3d",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_cliff_3d",
+      "related_model_family": "CliffColumn"
     },
     {
       "source": "terrain_cliff_face_v2.png",
@@ -381,8 +433,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v2",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_cliff_face_v2",
+      "related_model_family": "CliffColumn"
     },
     {
       "source": "terrain_cliff_face_v4.png",
@@ -392,8 +448,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v4",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_cliff_face_v4",
+      "related_model_family": "CliffColumn"
     },
     {
       "source": "terrain_cliff_face_v5.png",
@@ -403,8 +463,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v5",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_cliff_face_v5",
+      "related_model_family": "CliffColumn"
     },
     {
       "source": "terrain_cliff_face_v6.png",
@@ -414,8 +478,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v6",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_cliff_face_v6",
+      "related_model_family": "CliffColumn"
     },
     {
       "source": "terrain_cliff_face_v7.png",
@@ -432,7 +500,11 @@
         }
       ],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_cliff_face_v7",
+      "related_model_family": "CliffColumn"
     },
     {
       "source": "terrain_cliff_face_v8_candidate.png",
@@ -442,8 +514,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v8_candidate",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_cliff_face_v8_candidate",
+      "related_model_family": "CliffColumn"
     },
     {
       "source": "terrain_cliff_face_v9_candidate.png",
@@ -453,8 +529,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_cliff_face_v9_candidate",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_cliff_face_v9_candidate",
+      "related_model_family": "CliffColumn"
     },
     {
       "source": "terrain_foliage_v4.png",
@@ -464,8 +544,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v4",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_foliage_v4",
+      "related_model_family": "GroundFoliage"
     },
     {
       "source": "terrain_foliage_v5.png",
@@ -475,8 +559,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v5",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_foliage_v5",
+      "related_model_family": "GroundFoliage"
     },
     {
       "source": "terrain_foliage_v6.png",
@@ -486,8 +574,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v6",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_foliage_v6",
+      "related_model_family": "GroundFoliage"
     },
     {
       "source": "terrain_foliage_v7_candidate.png",
@@ -497,8 +589,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_foliage_v7_candidate",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_foliage_v7_candidate",
+      "related_model_family": "GroundFoliage"
     },
     {
       "source": "terrain_grass.png",
@@ -508,8 +604,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_grass",
+      "related_model_family": "GrassTerrain"
     },
     {
       "source": "terrain_grass_3d.png",
@@ -519,8 +619,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_3d",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_grass_3d",
+      "related_model_family": "GrassTerrain"
     },
     {
       "source": "terrain_grass_top_v2.png",
@@ -530,8 +634,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v2",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_grass_top_v2",
+      "related_model_family": "GrassTerrain"
     },
     {
       "source": "terrain_grass_top_v3.png",
@@ -541,8 +649,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v3",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_grass_top_v3",
+      "related_model_family": "GrassTerrain"
     },
     {
       "source": "terrain_grass_top_v4.png",
@@ -552,8 +664,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v4",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_grass_top_v4",
+      "related_model_family": "GrassTerrain"
     },
     {
       "source": "terrain_grass_top_v5.png",
@@ -563,8 +679,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v5",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_grass_top_v5",
+      "related_model_family": "GrassTerrain"
     },
     {
       "source": "terrain_grass_top_v6.png",
@@ -574,8 +694,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v6",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_grass_top_v6",
+      "related_model_family": "GrassTerrain"
     },
     {
       "source": "terrain_grass_top_v7.png",
@@ -585,8 +709,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v7",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_grass_top_v7",
+      "related_model_family": "GrassTerrain"
     },
     {
       "source": "terrain_grass_top_v8.png",
@@ -596,8 +724,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_grass_top_v8",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_grass_top_v8",
+      "related_model_family": "GrassTerrain"
     },
     {
       "source": "terrain_grass_top_v9.png",
@@ -608,7 +740,11 @@
       "blender_model": "SourceAssets/Blender/GrassTerrain/GrassTerrain.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_grass_top_v9",
+      "related_model_family": "GrassTerrain"
     },
     {
       "source": "terrain_moss_cap_v1.png",
@@ -625,7 +761,11 @@
         }
       ],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_moss_cap_v1",
+      "related_model_family": "MossCap"
     },
     {
       "source": "terrain_stair_paver_v1.png",
@@ -635,8 +775,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_stair_paver_v1",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_stair_paver_v1",
+      "related_model_family": "StoneStairs"
     },
     {
       "source": "terrain_stair_paver_v2_candidate.png",
@@ -646,8 +790,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_stair_paver_v2_candidate",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_stair_paver_v2_candidate",
+      "related_model_family": "StoneStairs"
     },
     {
       "source": "terrain_trail_3d.png",
@@ -657,8 +805,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_3d",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_trail_3d",
+      "related_model_family": "TrailPatch"
     },
     {
       "source": "terrain_trail_top_v10_candidate.png",
@@ -668,8 +820,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v10_candidate",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_trail_top_v10_candidate",
+      "related_model_family": "TrailPatch"
     },
     {
       "source": "terrain_trail_top_v11_candidate.png",
@@ -679,8 +835,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v11_candidate",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_trail_top_v11_candidate",
+      "related_model_family": "TrailPatch"
     },
     {
       "source": "terrain_trail_top_v5.png",
@@ -690,8 +850,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v5",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_trail_top_v5",
+      "related_model_family": "TrailPatch"
     },
     {
       "source": "terrain_trail_top_v6.png",
@@ -701,8 +865,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v6",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_trail_top_v6",
+      "related_model_family": "TrailPatch"
     },
     {
       "source": "terrain_trail_top_v7.png",
@@ -712,8 +880,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v7",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_trail_top_v7",
+      "related_model_family": "TrailPatch"
     },
     {
       "source": "terrain_trail_top_v8.png",
@@ -730,7 +902,11 @@
         }
       ],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_trail_top_v8",
+      "related_model_family": "TrailPatch"
     },
     {
       "source": "terrain_trail_top_v9_candidate.png",
@@ -740,8 +916,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_trail_top_v9_candidate",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_trail_top_v9_candidate",
+      "related_model_family": "TrailPatch"
     },
     {
       "source": "terrain_water.png",
@@ -751,8 +931,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_water",
+      "related_model_family": "Water"
     },
     {
       "source": "terrain_water_3d.png",
@@ -762,8 +946,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_3d",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_water_3d",
+      "related_model_family": "Water"
     },
     {
       "source": "terrain_water_v4.png",
@@ -773,8 +961,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v4",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_water_v4",
+      "related_model_family": "Water"
     },
     {
       "source": "terrain_water_v5.png",
@@ -784,8 +976,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v5",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_water_v5",
+      "related_model_family": "Water"
     },
     {
       "source": "terrain_water_v6.png",
@@ -795,8 +991,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v6",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_water_v6",
+      "related_model_family": "Water"
     },
     {
       "source": "terrain_water_v7.png",
@@ -806,8 +1006,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v7",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_water_v7",
+      "related_model_family": "Water"
     },
     {
       "source": "terrain_water_v8.png",
@@ -817,8 +1021,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v8",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_water_v8",
+      "related_model_family": "Water"
     },
     {
       "source": "terrain_water_v9.png",
@@ -828,8 +1036,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_water_v9",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_water_v9",
+      "related_model_family": "Water"
     },
     {
       "source": "terrain_wood_3d.png",
@@ -839,8 +1051,12 @@
       "prior_unreal_mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_terrain_wood_3d",
       "blender_model": null,
       "placement_variants": [],
-      "status": "pending_blender_rebuild",
-      "accepted_fidelity": false
+      "status": "material_authored_imported_world_selection_pending",
+      "accepted_fidelity": false,
+      "coverage_role": "surface_material_alternative",
+      "surface_library": "SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend",
+      "surface_material": "/Game/Terrarium/Blender/SurfaceLibrary/M_Source_terrain_wood_3d",
+      "related_model_family": "RiverCrossing"
     },
     {
       "source": "tide.png",
@@ -851,7 +1067,8 @@
       "blender_model": "SourceAssets/Blender/Tide/Tide.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "trail_prism.png",
@@ -862,7 +1079,8 @@
       "blender_model": "SourceAssets/Blender/TrailPrism/TrailPrism.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "tree.png",
@@ -873,7 +1091,8 @@
       "blender_model": "SourceAssets/Blender/AncientTree/AncientTree.blend",
       "placement_variants": [],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     },
     {
       "source": "wheat_field.png",
@@ -890,7 +1109,8 @@
         }
       ],
       "status": "blender_authored_visual_refinement_pending",
-      "accepted_fidelity": false
+      "accepted_fidelity": false,
+      "coverage_role": "primary_model"
     }
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "asset": "Rillip",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_Rillip",
+  "parts": 902,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 97416,
+  "sha256": "dde7e7d5e71a257fd58d190343d4f84610342eee685c90ef6b91efcf16e8c060",
+  "active_camera": "Reference camera.001"
+}

@@ -1,0 +1,25 @@
+{
+  "asset": "Kindlehorn",
+  "changes": [
+    {
+      "map": "BaseColor",
+      "before_sha256": "b3bedb954ea85d43b2c65b449c7a756fcc4f0d616b79a7c720c98ff7592ea29d",
+      "after_sha256": "4ead105bd61a279c7dff433ea8262ea72f08360adbfe321e3310ad1251b8ee1b",
+      "bit_depth": 8
+    },
+    {
+      "map": "Emission",
+      "before_sha256": "21d298201406c0f6330fa17bad6c6dbd603d1cccce0b30f1b465eb00cc03d8e6",
+      "after_sha256": "f2cddf358e08278558b75467f7dce148222fc54a86b9bb1bf18601030e70e499",
+      "bit_depth": 8
+    },
+    {
+      "map": "Roughness",
+      "before_sha256": "4b1482e7d817e2ae0f3c56630b21c9b95ab408be19aa5aff9cf05a02ac0736c6",
+      "after_sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2",
+      "bit_depth": 8
+    }
+  ],
+  "color_transform": "Standard sRGB for BaseColor and Emission; Raw for non-color Roughness. Exposure 0, gamma 1, no look.",
+  "reason": "These PNG16 atlas imports sampled encoded RGB in Unreal despite srgb=true. PNG8 was verified through an RGBA32F shader readback."
+}

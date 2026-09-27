@@ -1,0 +1,12 @@
+{
+  "asset": "Kindlehorn",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "7b4abc07b9cda9396b94f75410b416f76bf94c461e4c14fa5ce200ccb90814b2",
+  "sha256": "b13748be8df85329087ef4e1756936036d1a2f607f8327713a998610e788fbd3",
+  "scene": "Terrarium_Kindlehorn",
+  "parts": 1028,
+  "packed_images": 3,
+  "active_camera": "Reference camera",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

@@ -1,0 +1,50 @@
+{
+  "asset": "Player",
+  "mesh": "SM_Blender_Player",
+  "source": "SourceAssets/Voxel/player_front.png",
+  "source_sha256": "4d36fbbf2a7ed355652303d9a6b272729e495e16333c7b9dbe4578f077c81da0",
+  "parts": 1345,
+  "vertices": 75320,
+  "triangles": 145260,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.5248467922210693,
+      -0.2746814489364624,
+      -0.000261697918176651
+    ],
+    "max": [
+      0.5246604084968567,
+      0.47889336943626404,
+      1.969871163368225
+    ]
+  },
+  "files": {
+    "Player_BaseColor.png": {
+      "bytes": 7076,
+      "sha256": "37ac2de36af403af426da9a85bd9adc7282346e5ddcba1de125d5981c81475e4"
+    },
+    "Player_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "Player_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_Player.fbx": {
+      "bytes": 1937916,
+      "sha256": "fbcc09a33f94096c6eb75da917e44cd0dc78818056def808e1a1480364c356b5"
+    },
+    "SM_Blender_Player.glb": {
+      "bytes": 11057100,
+      "sha256": "c52bf167d522c8b24f00e122f057621fda90e9b267b936a4658b18922f51d25a"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "materials": [
+    "M_Player_Frame.001"
+  ]
+}

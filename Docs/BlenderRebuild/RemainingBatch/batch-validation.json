@@ -1,0 +1,92 @@
+{
+  "new_models": [
+    {
+      "asset": "Kindlehorn",
+      "source": "SourceAssets/Voxel/kindlehorn.png",
+      "parts": 1028,
+      "triangles": 111024,
+      "dimensions_cm": [
+        148.01283264160156,
+        188.7952880859375,
+        259.5337764620781
+      ],
+      "saved_blend_sha256": "b13748be8df85329087ef4e1756936036d1a2f607f8327713a998610e788fbd3",
+      "fbx_sha256": "ac79591e6cb923507d3c22a44cb3723f19fc033be839151b21de3228295699c4",
+      "fidelity_approved": false,
+      "review_note": "Tall upright ears, central emissive horn, cream muzzle/chest, dark hooves and rear flame tail are present. The head is squarer, ear recesses flatter and horn less tapered than the source; subtle ember particles are omitted."
+    },
+    {
+      "asset": "Rillip",
+      "source": "SourceAssets/Voxel/rillip.png",
+      "parts": 902,
+      "triangles": 97416,
+      "dimensions_cm": [
+        206.9503936767578,
+        93.05550003051758,
+        195.5734305381775
+      ],
+      "saved_blend_sha256": "dde7e7d5e71a257fd58d190343d4f84610342eee685c90ef6b91efcf16e8c060",
+      "fbx_sha256": "3c734cb82206bbadb843851ef3e8b21bce5561e05cb42fdaf05f448a7ea70f9f",
+      "fidelity_approved": false,
+      "review_note": "Closed stepped body, mint fins/toes, blush, smile and crown tip are present. Body layers were repaired to overlap. The silhouette is more pyramidal and less rounded than the source; foam placement remains approximate."
+    },
+    {
+      "asset": "Player",
+      "source": "SourceAssets/Voxel/player_front.png",
+      "parts": 1345,
+      "triangles": 145260,
+      "dimensions_cm": [
+        104.95072174072266,
+        75.35748481750488,
+        197.01329137384892
+      ],
+      "saved_blend_sha256": "f01dfb74c70aa60a343cc067c9b06fb7196dc00d1eea27c218e98cb7d8067fee",
+      "fbx_sha256": "fbcc09a33f94096c6eb75da917e44cd0dc78818056def808e1a1480364c356b5",
+      "fidelity_approved": false,
+      "review_note": "Front and back references share one physical model, including orange jacket, gold scarf, green backpack with pockets/buckles, boots and face. Body stance, head/hair volume and scarf silhouette are simplified. A rear render verifies the equipment. Atlas poses are references only."
+    },
+    {
+      "asset": "RangerSela",
+      "source": "SourceAssets/Voxel/ranger_sela.png",
+      "parts": 1427,
+      "triangles": 154116,
+      "dimensions_cm": [
+        103.96106719970703,
+        61.979719161987305,
+        197.03749181330204
+      ],
+      "saved_blend_sha256": "a49d6675d8060e2cfe45197db89d3c3b07188b81a08d1a933f277884a65c89a3",
+      "fbx_sha256": "32e3d79d0a366bed5d82846e1f5aa87cc4308e29facd733af4563228b1fd79e1",
+      "fidelity_approved": false,
+      "review_note": "Teal long coat, cream scarf, silver hair, shoulder insignia, diagonal strap and ochre satchel are present. Hair, face, tailoring and stance remain simplified; unseen rear details are inferred. The pose atlas is retained as reference only."
+    },
+    {
+      "asset": "HomesteadCompound",
+      "source": "SourceAssets/Voxel/homestead_compound.png",
+      "parts": 4039,
+      "triangles": 436212,
+      "dimensions_cm": [
+        918.5751953125,
+        678.5508117675781,
+        477.53925636410713
+      ],
+      "saved_blend_sha256": "e0190579a34096eaa2c4c3673f9cb58729d22a38e95f23f639c0200b95aa4b42",
+      "fbx_sha256": "d0adbeddbeab32896080f8a93353d5f90221984a8e2619273f3f06a448cd921e",
+      "fidelity_approved": false,
+      "review_note": "Existing editable Cottage geometry/material is reused, with new shed, fence, planted bed, lamppost, shrine and flowerbed. Arrangement is a first-pass adaptation, with a larger cottage footprint and simpler plants/stonework than the source. The open courtyard uses real empty space; no object-image billboards."
+    }
+  ],
+  "source_count": 77,
+  "primary_models_total": 31,
+  "surface_materials": 45,
+  "associated_references": 5,
+  "unassigned_sources": 0,
+  "fidelity_approvals": 0,
+  "original_homestead_unchanged": true,
+  "surface_unreal_visual_samples": [
+    "terrain_water_v9",
+    "terrain_cliff_face_v9_candidate",
+    "cottage_roof_tile_v6_candidate"
+  ],
+  "no_rigs_or_animations_delivered": true
+}

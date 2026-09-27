@@ -1,0 +1,11 @@
+{
+  "asset": "RangerSela",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_RangerSela",
+  "parts": 1427,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 154116,
+  "sha256": "a49d6675d8060e2cfe45197db89d3c3b07188b81a08d1a933f277884a65c89a3",
+  "active_camera": "Reference camera.003"
+}

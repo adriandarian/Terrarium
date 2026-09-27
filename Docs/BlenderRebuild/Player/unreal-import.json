@@ -1,0 +1,25 @@
+{
+  "asset": "Player",
+  "mesh": "/Game/Terrarium/Blender/Player/SM_Blender_Player.SM_Blender_Player",
+  "material": "/Game/Terrarium/Blender/Player/M_Player.M_Player",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/Player/T_Player_BaseColor.T_Player_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/Player/T_Player_Emission.T_Player_Emission",
+    "Roughness": "/Game/Terrarium/Blender/Player/T_Player_Roughness.T_Player_Roughness"
+  },
+  "source_fbx_sha256": "fbcc09a33f94096c6eb75da917e44cd0dc78818056def808e1a1480364c356b5",
+  "dimensions_cm": [
+    104.95072174072266,
+    75.35748481750488,
+    197.01329137384892
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_visual_reviewed_fidelity_pending",
+  "material_slots": [
+    {
+      "index": 0,
+      "imported_name": "M_Player_Frame_001",
+      "material": "/Game/Terrarium/Blender/Player/M_Player.M_Player"
+    }
+  ]
+}

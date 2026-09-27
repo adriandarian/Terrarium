@@ -1,0 +1,185 @@
+{
+  "meshes": {
+    "/Engine/EditorMeshes/MatineeCam_SM.MatineeCam_SM": 30,
+    "/Game/Terrarium/Blender/StoneStairs/SM_Blender_StoneStairs.SM_Blender_StoneStairs": 1,
+    "/Game/Terrarium/Blender/RiverBridge/SM_Blender_RiverBridge.SM_Blender_RiverBridge": 1,
+    "/Game/Terrarium/Blender/Cottage/SM_Blender_Cottage.SM_Blender_Cottage": 1,
+    "/Game/Terrarium/Environment/Meshes/SM_Env_BlueShed.SM_Env_BlueShed": 1,
+    "/Game/Terrarium/Environment/Meshes/SM_Env_Tower.SM_Env_Tower": 1,
+    "/Game/Terrarium/Blender/Lantern/SM_Blender_Lantern.SM_Blender_Lantern": 1,
+    "/Game/Terrarium/Environment/Meshes/SM_Env_VegetableBed.SM_Env_VegetableBed": 1,
+    "/Game/Terrarium/Environment/Meshes/SM_Env_FlowerBorder.SM_Env_FlowerBorder": 1,
+    "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Player_R3.SM_Recon_Player_R3": 1,
+    "/Game/Terrarium/Blender/MeadowShrub/SM_Blender_MeadowShrub.SM_Blender_MeadowShrub": 618,
+    "/Game/Terrarium/Blender/CliffColumn/SM_Blender_CliffColumn.SM_Blender_CliffColumn": 2076,
+    "/Game/Terrarium/Blender/TrailPatch/SM_Blender_TrailPatch.SM_Blender_TrailPatch": 84,
+    "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail": 569,
+    "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail": 498,
+    "/Game/Terrarium/Meshes/SM_RockCluster_Detail.SM_RockCluster_Detail": 61,
+    "/Game/Terrarium/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail": 136,
+    "/Game/Terrarium/Meshes/SM_WaterTile_v4_Detail.SM_WaterTile_v4_Detail": 11,
+    "/Game/Terrarium/Meshes/SM_WaterShallow_v4_Detail.SM_WaterShallow_v4_Detail": 166,
+    "/Game/Terrarium/Meshes/SM_WaterDeep_v4_Detail.SM_WaterDeep_v4_Detail": 13,
+    "/Game/Terrarium/Blender/HomesteadTree/SM_Blender_HomesteadTree.SM_Blender_HomesteadTree": 14,
+    "/Game/Terrarium/Blender/WheatPatch/SM_Blender_WheatPatch.SM_Blender_WheatPatch": 40,
+    "/Game/Terrarium/Meshes/SM_ShoreOutcrop_Detail.SM_ShoreOutcrop_Detail": 32,
+    "/Game/Terrarium/Meshes/SM_ShoreOutcrop_v2_Detail.SM_ShoreOutcrop_v2_Detail": 8,
+    "/Game/Terrarium/Meshes/SM_RiverStones_v2_Detail.SM_RiverStones_v2_Detail": 41,
+    "/Game/Terrarium/Blender/Riverbank/SM_Blender_Riverbank.SM_Blender_Riverbank": 35,
+    "/Game/Terrarium/Blender/GrassTerrain/SM_Blender_GrassTerrain.SM_Blender_GrassTerrain": 5841,
+    "/Game/Terrarium/Blender/MossFringe/SM_Blender_MossFringe.SM_Blender_MossFringe": 209,
+    "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail": 67,
+    "/Game/Terrarium/Meshes/SM_Shed_FlatStones.SM_Shed_FlatStones": 3,
+    "/Game/Terrarium/Meshes/SM_Assembly_FencePost.SM_Assembly_FencePost": 12,
+    "/Game/Terrarium/Meshes/SM_Assembly_FenceRails.SM_Assembly_FenceRails": 10,
+    "/Game/Terrarium/Blender/MossRock/SM_Blender_MossRock.SM_Blender_MossRock": 7,
+    "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree": 21,
+    "/Game/Terrarium/Blender/Sign/SM_Blender_Sign.SM_Blender_Sign": 1,
+    "/Game/Terrarium/Blender/MarketStall/SM_Blender_MarketStall.SM_Blender_MarketStall": 1,
+    "/Game/Terrarium/Blender/Lodge/SM_Blender_Lodge.SM_Blender_Lodge": 1,
+    "/Game/Terrarium/Blender/CivicHall/SM_Blender_CivicHall.SM_Blender_CivicHall": 1,
+    "/Game/Terrarium/Blender/AncientTree/SM_Blender_AncientTree.SM_Blender_AncientTree": 1,
+    "/Game/Terrarium/Blender/BridgeThreshold/SM_Blender_BridgeThreshold.SM_Blender_BridgeThreshold": 1,
+    "/Game/Terrarium/Blender/MossTonic/SM_Blender_MossTonic.SM_Blender_MossTonic": 1,
+    "/Game/Terrarium/Blender/TrailPrism/SM_Blender_TrailPrism.SM_Blender_TrailPrism": 1,
+    "/Game/Terrarium/Blender/EmberCrest/SM_Blender_EmberCrest.SM_Blender_EmberCrest": 1,
+    "/Game/Terrarium/Blender/DeepDelverMark/SM_Blender_DeepDelverMark.SM_Blender_DeepDelverMark": 1,
+    "/Game/Terrarium/Blender/Grove/SM_Blender_Grove.SM_Blender_Grove": 1,
+    "/Game/Terrarium/Blender/Tide/SM_Blender_Tide.SM_Blender_Tide": 1,
+    "/Game/Terrarium/Blender/Ember/SM_Blender_Ember.SM_Blender_Ember": 1,
+    "/Game/Terrarium/Blender/Storm/SM_Blender_Storm.SM_Blender_Storm": 1,
+    "/Game/Terrarium/Blender/Brambit/SM_Blender_Brambit.SM_Blender_Brambit": 1
+  },
+  "missing": [
+    {
+      "key": "CliffFace",
+      "min": [
+        -100.0,
+        -10.000008583068848,
+        0.0
+      ],
+      "max": [
+        100.0,
+        2.4000086784362793,
+        200.0
+      ]
+    },
+    {
+      "key": "HomesteadCompound",
+      "min": [
+        -459.03570556640625,
+        -369.53997802734375,
+        -0.03925636410713196
+      ],
+      "max": [
+        459.53948974609375,
+        309.0108337402344,
+        477.5
+      ]
+    },
+    {
+      "key": "Kindlehorn",
+      "min": [
+        -74.01156616210938,
+        -98.01997375488281,
+        -0.03377646207809448
+      ],
+      "max": [
+        74.00126647949219,
+        90.77531433105469,
+        259.5
+      ]
+    },
+    {
+      "key": "MossCap",
+      "min": [
+        -32.000003814697266,
+        -32.000003814697266,
+        -1.2000000476837158
+      ],
+      "max": [
+        32.000003814697266,
+        32.000003814697266,
+        1.2000000476837158
+      ]
+    },
+    {
+      "key": "Player",
+      "min": [
+        -52.48468017578125,
+        -47.889339447021484,
+        -0.0261697918176651
+      ],
+      "max": [
+        52.466041564941406,
+        27.4681453704834,
+        196.98712158203125
+      ]
+    },
+    {
+      "key": "RangerSela",
+      "min": [
+        -52.48468017578125,
+        -23.019044876098633,
+        -0.0261697918176651
+      ],
+      "max": [
+        51.47638702392578,
+        38.96067428588867,
+        197.01132202148438
+      ]
+    },
+    {
+      "key": "Rillip",
+      "min": [
+        -103.48404693603516,
+        -43.0099983215332,
+        2.4600014686584473
+      ],
+      "max": [
+        103.46634674072266,
+        50.045501708984375,
+        198.03343200683594
+      ]
+    },
+    {
+      "key": "RiverCrossing",
+      "min": [
+        -71.50000762939453,
+        -285.9700012207031,
+        0.0
+      ],
+      "max": [
+        71.50000762939453,
+        166.5,
+        129.97000122070312
+      ]
+    },
+    {
+      "key": "TrailTerrain",
+      "min": [
+        -120.00001525878906,
+        -120.00001525878906,
+        -14.0
+      ],
+      "max": [
+        120.00001525878906,
+        120.00001525878906,
+        0.8999999761581421
+      ]
+    },
+    {
+      "key": "WheatField",
+      "min": [
+        -278.5341796875,
+        -183.34344482421875,
+        0.0
+      ],
+      "max": [
+        293.2500305175781,
+        180.56918334960938,
+        93.93772888183594
+      ]
+    }
+  ]
+}

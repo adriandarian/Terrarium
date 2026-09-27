@@ -1,0 +1,11 @@
+{
+  "asset": "Kindlehorn",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_Kindlehorn",
+  "parts": 1028,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 111024,
+  "sha256": "b13748be8df85329087ef4e1756936036d1a2f607f8327713a998610e788fbd3",
+  "active_camera": "Reference camera"
+}

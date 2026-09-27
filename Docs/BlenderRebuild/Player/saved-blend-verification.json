@@ -1,0 +1,11 @@
+{
+  "asset": "Player",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_Player",
+  "parts": 1345,
+  "packed_images": 3,
+  "material_slots": 1,
+  "triangles": 145260,
+  "sha256": "f01dfb74c70aa60a343cc067c9b06fb7196dc00d1eea27c218e98cb7d8067fee",
+  "active_camera": "Reference camera.002"
+}

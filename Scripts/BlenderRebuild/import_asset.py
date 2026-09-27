@@ -31,7 +31,11 @@ opts=unreal.FbxImportUI();opts.import_mesh=True;opts.import_materials=False;opts
 d=opts.static_mesh_import_data;d.combine_meshes=True;d.generate_lightmap_u_vs=True;d.auto_generate_collision=True;d.convert_scene=True;d.convert_scene_unit=True;d.normal_import_method=unreal.FBXNormalImportMethod.FBXNIM_IMPORT_NORMALS_AND_TANGENTS
 task=unreal.AssetImportTask();task.filename=str(out/filename);task.destination_path=dest;task.destination_name='SM_Blender_'+key;task.automated=True;task.replace_existing=True;task.save=True;task.options=opts;task.factory=unreal.FbxFactory()
 at.import_asset_tasks([task]);mesh=unreal.load_asset(dest+'/SM_Blender_'+key);assert isinstance(mesh,unreal.StaticMesh)
-for index in range(len(mesh.static_materials)):mesh.set_material(index,mat)
+for index,slot in enumerate(mesh.static_materials):
+    selected=mat
+    if key=='HomesteadCompound' and 'Cottage' in str(slot.get_editor_property('imported_material_slot_name')):
+        selected=unreal.load_asset('/Game/Terrarium/Blender/Cottage/M_Cottage');assert selected
+    mesh.set_material(index,selected)
 for asset in list(textures.values())+[mat,mesh]:unreal.EditorAssetLibrary.save_loaded_asset(asset)
 b=mesh.get_bounding_box();dims=b.max-b.min
 expected=[(receipt['bounds_m']['max'][i]-receipt['bounds_m']['min'][i])*100 for i in range(3)]

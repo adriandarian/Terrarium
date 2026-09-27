@@ -1,0 +1,25 @@
+{
+  "asset": "RangerSela",
+  "mesh": "/Game/Terrarium/Blender/RangerSela/SM_Blender_RangerSela.SM_Blender_RangerSela",
+  "material": "/Game/Terrarium/Blender/RangerSela/M_RangerSela.M_RangerSela",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/RangerSela/T_RangerSela_BaseColor.T_RangerSela_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/RangerSela/T_RangerSela_Emission.T_RangerSela_Emission",
+    "Roughness": "/Game/Terrarium/Blender/RangerSela/T_RangerSela_Roughness.T_RangerSela_Roughness"
+  },
+  "source_fbx_sha256": "32e3d79d0a366bed5d82846e1f5aa87cc4308e29facd733af4563228b1fd79e1",
+  "dimensions_cm": [
+    103.96106719970703,
+    61.979719161987305,
+    197.03749181330204
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_visual_reviewed_fidelity_pending",
+  "material_slots": [
+    {
+      "index": 0,
+      "imported_name": "M_RangerSela_Frame_001",
+      "material": "/Game/Terrarium/Blender/RangerSela/M_RangerSela.M_RangerSela"
+    }
+  ]
+}

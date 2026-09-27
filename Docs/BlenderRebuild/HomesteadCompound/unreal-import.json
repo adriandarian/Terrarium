@@ -1,0 +1,30 @@
+{
+  "asset": "HomesteadCompound",
+  "mesh": "/Game/Terrarium/Blender/HomesteadCompound/SM_Blender_HomesteadCompound.SM_Blender_HomesteadCompound",
+  "material": "/Game/Terrarium/Blender/HomesteadCompound/M_HomesteadCompound.M_HomesteadCompound",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/HomesteadCompound/T_HomesteadCompound_BaseColor.T_HomesteadCompound_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/HomesteadCompound/T_HomesteadCompound_Emission.T_HomesteadCompound_Emission",
+    "Roughness": "/Game/Terrarium/Blender/HomesteadCompound/T_HomesteadCompound_Roughness.T_HomesteadCompound_Roughness"
+  },
+  "source_fbx_sha256": "d0adbeddbeab32896080f8a93353d5f90221984a8e2619273f3f06a448cd921e",
+  "dimensions_cm": [
+    918.5751953125,
+    678.5508117675781,
+    477.53925636410713
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_visual_reviewed_fidelity_pending",
+  "material_slots": [
+    {
+      "index": 0,
+      "imported_name": "M_Cottage_Atlas_003",
+      "material": "/Game/Terrarium/Blender/Cottage/M_Cottage.M_Cottage"
+    },
+    {
+      "index": 1,
+      "imported_name": "M_HomesteadCompound_Frame",
+      "material": "/Game/Terrarium/Blender/HomesteadCompound/M_HomesteadCompound.M_HomesteadCompound"
+    }
+  ]
+}

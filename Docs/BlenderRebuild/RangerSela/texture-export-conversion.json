@@ -1,0 +1,25 @@
+{
+  "asset": "RangerSela",
+  "changes": [
+    {
+      "map": "BaseColor",
+      "before_sha256": "744b7c511bb95b4184ce090dee2701369e20d7712b861e3368587da55658dd2b",
+      "after_sha256": "b330a43df200546925c9263a1080ff4103d5a3be8acd8cfbad159d75d9fe6ed5",
+      "bit_depth": 8
+    },
+    {
+      "map": "Emission",
+      "before_sha256": "3d0c0bfd2c5437cbdc4f382593564b7ad0f09885073c0bff5322ab996c038e15",
+      "after_sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c",
+      "bit_depth": 8
+    },
+    {
+      "map": "Roughness",
+      "before_sha256": "4b1482e7d817e2ae0f3c56630b21c9b95ab408be19aa5aff9cf05a02ac0736c6",
+      "after_sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2",
+      "bit_depth": 8
+    }
+  ],
+  "color_transform": "Standard sRGB for BaseColor and Emission; Raw for non-color Roughness. Exposure 0, gamma 1, no look.",
+  "reason": "These PNG16 atlas imports sampled encoded RGB in Unreal despite srgb=true. PNG8 was verified through an RGBA32F shader readback."
+}

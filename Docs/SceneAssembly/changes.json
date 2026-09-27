@@ -1,0 +1,567 @@
+{
+  "world": "/Game/Terrarium/Blender/Maps/HomesteadBlender",
+  "changes": [
+    {
+      "reason": "Concept-relative scale and sampled ground support",
+      "before": {
+        "actor": "Reference_Player",
+        "mesh": "/Game/Terrarium/Reconstruction/Meshes/SM_Recon_Player_R3.SM_Recon_Player_R3",
+        "location": [
+          585.1868407938683,
+          -91.27275413506493,
+          560.0
+        ],
+        "scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "rotation": [
+          0.0,
+          59.99999999999999,
+          -0.0
+        ]
+      },
+      "after": {
+        "actor": "Reference_Player",
+        "mesh": "/Game/Terrarium/Blender/Player/SM_Blender_Player.SM_Blender_Player",
+        "location": [
+          585.1868407938683,
+          -91.27275413506493,
+          559.9276489407571
+        ],
+        "scale": [
+          0.8121279477351955,
+          0.8121279477351955,
+          0.8121279477351955
+        ],
+        "rotation": [
+          0.0,
+          134.99999999999997,
+          -0.0
+        ]
+      },
+      "ground_probes": [
+        559.4328117370605,
+        559.650821685791,
+        559.8563957214355,
+        559.5645523071289,
+        559.4344139099121
+      ],
+      "height_cm": 160.0
+    },
+    {
+      "reason": "Concept-relative scale and sampled ground support",
+      "before": null,
+      "after": {
+        "actor": "Blender_RangerSela_Courtyard",
+        "mesh": "/Game/Terrarium/Blender/RangerSela/SM_Blender_RangerSela.SM_Blender_RangerSela",
+        "location": [
+          297.34696000850994,
+          -60.11263492042329,
+          559.889346769858
+        ],
+        "scale": [
+          0.8120282009659563,
+          0.8120282009659563,
+          0.8120282009659563
+        ],
+        "rotation": [
+          0.0,
+          160.0,
+          -0.0
+        ]
+      },
+      "ground_probes": [
+        559.5162010192871,
+        559.365873336792,
+        559.8150253295898,
+        559.6389961242676,
+        559.8180961608887
+      ],
+      "height_cm": 160.0
+    },
+    {
+      "reason": "Concept-relative scale and sampled ground support",
+      "before": null,
+      "after": {
+        "actor": "Blender_Kindlehorn_Meadow",
+        "mesh": "/Game/Terrarium/Blender/Kindlehorn/SM_Blender_Kindlehorn.SM_Blender_Kindlehorn",
+        "location": [
+          222.0919991090014,
+          909.632404180068,
+          559.9078530139807
+        ],
+        "scale": [
+          0.48163287917272085,
+          0.48163287917272085,
+          0.48163287917272085
+        ],
+        "rotation": [
+          0.0,
+          134.99999999999997,
+          -0.0
+        ]
+      },
+      "ground_probes": [
+        559.5961952209473,
+        559.3055057525635,
+        559.8059368133545,
+        559.824857711792,
+        559.8415851593018
+      ],
+      "height_cm": 125.0
+    },
+    {
+      "reason": "Concept-relative scale and sampled ground support",
+      "before": null,
+      "after": {
+        "actor": "Blender_Rillip_RiverShelf",
+        "mesh": "/Game/Terrarium/Blender/Rillip/SM_Blender_Rillip.SM_Blender_Rillip",
+        "location": [
+          165.3848397626349,
+          -1017.0949577018315,
+          279.0437277423057
+        ],
+        "scale": [
+          0.40905351907903137,
+          0.40905351907903137,
+          0.40905351907903137
+        ],
+        "rotation": [
+          0.0,
+          100.00000000000004,
+          -0.0
+        ]
+      },
+      "ground_probes": [
+        279.7863483428955,
+        279.71221923828125,
+        279.33067321777344,
+        280.0,
+        279.7444725036621
+      ],
+      "height_cm": 80.0
+    },
+    {
+      "reason": "Concept-relative scale and sampled ground support",
+      "before": null,
+      "after": {
+        "actor": "Blender_HomesteadCompound_WestClearing",
+        "mesh": "/Game/Terrarium/Blender/HomesteadCompound/SM_Blender_HomesteadCompound.SM_Blender_HomesteadCompound",
+        "location": [
+          103.22791117475299,
+          2000.7683162458193,
+          559.7902066737413
+        ],
+        "scale": [
+          0.9,
+          0.9,
+          0.9
+        ],
+        "rotation": [
+          0.0,
+          -90.00000000000001,
+          0.0
+        ]
+      },
+      "ground_probes": [
+        559.7048759460449,
+        559.3555355072021,
+        559.3821620941162,
+        559.6256732940674,
+        559.3913173675537
+      ],
+      "height_cm": 429.7853307276964
+    },
+    {
+      "reason": "Concept-relative scale and sampled ground support",
+      "before": {
+        "actor": "Blender_CivicHall_NorthPath",
+        "mesh": "/Game/Terrarium/Blender/CivicHall/SM_Blender_CivicHall.SM_Blender_CivicHall",
+        "location": [
+          -450.0,
+          1400.0,
+          560.0
+        ],
+        "scale": [
+          0.85,
+          0.85,
+          0.85
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "after": {
+        "actor": "Blender_CivicHall_NorthPath",
+        "mesh": "/Game/Terrarium/Blender/CivicHall/SM_Blender_CivicHall.SM_Blender_CivicHall",
+        "location": [
+          -1765.962564408368,
+          2936.577840662698,
+          559.6771514892578
+        ],
+        "scale": [
+          0.72,
+          0.72,
+          0.72
+        ],
+        "rotation": [
+          0.0,
+          -90.00000000000001,
+          0.0
+        ]
+      },
+      "ground_probes": [
+        559.5929431915283,
+        559.3007755279541,
+        559.4233512878418,
+        559.6271514892578,
+        559.2628002166748
+      ],
+      "height_cm": 625.6799560546875
+    },
+    {
+      "reason": "Narrow crossing deck from 309 cm to 193 cm; preserve span, deck and riverbed piles",
+      "before": {
+        "actor": "Fidelity_PlankBridge_v4_001",
+        "mesh": "/Game/Terrarium/Blender/RiverBridge/SM_Blender_RiverBridge.SM_Blender_RiverBridge",
+        "location": [
+          894.2828554028314,
+          -1388.1969420616347,
+          146.16564564564564
+        ],
+        "scale": [
+          2.1586186186186187,
+          2.1586186186186187,
+          2.1586186186186187
+        ],
+        "rotation": [
+          0.0,
+          -4.0,
+          0.0
+        ]
+      },
+      "after": {
+        "actor": "Fidelity_PlankBridge_v4_001",
+        "mesh": "/Game/Terrarium/Blender/RiverBridge/SM_Blender_RiverBridge.SM_Blender_RiverBridge",
+        "location": [
+          894.2828554028314,
+          -1388.1969420616347,
+          146.16564564564564
+        ],
+        "scale": [
+          1.35,
+          2.1586186186186187,
+          2.1586186186186187
+        ],
+        "rotation": [
+          0.0,
+          -4.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "reason": "Correct recessed courtyard ground contact",
+      "before": {
+        "actor": "Blender_Brambit_Courtyard",
+        "mesh": "/Game/Terrarium/Blender/Brambit/SM_Blender_Brambit.SM_Blender_Brambit",
+        "location": [
+          500.0,
+          -12.0,
+          550.3681987190246
+        ],
+        "scale": [
+          0.8,
+          0.8,
+          0.8
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      },
+      "after": {
+        "actor": "Blender_Brambit_Courtyard",
+        "mesh": "/Game/Terrarium/Blender/Brambit/SM_Blender_Brambit.SM_Blender_Brambit",
+        "location": [
+          500.0,
+          -12.0,
+          550.2900713348388
+        ],
+        "scale": [
+          0.8,
+          0.8,
+          0.8
+        ],
+        "rotation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "reason": "Increase landmark tree height and crown by 40 percent at fixed ground contacts",
+      "trees": [
+        {
+          "index": 0,
+          "before_scale": [
+            0.6607735157012941,
+            0.6607735157012941,
+            0.660773515701294
+          ],
+          "after_scale": [
+            0.9250829219818116,
+            0.9250829219818116,
+            0.9250829219818114
+          ],
+          "root": [
+            -502.1927054143488,
+            2147.276631844852,
+            558.9138761341026
+          ]
+        },
+        {
+          "index": 1,
+          "before_scale": [
+            0.7800798416137698,
+            0.7800798416137698,
+            0.7800798416137695
+          ],
+          "after_scale": [
+            1.0921117782592775,
+            1.0921117782592775,
+            1.0921117782592773
+          ],
+          "root": [
+            -741.8671099788633,
+            2083.6022272803375,
+            558.916381547135
+          ]
+        },
+        {
+          "index": 2,
+          "before_scale": [
+            0.5689994096755983,
+            0.5689994096755983,
+            0.5689994096755981
+          ],
+          "after_scale": [
+            0.7965991735458375,
+            0.7965991735458375,
+            0.7965991735458373
+          ],
+          "root": [
+            -1043.2887725884918,
+            1241.6322247113185,
+            878.911948893116
+          ]
+        },
+        {
+          "index": 3,
+          "before_scale": [
+            1.0095149278640747,
+            1.0095149278640747,
+            1.0095150470733643
+          ],
+          "after_scale": [
+            1.4133208990097046,
+            1.4133208990097046,
+            1.4133210659027098
+          ],
+          "root": [
+            -1464.4157563105728,
+            1040.5052409892378,
+            878.9211996483499
+          ]
+        },
+        {
+          "index": 4,
+          "before_scale": [
+            0.5965316295623782,
+            0.5965316295623782,
+            0.5965316295623779
+          ],
+          "after_scale": [
+            0.8351442813873293,
+            0.8351442813873293,
+            0.8351442813873291
+          ],
+          "root": [
+            -1675.7609941021333,
+            785.160003197677,
+            878.9125270651616
+          ]
+        },
+        {
+          "index": 5,
+          "before_scale": [
+            0.8718540072441101,
+            0.8718540072441101,
+            0.8718540072441101
+          ],
+          "after_scale": [
+            1.220595610141754,
+            1.220595610141754,
+            1.220595610141754
+          ],
+          "root": [
+            -2010.0605967199947,
+            263.86040057981575,
+            878.9183087893733
+          ]
+        },
+        {
+          "index": 6,
+          "before_scale": [
+            0.6607735157012938,
+            0.6607735157012938,
+            0.660773515701294
+          ],
+          "after_scale": [
+            0.9250829219818113,
+            0.9250829219818113,
+            0.9250829219818114
+          ],
+          "root": [
+            -959.2766318448521,
+            -685.8072945856508,
+            558.9138761341026
+          ]
+        },
+        {
+          "index": 7,
+          "before_scale": [
+            0.7800798416137694,
+            0.7800798416137694,
+            0.7800798416137695
+          ],
+          "after_scale": [
+            1.092111778259277,
+            1.092111778259277,
+            1.0921117782592773
+          ],
+          "root": [
+            -461.43557813539763,
+            -1276.9864434117294,
+            278.91638154713496
+          ]
+        },
+        {
+          "index": 8,
+          "before_scale": [
+            0.5231123566627502,
+            0.5231123566627502,
+            0.5231123566627502
+          ],
+          "after_scale": [
+            0.7323572993278503,
+            0.7323572993278503,
+            0.7323572993278503
+          ],
+          "root": [
+            -173.20482438477904,
+            -1230.755689661111,
+            278.9109852726226
+          ]
+        },
+        {
+          "index": 9,
+          "before_scale": [
+            0.5965316295623779,
+            0.5965316295623779,
+            0.5965316295623779
+          ],
+          "after_scale": [
+            0.8351442813873291,
+            0.8351442813873291,
+            0.8351442813873291
+          ],
+          "root": [
+            2313.5410069290992,
+            -614.0098583472328,
+            278.9125270651616
+          ]
+        },
+        {
+          "index": 10,
+          "before_scale": [
+            0.688305735588074,
+            0.688305735588074,
+            0.6883057355880737
+          ],
+          "after_scale": [
+            0.9636280298233034,
+            0.9636280298233034,
+            0.9636280298233032
+          ],
+          "root": [
+            2542.539221260365,
+            -913.0116440159667,
+            278.9144543061483
+          ]
+        },
+        {
+          "index": 11,
+          "before_scale": [
+            0.9177410006523131,
+            0.9177410006523131,
+            0.9177410006523132
+          ],
+          "after_scale": [
+            1.2848374009132384,
+            1.2848374009132384,
+            1.2848374009132384
+          ],
+          "root": [
+            1129.789818609018,
+            -2743.761046667313,
+            278.919272408615
+          ]
+        },
+        {
+          "index": 12,
+          "before_scale": [
+            0.8534991741180419,
+            0.8534991741180419,
+            0.853499174118042
+          ],
+          "after_scale": [
+            1.1948988437652586,
+            1.1948988437652586,
+            1.1948988437652588
+          ],
+          "root": [
+            1923.8112466338273,
+            -2697.739618642504,
+            278.91792334092565
+          ]
+        },
+        {
+          "index": 13,
+          "before_scale": [
+            0.6883057355880737,
+            0.6883057355880737,
+            0.6883057355880737
+          ],
+          "after_scale": [
+            0.9636280298233032,
+            0.9636280298233032,
+            0.9636280298233032
+          ],
+          "root": [
+            3316.151919632573,
+            -1624.3989456437585,
+            278.9144543061483
+          ]
+        }
+      ]
+    }
+  ],
+  "note": "Source models and material alternatives are preserved. Existing world-specific terrain/bridge/wheat variants remain in use."
+}

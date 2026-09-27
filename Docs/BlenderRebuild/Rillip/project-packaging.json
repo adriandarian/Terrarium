@@ -1,0 +1,12 @@
+{
+  "asset": "Rillip",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "d48cbb147ee0ce0e202448691636152f62a7c72300b39984d713a50441c261e5",
+  "sha256": "dde7e7d5e71a257fd58d190343d4f84610342eee685c90ef6b91efcf16e8c060",
+  "scene": "Terrarium_Rillip",
+  "parts": 902,
+  "packed_images": 3,
+  "active_camera": "Reference camera.001",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

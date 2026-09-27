@@ -1,0 +1,25 @@
+{
+  "asset": "Rillip",
+  "mesh": "/Game/Terrarium/Blender/Rillip/SM_Blender_Rillip.SM_Blender_Rillip",
+  "material": "/Game/Terrarium/Blender/Rillip/M_Rillip.M_Rillip",
+  "textures": {
+    "BaseColor": "/Game/Terrarium/Blender/Rillip/T_Rillip_BaseColor.T_Rillip_BaseColor",
+    "Emission": "/Game/Terrarium/Blender/Rillip/T_Rillip_Emission.T_Rillip_Emission",
+    "Roughness": "/Game/Terrarium/Blender/Rillip/T_Rillip_Roughness.T_Rillip_Roughness"
+  },
+  "source_fbx_sha256": "3c734cb82206bbadb843851ef3e8b21bce5561e05cb42fdaf05f448a7ea70f9f",
+  "dimensions_cm": [
+    206.9503936767578,
+    93.05550003051758,
+    195.5734305381775
+  ],
+  "scale_verified": true,
+  "status": "imported_saved_visual_reviewed_fidelity_pending",
+  "material_slots": [
+    {
+      "index": 0,
+      "imported_name": "M_Rillip_Frame_002",
+      "material": "/Game/Terrarium/Blender/Rillip/M_Rillip.M_Rillip"
+    }
+  ]
+}

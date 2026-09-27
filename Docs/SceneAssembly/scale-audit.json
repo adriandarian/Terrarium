@@ -1,0 +1,255 @@
+[
+  {
+    "actor": "Fidelity_PlankBridge_v4_001",
+    "mesh": "SM_Blender_RiverBridge",
+    "size": "<Struct 'Vector' (0x0000015451DAFF80) {x: 143.000015, y: 333.000000, z: 211.000023}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAFF80) {x: 2.158619, y: 2.158619, z: 2.158619}>"
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "mesh": "SM_Blender_CliffColumn",
+    "size": "<Struct 'Vector' (0x0000015451DAFE90) {x: 100.000008, y: 100.000008, z: 323.500000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAFE90) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+    "count": 668,
+    "instances": [
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: -0.707107, w: 0.707107}, translation: {x: -3828.000000, y: 856.000000, z: 172.955486}, scale3d: {x: 0.878571, y: 0.878571, z: 0.544187}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -3835.618408, y: 928.000000, z: 334.000000}, scale3d: {x: 1.188447, y: 1.188447, z: 0.841151}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -3836.278345, y: 1000.000000, z: -10.000000}, scale3d: {x: 1.215290, y: 1.215290, z: 0.524537}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -3795.752579, y: 883.887536, z: 334.000000}, scale3d: {x: 0.707812, y: 0.707812, z: 0.643255}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.707107, w: 0.707107}, translation: {x: -3799.571275, y: 1029.623307, z: 342.000000}, scale3d: {x: 0.751868, y: 0.751868, z: 0.653396}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: -0.707107, w: 0.707107}, translation: {x: -3762.743395, y: 1072.000000, z: -10.000000}, scale3d: {x: 1.152856, y: 1.152856, z: 0.666294}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.707107, w: 0.707107}, translation: {x: -3725.752250, y: 740.796477, z: -10.000000}, scale3d: {x: 0.730882, y: 0.730882, z: 0.628506}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: -0.707107, w: 0.707107}, translation: {x: -3692.377584, y: 1072.000000, z: 358.000000}, scale3d: {x: 1.219326, y: 1.219326, z: 0.800986}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.707107, w: 0.707107}, translation: {x: -3727.456885, y: 1114.428689, z: -10.000000}, scale3d: {x: 0.750548, y: 0.750548, z: 0.680601}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: -0.707107, w: 0.707107}, translation: {x: -3649.979663, y: 612.918335, z: -10.000000}, scale3d: {x: 0.687358, y: 0.687358, z: 0.479334}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.707107, w: 0.707107}, translation: {x: -3595.816333, y: 612.918335, z: -10.000000}, scale3d: {x: 0.687358, y: 0.687358, z: 0.478315}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -3595.816333, y: 667.081665, z: -10.000000}, scale3d: {x: 0.687358, y: 0.687358, z: 0.473705}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -3646.334802, y: 686.575090, z: 334.000000}, scale3d: {x: 0.645308, y: 0.645308, z: 0.654459}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.707107, w: 0.707107}, translation: {x: -3612.000000, y: 712.000000, z: 539.666890}, scale3d: {x: 0.878571, y: 0.878571, z: 1.067490}}>"
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "mesh": "SM_Blender_HomesteadTree",
+    "size": "<Struct 'Vector' (0x0000015451DAFDF0) {x: 210.297523, y: 194.705620, z: 346.515000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAFDF0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+    "count": 14,
+    "instances": [
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.489484, w: 0.872012}, translation: {x: -502.192705, y: 2147.276632, z: 558.909912}, scale3d: {x: 0.660774, y: 0.660774, z: 0.660774}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.655367, w: 0.755311}, translation: {x: -741.867110, y: 2083.602227, z: 558.911701}, scale3d: {x: 0.780080, y: 0.780080, z: 0.780080}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.568539, w: 0.822656}, translation: {x: -1043.288773, y: 1241.632225, z: 878.908535}, scale3d: {x: 0.568999, y: 0.568999, z: 0.568999}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.571438, w: 0.820645}, translation: {x: -1464.415756, y: 1040.505241, z: 878.915143}, scale3d: {x: 1.009515, y: 1.009515, z: 1.009515}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.573261, w: 0.819373}, translation: {x: -1675.760994, y: 785.160003, z: 878.908948}, scale3d: {x: 0.596532, y: 0.596532, z: 0.596532}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.652385, w: 0.757888}, translation: {x: -2010.060597, y: 263.860401, z: 878.913078}, scale3d: {x: 0.871854, y: 0.871854, z: 0.871854}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.487699, w: 0.873012}, translation: {x: -959.276632, y: -685.807295, z: 558.909912}, scale3d: {x: 0.660774, y: 0.660774, z: 0.660774}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.521379, w: 0.853325}, translation: {x: -461.435578, y: -1276.986443, z: 278.911701}, scale3d: {x: 0.780080, y: 0.780080, z: 0.780080}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.528395, w: 0.848999}, translation: {x: -173.204824, y: -1230.755690, z: 278.907847}, scale3d: {x: 0.523112, y: 0.523112, z: 0.523112}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.561065, w: 0.827771}, translation: {x: 2313.541007, y: -614.009858, z: 278.908948}, scale3d: {x: 0.596532, y: 0.596532, z: 0.596532}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.609455, w: 0.792821}, translation: {x: 2542.539221, y: -913.011644, z: 278.910325}, scale3d: {x: 0.688306, y: 0.688306, z: 0.688306}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.489801, w: 0.871835}, translation: {x: 1129.789819, y: -2743.761047, z: 278.913766}, scale3d: {x: 0.917741, y: 0.917741, z: 0.917741}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.525437, w: 0.850833}, translation: {x: 1923.811247, y: -2697.739619, z: 278.912802}, scale3d: {x: 0.853499, y: 0.853499, z: 0.853499}}>",
+      "<Struct 'Transform' (0x00000155A9EC9AD0) {rotation: {x: 0.000000, y: 0.000000, z: 0.529950, w: 0.848029}, translation: {x: 3316.151920, y: -1624.398946, z: 278.910325}, scale3d: {x: 0.688306, y: 0.688306, z: 0.688306}}>"
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "mesh": "SM_Blender_WheatPatch",
+    "size": "<Struct 'Vector' (0x0000015451DAFDA0) {x: 132.355080, y: 118.459080, z: 92.784325}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAFDA0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+    "count": 40,
+    "instances": [
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1779.000000, y: -301.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1669.000000, y: -191.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1669.000000, y: -81.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1669.000000, y: 29.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1559.000000, y: -191.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1559.000000, y: -81.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1559.000000, y: 29.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1559.000000, y: 139.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1559.000000, y: 249.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1559.000000, y: 359.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1449.000000, y: -191.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1449.000000, y: -81.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1449.000000, y: 29.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -1449.000000, y: 139.000000, z: 878.900000}, scale3d: {x: 0.991547, y: 0.991547, z: 0.991547}}>"
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "mesh": "SM_Blender_CliffColumn",
+    "size": "<Struct 'Vector' (0x0000015451DAFCB0) {x: 100.000008, y: 100.000008, z: 323.500000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAFCB0) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+    "count": 665,
+    "instances": [
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: -0.707107, w: 0.707107}, translation: {x: -3884.534122, y: 897.329392, z: -10.000000}, scale3d: {x: 0.778449, y: 0.778449, z: 0.500804}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: -0.707107, w: 0.707107}, translation: {x: -3834.801985, y: 856.000000, z: -10.000000}, scale3d: {x: 1.155239, y: 1.155239, z: 0.581006}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -3828.000000, y: 1000.000000, z: 154.687842}, scale3d: {x: 0.878571, y: 0.878571, z: 0.625385}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: -0.707107, w: 0.707107}, translation: {x: -3763.869960, y: 784.000000, z: -10.000000}, scale3d: {x: 1.198679, y: 1.198679, z: 0.586670}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -3795.752579, y: 828.112464, z: 334.000000}, scale3d: {x: 0.707812, y: 0.707812, z: 0.646788}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -3739.977507, y: 883.887536, z: 334.000000}, scale3d: {x: 0.707812, y: 0.707812, z: 0.647559}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.707107, w: 0.707107}, translation: {x: -3756.000000, y: 856.000000, z: 537.399515}, scale3d: {x: 0.878571, y: 0.878571, z: 1.074499}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: -0.707107, w: 0.707107}, translation: {x: -3740.324661, y: 970.376693, z: 342.000000}, scale3d: {x: 0.751868, y: 0.751868, z: 0.652569}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.707107, w: 0.707107}, translation: {x: -3740.324661, y: 1029.623307, z: 342.000000}, scale3d: {x: 0.751868, y: 0.751868, z: 0.656418}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -3756.000000, y: 1072.000000, z: 200.546201}, scale3d: {x: 0.878571, y: 0.878571, z: 0.533087}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.707107, w: 0.707107}, translation: {x: -3668.159295, y: 683.203523, z: -10.000000}, scale3d: {x: 0.730882, y: 0.730882, z: 0.631033}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -3684.000000, y: 784.000000, z: 566.069130}, scale3d: {x: 0.878571, y: 0.878571, z: 0.985876}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: -0.707107, w: 0.707107}, translation: {x: -3684.000000, y: 1072.000000, z: 612.118948}, scale3d: {x: 0.878571, y: 0.878571, z: 0.843527}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.707107, w: 0.707107}, translation: {x: -3727.456885, y: 1173.571311, z: -10.000000}, scale3d: {x: 0.750548, y: 0.750548, z: 0.690568}}>"
+    ]
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "mesh": "SM_Blender_CliffColumn",
+    "size": "<Struct 'Vector' (0x0000015451DAFA30) {x: 100.000008, y: 100.000008, z: 323.500000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAFA30) {x: 1.000000, y: 1.000000, z: 1.000000}>",
+    "count": 743,
+    "instances": [
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: -0.707107, w: 0.707107}, translation: {x: -3945.875338, y: 897.329392, z: -10.000000}, scale3d: {x: 0.778449, y: 0.778449, z: 0.496789}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -3945.875338, y: 958.670608, z: -10.000000}, scale3d: {x: 0.778449, y: 0.778449, z: 0.505744}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.707107, w: 0.707107}, translation: {x: -3884.534122, y: 958.670608, z: -10.000000}, scale3d: {x: 0.778449, y: 0.778449, z: 0.504756}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -3900.000000, y: 928.000000, z: 147.127097}, scale3d: {x: 0.878571, y: 0.878571, z: 0.624027}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: -0.707107, w: 0.707107}, translation: {x: -3828.000000, y: 928.000000, z: 601.112393}, scale3d: {x: 0.878571, y: 0.878571, z: 0.877551}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.707107, w: 0.707107}, translation: {x: -3756.000000, y: 784.000000, z: 174.787627}, scale3d: {x: 0.878571, y: 0.878571, z: 0.538524}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -3739.977507, y: 828.112464, z: 334.000000}, scale3d: {x: 0.707812, y: 0.707812, z: 0.645256}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -3799.571275, y: 970.376693, z: 342.000000}, scale3d: {x: 0.751868, y: 0.751868, z: 0.658526}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -3756.000000, y: 1000.000000, z: 548.115976}, scale3d: {x: 0.878571, y: 0.878571, z: 1.041373}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 1.000000, w: 0.000000}, translation: {x: -3725.752250, y: 683.203523, z: -10.000000}, scale3d: {x: 0.730882, y: 0.730882, z: 0.629426}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.707107, w: 0.707107}, translation: {x: -3668.159295, y: 740.796477, z: -10.000000}, scale3d: {x: 0.730882, y: 0.730882, z: 0.631016}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: -0.707107, w: 0.707107}, translation: {x: -3684.000000, y: 712.000000, z: 187.471504}, scale3d: {x: 0.878571, y: 0.878571, z: 0.499315}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: -0.707107, w: 0.707107}, translation: {x: -3691.779969, y: 784.000000, z: 334.000000}, scale3d: {x: 1.195019, y: 1.195019, z: 0.732826}}>",
+      "<Struct 'Transform' (0x00000155A9ECB150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: -3668.314262, y: 1114.428689, z: -10.000000}, scale3d: {x: 0.750548, y: 0.750548, z: 0.683692}}>"
+    ]
+  },
+  {
+    "actor": "Reference_Grove_0",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAFC10) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAFC10) {x: 0.680000, y: 0.680000, z: 0.680000}>"
+  },
+  {
+    "actor": "Reference_Grove_2",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAFBC0) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAFBC0) {x: 0.620000, y: 0.620000, z: 0.620000}>"
+  },
+  {
+    "actor": "Reference_Grove_3",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAFB70) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAFB70) {x: 0.660000, y: 0.660000, z: 0.660000}>"
+  },
+  {
+    "actor": "Reference_Grove_4",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAFB20) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAFB20) {x: 0.580000, y: 0.580000, z: 0.580000}>"
+  },
+  {
+    "actor": "Reference_Grove_5",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAFAD0) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAFAD0) {x: 0.600000, y: 0.600000, z: 0.600000}>"
+  },
+  {
+    "actor": "Reference_Grove_6",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAFA80) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAFA80) {x: 0.640000, y: 0.640000, z: 0.640000}>"
+  },
+  {
+    "actor": "Reference_Grove_7",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF9E0) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF9E0) {x: 0.590000, y: 0.590000, z: 0.590000}>"
+  },
+  {
+    "actor": "Reference_Grove_8",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF990) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF990) {x: 0.800000, y: 0.800000, z: 0.800000}>"
+  },
+  {
+    "actor": "Reference_Grove_9",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF940) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF940) {x: 0.450000, y: 0.450000, z: 0.450000}>"
+  },
+  {
+    "actor": "Reference_Grove_10",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF8F0) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF8F0) {x: 0.420000, y: 0.420000, z: 0.420000}>"
+  },
+  {
+    "actor": "Reference_Grove_11",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF8A0) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF8A0) {x: 0.400000, y: 0.400000, z: 0.400000}>"
+  },
+  {
+    "actor": "Reference_Grove_12",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF670) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF670) {x: 0.460000, y: 0.460000, z: 0.460000}>"
+  },
+  {
+    "actor": "Reference_Grove_13",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF850) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF850) {x: 0.420000, y: 0.420000, z: 0.420000}>"
+  },
+  {
+    "actor": "Reference_Grove_14",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF800) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF800) {x: 0.500000, y: 0.500000, z: 0.500000}>"
+  },
+  {
+    "actor": "Reference_Grove_15",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF7B0) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF7B0) {x: 0.550000, y: 0.550000, z: 0.550000}>"
+  },
+  {
+    "actor": "Reference_Grove_16",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF760) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF760) {x: 0.580000, y: 0.580000, z: 0.580000}>"
+  },
+  {
+    "actor": "Reference_Grove_17",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF710) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF710) {x: 0.600000, y: 0.600000, z: 0.600000}>"
+  },
+  {
+    "actor": "Reference_Grove_18",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF6C0) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF6C0) {x: 0.490000, y: 0.490000, z: 0.490000}>"
+  },
+  {
+    "actor": "Reference_Grove_19",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF620) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF620) {x: 0.740000, y: 0.740000, z: 0.740000}>"
+  },
+  {
+    "actor": "Reference_Grove_20",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF5D0) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF5D0) {x: 0.500000, y: 0.500000, z: 0.500000}>"
+  },
+  {
+    "actor": "Reference_Grove_21",
+    "mesh": "SM_VoxelTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF580) {x: 168.000000, y: 144.000000, z: 396.000000}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF580) {x: 0.480000, y: 0.480000, z: 0.480000}>"
+  },
+  {
+    "actor": "Blender_AncientTree_NorthMeadow",
+    "mesh": "SM_Blender_AncientTree",
+    "size": "<Struct 'Vector' (0x0000015451DAF530) {x: 312.091339, y: 304.689301, z: 443.374981}>",
+    "scale": "<Struct 'Vector' (0x0000015451DAF530) {x: 0.850000, y: 0.850000, z: 0.850000}>"
+  }
+]

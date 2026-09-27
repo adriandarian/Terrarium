@@ -1,0 +1,11 @@
+{
+  "asset": "HomesteadCompound",
+  "direct_project_open_in_independent_process": true,
+  "active_scene": "Terrarium_HomesteadCompound",
+  "parts": 4039,
+  "packed_images": 4,
+  "material_slots": 2,
+  "triangles": 436212,
+  "sha256": "e0190579a34096eaa2c4c3673f9cb58729d22a38e95f23f639c0200b95aa4b42",
+  "active_camera": "Reference camera.004"
+}

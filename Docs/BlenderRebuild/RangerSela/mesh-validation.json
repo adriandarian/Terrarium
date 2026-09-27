@@ -1,0 +1,50 @@
+{
+  "asset": "RangerSela",
+  "mesh": "SM_Blender_RangerSela",
+  "source": "SourceAssets/Voxel/ranger_sela.png",
+  "source_sha256": "eab3539421e94457e4e0c592ed6b9974cc7283b8e543f60a1f836d53b6c5e6c4",
+  "parts": 1427,
+  "vertices": 79912,
+  "triangles": 154116,
+  "all_parts_closed_positive_volume": true,
+  "uv_layers": 1,
+  "material_slots": 1,
+  "bounds_m": {
+    "min": [
+      -0.5248467922210693,
+      -0.389606773853302,
+      -0.000261697918176651
+    ],
+    "max": [
+      0.5147638320922852,
+      0.2301904261112213,
+      1.9701132774353027
+    ]
+  },
+  "files": {
+    "RangerSela_BaseColor.png": {
+      "bytes": 7077,
+      "sha256": "b330a43df200546925c9263a1080ff4103d5a3be8acd8cfbad159d75d9fe6ed5"
+    },
+    "RangerSela_Emission.png": {
+      "bytes": 3693,
+      "sha256": "9a334c89c9511a9c155910ad84763ff23c8b112f0211566c41a19673f0552c6c"
+    },
+    "RangerSela_Roughness.png": {
+      "bytes": 4589,
+      "sha256": "c6ff895087f525646f6c9e912348e05d22a4cf01dc526f5197506fb2c1a2a6a2"
+    },
+    "SM_Blender_RangerSela.fbx": {
+      "bytes": 2047532,
+      "sha256": "32e3d79d0a366bed5d82846e1f5aa87cc4308e29facd733af4563228b1fd79e1"
+    },
+    "SM_Blender_RangerSela.glb": {
+      "bytes": 11730188,
+      "sha256": "4227beb8d0868ccb7e3da70b5c74e51cf7accf1b1c32e6d866d7a6aea7b8d2a3"
+    }
+  },
+  "fidelity": "pending_visual_refinement_and_acceptance",
+  "materials": [
+    "M_RangerSela_Frame.001"
+  ]
+}

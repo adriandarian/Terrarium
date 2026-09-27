@@ -1,0 +1,12 @@
+{
+  "asset": "RangerSela",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "d8959aeb196f067410f151482e2f0f9ad8e7c98a18806da0c677dd4df7e80829",
+  "sha256": "a49d6675d8060e2cfe45197db89d3c3b07188b81a08d1a933f277884a65c89a3",
+  "scene": "Terrarium_RangerSela",
+  "parts": 1427,
+  "packed_images": 3,
+  "active_camera": "Reference camera.003",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}

@@ -16,12 +16,33 @@ for folder in (ROOT/'SourceAssets/Blender').iterdir():
         variants.setdefault(source,[]).append({'asset':folder.name,'variant_of':r['variant_of'],'purpose':r.get('variant_purpose','')})
     else:built[source]=folder.name
 rows=[]
+surface_file=ROOT/'Docs/BlenderRebuild/SurfaceLibrary/materials.json'
+surface_rows={r['source']:r for r in json.loads(surface_file.read_text())['materials']} if surface_file.exists() else {}
+references={
+    'player_back.png':('Player','alternate_view','Rear backpack and scarf reference used in the Player model.'),
+    'player_animation_atlas.png':('Player','animation_reference','Nine pose references retained; static model only, no rig or animation delivery.'),
+    'player_back_animation_atlas.png':('Player','animation_reference','Nine rear pose references retained; static model only, no rig or animation delivery.'),
+    'ranger_sela_animation_atlas.png':('RangerSela','animation_reference','Nine pose references retained; static model only, no rig or animation delivery.'),
+    'lodge_contact_shadow_v3.png':('Lodge','lighting_reference','2D contact-shadow reference; associated with physical Lodge grounding, not a separate mesh or magenta texture.')}
 for f in sources:
     m=mapping.get(f.name,{})
     key=built.get(f.name)
     rows.append({'source':f.name,'sha256':hashlib.sha256(f.read_bytes()).hexdigest(),'bytes':f.stat().st_size,'family':m.get('module','unclassified'),'prior_unreal_mesh':m.get('selected_asset'),'blender_model':f'SourceAssets/Blender/{key}/{key}.blend' if key else None,'placement_variants':variants.get(f.name,[]),'status':'blender_authored_visual_refinement_pending' if key else 'pending_blender_rebuild','accepted_fidelity':False})
+    row=rows[-1];row['coverage_role']='primary_model' if key else 'unassigned'
+    if f.name in surface_rows:
+        surface=surface_rows[f.name]
+        row['surface_library']='SourceAssets/Blender/SurfaceLibrary/SurfaceLibrary.blend'
+        row['surface_material']='/Game/Terrarium/Blender/SurfaceLibrary/'+surface['material']
+        row['related_model_family']=surface['family']
+        if not key:
+            row['coverage_role']='surface_material_alternative'
+            row['status']='material_authored_imported_world_selection_pending'
+    if f.name in references:
+        model,role,note=references[f.name]
+        row['blender_model']=f'SourceAssets/Blender/{model}/{model}.blend'
+        row['coverage_role']=role;row['status']='associated_reference_not_separate_asset';row['coverage_note']=note
 out=ROOT/'Docs/BlenderRebuild';out.mkdir(exist_ok=True)
-(out/'inventory.json').write_text(json.dumps({'scope':'Every PNG in SourceAssets/Voxel; object models, texture materials, and associated view/animation references retain explicit coverage.','source_count':len(rows),'blender_assets':len(built),'placement_variant_count':sum(len(v) for v in variants.values()),'accepted_count':0,'assets':rows},indent=2))
+(out/'inventory.json').write_text(json.dumps({'scope':'Every PNG in SourceAssets/Voxel; object models, texture materials, and associated view/animation references retain explicit coverage. Coverage is not fidelity approval or completed animation.','source_count':len(rows),'blender_assets':len(built),'surface_material_count':len(surface_rows),'associated_reference_count':sum(r['coverage_role'] in ['alternate_view','animation_reference','lighting_reference'] for r in rows),'unassigned_source_count':sum(r['coverage_role']=='unassigned' for r in rows),'placement_variant_count':sum(len(v) for v in variants.values()),'accepted_count':0,'assets':rows},indent=2))
 glb=ROOT/'SourceAssets/Blender/Cottage/SM_Blender_Cottage.glb'
 b=glb.read_bytes();magic,version,total=struct.unpack_from('<III',b);size,kind=struct.unpack_from('<II',b,12);g=json.loads(b[20:20+size])
 assert magic==0x46546c67 and version==2 and total==len(b)

@@ -1,0 +1,12 @@
+{
+  "asset": "HomesteadCompound",
+  "method": "isolated scene library appended to fresh Blender and saved as a normal project",
+  "previous_sha256": "22fd8d7c07a01b2b7658cfb520ad13e8bcc1d5cedccf0099a36a5d8cb0840695",
+  "sha256": "e0190579a34096eaa2c4c3673f9cb58729d22a38e95f23f639c0200b95aa4b42",
+  "scene": "Terrarium_HomesteadCompound",
+  "parts": 4039,
+  "packed_images": 4,
+  "active_camera": "Reference camera.004",
+  "geometry_changed": false,
+  "reopen_verification_pending": true
+}
