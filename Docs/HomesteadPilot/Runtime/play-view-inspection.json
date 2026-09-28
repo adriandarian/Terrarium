@@ -1,0 +1,237 @@
+{
+  "worlds": [
+    {
+      "kind": "PIE",
+      "world": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome",
+      "cameras": [
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_0",
+          "label": "Baseline_Orthographic_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_1",
+          "label": "Blender_Cottage_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_2",
+          "label": "Blender_Props_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_3",
+          "label": "Blender_Market_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_4",
+          "label": "Blender_Lodge_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_5",
+          "label": "Blender_CivicHall_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_6",
+          "label": "Blender_Environment_Shrubs_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_7",
+          "label": "Blender_Environment_Rocks_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_8",
+          "label": "Blender_HomesteadTree_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_9",
+          "label": "Blender_AncientTree_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_10",
+          "label": "Blender_RiverBridge_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_11",
+          "label": "Blender_StoneStairs_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_12",
+          "label": "Blender_WheatField_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_13",
+          "label": "Blender_Riverbank_Actor_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_14",
+          "label": "Blender_Riverbank_Foliage_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_15",
+          "label": "Blender_GrassTerrain_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_16",
+          "label": "Blender_MossFringe_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_17",
+          "label": "Blender_TrailPatch_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_18",
+          "label": "Blender_TrailPatch_Stairs_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_19",
+          "label": "Blender_TrailPatch_Bridge_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_20",
+          "label": "Blender_MossTonic_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_21",
+          "label": "Blender_TrailPrism_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_22",
+          "label": "Blender_EmberCrest_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_23",
+          "label": "Blender_Lighting_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_24",
+          "label": "Blender_DeepDelverMark_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_25",
+          "label": "Blender_Grove_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_26",
+          "label": "Blender_Tide_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_27",
+          "label": "Blender_Ember_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_28",
+          "label": "Blender_Storm_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_29",
+          "label": "Blender_Brambit_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_30",
+          "label": "SceneAssembly_WholeWorld_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_31",
+          "label": "SceneAssembly_Courtyard_Review",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_32",
+          "label": "HP_ExplorationView",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_33",
+          "label": "HP_WorldView",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        },
+        {
+          "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.CameraActor_34",
+          "label": "HP_DetailDistanceView",
+          "auto_activate_for_player": "<AutoReceiveInput.DISABLED: 0>",
+          "auto_activate_player_index": -1
+        }
+      ],
+      "controller": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.PlayerController_0",
+      "pawn": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.BP_HomesteadExplorer_C_0",
+      "view_target": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.BP_HomesteadExplorer_C_0",
+      "view_target_is_pawn": true,
+      "actual_camera": {
+        "location_cm": [
+          650.0,
+          -150.0,
+          732.1500263214111
+        ],
+        "rotation": [
+          0.0,
+          180.0,
+          0.0
+        ],
+        "fov": 90.0
+      }
+    }
+  ]
+}

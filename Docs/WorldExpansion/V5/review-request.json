@@ -1,0 +1,10 @@
+{
+  "publish": true,
+  "captures": [],
+  "concept_images": [],
+  "visual_review": {
+    "accepted": true,
+    "notes": "Inspected all nine native Unreal views after save/reopen. Smooth mountain silhouettes are replaced by physical stepped shelves and stone risers, the home outer terrain is terraced, and meadow/gravel/limestone detail now uses generated albedo assets with working mipmaps. Woodland groves and groundcover fill route and settlement edges. Original home remains intact. Large settlement pads and repeated street plans remain visibly regular; this terrain correction is not a claim that every district is individually finished."
+  },
+  "publish_current_url": true
+}

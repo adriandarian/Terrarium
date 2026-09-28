@@ -1,0 +1,55 @@
+{
+  "groups": [
+    {
+      "foliage_type": "/Game/Terrarium/WorldExpansion/SettlementFoliage/FT_WX_Settlement_WornPath2m.FT_WX_Settlement_WornPath2m",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m",
+      "count": 1894,
+      "effective_components": [
+        {
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_51",
+          "count": 1894,
+          "effective_materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath",
+            "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+            "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone"
+          ]
+        }
+      ],
+      "transforms_preserved": true,
+      "source_mesh_sha256": "2b5355e0bbbb42bc91f4646c18a9e0d995e4b8996c14ceaa3ca580b79b070828",
+      "source_mesh_unchanged": true,
+      "override_materials": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone"
+      ]
+    },
+    {
+      "foliage_type": "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_WornPath2m.FT_WX_Dressing_WornPath2m",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m",
+      "count": 24,
+      "effective_components": [
+        {
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_52",
+          "count": 24,
+          "effective_materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath",
+            "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+            "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone"
+          ]
+        }
+      ],
+      "transforms_preserved": true,
+      "source_mesh_sha256": "2b5355e0bbbb42bc91f4646c18a9e0d995e4b8996c14ceaa3ca580b79b070828",
+      "source_mesh_unchanged": true,
+      "override_materials": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone"
+      ]
+    }
+  ],
+  "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath",
+  "source_home_unchanged": true,
+  "policy": "Only region private FT slot0 overrides; retained modeled stone slots"
+}

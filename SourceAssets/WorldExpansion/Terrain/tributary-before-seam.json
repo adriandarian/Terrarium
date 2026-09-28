@@ -1,0 +1,9 @@
+{
+  "name": "HomeTributary",
+  "kind": "water",
+  "source": "SourceAssets/WorldExpansion/Terrain/HomeTributary.json",
+  "vertices": 50,
+  "triangles": 48,
+  "collision": false,
+  "sha256": "2c519f178ec5db5bf9529452aaf7d3fd79caf971511ea4f13b9eb1070f36a22e"
+}

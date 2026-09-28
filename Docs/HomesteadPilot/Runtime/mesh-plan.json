@@ -1,0 +1,527 @@
+{
+  "meshes": [
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "screen_sizes": [
+        1.0,
+        0.3,
+        0.1
+      ],
+      "retained_triangles": [
+        1,
+        0.55,
+        0.25
+      ],
+      "collision": "complex_as_simple",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Cottage_LOD0.fbx",
+          "triangles": 43496,
+          "vertices": 25376,
+          "bounds_m": {
+            "min": [
+              -2.880000114440918,
+              -3.0399999618530273,
+              0.0
+            ],
+            "max": [
+              2.880000114440918,
+              2.7200000286102295,
+              5.394999980926514
+            ]
+          },
+          "dimensions_m": [
+            5.760000228881836,
+            5.759999990463257,
+            5.394999980926514
+          ],
+          "parts": 48,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "C:/Users/hello/Projects/Terrarium/SourceAssets/Blender/HomesteadPilot/Architecture/RoofRepairV2/SM_HP_Cottage_RoofV2_LOD1.fbx",
+          "triangles": 12516,
+          "vertices": 8344,
+          "bounds_m": {
+            "min": [
+              -2.880000114440918,
+              -3.0399999618530273,
+              0.0
+            ],
+            "max": [
+              2.880000114440918,
+              2.7200000286102295,
+              5.394999980926514
+            ]
+          },
+          "dimensions_m": [
+            5.760000228881836,
+            5.759999990463257,
+            5.394999980926514
+          ],
+          "parts": 48,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "C:/Users/hello/Projects/Terrarium/SourceAssets/Blender/HomesteadPilot/Architecture/RoofRepairV2/SM_HP_Cottage_RoofV2_LOD2.fbx",
+          "triangles": 6876,
+          "vertices": 4584,
+          "bounds_m": {
+            "min": [
+              -2.880000114440918,
+              -3.0399999618530273,
+              0.0
+            ],
+            "max": [
+              2.880000114440918,
+              2.7200000286102295,
+              5.394999980926514
+            ]
+          },
+          "dimensions_m": [
+            5.760000228881836,
+            5.759999990463257,
+            5.394999980926514
+          ],
+          "parts": 43,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        }
+      ],
+      "lod_method_reason": "Repaired authored LODs preserve tile highpoints and close stepped roof gaps; original LOD0 untouched"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Fence_LOD0.fbx",
+          "triangles": 376,
+          "vertices": 224,
+          "bounds_m": {
+            "min": [
+              -1.5149999856948853,
+              -0.11999999731779099,
+              0.0
+            ],
+            "max": [
+              1.5149999856948853,
+              0.11999999731779099,
+              1.2599999904632568
+            ]
+          },
+          "dimensions_m": [
+            3.0299999713897705,
+            0.23999999463558197,
+            1.2599999904632568
+          ],
+          "parts": 5,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Fence_LOD1.fbx",
+          "triangles": 216,
+          "vertices": 144,
+          "bounds_m": {
+            "min": [
+              -1.5149999856948853,
+              -0.11999999731779099,
+              0.0
+            ],
+            "max": [
+              1.5149999856948853,
+              0.11999999731779099,
+              1.2599999904632568
+            ]
+          },
+          "dimensions_m": [
+            3.0299999713897705,
+            0.23999999463558197,
+            1.2599999904632568
+          ],
+          "parts": 5,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Fence_LOD2.fbx",
+          "triangles": 120,
+          "vertices": 80,
+          "bounds_m": {
+            "min": [
+              -1.5149999856948853,
+              -0.11500000208616257,
+              0.0
+            ],
+            "max": [
+              1.5149999856948853,
+              0.11500000208616257,
+              1.2599999904632568
+            ]
+          },
+          "dimensions_m": [
+            3.0299999713897705,
+            0.23000000417232513,
+            1.2599999904632568
+          ],
+          "parts": 3,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        }
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18,
+        0.06
+      ],
+      "retained_triangles": [
+        1.0,
+        0.75,
+        0.5
+      ],
+      "collision": "complex_as_simple"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Bridge.SM_Bridge",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Bridge_LOD0.fbx",
+          "triangles": 2188,
+          "vertices": 1336,
+          "bounds_m": {
+            "min": [
+              -1.2549999952316284,
+              -1.8200000524520874,
+              0.0
+            ],
+            "max": [
+              1.2549999952316284,
+              1.8200000524520874,
+              1.340000033378601
+            ]
+          },
+          "dimensions_m": [
+            2.509999990463257,
+            3.640000104904175,
+            1.340000033378601
+          ],
+          "parts": 8,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Bridge_LOD1.fbx",
+          "triangles": 780,
+          "vertices": 520,
+          "bounds_m": {
+            "min": [
+              -1.2549999952316284,
+              -1.8200000524520874,
+              0.0
+            ],
+            "max": [
+              1.2549999952316284,
+              1.8200000524520874,
+              1.340000033378601
+            ]
+          },
+          "dimensions_m": [
+            2.509999990463257,
+            3.640000104904175,
+            1.340000033378601
+          ],
+          "parts": 7,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Bridge_LOD2.fbx",
+          "triangles": 420,
+          "vertices": 280,
+          "bounds_m": {
+            "min": [
+              -1.2549999952316284,
+              -1.8200000524520874,
+              0.0
+            ],
+            "max": [
+              1.2549999952316284,
+              1.8200000524520874,
+              1.340000033378601
+            ]
+          },
+          "dimensions_m": [
+            2.509999990463257,
+            3.640000104904175,
+            1.340000033378601
+          ],
+          "parts": 6,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        }
+      ],
+      "screen_sizes": [
+        1.0,
+        0.3,
+        0.1
+      ],
+      "retained_triangles": [
+        1.0,
+        0.55,
+        0.25
+      ],
+      "collision": "complex_as_simple"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_MossCliff4m.SM_MossCliff4m",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/MossCliff4m/SM_Pilot_MossCliff4m.fbx",
+          "triangles": 23276
+        }
+      ],
+      "screen_sizes": [
+        1.0,
+        0.3,
+        0.1
+      ],
+      "retained_triangles": [
+        1.0,
+        0.55,
+        0.25
+      ],
+      "collision": "complex_as_simple"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/FineCliffColumn1m/SM_Pilot_FineCliffColumn1m.fbx",
+          "triangles": 4080
+        }
+      ],
+      "screen_sizes": [
+        1.0,
+        0.3,
+        0.1
+      ],
+      "retained_triangles": [
+        1.0,
+        0.55,
+        0.25
+      ],
+      "collision": "complex_as_simple"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/BroadTree5m/SM_Pilot_BroadTree5m.fbx",
+          "triangles": 11664
+        }
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18,
+        0.06
+      ],
+      "retained_triangles": [
+        1.0,
+        0.75,
+        0.5
+      ],
+      "collision": "complex_as_simple"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/ShrubGroundcover/SM_Pilot_ShrubGroundcover.fbx",
+          "triangles": 3284
+        }
+      ],
+      "screen_sizes": [
+        1.0,
+        0.3,
+        0.1
+      ],
+      "retained_triangles": [
+        1.0,
+        0.55,
+        0.25
+      ],
+      "collision": "none"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/WornPath2m/SM_Pilot_WornPath2m.fbx",
+          "triangles": 616
+        }
+      ],
+      "screen_sizes": [
+        1.0,
+        0.3,
+        0.1
+      ],
+      "retained_triangles": [
+        1.0,
+        0.55,
+        0.25
+      ],
+      "collision": "complex_as_simple"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_StoneStairs2mRise.SM_StoneStairs2mRise",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/StoneStairs2mRise/SM_Pilot_StoneStairs2mRise.fbx",
+          "triangles": 4532
+        }
+      ],
+      "screen_sizes": [
+        1.0,
+        0.3,
+        0.1
+      ],
+      "retained_triangles": [
+        1.0,
+        0.55,
+        0.25
+      ],
+      "collision": "complex_as_simple"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WheatPatch2m.SM_WheatPatch2m",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/WheatPatch2m/SM_Pilot_WheatPatch2m.fbx",
+          "triangles": 32444
+        }
+      ],
+      "screen_sizes": [
+        1.0,
+        0.3,
+        0.1
+      ],
+      "retained_triangles": [
+        1.0,
+        0.55,
+        0.25
+      ],
+      "collision": "none"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_GardenPatch2m.SM_GardenPatch2m",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/GardenPatch2m/SM_Pilot_GardenPatch2m.fbx",
+          "triangles": 7700
+        }
+      ],
+      "screen_sizes": [
+        1.0,
+        0.3,
+        0.1
+      ],
+      "retained_triangles": [
+        1.0,
+        0.55,
+        0.25
+      ],
+      "collision": "none"
+    }
+  ]
+}

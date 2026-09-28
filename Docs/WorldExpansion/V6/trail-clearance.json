@@ -1,0 +1,30 @@
+{
+  "groups": [
+    {
+      "type": "/Game/Terrarium/WorldExpansion/Forest/FT_WX_BroadTree5m",
+      "before": 2197,
+      "after": 2194,
+      "removed_xy_m": [
+        [
+          -201.456,
+          446.87799999999993
+        ],
+        [
+          -199.81399999999996,
+          450.74700000000007
+        ],
+        [
+          -206.017,
+          443.551
+        ]
+      ]
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V5Forest/FT_WX_V5ForestGroves",
+      "before": 3266,
+      "after": 3266,
+      "removed_xy_m": []
+    }
+  ],
+  "removed_count": 3
+}

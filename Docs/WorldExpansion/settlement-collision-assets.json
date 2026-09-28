@@ -1,0 +1,12 @@
+{
+  "map": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion",
+  "assets": {
+    "CivicHall": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_CivicHall.SM_WX_CivicHall",
+    "Cottage": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+    "HomesteadCompound": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_HomesteadCompound.SM_WX_HomesteadCompound",
+    "Lodge": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge",
+    "MarketStall": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_MarketStall.SM_WX_MarketStall",
+    "Tower": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Tower.SM_WX_Tower"
+  },
+  "policy": "Private exact render copies; existing authored LOD2 complex collision; original assets and home unchanged"
+}

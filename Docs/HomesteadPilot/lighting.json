@@ -1,0 +1,17 @@
+{
+  "scope": "Pilot level light components only; shared materials unchanged",
+  "changes": [
+    {
+      "actor": "Baseline_WarmSun",
+      "property": "source_angle",
+      "before": 5.5,
+      "after": 3.0
+    },
+    {
+      "actor": "Baseline_SkyLight",
+      "property": "sky_intensity",
+      "before": 7.0,
+      "after": 2.7
+    }
+  ]
+}

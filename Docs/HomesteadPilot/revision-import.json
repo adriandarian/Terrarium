@@ -1,0 +1,24 @@
+[
+  {
+    "name": "BroadTree5m",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "source": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Landscape\\BroadTree5mV2\\SM_Pilot_BroadTree5mV2.fbx",
+    "dimensions_cm": [
+      368.00001525878906,
+      391.00001525878906,
+      499.2020568847656
+    ],
+    "sha256": "32348cf4298dbe276854228847c1ca26e7dd071a42733ef2ccb91dc7bf3ec3a5"
+  },
+  {
+    "name": "StoneStairs2mRise",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_StoneStairs2mRise.SM_StoneStairs2mRise",
+    "source": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Landscape\\StoneStairs2mRiseV2\\SM_Pilot_StoneStairs2mRiseV2.fbx",
+    "dimensions_cm": [
+      200.00003051757812,
+      360.0,
+      200.0
+    ],
+    "sha256": "44dbab73520e265e0a38e77406cdf3679c632af33a7c491f1d305dc84226c2dd"
+  }
+]

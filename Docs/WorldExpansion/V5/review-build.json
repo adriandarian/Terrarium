@@ -1,0 +1,64 @@
+{
+  "passed": true,
+  "gates": {
+    "surface_bindings": true,
+    "geometry_and_ground_inventory": true,
+    "original_home_and_reopen": true,
+    "eight_character_routes": true,
+    "forest_pie_contacts": true,
+    "nine_native_views": true,
+    "visual_acceptance": true,
+    "new_groves_pie_contacts": true
+  },
+  "errors": [],
+  "captures": [
+    {
+      "name": "RegionOverview",
+      "file": "Captures/RegionOverview.png",
+      "sha256": "195123bd910d36372901a40199749f3c117ca74dd09e2efedd819f7f3ab85dd0"
+    },
+    {
+      "name": "AlderwatchCity",
+      "file": "Captures/AlderwatchCity.png",
+      "sha256": "4e65a97290d46614d066077f3531be09c929bb5c60f790e8e0d225dcc6cfa1d6"
+    },
+    {
+      "name": "StonegateTown",
+      "file": "Captures/StonegateTown.png",
+      "sha256": "2dcc1ffd57e25b576f54c0ed4dff72e40f39157a2520198368fd483cf66300a1"
+    },
+    {
+      "name": "BrookmereVillage",
+      "file": "Captures/BrookmereVillage.png",
+      "sha256": "eafab097a75aa9e34068eee34fd96cc11df45cb15321535e9930ee41aca1aebe"
+    },
+    {
+      "name": "ReedbankVillage",
+      "file": "Captures/ReedbankVillage.png",
+      "sha256": "f3d407c9a63f3453b0885f91059f398531a920319e8fd140820fdb6f8b305658"
+    },
+    {
+      "name": "HighfieldVillage",
+      "file": "Captures/HighfieldVillage.png",
+      "sha256": "620bca2ddfc55df76c63a81ac316e44e672787d429f1d0996e08415e2af8d3c0"
+    },
+    {
+      "name": "MountainPass",
+      "file": "Captures/MountainPass.png",
+      "sha256": "b50be5087bb0ae11a25a97de0b39c115da60c8d249c4985855ce233e092c9cba"
+    },
+    {
+      "name": "HomeInValley",
+      "file": "Captures/HomeInValley.png",
+      "sha256": "af5c05d8d58fdccd272133f3d7b2c7c33c257c4a2a86428c2f1e56d96e3bd862"
+    },
+    {
+      "name": "CityStreet",
+      "file": "Captures/CityStreet.png",
+      "sha256": "c611ae666f86e401d0a1100076af3e3e109e5eb1610c827382ba26fdf445932d"
+    }
+  ],
+  "published": true,
+  "previous_review_backed_up": true,
+  "current_review_redirected_to_v5": true
+}

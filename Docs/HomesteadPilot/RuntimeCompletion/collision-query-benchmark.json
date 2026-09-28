@@ -1,0 +1,218 @@
+{
+  "error": null,
+  "world": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome",
+  "summary": {
+    "False": {
+      "measured_batches": 11,
+      "queries": 484,
+      "mean_us_per_query": 33.48388429752066,
+      "p95_batch_us_per_query": 40.95227272727273,
+      "query_results_returned": 440
+    },
+    "True": {
+      "measured_batches": 11,
+      "queries": 484,
+      "mean_us_per_query": 35.179958677685946,
+      "p95_batch_us_per_query": 38.643181818181816,
+      "query_results_returned": 440
+    }
+  },
+  "batches": [
+    {
+      "trace_complex": false,
+      "warmup": true,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 2110.0,
+      "microseconds_per_query": 47.95454545454545
+    },
+    {
+      "trace_complex": true,
+      "warmup": true,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1584.3,
+      "microseconds_per_query": 36.00681818181818
+    },
+    {
+      "trace_complex": false,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1326.9,
+      "microseconds_per_query": 30.156818181818185
+    },
+    {
+      "trace_complex": true,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1423.6,
+      "microseconds_per_query": 32.35454545454545
+    },
+    {
+      "trace_complex": false,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1344.7,
+      "microseconds_per_query": 30.561363636363637
+    },
+    {
+      "trace_complex": true,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1506.6,
+      "microseconds_per_query": 34.24090909090909
+    },
+    {
+      "trace_complex": false,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1801.9,
+      "microseconds_per_query": 40.95227272727273
+    },
+    {
+      "trace_complex": true,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1526.8,
+      "microseconds_per_query": 34.699999999999996
+    },
+    {
+      "trace_complex": false,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1581.9,
+      "microseconds_per_query": 35.95227272727273
+    },
+    {
+      "trace_complex": true,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1641.5,
+      "microseconds_per_query": 37.30681818181818
+    },
+    {
+      "trace_complex": false,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1350.2,
+      "microseconds_per_query": 30.686363636363637
+    },
+    {
+      "trace_complex": true,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1700.3,
+      "microseconds_per_query": 38.643181818181816
+    },
+    {
+      "trace_complex": false,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1361.3,
+      "microseconds_per_query": 30.938636363636363
+    },
+    {
+      "trace_complex": true,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1637.2,
+      "microseconds_per_query": 37.20909090909091
+    },
+    {
+      "trace_complex": false,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1603.3,
+      "microseconds_per_query": 36.43863636363636
+    },
+    {
+      "trace_complex": true,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1573.0,
+      "microseconds_per_query": 35.75
+    },
+    {
+      "trace_complex": false,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1366.1,
+      "microseconds_per_query": 31.047727272727272
+    },
+    {
+      "trace_complex": true,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1358.9,
+      "microseconds_per_query": 30.88409090909091
+    },
+    {
+      "trace_complex": false,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1350.5,
+      "microseconds_per_query": 30.693181818181817
+    },
+    {
+      "trace_complex": true,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1436.0,
+      "microseconds_per_query": 32.63636363636363
+    },
+    {
+      "trace_complex": false,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1851.9,
+      "microseconds_per_query": 42.08863636363637
+    },
+    {
+      "trace_complex": true,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1514.1,
+      "microseconds_per_query": 34.41136363636363
+    },
+    {
+      "trace_complex": false,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1267.5,
+      "microseconds_per_query": 28.806818181818183
+    },
+    {
+      "trace_complex": true,
+      "warmup": false,
+      "query_count": 44,
+      "results_returned": 40,
+      "duration_us": 1709.1,
+      "microseconds_per_query": 38.84318181818182
+    }
+  ],
+  "input_or_movement_injected": false,
+  "collision_modified": false,
+  "method": "Alternating simple/complex Visibility vertical line traces at current route checkpoints; 4 repeats per point; first two ticks warmup.",
+  "limits": "Python-to-Unreal call overhead included. Hit return counts are smoke coverage, not route traversal. Timings are synchronous query microbenchmarks, not CharacterMovement, total scene physics, game-thread, GPU or shipping timings."
+}

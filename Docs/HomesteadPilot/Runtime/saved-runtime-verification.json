@@ -1,0 +1,3400 @@
+{
+  "world": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome",
+  "game_mode": "/Game/Terrarium/HomesteadPilot/Runtime/BP_HomesteadGameMode.BP_HomesteadGameMode_C",
+  "pawn_class": "/Game/Terrarium/HomesteadPilot/Runtime/BP_HomesteadExplorer.BP_HomesteadExplorer_C",
+  "player_start_cm": [
+    650.0,
+    -150.0,
+    672.0
+  ],
+  "capsule_cm": {
+    "radius": 34,
+    "height": 180
+  },
+  "input_mapping_counts": {
+    "HP_MoveForward": 2,
+    "HP_MoveRight": 2,
+    "HP_Turn": 1,
+    "HP_LookUp": 1
+  },
+  "meshes": [
+    {
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "triangles": [
+        43496,
+        12516,
+        6876
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "collision": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "uasset_disk_bytes": 1473285
+    },
+    {
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "triangles": [
+        376,
+        216,
+        120
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18000000715255737,
+        0.05999999865889549
+      ],
+      "collision": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "uasset_disk_bytes": 230419
+    },
+    {
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Bridge.SM_Bridge",
+      "triangles": [
+        2188,
+        780,
+        420
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "collision": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "uasset_disk_bytes": 276028
+    },
+    {
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_MossCliff4m.SM_MossCliff4m",
+      "triangles": [
+        23276,
+        12802,
+        5818
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "collision": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "uasset_disk_bytes": 504028
+    },
+    {
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m",
+      "triangles": [
+        4080,
+        2244,
+        1020
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "collision": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "uasset_disk_bytes": 125958
+    },
+    {
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "triangles": [
+        11584,
+        8688,
+        5792
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18000000715255737,
+        0.05999999865889549
+      ],
+      "collision": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "uasset_disk_bytes": 419534
+    },
+    {
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover",
+      "triangles": [
+        3284,
+        1806,
+        820
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "collision": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "uasset_disk_bytes": 111034
+    },
+    {
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m",
+      "triangles": [
+        616,
+        338,
+        154
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "collision": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "uasset_disk_bytes": 38465
+    },
+    {
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_StoneStairs2mRise.SM_StoneStairs2mRise",
+      "triangles": [
+        4532,
+        2492,
+        1132
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "collision": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "uasset_disk_bytes": 231535
+    },
+    {
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WheatPatch2m.SM_WheatPatch2m",
+      "triangles": [
+        32444,
+        17844,
+        8110
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "collision": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "uasset_disk_bytes": 603831
+    },
+    {
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_GardenPatch2m.SM_GardenPatch2m",
+      "triangles": [
+        7700,
+        4234,
+        1924
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "collision": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "uasset_disk_bytes": 166048
+    }
+  ],
+  "pilot_components": [
+    {
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_BlueShed",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BlueShed.SM_HP_BlueShed",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Tower",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Tower.SM_HP_Tower",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Lantern",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Lantern.SM_HP_Lantern",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_FlowerBorder",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Env_FlowerBorder.SM_Env_FlowerBorder",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Meshes/SM_HP_RiverSurface3m.SM_HP_RiverSurface3m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Meshes/SM_HP_RiverSurface3m.SM_HP_RiverSurface3m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_RockCluster_Detail.SM_RockCluster_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_ShoreOutcrop_Detail.SM_ShoreOutcrop_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Meshes/SM_HP_RiverSurface3m.SM_HP_RiverSurface3m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WheatPatch2m.SM_WheatPatch2m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_ShoreOutcrop_v2_Detail.SM_ShoreOutcrop_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_RiverStones_v2_Detail.SM_RiverStones_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_Riverbank.SM_Blender_Riverbank",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_MossFringe.SM_Blender_MossFringe",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "CourtyardPath_entry_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPath_entry_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPath_entry_2",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPath_entry_3",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPath_entry_4",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPath_entry_5",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPath_entry_6",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPath_entry_7",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPath_entry_8",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_14",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_15",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_16",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_17",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_18",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_19",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_20",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_21",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_22",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_23",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_24",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_25",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_26",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_27",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_28",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_29",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_30",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_31",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_32",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_33",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_34",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_35",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_36",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_37",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_39",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_41",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_44",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_48",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_49",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_50",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_53",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_56",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_60",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_65",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_74",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_76",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_77",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_78",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_79",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_80",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_81",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_82",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_83",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_84",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_85",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_86",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_87",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_88",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_89",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_90",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_91",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_92",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_93",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_94",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_95",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_96",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_97",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_98",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_99",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_100",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_101",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_102",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_103",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_104",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_105",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_106",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_107",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_108",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_109",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_110",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_111",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_112",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_113",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_114",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_115",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_116",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_117",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_118",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_119",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_120",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_121",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_122",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_123",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_124",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_125",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_126",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_127",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_128",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_129",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_130",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_131",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_132",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_133",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_134",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_135",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_136",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_137",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_138",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_139",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_140",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_141",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_142",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_143",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_144",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_145",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_146",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_147",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_148",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_149",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_150",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_151",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_152",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_153",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_154",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_155",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_156",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_157",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_158",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_159",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_160",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_161",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_162",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_163",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_164",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_165",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_166",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_167",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_168",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_169",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_170",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_171",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_172",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_173",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_174",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_175",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_176",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_177",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_178",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_179",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_180",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_181",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_182",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_183",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_184",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_185",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_186",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_187",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_188",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_189",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_190",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_191",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_192",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_193",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_194",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_195",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_196",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_197",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_198",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_199",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_200",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_201",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_202",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_203",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_204",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_205",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_206",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_207",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_208",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_209",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_210",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_211",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_212",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_213",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_214",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_215",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_216",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_217",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_218",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_219",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_220",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_221",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_222",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_223",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_224",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_225",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_226",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_227",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_228",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_229",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_230",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_231",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_232",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_233",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_234",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_235",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_236",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_237",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_238",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_239",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_240",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_241",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_242",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_243",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_244",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_245",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_246",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_247",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_248",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_249",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_250",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_251",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_252",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_253",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_254",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_255",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_256",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_257",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_258",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_259",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_260",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_261",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_262",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_284",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_285",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_287",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_288",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_289",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_290",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_291",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_293",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_294",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_295",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_296",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_297",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_298",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_299",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_300",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_301",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_302",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_304",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_305",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_306",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_307",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_308",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_309",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_310",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_311",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_312",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_313",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_314",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_315",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_316",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_317",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_318",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_319",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_320",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_321",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_322",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_323",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_324",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_325",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_326",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_327",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_328",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_329",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_330",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_332",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_333",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_335",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_336",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_337",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_338",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_339",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_340",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_342",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_343",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_344",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardPlant_345",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardStone_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_RockCluster_Detail.SM_RockCluster_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardStone_2",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_RockCluster_Detail.SM_RockCluster_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardStone_3",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_RockCluster_Detail.SM_RockCluster_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "CourtyardStone_4",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_RockCluster_Detail.SM_RockCluster_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Approach_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Approach_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Approach_2",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Approach_3",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_2",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_3",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_4",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_5",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_6",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_7",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_8",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_9",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_10",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_11",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_12",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_13",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_14",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_15",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_16",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_17",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_18",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_19",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_20",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_21",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_22",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_23",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_24",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_25",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_26",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_27",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_28",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_29",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_30",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_31",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_32",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_33",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_34",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_35",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_36",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_37",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_38",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_39",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_40",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_41",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_42",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_43",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_44",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_45",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_46",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_47",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_48",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_49",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_50",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_51",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_52",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_53",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_54",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_55",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_56",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_57",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_58",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_59",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_66",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_67",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_68",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_69",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_70",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_71",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_72",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_73",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_74",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_75",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_77",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_78",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_79",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_80",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_81",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_82",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_84",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_85",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_86",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_87",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_88",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_89",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_90",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_91",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_92",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_93",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_95",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_96",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_97",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_98",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_99",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_100",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_101",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_102",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_103",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_104",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_105",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_106",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_107",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_108",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_109",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_110",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_111",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_112",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_114",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_115",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_116",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_117",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_118",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_119",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_120",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_121",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_122",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_123",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_124",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_125",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_126",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_127",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_128",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_130",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_131",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_132",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_133",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_134",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_135",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_136",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_137",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_138",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_139",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_140",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_141",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_143",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_144",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_145",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_146",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_147",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_148",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "BlueHouse_Plant_149",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "AssemblyPath_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "AssemblyPath_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "AssemblyPath_2",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "AssemblyPath_3",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "AssemblyPath_4",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "AssemblyPath_5",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "AssemblyPath_6",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "AssemblyPath_7",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "AssemblyPath_8",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "AssemblyPath_9",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_MossRock.SM_Blender_MossRock",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_Riverbank.SM_Blender_Riverbank",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_2",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_MossRock.SM_Blender_MossRock",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_3",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_Riverbank.SM_Blender_Riverbank",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_4",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_MossRock.SM_Blender_MossRock",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_5",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_Riverbank.SM_Blender_Riverbank",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_6",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_MossRock.SM_Blender_MossRock",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_7",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_Riverbank.SM_Blender_Riverbank",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_8",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_MossRock.SM_Blender_MossRock",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_9",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_MossRock.SM_Blender_MossRock",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_10",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_Riverbank.SM_Blender_Riverbank",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_11",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_MossRock.SM_Blender_MossRock",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_12",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_Riverbank.SM_Blender_Riverbank",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Bank_13",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_Riverbank.SM_Blender_Riverbank",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_2",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_3",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_4",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_5",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_6",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_7",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_8",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_9",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_10",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_11",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_12",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_13",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_14",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_15",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_16",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_17",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_18",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_19",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_20",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Reference_Grove_21",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Blender_Sign_Courtyard",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Sign.SM_HP_Sign",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Blender_MarketStall_UpperPath",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_MarketStall.SM_HP_MarketStall",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Blender_Lodge_UpperTerrace",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Lodge.SM_HP_Lodge",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Blender_CivicHall_NorthPath",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_CivicHall.SM_HP_CivicHall",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Blender_AncientTree_NorthMeadow",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_AncientTree.SM_Blender_AncientTree",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Blender_BridgeThreshold_South",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BridgeThreshold.SM_HP_BridgeThreshold",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "Blender_MossTonic_MarketCounter",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_MossTonic.SM_HP_MossTonic",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Blender_TrailPrism_MarketCounter",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_TrailPrism.SM_HP_TrailPrism",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Blender_EmberCrest_MarketFront",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_EmberCrest.SM_HP_EmberCrest",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Blender_DeepDelverMark_MarketFront",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_DeepDelverMark.SM_HP_DeepDelverMark",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Blender_Grove_MarketCounter",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Grove.SM_HP_Grove",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Blender_Tide_MarketCounter",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Tide.SM_HP_Tide",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Blender_Ember_MarketCounter",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Ember.SM_HP_Ember",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Blender_Storm_MarketCounter",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Storm.SM_HP_Storm",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "Blender_HomesteadCompound_WestClearing",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_HomesteadCompound.SM_HP_HomesteadCompound",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "SceneAssembly_NorthApproach_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "SceneAssembly_NorthApproach_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "SceneAssembly_NorthApproach_2",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "SceneAssembly_NorthApproach_3",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "HP_Fence_0_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "HP_Fence_0_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "HP_Fence_0_2",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "HP_Fence_1_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "HP_Fence_1_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "HP_Fence_1_2",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "HP_Fence_2_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "HP_Fence_2_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "HP_Bridge_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Bridge.SM_Bridge",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "HP_Bridge_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Bridge.SM_Bridge",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "HP_TerraceStairs",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_StoneStairs2mRise.SM_StoneStairs2mRise",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "HP_KitchenGarden",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_GardenPatch2m.SM_GardenPatch2m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>"
+    },
+    {
+      "actor": "HP_EntryLanding",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    },
+    {
+      "actor": "HP_UpperTerraceModule",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_MossCliff4m.SM_MossCliff4m",
+      "automatic_lod": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+    }
+  ],
+  "limits": "Readback is technical persistence evidence; visual LOD motion and PIE control require separate receipts"
+}

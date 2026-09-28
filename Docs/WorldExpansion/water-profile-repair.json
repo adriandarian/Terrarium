@@ -1,0 +1,8 @@
+{
+  "actors": [
+    "WX_AlderRiver",
+    "WX_HomeTributary"
+  ],
+  "profile": "NoCollision",
+  "reason": "Named profile persists through reload; transient custom collision enable flag alone reverted"
+}

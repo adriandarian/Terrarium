@@ -1,0 +1,30 @@
+[
+  {
+    "path": "/Game/Terrarium/Blender/HomesteadCompound/SM_Blender_HomesteadCompound",
+    "triangles": [
+      436212
+    ],
+    "slots": [
+      {
+        "name": "M_Cottage_Atlas_003",
+        "material": "<Object '/Game/Terrarium/Blender/Cottage/M_Cottage.M_Cottage' (0x000001561B7FE000) Class 'Material'>"
+      },
+      {
+        "name": "M_HomesteadCompound_Frame",
+        "material": "<Object '/Game/Terrarium/Blender/HomesteadCompound/M_HomesteadCompound.M_HomesteadCompound' (0x000001560051EE00) Class 'Material'>"
+      }
+    ]
+  },
+  {
+    "path": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_HomesteadCompound",
+    "triangles": [
+      436212
+    ],
+    "slots": [
+      {
+        "name": "M_Cottage_Atlas_001",
+        "material": "<Object '/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial' (0x00000154F0B27000) Class 'Material'>"
+      }
+    ]
+  }
+]

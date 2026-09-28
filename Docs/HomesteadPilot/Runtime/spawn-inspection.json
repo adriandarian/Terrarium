@@ -1,0 +1,75 @@
+{
+  "world": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome",
+  "starts": [
+    {
+      "actor": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.PlayerStart_0",
+      "class": "/Script/Engine.PlayerStart",
+      "location_cm": [
+        585.0,
+        -91.0,
+        652.0
+      ],
+      "editor_only": false,
+      "actor_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "probes": [
+    {
+      "position_cm": [
+        585,
+        -91,
+        652
+      ],
+      "result_type": "<class 'HitResult'>",
+      "result": "<Struct 'HitResult' (0x000001574D73EC40) {}>",
+      "probe_error": "AttributeError(\"type object 'GameplayStatics' has no attribute 'break_hit_result'\")"
+    },
+    {
+      "position_cm": [
+        650,
+        -150,
+        652
+      ],
+      "result_type": "<class 'NoneType'>",
+      "result": "None",
+      "probe_error": "TypeError(\"'NoneType' object is not iterable\")"
+    },
+    {
+      "position_cm": [
+        650,
+        -150,
+        672
+      ],
+      "result_type": "<class 'NoneType'>",
+      "result": "None",
+      "probe_error": "TypeError(\"'NoneType' object is not iterable\")"
+    },
+    {
+      "position_cm": [
+        550,
+        -200,
+        672
+      ],
+      "result_type": "<class 'NoneType'>",
+      "result": "None",
+      "probe_error": "TypeError(\"'NoneType' object is not iterable\")"
+    }
+  ],
+  "game_mode": "/Game/Terrarium/HomesteadPilot/Runtime/BP_HomesteadGameMode.BP_HomesteadGameMode_C",
+  "chosen_start": null,
+  "found_start": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.WorldSettings",
+  "pawn": {
+    "class": "/Game/Terrarium/HomesteadPilot/Runtime/BP_HomesteadExplorer.BP_HomesteadExplorer_C",
+    "position_cm": [
+      865.2262448834736,
+      -1821.174391136357,
+      378.95000843310373
+    ],
+    "radius_cm": 34.0,
+    "half_height_cm": 90.0
+  }
+}

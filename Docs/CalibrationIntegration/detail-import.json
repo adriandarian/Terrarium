@@ -1,0 +1,499 @@
+{
+  "level": "/Game/Terrarium/Calibration/Maps/DetailDensityReview",
+  "saved_and_reloaded": true,
+  "meshes": [
+    {
+      "name": "SM_DC_Cliff_Coarse",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Cliff_Coarse.SM_DC_Cliff_Coarse",
+      "dimensions_cm": [
+        300.0,
+        150.0000228881836,
+        240.00001525878906
+      ],
+      "expected_cm": [
+        300,
+        150.0,
+        240.0
+      ],
+      "materials": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight"
+      ],
+      "fbx_sha256": "7be0002e2876cd42c97683c01e1fc74d52aebef3dc09d9ad7620ad806023da83"
+    },
+    {
+      "name": "SM_DC_Cliff_Half",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Cliff_Half.SM_DC_Cliff_Half",
+      "dimensions_cm": [
+        300.0,
+        150.0000228881836,
+        240.00001525878906
+      ],
+      "expected_cm": [
+        300,
+        150.0,
+        240.0
+      ],
+      "materials": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight"
+      ],
+      "fbx_sha256": "c45ceffadb391a2e5ef95cc68b083d382114859425e17369d6d947288f8a794b"
+    },
+    {
+      "name": "SM_DC_Cliff_Third",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Cliff_Third.SM_DC_Cliff_Third",
+      "dimensions_cm": [
+        300.0,
+        150.0000228881836,
+        240.00001525878906
+      ],
+      "expected_cm": [
+        300,
+        150.0,
+        240.0
+      ],
+      "materials": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight"
+      ],
+      "fbx_sha256": "847d1852c2d3908240d0eaa6ab72262b65c8dffe786efe0446936bef8c8dfe6e"
+    },
+    {
+      "name": "SM_DC_Cottage_Coarse",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Cottage_Coarse.SM_DC_Cottage_Coarse",
+      "dimensions_cm": [
+        240.00003051757812,
+        165.00001525878906,
+        340.0
+      ],
+      "expected_cm": [
+        240.0,
+        165.0,
+        340.0
+      ],
+      "materials": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Wood",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron"
+      ],
+      "fbx_sha256": "7d639fd243fc88a8deacf09adeca7fc75d8f33d6208799b248bf5e0637c54458"
+    },
+    {
+      "name": "SM_DC_Cottage_Half",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Cottage_Half.SM_DC_Cottage_Half",
+      "dimensions_cm": [
+        240.00003051757812,
+        165.00001525878906,
+        340.0
+      ],
+      "expected_cm": [
+        240.0,
+        165.0,
+        340.0
+      ],
+      "materials": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Wood",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron"
+      ],
+      "fbx_sha256": "fff140ac97a033f61fc8faa5a87e122cc0bfa753bc80c0306fba4e10889358f6"
+    },
+    {
+      "name": "SM_DC_Cottage_Third",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Cottage_Third.SM_DC_Cottage_Third",
+      "dimensions_cm": [
+        240.00003051757812,
+        165.00001525878906,
+        340.0
+      ],
+      "expected_cm": [
+        240.0,
+        165.0,
+        340.0
+      ],
+      "materials": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Wood",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron"
+      ],
+      "fbx_sha256": "68d3e9bcbf43089c93e12468bb4c163887a772613070ec768810292df816810e"
+    },
+    {
+      "name": "SM_DC_Tree_Coarse",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Tree_Coarse.SM_DC_Tree_Coarse",
+      "dimensions_cm": [
+        330.0,
+        220.00001525878906,
+        350.0
+      ],
+      "expected_cm": [
+        330.0,
+        220.00000000000003,
+        350.0
+      ],
+      "materials": [
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood"
+      ],
+      "fbx_sha256": "446b51d2565d9846007e21a5784ef8166b8bfc12f8be657b5de66201085561c1"
+    },
+    {
+      "name": "SM_DC_Tree_Half",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Tree_Half.SM_DC_Tree_Half",
+      "dimensions_cm": [
+        330.0,
+        220.00001525878906,
+        350.0
+      ],
+      "expected_cm": [
+        330.0,
+        220.00000000000003,
+        350.0
+      ],
+      "materials": [
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood"
+      ],
+      "fbx_sha256": "b26c39f0d58b6a4d2a23f5ca386d920dc6c6dc5bd560158b881c51f3b2fcfc02"
+    },
+    {
+      "name": "SM_DC_Tree_Third",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Tree_Third.SM_DC_Tree_Third",
+      "dimensions_cm": [
+        330.0,
+        220.0000228881836,
+        350.0
+      ],
+      "expected_cm": [
+        330.0,
+        220.00000000000003,
+        350.0
+      ],
+      "materials": [
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood"
+      ],
+      "fbx_sha256": "63ac201b4932218c764b63c9ae8a885a41eaeddf8641677fb94c626b6c0e4794"
+    },
+    {
+      "name": "SM_DC_Fence_Coarse",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Fence_Coarse.SM_DC_Fence_Coarse",
+      "dimensions_cm": [
+        280.0,
+        22.000024795532227,
+        124.0
+      ],
+      "expected_cm": [
+        280.0,
+        22.0,
+        124.0
+      ],
+      "materials": [
+        "M_DC_Wood",
+        "M_DC_WoodLight"
+      ],
+      "fbx_sha256": "60cde581ef169526dc37ad6ef86d05dcea402fc063facfc5f657c6539b7378d9"
+    },
+    {
+      "name": "SM_DC_Fence_Half",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Fence_Half.SM_DC_Fence_Half",
+      "dimensions_cm": [
+        280.0,
+        22.00002384185791,
+        124.0
+      ],
+      "expected_cm": [
+        280.0,
+        22.0,
+        124.0
+      ],
+      "materials": [
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Iron"
+      ],
+      "fbx_sha256": "0e5dcb3c9edca11c3dea1c2454e1b73da9c26e8d55c7d7d3f9f1bc67e03bc211"
+    },
+    {
+      "name": "SM_DC_Fence_Third",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Fence_Third.SM_DC_Fence_Third",
+      "dimensions_cm": [
+        280.0,
+        22.00002384185791,
+        124.0
+      ],
+      "expected_cm": [
+        280.0,
+        22.0,
+        124.0
+      ],
+      "materials": [
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Iron"
+      ],
+      "fbx_sha256": "7e5465dbc28d863d89f7a29d52ef003882acb39b10b3e1a3cd57ecb388f8c642"
+    },
+    {
+      "name": "SM_DC_Bridge_Coarse",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Bridge_Coarse.SM_DC_Bridge_Coarse",
+      "dimensions_cm": [
+        142.00001525878906,
+        210.0,
+        129.0
+      ],
+      "expected_cm": [
+        142.0,
+        210.0,
+        129.0
+      ],
+      "materials": [
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Iron"
+      ],
+      "fbx_sha256": "c593e9e7fea6dc9c82f7a6a948239597d052992246ec91d8b144088ecbb18b1f"
+    },
+    {
+      "name": "SM_DC_Bridge_Half",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Bridge_Half.SM_DC_Bridge_Half",
+      "dimensions_cm": [
+        142.00001525878906,
+        210.0,
+        129.0
+      ],
+      "expected_cm": [
+        142.0,
+        210.0,
+        129.0
+      ],
+      "materials": [
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Iron"
+      ],
+      "fbx_sha256": "0c8a2b6f4a3a5ded6e45b61813a5aba5c8965b4e474e529ce8b5de574a99b5ad"
+    },
+    {
+      "name": "SM_DC_Bridge_Third",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Bridge_Third.SM_DC_Bridge_Third",
+      "dimensions_cm": [
+        142.00001525878906,
+        210.0,
+        129.0
+      ],
+      "expected_cm": [
+        142.0,
+        210.0,
+        129.0
+      ],
+      "materials": [
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Iron"
+      ],
+      "fbx_sha256": "2aeb4fdd6db1f6c443bf352ba279df558c1af84fd2c812e74820425831d0efe5"
+    },
+    {
+      "name": "SM_DC_Person",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Person.SM_DC_Person",
+      "dimensions_cm": [
+        75.0,
+        31.000003814697266,
+        180.0
+      ],
+      "expected_cm": [
+        75.0,
+        31.0,
+        180.0
+      ],
+      "materials": [
+        "M_DC_Wood",
+        "M_DC_Person"
+      ],
+      "fbx_sha256": "c67e33d511659bdd2e39328d47f241d16f927c9d7594f15e66ddfe1337d56269"
+    }
+  ],
+  "placements": [
+    {
+      "actor": "DC_Cliff_Coarse",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Cliff_Coarse.SM_DC_Cliff_Coarse",
+      "location_cm": [
+        0.0,
+        -0.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Cliff_Half",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Cliff_Half.SM_DC_Cliff_Half",
+      "location_cm": [
+        550.0,
+        -0.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Cliff_Third",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Cliff_Third.SM_DC_Cliff_Third",
+      "location_cm": [
+        1100.0,
+        -0.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Cottage_Coarse",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Cottage_Coarse.SM_DC_Cottage_Coarse",
+      "location_cm": [
+        0.0,
+        -600.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Cottage_Half",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Cottage_Half.SM_DC_Cottage_Half",
+      "location_cm": [
+        550.0,
+        -600.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Cottage_Third",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Cottage_Third.SM_DC_Cottage_Third",
+      "location_cm": [
+        1100.0,
+        -600.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Tree_Coarse",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Tree_Coarse.SM_DC_Tree_Coarse",
+      "location_cm": [
+        0.0,
+        -1200.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Tree_Half",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Tree_Half.SM_DC_Tree_Half",
+      "location_cm": [
+        550.0,
+        -1200.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Tree_Third",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Tree_Third.SM_DC_Tree_Third",
+      "location_cm": [
+        1100.0,
+        -1200.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Fence_Coarse",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Fence_Coarse.SM_DC_Fence_Coarse",
+      "location_cm": [
+        0.0,
+        -1800.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Fence_Half",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Fence_Half.SM_DC_Fence_Half",
+      "location_cm": [
+        550.0,
+        -1800.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Fence_Third",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Fence_Third.SM_DC_Fence_Third",
+      "location_cm": [
+        1100.0,
+        -1800.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Bridge_Coarse",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Bridge_Coarse.SM_DC_Bridge_Coarse",
+      "location_cm": [
+        0.0,
+        -2400.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Bridge_Half",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Bridge_Half.SM_DC_Bridge_Half",
+      "location_cm": [
+        550.0,
+        -2400.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Bridge_Third",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Bridge_Third.SM_DC_Bridge_Third",
+      "location_cm": [
+        1100.0,
+        -2400.0,
+        0.0
+      ]
+    },
+    {
+      "actor": "DC_Person",
+      "mesh": "/Game/Terrarium/Calibration/Detail/Meshes/SM_DC_Person.SM_DC_Person",
+      "location_cm": [
+        1500,
+        0,
+        0
+      ]
+    }
+  ],
+  "materials": 16,
+  "fidelity": "Unapproved construction specimens, not finished replacements"
+}

@@ -1,0 +1,3675 @@
+{
+  "map": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion",
+  "base_inventory_passed": true,
+  "textures": [
+    {
+      "source_file": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\WorldExpansion\\ArtDirection\\T_VoxelMeadow.png",
+      "unreal_asset": "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_VoxelMeadow.T_VoxelMeadow",
+      "sha256": "e8e97c6e80b58bc88fb1939899075b352a96d740d8e3dab358933749c0ba8204",
+      "srgb": true,
+      "generated_source_file": "C:\\Users\\hello\\.codex\\generated_images\\01a0e4ff-7e37-7110-bc1a-ea5ad89fadeb\\exec-e63278c7-6171-4e5d-b023-b79bdf331f69.png",
+      "native_resampling": true,
+      "power_of_two_mode": "<TexturePowerOfTwoSetting.STRETCH_TO_POWER_OF_TWO: 3>",
+      "mip_gen_settings": "<TextureMipGenSettings.TMGS_FROM_TEXTURE_GROUP: 0>",
+      "source_sha256": "e8e97c6e80b58bc88fb1939899075b352a96d740d8e3dab358933749c0ba8204",
+      "source_bytes": 2333106,
+      "source_size_px": [
+        1254,
+        1254
+      ],
+      "matches_original_generated_output": true,
+      "actual_unreal_asset": "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_VoxelMeadow.T_VoxelMeadow",
+      "native_source_hash_metadata": "e8e97c6e80b58bc88fb1939899075b352a96d740d8e3dab358933749c0ba8204",
+      "native_size_px": [
+        2048,
+        2048
+      ],
+      "import_source_files": [
+        "C:/Users/hello/Projects/Terrarium/SourceAssets/WorldExpansion/ArtDirection/T_VoxelMeadow.png"
+      ],
+      "passed": true
+    },
+    {
+      "source_file": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\WorldExpansion\\ArtDirection\\T_MossLimestone.png",
+      "unreal_asset": "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_MossLimestone.T_MossLimestone",
+      "sha256": "bcf198b7557375cd154e5847b8aee56d6aa3df8eff79750572128dc53b61dcc9",
+      "srgb": true,
+      "generated_source_file": "C:\\Users\\hello\\.codex\\generated_images\\01a0e4ff-7e37-7110-bc1a-ea5ad89fadeb\\exec-6cf959f0-1296-478f-aa2e-4d6d9f4946ef.png",
+      "native_resampling": true,
+      "power_of_two_mode": "<TexturePowerOfTwoSetting.STRETCH_TO_POWER_OF_TWO: 3>",
+      "mip_gen_settings": "<TextureMipGenSettings.TMGS_FROM_TEXTURE_GROUP: 0>",
+      "source_sha256": "bcf198b7557375cd154e5847b8aee56d6aa3df8eff79750572128dc53b61dcc9",
+      "source_bytes": 3257508,
+      "source_size_px": [
+        1254,
+        1254
+      ],
+      "matches_original_generated_output": true,
+      "actual_unreal_asset": "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_MossLimestone.T_MossLimestone",
+      "native_source_hash_metadata": "bcf198b7557375cd154e5847b8aee56d6aa3df8eff79750572128dc53b61dcc9",
+      "native_size_px": [
+        2048,
+        2048
+      ],
+      "import_source_files": [
+        "C:/Users/hello/Projects/Terrarium/SourceAssets/WorldExpansion/ArtDirection/T_MossLimestone.png"
+      ],
+      "passed": true
+    },
+    {
+      "source_file": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\WorldExpansion\\ArtDirection\\T_OchreGravel.png",
+      "unreal_asset": "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_OchreGravel.T_OchreGravel",
+      "sha256": "32a67bc3a797a854b7b8aef2e910c365f845c8d4b26908fcfb62420b76519c1d",
+      "srgb": true,
+      "generated_source_file": "C:\\Users\\hello\\.codex\\generated_images\\01a0e4ff-7e37-7110-bc1a-ea5ad89fadeb\\exec-ec8a83f2-0bde-40b0-928f-f5a9aced6ca4.png",
+      "native_resampling": true,
+      "power_of_two_mode": "<TexturePowerOfTwoSetting.STRETCH_TO_POWER_OF_TWO: 3>",
+      "mip_gen_settings": "<TextureMipGenSettings.TMGS_FROM_TEXTURE_GROUP: 0>",
+      "source_sha256": "32a67bc3a797a854b7b8aef2e910c365f845c8d4b26908fcfb62420b76519c1d",
+      "source_bytes": 2839993,
+      "source_size_px": [
+        1254,
+        1254
+      ],
+      "matches_original_generated_output": true,
+      "actual_unreal_asset": "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_OchreGravel.T_OchreGravel",
+      "native_source_hash_metadata": "32a67bc3a797a854b7b8aef2e910c365f845c8d4b26908fcfb62420b76519c1d",
+      "native_size_px": [
+        2048,
+        2048
+      ],
+      "import_source_files": [
+        "C:/Users/hello/Projects/Terrarium/SourceAssets/WorldExpansion/ArtDirection/T_OchreGravel.png"
+      ],
+      "passed": true
+    }
+  ],
+  "material_texture_references": [
+    {
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass",
+      "textures": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_VoxelMeadow.T_VoxelMeadow"
+      ],
+      "actual_textures": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_VoxelMeadow.T_VoxelMeadow"
+      ],
+      "passed": true
+    },
+    {
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone",
+      "textures": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_MossLimestone.T_MossLimestone"
+      ],
+      "actual_textures": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_MossLimestone.T_MossLimestone"
+      ],
+      "passed": true
+    },
+    {
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath",
+      "textures": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_OchreGravel.T_OchreGravel"
+      ],
+      "actual_textures": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_OchreGravel.T_OchreGravel"
+      ],
+      "passed": true
+    },
+    {
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround",
+      "textures": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_VoxelMeadow.T_VoxelMeadow",
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_MossLimestone.T_MossLimestone"
+      ],
+      "actual_textures": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_VoxelMeadow.T_VoxelMeadow",
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_MossLimestone.T_MossLimestone"
+      ],
+      "passed": true
+    }
+  ],
+  "native_actor_bindings": [
+    {
+      "prefix": "WX_VoxelGround_",
+      "actor_count": 64,
+      "components": [
+        {
+          "actor": "WX_VoxelGround_3_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_858.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_3_7.SM_VoxelGround_3_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_0_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_860.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_0_0.SM_VoxelGround_0_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_0_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_862.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_0_1.SM_VoxelGround_0_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_0_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_864.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_0_2.SM_VoxelGround_0_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_0_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_866.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_0_3.SM_VoxelGround_0_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_0_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_868.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_0_4.SM_VoxelGround_0_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_0_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_870.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_0_5.SM_VoxelGround_0_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_0_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_872.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_0_6.SM_VoxelGround_0_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_0_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_874.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_0_7.SM_VoxelGround_0_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_1_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_876.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_1_0.SM_VoxelGround_1_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_1_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_878.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_1_1.SM_VoxelGround_1_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_1_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_880.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_1_2.SM_VoxelGround_1_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_1_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_882.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_1_3.SM_VoxelGround_1_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_1_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_884.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_1_4.SM_VoxelGround_1_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_1_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_886.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_1_5.SM_VoxelGround_1_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_1_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_888.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_1_6.SM_VoxelGround_1_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_1_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_890.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_1_7.SM_VoxelGround_1_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_2_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_892.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_2_0.SM_VoxelGround_2_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_2_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_894.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_2_1.SM_VoxelGround_2_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_2_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_896.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_2_2.SM_VoxelGround_2_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_2_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_898.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_2_3.SM_VoxelGround_2_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_2_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_900.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_2_4.SM_VoxelGround_2_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_2_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_902.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_2_5.SM_VoxelGround_2_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_2_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_904.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_2_6.SM_VoxelGround_2_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_2_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_906.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_2_7.SM_VoxelGround_2_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_3_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_908.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_3_0.SM_VoxelGround_3_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_3_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_910.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_3_1.SM_VoxelGround_3_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_3_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_912.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_3_2.SM_VoxelGround_3_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_3_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_914.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_3_3.SM_VoxelGround_3_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_3_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_916.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_3_4.SM_VoxelGround_3_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_3_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_918.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_3_5.SM_VoxelGround_3_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_3_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_920.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_3_6.SM_VoxelGround_3_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_4_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_922.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_4_0.SM_VoxelGround_4_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_4_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_924.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_4_1.SM_VoxelGround_4_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_4_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_926.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_4_2.SM_VoxelGround_4_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_4_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_928.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_4_3.SM_VoxelGround_4_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_4_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_930.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_4_4.SM_VoxelGround_4_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_4_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_932.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_4_5.SM_VoxelGround_4_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_4_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_934.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_4_6.SM_VoxelGround_4_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_4_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_936.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_4_7.SM_VoxelGround_4_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_5_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_938.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_5_0.SM_VoxelGround_5_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_5_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_940.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_5_1.SM_VoxelGround_5_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_5_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_942.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_5_2.SM_VoxelGround_5_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_5_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_944.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_5_3.SM_VoxelGround_5_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_5_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_946.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_5_4.SM_VoxelGround_5_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_5_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_948.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_5_5.SM_VoxelGround_5_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_5_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_950.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_5_6.SM_VoxelGround_5_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_5_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_952.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_5_7.SM_VoxelGround_5_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_6_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_954.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_6_0.SM_VoxelGround_6_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_6_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_956.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_6_1.SM_VoxelGround_6_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_6_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_958.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_6_2.SM_VoxelGround_6_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_6_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_960.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_6_3.SM_VoxelGround_6_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_6_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_962.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_6_4.SM_VoxelGround_6_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_6_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_964.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_6_5.SM_VoxelGround_6_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_6_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_966.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_6_6.SM_VoxelGround_6_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_6_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_968.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_6_7.SM_VoxelGround_6_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_7_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_970.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_7_0.SM_VoxelGround_7_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_7_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_972.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_7_1.SM_VoxelGround_7_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_7_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_974.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_7_2.SM_VoxelGround_7_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_7_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_976.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_7_3.SM_VoxelGround_7_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_7_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_978.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_7_4.SM_VoxelGround_7_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_7_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_980.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_7_5.SM_VoxelGround_7_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_7_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_982.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_7_6.SM_VoxelGround_7_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelGround_7_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_984.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_7_7.SM_VoxelGround_7_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "prefix": "WX_VoxelRock_",
+      "actor_count": 64,
+      "components": [
+        {
+          "actor": "WX_VoxelRock_3_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_859.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_3_7.SM_VoxelRock_3_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_0_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_861.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_0_0.SM_VoxelRock_0_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_0_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_863.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_0_1.SM_VoxelRock_0_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_0_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_865.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_0_2.SM_VoxelRock_0_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_0_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_867.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_0_3.SM_VoxelRock_0_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_0_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_869.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_0_4.SM_VoxelRock_0_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_0_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_871.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_0_5.SM_VoxelRock_0_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_0_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_873.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_0_6.SM_VoxelRock_0_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_0_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_875.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_0_7.SM_VoxelRock_0_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_1_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_877.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_1_0.SM_VoxelRock_1_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_1_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_879.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_1_1.SM_VoxelRock_1_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_1_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_881.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_1_2.SM_VoxelRock_1_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_1_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_883.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_1_3.SM_VoxelRock_1_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_1_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_885.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_1_4.SM_VoxelRock_1_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_1_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_887.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_1_5.SM_VoxelRock_1_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_1_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_889.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_1_6.SM_VoxelRock_1_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_1_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_891.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_1_7.SM_VoxelRock_1_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_2_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_893.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_2_0.SM_VoxelRock_2_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_2_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_895.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_2_1.SM_VoxelRock_2_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_2_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_897.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_2_2.SM_VoxelRock_2_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_2_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_899.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_2_3.SM_VoxelRock_2_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_2_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_901.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_2_4.SM_VoxelRock_2_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_2_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_903.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_2_5.SM_VoxelRock_2_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_2_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_905.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_2_6.SM_VoxelRock_2_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_2_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_907.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_2_7.SM_VoxelRock_2_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_3_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_909.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_3_0.SM_VoxelRock_3_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_3_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_911.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_3_1.SM_VoxelRock_3_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_3_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_913.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_3_2.SM_VoxelRock_3_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_3_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_915.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_3_3.SM_VoxelRock_3_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_3_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_917.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_3_4.SM_VoxelRock_3_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_3_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_919.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_3_5.SM_VoxelRock_3_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_3_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_921.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_3_6.SM_VoxelRock_3_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_4_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_923.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_4_0.SM_VoxelRock_4_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_4_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_925.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_4_1.SM_VoxelRock_4_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_4_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_927.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_4_2.SM_VoxelRock_4_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_4_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_929.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_4_3.SM_VoxelRock_4_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_4_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_931.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_4_4.SM_VoxelRock_4_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_4_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_933.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_4_5.SM_VoxelRock_4_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_4_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_935.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_4_6.SM_VoxelRock_4_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_4_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_937.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_4_7.SM_VoxelRock_4_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_5_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_939.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_5_0.SM_VoxelRock_5_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_5_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_941.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_5_1.SM_VoxelRock_5_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_5_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_943.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_5_2.SM_VoxelRock_5_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_5_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_945.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_5_3.SM_VoxelRock_5_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_5_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_947.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_5_4.SM_VoxelRock_5_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_5_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_949.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_5_5.SM_VoxelRock_5_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_5_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_951.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_5_6.SM_VoxelRock_5_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_5_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_953.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_5_7.SM_VoxelRock_5_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_6_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_955.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_6_0.SM_VoxelRock_6_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_6_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_957.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_6_1.SM_VoxelRock_6_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_6_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_959.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_6_2.SM_VoxelRock_6_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_6_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_961.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_6_3.SM_VoxelRock_6_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_6_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_963.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_6_4.SM_VoxelRock_6_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_6_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_965.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_6_5.SM_VoxelRock_6_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_6_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_967.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_6_6.SM_VoxelRock_6_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_6_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_969.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_6_7.SM_VoxelRock_6_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_7_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_971.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_7_0.SM_VoxelRock_7_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_7_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_973.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_7_1.SM_VoxelRock_7_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_7_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_975.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_7_2.SM_VoxelRock_7_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_7_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_977.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_7_3.SM_VoxelRock_7_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_7_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_979.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_7_4.SM_VoxelRock_7_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_7_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_981.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_7_5.SM_VoxelRock_7_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_7_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_983.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_7_6.SM_VoxelRock_7_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_VoxelRock_7_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_985.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_7_7.SM_VoxelRock_7_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "prefix": "WX_VoxelHomeGround",
+      "actor_count": 1,
+      "components": [
+        {
+          "actor": "WX_VoxelHomeGround",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_986.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelHomeGround.SM_VoxelHomeGround",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "prefix": "WX_VoxelHomeRock",
+      "actor_count": 1,
+      "components": [
+        {
+          "actor": "WX_VoxelHomeRock",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_987.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelHomeRock.SM_VoxelHomeRock",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "prefix": "WX_Terrain_",
+      "actor_count": 64,
+      "components": [
+        {
+          "actor": "WX_Terrain_0_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_755.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_0_0.SM_Terrain_0_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_0_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_756.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_0_1.SM_Terrain_0_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_0_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_757.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_0_2.SM_Terrain_0_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_0_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_758.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_0_3.SM_Terrain_0_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_0_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_759.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_0_4.SM_Terrain_0_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_0_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_760.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_0_5.SM_Terrain_0_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_0_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_761.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_0_6.SM_Terrain_0_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_0_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_762.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_0_7.SM_Terrain_0_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_1_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_763.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_1_0.SM_Terrain_1_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_1_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_764.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_1_1.SM_Terrain_1_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_1_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_765.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_1_2.SM_Terrain_1_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_1_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_766.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_1_3.SM_Terrain_1_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_1_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_767.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_1_4.SM_Terrain_1_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_1_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_768.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_1_5.SM_Terrain_1_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_1_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_769.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_1_6.SM_Terrain_1_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_1_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_770.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_1_7.SM_Terrain_1_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_2_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_771.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_0.SM_Terrain_2_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_2_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_772.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_1.SM_Terrain_2_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_2_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_773.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_2.SM_Terrain_2_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_2_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_774.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_3.SM_Terrain_2_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_2_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_775.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_4.SM_Terrain_2_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_2_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_776.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_5.SM_Terrain_2_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_2_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_777.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_6.SM_Terrain_2_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_2_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_778.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_7.SM_Terrain_2_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_3_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_779.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_0.SM_Terrain_3_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_3_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_780.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_1.SM_Terrain_3_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_3_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_781.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_2.SM_Terrain_3_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_3_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_782.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_3_HomeApronV3.SM_Terrain_3_3_HomeApronV3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_3_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_783.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_4_HomeApronV3.SM_Terrain_3_4_HomeApronV3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_3_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_784.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_5.SM_Terrain_3_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_3_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_785.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_6.SM_Terrain_3_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_3_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_786.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_7_GorgeV2.SM_Terrain_3_7_GorgeV2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_4_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_787.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_0.SM_Terrain_4_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_4_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_788.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_1.SM_Terrain_4_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_4_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_789.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_2.SM_Terrain_4_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_4_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_790.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_3_HomeApronV3.SM_Terrain_4_3_HomeApronV3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_4_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_791.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_4_HomeApronV3.SM_Terrain_4_4_HomeApronV3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_4_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_792.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_5.SM_Terrain_4_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_4_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_793.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_6_GorgeV2.SM_Terrain_4_6_GorgeV2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_4_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_794.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_7_GorgeV2.SM_Terrain_4_7_GorgeV2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_5_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_795.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_5_0.SM_Terrain_5_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_5_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_796.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_5_1.SM_Terrain_5_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_5_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_797.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_5_2.SM_Terrain_5_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_5_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_798.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_5_3.SM_Terrain_5_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_5_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_799.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_5_4.SM_Terrain_5_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_5_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_800.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_5_5.SM_Terrain_5_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_5_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_801.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_5_6.SM_Terrain_5_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_5_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_802.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_5_7.SM_Terrain_5_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_6_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_803.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_6_0.SM_Terrain_6_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_6_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_804.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_6_1.SM_Terrain_6_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_6_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_805.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_6_2.SM_Terrain_6_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_6_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_806.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_6_3.SM_Terrain_6_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_6_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_807.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_6_4.SM_Terrain_6_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_6_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_808.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_6_5.SM_Terrain_6_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_6_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_809.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_6_6.SM_Terrain_6_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_6_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_810.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_6_7_GorgeV2.SM_Terrain_6_7_GorgeV2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_7_0",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_811.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_7_0.SM_Terrain_7_0",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_7_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_812.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_7_1.SM_Terrain_7_1",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_7_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_813.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_7_2.SM_Terrain_7_2",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_7_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_814.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_7_3.SM_Terrain_7_3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_7_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_815.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_7_4.SM_Terrain_7_4",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_7_5",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_816.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_7_5.SM_Terrain_7_5",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_7_6",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_817.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_7_6.SM_Terrain_7_6",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        },
+        {
+          "actor": "WX_Terrain_7_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_818.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_7_7.SM_Terrain_7_7",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "prefix": "WX_HomeApron",
+      "actor_count": 1,
+      "components": [
+        {
+          "actor": "WX_HomeApron",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_857.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_HomeApron_HomeApronV3.SM_HomeApron_HomeApronV3",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+          ],
+          "visible": false,
+          "hidden_in_game": true,
+          "collision_profile": "NoCollision",
+          "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "prefix": "WX_HomeApproach",
+      "actor_count": 1,
+      "components": [
+        {
+          "actor": "WX_HomeApproach",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_819.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_HomeApproach.SM_HomeApproach",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "prefix": "WX_CityRoad",
+      "actor_count": 1,
+      "components": [
+        {
+          "actor": "WX_CityRoad",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_820.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_CityRoad.SM_CityRoad",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "prefix": "WX_BrookmereRoad",
+      "actor_count": 1,
+      "components": [
+        {
+          "actor": "WX_BrookmereRoad",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_821.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_BrookmereRoad.SM_BrookmereRoad",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "prefix": "WX_ReedbankRoad",
+      "actor_count": 1,
+      "components": [
+        {
+          "actor": "WX_ReedbankRoad",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_822.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_ReedbankRoad.SM_ReedbankRoad",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "prefix": "WX_HighfieldRoad",
+      "actor_count": 1,
+      "components": [
+        {
+          "actor": "WX_HighfieldRoad",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_823.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_HighfieldRoad.SM_HighfieldRoad",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "prefix": "WX_StonegateRoad",
+      "actor_count": 1,
+      "components": [
+        {
+          "actor": "WX_StonegateRoad",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_824.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_StonegateRoad.SM_StonegateRoad",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "prefix": "WX_WesternTradeRoad",
+      "actor_count": 1,
+      "components": [
+        {
+          "actor": "WX_WesternTradeRoad",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_825.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_WesternTradeRoad.SM_WesternTradeRoad",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    },
+    {
+      "prefix": "WX_EasternTradeRoad",
+      "actor_count": 1,
+      "components": [
+        {
+          "actor": "WX_EasternTradeRoad",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_826.StaticMeshComponent0",
+          "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_EasternTradeRoad.SM_EasternTradeRoad",
+          "materials": [
+            "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+          ],
+          "visible": true,
+          "hidden_in_game": false,
+          "collision_profile": "BlockAll",
+          "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+          "forced_lod": 0,
+          "lods": 1,
+          "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+          "passed": true
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "foliage_groups": [
+    {
+      "name": "Bush",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_29"
+      ],
+      "count": 1045,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "collision_profile": "NoCollision",
+      "actual_instances": 1045,
+      "passed": true
+    },
+    {
+      "name": "Flowers",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_30"
+      ],
+      "count": 1584,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "collision_profile": "NoCollision",
+      "actual_instances": 1584,
+      "passed": true
+    },
+    {
+      "name": "GardenPatch2m",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_41"
+      ],
+      "count": 62,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_GardenPatch2m.SM_GardenPatch2m",
+      "collision_profile": "NoCollision",
+      "actual_instances": 62,
+      "passed": true
+    },
+    {
+      "name": "Grass",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_42"
+      ],
+      "count": 10538,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "collision_profile": "NoCollision",
+      "actual_instances": 10538,
+      "passed": true
+    },
+    {
+      "name": "GroundPlants",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_43"
+      ],
+      "count": 2659,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "collision_profile": "NoCollision",
+      "actual_instances": 2659,
+      "passed": true
+    },
+    {
+      "name": "MossCliff4m",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_44"
+      ],
+      "count": 254,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_MossCliff4m.SM_MossCliff4m",
+      "collision_profile": "NoCollision",
+      "actual_instances": 254,
+      "passed": true
+    },
+    {
+      "name": "MossRock",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_45"
+      ],
+      "count": 18,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_MossRock.SM_Blender_MossRock",
+      "collision_profile": "NoCollision",
+      "actual_instances": 18,
+      "passed": true
+    },
+    {
+      "name": "RockCluster",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_46"
+      ],
+      "count": 497,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_RockCluster_Detail.SM_RockCluster_Detail",
+      "collision_profile": "NoCollision",
+      "actual_instances": 497,
+      "passed": true
+    },
+    {
+      "name": "ShoreOutcrop",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_47"
+      ],
+      "count": 38,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_ShoreOutcrop_Detail.SM_ShoreOutcrop_Detail",
+      "collision_profile": "NoCollision",
+      "actual_instances": 38,
+      "passed": true
+    },
+    {
+      "name": "ShrubGroundcover",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_48"
+      ],
+      "count": 1050,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover",
+      "collision_profile": "NoCollision",
+      "actual_instances": 1050,
+      "passed": true
+    },
+    {
+      "name": "WheatPatch2m",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_49"
+      ],
+      "count": 31,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WheatPatch2m.SM_WheatPatch2m",
+      "collision_profile": "NoCollision",
+      "actual_instances": 31,
+      "passed": true
+    },
+    {
+      "name": "/Game/Terrarium/WorldExpansion/SettlementFoliage/FT_WX_Settlement_WornPath2m.FT_WX_Settlement_WornPath2m",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_51"
+      ],
+      "count": 1894,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m",
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath",
+        "1": "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+        "2": "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone"
+      },
+      "actual_instances": 1894,
+      "passed": true
+    },
+    {
+      "name": "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_WornPath2m.FT_WX_Dressing_WornPath2m",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_52"
+      ],
+      "count": 24,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m",
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath",
+        "1": "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+        "2": "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone"
+      },
+      "actual_instances": 24,
+      "passed": true
+    },
+    {
+      "name": "Additional V5 forest groves",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_50"
+      ],
+      "count": 3266,
+      "mesh": "/Game/Terrarium/WorldExpansion/Forest/SM_WX_BroadTree5m.SM_WX_BroadTree5m",
+      "collision_profile": "BlockAll",
+      "min_lods": 3,
+      "simple_collision_primitives": 1,
+      "collision_trace_flag": "CTF_USE_SIMPLE_AND_COMPLEX",
+      "actual_instances": 3266,
+      "passed": true
+    },
+    {
+      "name": "Existing regional forest after reground 0",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_53"
+      ],
+      "count": 2200,
+      "mesh": "/Game/Terrarium/WorldExpansion/Forest/SM_WX_BroadTree5m.SM_WX_BroadTree5m",
+      "min_lods": 3,
+      "collision_profile": "BlockAll",
+      "actual_instances": 2200,
+      "passed": true
+    },
+    {
+      "name": "Existing regional forest after reground 1",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_54"
+      ],
+      "count": 734,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover",
+      "min_lods": 3,
+      "collision_profile": "NoCollision",
+      "actual_instances": 734,
+      "passed": true
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "passed": true,
+  "scope": "Actual editor component/material/texture references, native geometry/collision settings, source file hashes and optional original generated-output byte comparison.",
+  "limits": "Generated source files and concept images do not establish final visual quality. Native screenshots and independent visual acceptance remain required. This does not hash decoded GPU texels or prove seamless texture tiling."
+}

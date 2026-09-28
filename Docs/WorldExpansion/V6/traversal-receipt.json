@@ -1,0 +1,1011 @@
+{
+  "all_routes_passed": true,
+  "routes": [
+    {
+      "name": "Alderhaven south avenue",
+      "start_cm": [
+        30000,
+        17000,
+        2500.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            30000,
+            18500,
+            2500.0
+          ],
+          "actual_cm": [
+            30000.0,
+            18460.967841852835,
+            2500.0
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 5.364315499999066
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Stonegate gate street",
+      "start_cm": [
+        -32000,
+        31500,
+        3600.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            -32000,
+            33000,
+            3600.0
+          ],
+          "actual_cm": [
+            -32000.0,
+            32961.004370442584,
+            3600.0
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 5.36369299999933
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Brookmere market approach",
+      "start_cm": [
+        -25000,
+        18000,
+        1700.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            -23500,
+            18000,
+            1700.0
+          ],
+          "actual_cm": [
+            -23538.971363577002,
+            18000.0,
+            1700.0
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 5.36487710000074
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Reedbank village street",
+      "start_cm": [
+        28000,
+        -24800,
+        1292
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            28000,
+            -27700,
+            1292
+          ],
+          "actual_cm": [
+            28000.0,
+            -27660.95312211707,
+            1300.1499972343445
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 10.365152800000942
+        },
+        {
+          "target_cm": [
+            27200,
+            -29600,
+            1292
+          ],
+          "actual_cm": [
+            27215.017823182807,
+            -29564.151251413074,
+            1299.150059223175
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 7.363996199997928
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "City road rising grade",
+      "start_cm": [
+        4300,
+        6500,
+        732.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            5900,
+            6500,
+            796.0
+          ],
+          "actual_cm": [
+            5860.486660885979,
+            6500.0,
+            795.9232457078942
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 5.707617600000958
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Brookmere road rising grade",
+      "start_cm": [
+        -4900,
+        5300,
+        756.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            -6100,
+            5200,
+            804.0
+          ],
+          "actual_cm": [
+            -6072.302922301493,
+            5202.308089808214,
+            804.3865354379025
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 4.334522499997547
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Home exit to regional road hub",
+      "start_cm": [
+        -1291.79,
+        2695.75,
+        660.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            -2400,
+            5200,
+            660.0
+          ],
+          "actual_cm": [
+            -2389.159162377971,
+            5175.502686661416,
+            660.1500120162964
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 9.832757700001821
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "City river bridge approach span and exit",
+      "start_cm": [
+        9917.3853,
+        7406.5195,
+        962.7389
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            12709.3023,
+            8453.4884,
+            1081.3953
+          ],
+          "actual_cm": [
+            12674.225552391537,
+            8440.334619332749,
+            1081.315672160734
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 10.664317599999777
+        },
+        {
+          "target_cm": [
+            15501.2193,
+            9500.4572,
+            1200.0518
+          ],
+          "actual_cm": [
+            15463.886044709892,
+            9486.457230265212,
+            1200.142299174229
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 10.647630299998127
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Civic ramp and raised court",
+      "start_cm": [
+        30000,
+        27200,
+        2498
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            30000,
+            28100,
+            2577
+          ],
+          "actual_cm": [
+            30000.0,
+            28073.532695062462,
+            2589.527743606325
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 3.2678764000011142
+        },
+        {
+          "target_cm": [
+            30000,
+            29200,
+            2648
+          ],
+          "actual_cm": [
+            30000.0,
+            29173.750351485298,
+            2648.877874839016
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 3.930987700001424
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Mill stair descent to landing",
+      "start_cm": [
+        5900,
+        -27500,
+        802
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            5740,
+            -28200,
+            522
+          ],
+          "actual_cm": [
+            5744.710435446235,
+            -28179.391844922768,
+            543.3098100453186
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.6256927000031283
+        },
+        {
+          "target_cm": [
+            5580,
+            -28900,
+            242
+          ],
+          "actual_cm": [
+            5584.7356339363405,
+            -28879.281601528513,
+            272.15000236328126
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.566909499997564
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Mill stair ascent from landing",
+      "start_cm": [
+        5580,
+        -28900,
+        242
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            5740,
+            -28200,
+            522
+          ],
+          "actual_cm": [
+            5735.601182602541,
+            -28219.244826113892,
+            515.8323617611245
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.6270284000020183
+        },
+        {
+          "target_cm": [
+            5910,
+            -27480,
+            802
+          ],
+          "actual_cm": [
+            5893.45653729419,
+            -27494.4818373272,
+            810.1499666853556
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.6846277999975428
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "MillTrack connected approach",
+      "start_cm": [
+        24600.0,
+        -26100.0,
+        1298.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            23600.0,
+            -26000.0,
+            1298.0
+          ],
+          "actual_cm": [
+            23641.416073814326,
+            -26004.14160738143,
+            1296.6500272750854
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 3.5776220000007015
+        },
+        {
+          "target_cm": [
+            21938.46153846154,
+            -26276.923076923078,
+            1245.8493979300401
+          ],
+          "actual_cm": [
+            21980.7570756939,
+            -26269.958255709727,
+            1253.2608470579762
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 6.0210480999994616
+        },
+        {
+          "target_cm": [
+            20447.058823529413,
+            -26829.411764705885,
+            964.195928682355
+          ],
+          "actual_cm": [
+            20488.283294380453,
+            -26814.21656259421,
+            981.7798716721309
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 5.6823994999977
+        },
+        {
+          "target_cm": [
+            18907.40740740741,
+            -27214.814814814814,
+            669.3210988369538
+          ],
+          "actual_cm": [
+            18947.926446225214,
+            -27204.629078388716,
+            676.0737387238925
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 5.68318420000287
+        },
+        {
+          "target_cm": [
+            17129.62962962963,
+            -27259.259259259263,
+            600.7566641348385
+          ],
+          "actual_cm": [
+            17173.34652090664,
+            -27258.098445426636,
+            598.8009659553661
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 6.350700599999982
+        },
+        {
+          "target_cm": [
+            15500.0,
+            -27300.0,
+            663.4839965820283
+          ],
+          "actual_cm": [
+            15543.478181209142,
+            -27298.912441312394,
+            661.5644577686473
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 5.82875299999796
+        },
+        {
+          "target_cm": [
+            13735.294117647058,
+            -27052.941176470587,
+            691.8049503101938
+          ],
+          "actual_cm": [
+            13775.57994196776,
+            -27058.527240087566,
+            691.8616402699232
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 6.3827844000006735
+        },
+        {
+          "target_cm": [
+            11970.588235294117,
+            -26805.88235294118,
+            729.1597670611227
+          ],
+          "actual_cm": [
+            12012.240402305417,
+            -26811.71329209466,
+            727.3110997275411
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 6.363901799999439
+        },
+        {
+          "target_cm": [
+            10356.0,
+            -26624.0,
+            787.979282226559
+          ],
+          "actual_cm": [
+            10396.522186817869,
+            -26628.573591875203,
+            786.2713075919683
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 5.814385800000309
+        },
+        {
+          "target_cm": [
+            8628.0,
+            -26912.0,
+            742.2703183593694
+          ],
+          "actual_cm": [
+            8671.636946606632,
+            -26904.807806612665,
+            742.6447199268752
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 6.249800199999299
+        },
+        {
+          "target_cm": [
+            6900.0,
+            -27200.0,
+            751.9360107421817
+          ],
+          "actual_cm": [
+            6942.950305921079,
+            -27192.842300857385,
+            753.3183207815595
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 6.265344700001151
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "AqueductTrail connected approach",
+      "start_cm": [
+        -22493.055555555555,
+        39012.152777777774,
+        3602.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            -22326.38888888889,
+            39303.819444444445,
+            3582.298947917268
+          ],
+          "actual_cm": [
+            -22347.047918582193,
+            39267.666142481285,
+            3589.548833847046
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.1875351999988197
+        },
+        {
+          "target_cm": [
+            -22159.722222222223,
+            39595.48611111111,
+            3529.4503212222044
+          ],
+          "actual_cm": [
+            -22181.48282702838,
+            39557.405052700255,
+            3536.929162979126
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2002093000010063
+        },
+        {
+          "target_cm": [
+            -21993.055555555555,
+            39887.152777777774,
+            3463.4029199411452
+          ],
+          "actual_cm": [
+            -22013.532313979937,
+            39851.31845053495,
+            3475.297945022583
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2161740999981703
+        },
+        {
+          "target_cm": [
+            -21826.38888888889,
+            40178.819444444445,
+            3357.1705259463047
+          ],
+          "actual_cm": [
+            -21847.82285055325,
+            40141.31001153181,
+            3389.8444480895996
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2005619000010483
+        },
+        {
+          "target_cm": [
+            -21659.722222222223,
+            40470.48611111111,
+            3192.7818365157873
+          ],
+          "actual_cm": [
+            -21679.88820574338,
+            40435.1956399491,
+            3230.770902633667
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2159265999980562
+        },
+        {
+          "target_cm": [
+            -21493.055555555555,
+            40762.152777777774,
+            3004.475559833707
+          ],
+          "actual_cm": [
+            -21514.17412870156,
+            40725.195274772224,
+            3045.7022026090854
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2002601000021969
+        },
+        {
+          "target_cm": [
+            -21326.38888888889,
+            41053.819444444445,
+            2807.1302317691584
+          ],
+          "actual_cm": [
+            -21345.191898526686,
+            41020.914177578205,
+            2836.2800205259555
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2329132999984722
+        },
+        {
+          "target_cm": [
+            -21159.722222222223,
+            41345.48611111111,
+            2597.130231769158
+          ],
+          "actual_cm": [
+            -21179.39239393796,
+            41311.063310608566,
+            2626.2801960020297
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2341956999989634
+        },
+        {
+          "target_cm": [
+            -20993.055555555555,
+            41637.152777777774,
+            2387.130231769157
+          ],
+          "actual_cm": [
+            -21011.52814674122,
+            41604.82574320292,
+            2416.2799213438266
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2326073000003817
+        },
+        {
+          "target_cm": [
+            -20826.38888888889,
+            41928.819444444445,
+            2177.130231769156
+          ],
+          "actual_cm": [
+            -20845.88886009411,
+            41894.69449483534,
+            2206.280157855057
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2170872000024247
+        },
+        {
+          "target_cm": [
+            -20659.722222222223,
+            42220.48611111111,
+            1967.1302317691552
+          ],
+          "actual_cm": [
+            -20679.829158065215,
+            42185.298973385885,
+            1996.2802799253695
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2165246000004117
+        },
+        {
+          "target_cm": [
+            -20500.0,
+            42513.88888888889,
+            1757.1302317691543
+          ],
+          "actual_cm": [
+            -20517.71575864193,
+            42481.38804257882,
+            1786.280329516434
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2172742999973707
+        },
+        {
+          "target_cm": [
+            -20500.0,
+            42847.22222222222,
+            1590.0050097712374
+          ],
+          "actual_cm": [
+            -20500.55801776051,
+            42804.34870210059,
+            1607.8865826635592
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.1816192000005685
+        },
+        {
+          "target_cm": [
+            -20500.0,
+            43180.555555555555,
+            1524.3255977012302
+          ],
+          "actual_cm": [
+            -20500.01807362463,
+            43138.36932740878,
+            1532.2995989828341
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.203695100000914
+        },
+        {
+          "target_cm": [
+            -20500.0,
+            43513.88888888889,
+            1469.0779275361708
+          ],
+          "actual_cm": [
+            -20500.000557722702,
+            43472.06815691585,
+            1477.003724387192
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.1963634999992792
+        },
+        {
+          "target_cm": [
+            -20500.0,
+            43847.22222222222,
+            1414.6418831526244
+          ],
+          "actual_cm": [
+            -20500.00001641813,
+            43806.1744204349,
+            1422.400923064255
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2016699999985576
+        },
+        {
+          "target_cm": [
+            -20500.0,
+            44180.555555555555,
+            1374.6848898116878
+          ],
+          "actual_cm": [
+            -20500.000000447944,
+            44140.17228243082,
+            1376.7779734640353
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.199115300001722
+        },
+        {
+          "target_cm": [
+            -20494.623655913976,
+            44512.903225806454,
+            1333.7592547624809
+          ],
+          "actual_cm": [
+            -20495.310971322502,
+            44469.27613310172,
+            1343.9708169012301
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.1830569000012474
+        },
+        {
+          "target_cm": [
+            -20365.59139784946,
+            44822.580645161295,
+            1261.1778993638434
+          ],
+          "actual_cm": [
+            -20381.87955661407,
+            44782.06197446462,
+            1267.1960247068637
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.1988746999995783
+        },
+        {
+          "target_cm": [
+            -20236.559139784946,
+            45132.25806451613,
+            1244.6587634852913
+          ],
+          "actual_cm": [
+            -20252.142987679064,
+            45094.81031372087,
+            1241.9918182401889
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2171044999995502
+        },
+        {
+          "target_cm": [
+            -20107.52688172043,
+            45441.93548387097,
+            1230.3016942147804
+          ],
+          "actual_cm": [
+            -20123.791888980064,
+            45402.898188309475,
+            1227.600844195389
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.199209599999449
+        },
+        {
+          "target_cm": [
+            -19978.494623655915,
+            45751.6129032258,
+            1228.5564109874103
+          ],
+          "actual_cm": [
+            -19995.394172385273,
+            45711.053944890395,
+            1222.5815604238742
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.1993899000008241
+        },
+        {
+          "target_cm": [
+            -19849.462365591397,
+            46061.290322580644,
+            1229.0592858492892
+          ],
+          "actual_cm": [
+            -19865.203664904035,
+            46023.511202848305,
+            1223.2092893629306
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2174364999991667
+        },
+        {
+          "target_cm": [
+            -19720.43010752688,
+            46370.967741935485,
+            1229.9010127898216
+          ],
+          "actual_cm": [
+            -19736.81112411515,
+            46331.65330208425,
+            1224.3738453893893
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.1994860000013432
+        },
+        {
+          "target_cm": [
+            -19591.397849462366,
+            46680.645161290326,
+            1225.9083497790123
+          ],
+          "actual_cm": [
+            -19608.423449359798,
+            46639.783721535096,
+            1222.4160888700717
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.199839199998678
+        },
+        {
+          "target_cm": [
+            -19500.0,
+            46998.0,
+            1214.7330361328056
+          ],
+          "actual_cm": [
+            -19511.362572475966,
+            46959.16813482967,
+            1209.6844451933139
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.198830799999996
+        },
+        {
+          "target_cm": [
+            -19500.0,
+            47334.0,
+            1198.7528815744297
+          ],
+          "actual_cm": [
+            -19500.298696268215,
+            47292.19730016122,
+            1197.9830797224276
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.1994148999983736
+        },
+        {
+          "target_cm": [
+            -19500.0,
+            47670.0,
+            1175.1611739483924
+          ],
+          "actual_cm": [
+            -19500.00931909644,
+            47626.155963774916,
+            1176.152924349808
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2006474000008893
+        },
+        {
+          "target_cm": [
+            -19500.0,
+            48006.0,
+            1150.5664175181591
+          ],
+          "actual_cm": [
+            -19500.000313459586,
+            47964.50852053475,
+            1149.4790485410922
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2146711999994295
+        },
+        {
+          "target_cm": [
+            -19500.0,
+            48341.99999999999,
+            1124.2531495684523
+          ],
+          "actual_cm": [
+            -19500.00000955378,
+            48298.346988143436,
+            1125.2253540067904
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.1996225000002596
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "measurement": "Possessed PIE Character driven by AddMovementInput; real gravity and collision",
+  "physical_keyboard_input_test": "Separate manual-control receipt required",
+  "source_receipts": [
+    "traversal-first-pass.json",
+    "trail-retest.json",
+    "aqueduct-retest.json"
+  ],
+  "method": "Consolidates 11 unaffected passing routes, successful rerouted mill approach, and successful masonry aqueduct descent. First failures remain in source receipts. No combined frame-time claim."
+}

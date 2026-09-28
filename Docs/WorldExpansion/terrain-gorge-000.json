@@ -1,0 +1,50 @@
+{
+  "changed_chunks_total": 6,
+  "offset": 0,
+  "records": [
+    {
+      "actor": "WX_Terrain_3_4",
+      "before": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_4.SM_Terrain_3_4",
+      "after": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_4_GorgeV2.SM_Terrain_3_4_GorgeV2",
+      "sha256": "7bbfe3cebf1a365c8fed4f7fffd7c97ad41fa657c1eb5c1144beb82d27a1f8c9",
+      "triangles": 3200
+    },
+    {
+      "actor": "WX_Terrain_3_7",
+      "before": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_7.SM_Terrain_3_7",
+      "after": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_7_GorgeV2.SM_Terrain_3_7_GorgeV2",
+      "sha256": "c41a7f7a84247175aea7271929b3582b01b4d0cab11ffc5d0fe8611766f5c819",
+      "triangles": 3200
+    },
+    {
+      "actor": "WX_Terrain_4_4",
+      "before": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_4.SM_Terrain_4_4",
+      "after": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_4_GorgeV2.SM_Terrain_4_4_GorgeV2",
+      "sha256": "59ebb59cd42b18444d51bf68d5a1c3aacf99189b45ec6f572bb25fae672f5ae4",
+      "triangles": 3200
+    },
+    {
+      "actor": "WX_Terrain_4_6",
+      "before": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_6.SM_Terrain_4_6",
+      "after": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_6_GorgeV2.SM_Terrain_4_6_GorgeV2",
+      "sha256": "90a491a811ff9aa0e5d1fd938e7d4bf391115f8305ae007ec897f2c84116de69",
+      "triangles": 3200
+    },
+    {
+      "actor": "WX_Terrain_4_7",
+      "before": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_7.SM_Terrain_4_7",
+      "after": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_7_GorgeV2.SM_Terrain_4_7_GorgeV2",
+      "sha256": "7735f9318f7f3974ac74a0b198829b1ed030b15eeca906baac088d35f86bac7b",
+      "triangles": 3200
+    },
+    {
+      "actor": "WX_Terrain_6_7",
+      "before": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_6_7.SM_Terrain_6_7",
+      "after": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_6_7_GorgeV2.SM_Terrain_6_7_GorgeV2",
+      "sha256": "2931d4882a582307e02c269ff07ac54f7a9cb2e56fa338f1f3f2316dd7163be6",
+      "triangles": 3200
+    }
+  ],
+  "roads_pads_route_samples_exactly_unchanged": true,
+  "original_meshes_retained": true
+}

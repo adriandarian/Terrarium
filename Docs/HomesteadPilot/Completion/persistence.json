@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "approved_eleven_families_unchanged": true,
+  "grass_count": 5841,
+  "grass_transforms_unchanged": true,
+  "baseline_unchanged": true,
+  "all_mesh_assignments_materials_visibility_counts_transforms_survive_reopen": true,
+  "admitted_mesh_families": 32,
+  "automatic_lods_restored": true,
+  "review_camera_auto_activation_disabled": true
+}

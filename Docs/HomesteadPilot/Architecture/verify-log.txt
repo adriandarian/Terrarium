@@ -1,0 +1,14 @@
+00:01.968  blend            | Read blend: "C:\Users\hello\Projects\Terrarium\SourceAssets\Blender\HomesteadPilot\Architecture\HomesteadArchitecture.blend"
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+ARCHITECTURE_REOPEN_AND_ROUNDTRIP_PASS
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+
+Blender quit

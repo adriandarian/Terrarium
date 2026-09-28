@@ -1,0 +1,109 @@
+{
+  "assets": [
+    {
+      "name": "MossCliff4m",
+      "reopened": true,
+      "scene": "Terrarium_Pilot_MossCliff4m",
+      "triangles": 23276,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 32.35262626733423,
+      "uv_layers": 1,
+      "material_slots": 5,
+      "packed_image_count": 5,
+      "files_present": true
+    },
+    {
+      "name": "FineCliffColumn1m",
+      "reopened": true,
+      "scene": "Terrarium_Pilot_FineCliffColumn1m",
+      "triangles": 4080,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 3.45735374723747,
+      "uv_layers": 1,
+      "material_slots": 5,
+      "packed_image_count": 5,
+      "files_present": true
+    },
+    {
+      "name": "BroadTree5m",
+      "reopened": true,
+      "scene": "Terrarium_Pilot_BroadTree5m",
+      "triangles": 11664,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 10,
+      "signed_volume_m3": 14.908339113188612,
+      "uv_layers": 1,
+      "material_slots": 6,
+      "packed_image_count": 6,
+      "files_present": true
+    },
+    {
+      "name": "ShrubGroundcover",
+      "reopened": true,
+      "scene": "Terrarium_Pilot_ShrubGroundcover",
+      "triangles": 3284,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 0.579136722147632,
+      "uv_layers": 1,
+      "material_slots": 4,
+      "packed_image_count": 4,
+      "files_present": true
+    },
+    {
+      "name": "WornPath2m",
+      "reopened": true,
+      "scene": "Terrarium_Pilot_WornPath2m",
+      "triangles": 616,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 0.2655407358883858,
+      "uv_layers": 1,
+      "material_slots": 3,
+      "packed_image_count": 3,
+      "files_present": true
+    },
+    {
+      "name": "StoneStairs2mRise",
+      "reopened": true,
+      "scene": "Terrarium_Pilot_StoneStairs2mRise",
+      "triangles": 4532,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 8.539448312524295,
+      "uv_layers": 1,
+      "material_slots": 4,
+      "packed_image_count": 4,
+      "files_present": true
+    },
+    {
+      "name": "WheatPatch2m",
+      "reopened": true,
+      "scene": "Terrarium_Pilot_WheatPatch2m",
+      "triangles": 32444,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 0.18074565241072518,
+      "uv_layers": 1,
+      "material_slots": 2,
+      "packed_image_count": 2,
+      "files_present": true
+    },
+    {
+      "name": "GardenPatch2m",
+      "reopened": true,
+      "scene": "Terrarium_Pilot_GardenPatch2m",
+      "triangles": 7700,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 0.4244431199170207,
+      "uv_layers": 1,
+      "material_slots": 3,
+      "packed_image_count": 3,
+      "files_present": true
+    }
+  ],
+  "status": "sources reopened and geometry inspected; Unreal validation remains separate"
+}

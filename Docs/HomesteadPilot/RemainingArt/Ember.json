@@ -1,0 +1,101 @@
+{
+  "name": "Ember",
+  "source_blend": "SourceAssets/Blender/Ember/Ember.blend",
+  "source_sha256": "26ec9aa3e637b7a2f4570870b9c3f50092e4fbba4af5c69c81abf5e455f7b80f",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Ember/Ember.blend",
+  "blend_sha256": "cbf6fd446168daff4decb0ed8c85f7ac07621c2af977ba10eacb2a5817a2d19c",
+  "parts_retained": 557,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Ember/SM_HP_Ember_LOD0.fbx",
+      "triangles": 60156,
+      "vertices": 31192,
+      "bounds_m": {
+        "min": [
+          -0.2554427683353424,
+          -0.191356360912323,
+          -0.0020000003278255463
+        ],
+        "max": [
+          0.922305703163147,
+          0.7469462156295776,
+          1.3440912961959839
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "63ea7eb891ac1a7ec08e695c49162b2db413c622a1fbbfcd868708186b5dc115",
+      "material_slots": [
+        "M_Ember_Flame.008"
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Ember/SM_HP_Ember_LOD1.fbx",
+      "triangles": 24508,
+      "vertices": 13368,
+      "bounds_m": {
+        "min": [
+          -0.2554427683353424,
+          -0.191356360912323,
+          -0.0020000003278255463
+        ],
+        "max": [
+          0.922305703163147,
+          0.7469462156295776,
+          1.3440912961959839
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "314b02e82dbec5a5572c5a5f96a1438381b416247264802ff2cd8a9822c97351",
+      "material_slots": [
+        "M_Ember_Flame.008"
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Ember/SM_HP_Ember_LOD2.fbx",
+      "triangles": 6684,
+      "vertices": 4456,
+      "bounds_m": {
+        "min": [
+          -0.2554427683353424,
+          -0.191356360912323,
+          -0.0020000003278255463
+        ],
+        "max": [
+          0.922305703163147,
+          0.7469462156295776,
+          1.3440912961959839
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "7c73e3791a036c317ed48bdb19b9697c39005c2d79bea614fbee06bfb80f805c",
+      "material_slots": [
+        "M_Ember_Flame.008"
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -0.2554427683353424,
+      -0.191356360912323,
+      -0.0020000003278255463
+    ],
+    "max": [
+      0.922305703163147,
+      0.7469462156295776,
+      1.3440912961959839
+    ]
+  },
+  "materials": [
+    "M_Ember_Flame.008"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/Ember/SM_Blender_Ember",
+  "collision": "none",
+  "screen_sizes": [
+    1.0,
+    0.16,
+    0.045
+  ]
+}

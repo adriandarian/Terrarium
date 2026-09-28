@@ -1,0 +1,357 @@
+{
+  "textures": [
+    {
+      "source_file": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\WorldExpansion\\ArtDirection\\T_VoxelMeadow.png",
+      "texture": "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_VoxelMeadow.T_VoxelMeadow",
+      "sha256": "e8e97c6e80b58bc88fb1939899075b352a96d740d8e3dab358933749c0ba8204"
+    },
+    {
+      "source_file": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\WorldExpansion\\ArtDirection\\T_MossLimestone.png",
+      "texture": "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_MossLimestone.T_MossLimestone",
+      "sha256": "bcf198b7557375cd154e5847b8aee56d6aa3df8eff79750572128dc53b61dcc9"
+    },
+    {
+      "source_file": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\WorldExpansion\\ArtDirection\\T_OchreGravel.png",
+      "texture": "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_OchreGravel.T_OchreGravel",
+      "sha256": "32a67bc3a797a854b7b8aef2e910c365f845c8d4b26908fcfb62420b76519c1d"
+    }
+  ],
+  "materials": [
+    {
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass",
+      "links_checked": 25,
+      "texture_parameters": [
+        "Meadow",
+        "MeadowMacro"
+      ]
+    },
+    {
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone",
+      "links_checked": 31,
+      "texture_parameters": [
+        "LimestoneY",
+        "LimestoneX",
+        "LimestoneZ"
+      ]
+    },
+    {
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath",
+      "links_checked": 13,
+      "texture_parameters": [
+        "Gravel"
+      ]
+    },
+    {
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround",
+      "links_checked": 57,
+      "texture_parameters": [
+        "LimestoneY",
+        "LimestoneZ",
+        "Meadow",
+        "LimestoneX",
+        "MeadowMacro"
+      ]
+    }
+  ],
+  "bindings": [
+    {
+      "actor": "WX_Terrain_0_0",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_0_1",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_0_2",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_0_3",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_0_4",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_0_5",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_0_6",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_0_7",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_1_0",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_1_1",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_1_2",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_1_3",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_1_4",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_1_5",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_1_6",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_1_7",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_2_0",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_2_1",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_2_2",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_2_3",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_2_4",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_2_5",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_2_6",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_2_7",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_3_0",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_3_1",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_3_2",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_3_3",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_3_4",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_3_5",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_3_6",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_3_7",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_4_0",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_4_1",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_4_2",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_4_3",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_4_4",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_4_5",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_4_6",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_4_7",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_5_0",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_5_1",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_5_2",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_5_3",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_5_4",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_5_5",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_5_6",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_5_7",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_6_0",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_6_1",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_6_2",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_6_3",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_6_4",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_6_5",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_6_6",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_6_7",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_7_0",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_7_1",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_7_2",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_7_3",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_7_4",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_7_5",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_7_6",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_Terrain_7_7",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    },
+    {
+      "actor": "WX_HomeApproach",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+    },
+    {
+      "actor": "WX_CityRoad",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+    },
+    {
+      "actor": "WX_BrookmereRoad",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+    },
+    {
+      "actor": "WX_ReedbankRoad",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+    },
+    {
+      "actor": "WX_HighfieldRoad",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+    },
+    {
+      "actor": "WX_StonegateRoad",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+    },
+    {
+      "actor": "WX_WesternTradeRoad",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+    },
+    {
+      "actor": "WX_EasternTradeRoad",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+    },
+    {
+      "actor": "WX_HomeApron",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround.M_VoxelGround"
+    }
+  ],
+  "mode": "built-in image_gen",
+  "tile_size_m": {
+    "stone": 2,
+    "grass": 8,
+    "path": 4
+  },
+  "get_used_textures_available": true
+}

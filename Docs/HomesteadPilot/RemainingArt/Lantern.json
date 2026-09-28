@@ -1,0 +1,101 @@
+{
+  "name": "Lantern",
+  "source_blend": "SourceAssets/Blender/Lantern/Lantern.blend",
+  "source_sha256": "81c9a76fb655e446959295ad58186e732f087b0f10c0f6c850b64a3b06b94a8c",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Lantern/Lantern.blend",
+  "blend_sha256": "b685b58bd63492eb21d237ea951708fef4775243f7fec15a3f4be0defe7ff708",
+  "parts_retained": 95,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Lantern/SM_HP_Lantern_LOD0.fbx",
+      "triangles": 10260,
+      "vertices": 5320,
+      "bounds_m": {
+        "min": [
+          -0.8399999737739563,
+          -0.3855000138282776,
+          0.0020000040531158447
+        ],
+        "max": [
+          0.7470000386238098,
+          0.33500000834465027,
+          3.18149995803833
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "6b4d1e372771f1b96d47817bd7f72fa35e03d0312d29d91c76e06fe53ec044de",
+      "material_slots": [
+        "M_Lantern.001"
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Lantern/SM_HP_Lantern_LOD1.fbx",
+      "triangles": 4180,
+      "vertices": 2280,
+      "bounds_m": {
+        "min": [
+          -0.8399999737739563,
+          -0.3855000138282776,
+          0.0020000040531158447
+        ],
+        "max": [
+          0.7470000386238098,
+          0.33500000834465027,
+          3.18149995803833
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "08c2c918677551afe177d518e186c2e898c30bd7b1342fadd8c13cfda6f3e712",
+      "material_slots": [
+        "M_Lantern.001"
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Lantern/SM_HP_Lantern_LOD2.fbx",
+      "triangles": 1140,
+      "vertices": 760,
+      "bounds_m": {
+        "min": [
+          -0.8399999737739563,
+          -0.3855000138282776,
+          0.0020000040531158447
+        ],
+        "max": [
+          0.7470000386238098,
+          0.33500000834465027,
+          3.18149995803833
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "22aba1bb8754215c63497f6fe468729bf22a048de4a633a134b7fcfd7591b64b",
+      "material_slots": [
+        "M_Lantern.001"
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -0.8399999737739563,
+      -0.3855000138282776,
+      0.0020000040531158447
+    ],
+    "max": [
+      0.7470000386238098,
+      0.33500000834465027,
+      3.18149995803833
+    ]
+  },
+  "materials": [
+    "M_Lantern.001"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/Lantern/SM_Blender_Lantern",
+  "collision": "complex_as_simple",
+  "screen_sizes": [
+    1.0,
+    0.16,
+    0.045
+  ]
+}

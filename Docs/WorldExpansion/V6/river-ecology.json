@@ -1,0 +1,45 @@
+{
+  "groups": [
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_River6_Grass.FT_River6_Grass",
+      "count": 313,
+      "components": [
+        {
+          "path": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_72",
+          "count": 313
+        }
+      ]
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_River6_Bush.FT_River6_Bush",
+      "count": 312,
+      "components": [
+        {
+          "path": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_73",
+          "count": 312
+        }
+      ]
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_River6_GroundPlants.FT_River6_GroundPlants",
+      "count": 315,
+      "components": [
+        {
+          "path": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_74",
+          "count": 315
+        }
+      ]
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_River6_ShoreOutcrop.FT_River6_ShoreOutcrop",
+      "count": 180,
+      "components": [
+        {
+          "path": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_75",
+          "count": 180
+        }
+      ]
+    }
+  ],
+  "count": 1120
+}

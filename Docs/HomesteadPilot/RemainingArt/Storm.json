@@ -1,0 +1,117 @@
+{
+  "name": "Storm",
+  "source_blend": "SourceAssets/Blender/Storm/Storm.blend",
+  "source_sha256": "e392f761707508489910b69ccec9c6b836de6aff9b34c4aaacc9136b7c814e09",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Storm/Storm.blend",
+  "blend_sha256": "07446d1314b15c82f1ff32913eb3f740c4e1cf04e1d9e3a3bbc1807de7a100ce",
+  "parts_retained": 53,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Storm/SM_HP_Storm_LOD0.fbx",
+      "triangles": 8796,
+      "vertices": 4504,
+      "bounds_m": {
+        "min": [
+          -0.10257788002490997,
+          -0.605729877948761,
+          -0.04956911876797676
+        ],
+        "max": [
+          0.22118376195430756,
+          0.6976093053817749,
+          1.407997965812683
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "d575faf064c4c0b44b722d859f5430f060ffe3421318f471c156938a2b1f28ed",
+      "material_slots": [
+        "M_Storm_Lightning.001",
+        "M_Storm_Cloud.004"
+      ],
+      "material_face_counts": [
+        3768,
+        972
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Storm/SM_HP_Storm_LOD1.fbx",
+      "triangles": 4002,
+      "vertices": 2107,
+      "bounds_m": {
+        "min": [
+          -0.10257788002490997,
+          -0.605729877948761,
+          -0.04956911876797676
+        ],
+        "max": [
+          0.22118376195430756,
+          0.6976093053817749,
+          1.407997965812683
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "e03b48d6056d94a982f7813ac0496e187b97091cc245601443d163d62ff9815a",
+      "material_slots": [
+        "M_Storm_Lightning.001",
+        "M_Storm_Cloud.004"
+      ],
+      "material_face_counts": [
+        2089,
+        468
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Storm/SM_HP_Storm_LOD2.fbx",
+      "triangles": 1338,
+      "vertices": 775,
+      "bounds_m": {
+        "min": [
+          -0.10257788002490997,
+          -0.605729877948761,
+          -0.04965974763035774
+        ],
+        "max": [
+          0.22118376195430756,
+          0.6976093053817749,
+          1.407997965812683
+        ]
+      },
+      "max_bounds_delta_m": 9.062886238098145e-05,
+      "sha256": "b90b13f87501605e94b8556011ccec645090671f14f4b2e0b5c08212cbef99b3",
+      "material_slots": [
+        "M_Storm_Lightning.001",
+        "M_Storm_Cloud.004"
+      ],
+      "material_face_counts": [
+        913,
+        108
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -0.10257788002490997,
+      -0.605729877948761,
+      -0.04956911876797676
+    ],
+    "max": [
+      0.22118376195430756,
+      0.6976093053817749,
+      1.407997965812683
+    ]
+  },
+  "materials": [
+    "M_Storm_Lightning.001",
+    "M_Storm_Cloud.004"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/Storm/SM_Blender_Storm",
+  "collision": "none",
+  "screen_sizes": [
+    1.0,
+    0.16,
+    0.045
+  ]
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "DeepDelverMark",
+    "baseline_lod0_triangles": 64904,
+    "new_triangles": [
+      64904,
+      26516,
+      7304
+    ],
+    "remove_degenerates": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "name": "Storm",
+    "baseline_lod0_triangles": 8794,
+    "new_triangles": [
+      8791,
+      4001,
+      1338
+    ],
+    "remove_degenerates": [
+      true,
+      true,
+      true
+    ]
+  }
+]

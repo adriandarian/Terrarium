@@ -1,0 +1,2 @@
+C:\Users\hello\Projects\Terrarium\Scripts\HomesteadPilot\Landscape\build_landscape.py:285: DeprecationWarning: 'World.use_nodes' is expected to be removed in Blender 6.0
+  world=bpy.data.worlds.new(key+'_World');world.use_nodes=True;world.node_tree.nodes['Background'].inputs[0].default_value=(.17,.20,.14,1);world.node_tree.nodes['Background'].inputs[1].default_value=.45;s.world=world

@@ -1,0 +1,101 @@
+{
+  "name": "CivicHall",
+  "source_blend": "SourceAssets/Blender/CivicHall/CivicHall.blend",
+  "source_sha256": "f3356ff6afd70cc6bbe5bff607c06523d01138d2ec09094e7694b2a391104079",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/CivicHall/CivicHall.blend",
+  "blend_sha256": "dffe5306e29587981413a8db00a1a95e3f4f26ece61f5aa6e95ccad798b59518",
+  "parts_retained": 5779,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/CivicHall/SM_HP_CivicHall_LOD0.fbx",
+      "triangles": 624240,
+      "vertices": 323676,
+      "bounds_m": {
+        "min": [
+          -3.990000009536743,
+          -2.884999990463257,
+          0.0
+        ],
+        "max": [
+          3.990000009536743,
+          1.7990000247955322,
+          8.6899995803833
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "1554f972f53442b9be2c17608e792dbf39e026580c476ca91c5a4cb3cf6718d6",
+      "material_slots": [
+        "M_CivicHall.001"
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/CivicHall/SM_HP_CivicHall_LOD1.fbx",
+      "triangles": 254448,
+      "vertices": 138780,
+      "bounds_m": {
+        "min": [
+          -3.990000009536743,
+          -2.884999990463257,
+          0.0
+        ],
+        "max": [
+          3.990000009536743,
+          1.7990000247955322,
+          8.6899995803833
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "c00adb7c6925bceb87ca5baf67d3e917428204dd37f002304f1ff5f06791ed08",
+      "material_slots": [
+        "M_CivicHall.001"
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/CivicHall/SM_HP_CivicHall_LOD2.fbx",
+      "triangles": 69552,
+      "vertices": 46332,
+      "bounds_m": {
+        "min": [
+          -3.990000009536743,
+          -2.884999990463257,
+          0.0
+        ],
+        "max": [
+          3.990000009536743,
+          1.7990000247955322,
+          8.6899995803833
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "0f1a3815536041b217c7316f6830d749bc21fdab439cc0b350fc00f64b2b726b",
+      "material_slots": [
+        "M_CivicHall.001"
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -3.990000009536743,
+      -2.884999990463257,
+      0.0
+    ],
+    "max": [
+      3.990000009536743,
+      1.7990000247955322,
+      8.6899995803833
+    ]
+  },
+  "materials": [
+    "M_CivicHall.001"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/CivicHall/SM_Blender_CivicHall",
+  "collision": "complex_as_simple",
+  "screen_sizes": [
+    1.0,
+    0.22,
+    0.075
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "source_bounds_uv_checks": [
+    {
+      "asset": "Cottage",
+      "lod": 0,
+      "bounds_pass": true,
+      "uv_coverage_pass": true,
+      "parts": 48
+    },
+    {
+      "asset": "Cottage",
+      "lod": 1,
+      "bounds_pass": true,
+      "uv_coverage_pass": true,
+      "parts": 48
+    },
+    {
+      "asset": "Cottage",
+      "lod": 2,
+      "bounds_pass": true,
+      "uv_coverage_pass": true,
+      "parts": 43
+    },
+    {
+      "asset": "Fence",
+      "lod": 0,
+      "bounds_pass": true,
+      "uv_coverage_pass": true,
+      "parts": 5
+    },
+    {
+      "asset": "Fence",
+      "lod": 1,
+      "bounds_pass": true,
+      "uv_coverage_pass": true,
+      "parts": 5
+    },
+    {
+      "asset": "Fence",
+      "lod": 2,
+      "bounds_pass": true,
+      "uv_coverage_pass": true,
+      "parts": 3
+    },
+    {
+      "asset": "Bridge",
+      "lod": 0,
+      "bounds_pass": true,
+      "uv_coverage_pass": true,
+      "parts": 8
+    },
+    {
+      "asset": "Bridge",
+      "lod": 1,
+      "bounds_pass": true,
+      "uv_coverage_pass": true,
+      "parts": 7
+    },
+    {
+      "asset": "Bridge",
+      "lod": 2,
+      "bounds_pass": true,
+      "uv_coverage_pass": true,
+      "parts": 6
+    }
+  ],
+  "packed_images": 4,
+  "normal_project_saved": true,
+  "blender_version": "5.2.1 LTS",
+  "reopen_pending": false,
+  "limitations": "No gameplay traversal, collision or runtime LOD transition evidence here. Static textured previews are source QA only.",
+  "reopened_and_roundtripped": true
+}

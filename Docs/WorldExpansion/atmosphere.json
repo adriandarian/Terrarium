@@ -1,0 +1,7 @@
+{
+  "fog_density": 0.006,
+  "falloff": 0.18,
+  "start_cm": 16000,
+  "max_opacity": 0.3,
+  "scope": "ValleyRegion light components only"
+}

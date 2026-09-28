@@ -1,0 +1,13 @@
+{
+  "actor": "WX_HomeTributary",
+  "before": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_HomeTributary.SM_HomeTributary",
+  "after": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_HomeTributary_SeamV4.SM_HomeTributary_SeamV4",
+  "half_width_m": 7.5,
+  "start_x_m": 35.5,
+  "water_z_m": 0.05,
+  "triangles": 48,
+  "collision_profile": "NoCollision",
+  "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+  "terrain_changed": false,
+  "sha256": "9820162810c6176076f53a34d9cdc69f466475661b5c4b28f1086c77d6d971ee"
+}

@@ -1,0 +1,50 @@
+{
+  "level": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome",
+  "pawn": "/Game/Terrarium/HomesteadPilot/Runtime/BP_HomesteadExplorer.BP_HomesteadExplorer",
+  "game_mode": "/Game/Terrarium/HomesteadPilot/Runtime/BP_HomesteadGameMode.BP_HomesteadGameMode",
+  "spawn_cm": [
+    650,
+    -150,
+    672
+  ],
+  "capsule_radius_cm": 34.0,
+  "capsule_half_height_cm": 90.0,
+  "eye_height_cm": 165,
+  "walking_speed_cm_s": 280.0,
+  "max_step_height_cm": 37.0,
+  "axis_mappings": [
+    [
+      "HP_MoveForward",
+      "W",
+      1.0
+    ],
+    [
+      "HP_MoveForward",
+      "S",
+      -1.0
+    ],
+    [
+      "HP_MoveRight",
+      "D",
+      1.0
+    ],
+    [
+      "HP_MoveRight",
+      "A",
+      -1.0
+    ],
+    [
+      "HP_Turn",
+      "MouseX",
+      1.0
+    ],
+    [
+      "HP_LookUp",
+      "MouseY",
+      -1.0
+    ]
+  ],
+  "mappings_added_this_run": [],
+  "project_default_map_or_game_mode_changed": false,
+  "play_validation": "Not run by this setup script"
+}

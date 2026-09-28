@@ -1,0 +1,49 @@
+{
+  "validation": "Pure geometry preflight only; no Blender execution yet",
+  "assets": [
+    {
+      "asset": "MossCliff4m",
+      "vertices": 12696,
+      "triangles": 23276,
+      "dimensions_m": [
+        4.038,
+        4.042,
+        2.014
+      ],
+      "non_two_sided_edges": 0
+    },
+    {
+      "asset": "WornPath2m",
+      "vertices": 600,
+      "triangles": 1100,
+      "dimensions_m": [
+        2.0,
+        2.0,
+        0.092
+      ],
+      "non_two_sided_edges": 0
+    },
+    {
+      "asset": "StoneStairs2mRise",
+      "vertices": 2496,
+      "triangles": 4576,
+      "dimensions_m": [
+        2.0,
+        3.6,
+        2.0
+      ],
+      "non_two_sided_edges": 0
+    },
+    {
+      "asset": "GardenPatch2m",
+      "vertices": 3902,
+      "triangles": 7700,
+      "dimensions_m": [
+        2.0,
+        2.0,
+        0.27
+      ],
+      "non_two_sided_edges": 0
+    }
+  ]
+}

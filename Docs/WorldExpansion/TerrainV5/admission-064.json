@@ -1,0 +1,33 @@
+{
+  "revision": 5,
+  "offset": 64,
+  "chunks": 1,
+  "admitted": [
+    {
+      "actor": "WX_VoxelHomeGround",
+      "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelHomeGround.SM_VoxelHomeGround",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass",
+      "triangles": 27306,
+      "source_sha256": "36b4c4ec30428be332b3e05932bcd9f5afff725324098d47b788bce3f6267fc6",
+      "collision_profile": "BlockAll"
+    },
+    {
+      "actor": "WX_VoxelHomeRock",
+      "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelHomeRock.SM_VoxelHomeRock",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone",
+      "triangles": 50468,
+      "source_sha256": "01c52b55f59a3f015ee05f09c37815841ce2521043492d4a3c5b9fa78832157f",
+      "collision_profile": "BlockAll"
+    }
+  ],
+  "retired": [
+    {
+      "actor": "WX_HomeApron",
+      "mesh_preserved": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_HomeApron_HomeApronV3.SM_HomeApron_HomeApronV3",
+      "visible": false,
+      "collision_profile": "NoCollision"
+    }
+  ],
+  "home_apron_outer_ring_replaced": true,
+  "roads_pads_water_and_original_home_untouched": true
+}

@@ -1,0 +1,264 @@
+{
+  "level": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome",
+  "measurement": "Possessed PIE Character driven by AddMovementInput; real gravity and collision",
+  "physical_keyboard_input_test": "Separate manual-control receipt required",
+  "routes": [
+    {
+      "name": "cottage_enter_exit",
+      "start_cm": [
+        230,
+        53,
+        652
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            65,
+            53,
+            664
+          ],
+          "actual_cm": [
+            75.8332423420213,
+            53.0,
+            676.1499990641453
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 0.8921437999997579
+        },
+        {
+          "target_cm": [
+            -160,
+            53,
+            676
+          ],
+          "actual_cm": [
+            -148.90484536186688,
+            53.0,
+            676.1499990641453
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.6613598999992973
+        }
+      ],
+      "passed": false,
+      "failure": "Movement timeout at waypoint 2",
+      "stopped_cm": [
+        168.2325481464718,
+        53.0,
+        653.1469220339634
+      ]
+    },
+    {
+      "name": "terrace_stairs_up_down",
+      "start_cm": [
+        875,
+        -650,
+        372
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            866,
+            -565,
+            372
+          ],
+          "actual_cm": [
+            865.2968979594608,
+            -563.4724738596216,
+            417.68764761737594
+          ],
+          "correct_height": false,
+          "grounded": false,
+          "elapsed_wall_s": 2.5298920999994152
+        }
+      ],
+      "passed": false,
+      "failure": "ReachedXY without expected walkable elevation"
+    },
+    {
+      "name": "river_bridge_both_spans",
+      "start_cm": [
+        864,
+        -1840,
+        372
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            894,
+            -1388,
+            372
+          ],
+          "actual_cm": [
+            892.7289052195454,
+            -1406.8199417363173,
+            372.15000290135276
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.799174600000697
+        },
+        {
+          "target_cm": [
+            922,
+            -950,
+            372
+          ],
+          "actual_cm": [
+            921.3869147312525,
+            -959.5841337648225,
+            378.4132809088601
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.0000232000002143
+        },
+        {
+          "target_cm": [
+            864,
+            -1840,
+            372
+          ],
+          "actual_cm": [
+            863.6749454230886,
+            -1844.98832324389,
+            379.25000061844185
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 3.667685899999924
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "all_routes_passed": false,
+  "error": null,
+  "trace": [
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        -75.15743829315223,
+        53.0,
+        676.1499990641453
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 333.33349227905273
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        168.0944106635764,
+        53.0,
+        653.1469220339634
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 333.33340287208557
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        298.17608965759723,
+        53.0,
+        653.1469220339634
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 333.33349227905273
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        168.0912211501319,
+        53.0,
+        653.1469220339634
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 333.33340287208557
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        298.1729317055409,
+        53.0,
+        653.1469220339634
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 333.3336114883423
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        168.09317153427173,
+        53.0,
+        653.1469220339634
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 333.33349227905273
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 0,
+      "position_cm": [
+        868.5946206951213,
+        -589.5047510094802,
+        373.16500663757324
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999903,
+      "frame_delta_ms": 333.3336114883423
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 0,
+      "position_cm": [
+        880.1501300786924,
+        -1593.0623989513526,
+        372.15000290135276
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000025,
+      "frame_delta_ms": 333.33340287208557
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        918.3000722377565,
+        -1006.7055767354618,
+        378.16499466160667
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000005,
+      "frame_delta_ms": 333.33340287208557
+    }
+  ],
+  "frame_pacing": {
+    "source": "GameplayStatics.get_world_delta_seconds; one sample per unique engine frame after warmup",
+    "samples": 99,
+    "mean_ms": 333.34087452503167,
+    "median_ms": 333.33349227905273,
+    "p95_ms": 333.33370089530945,
+    "max_ms": 333.8316082954407,
+    "scope": "PIE world delta including editor overhead; not GPU/CPU profiler timings"
+  },
+  "memory": {
+    "editor_process_working_set_bytes": 3827769344,
+    "editor_process_private_bytes": 14209232896,
+    "scope": "Entire editor process with PIE, not standalone game or GPU memory"
+  },
+  "wall_seconds": 37.86768360000133
+}

@@ -1,0 +1,454 @@
+{
+  "geometry": [
+    {
+      "name": "Terrain6_0_0",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_0_0.json",
+      "sha256": "851242383c10913f0839e3ccff5986adb1232204b42f16348bf9ebb626c735ae",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_0_1",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_0_1.json",
+      "sha256": "e1a33ee91101128b30c6532a817061a6d075d96da27e45d5a993575d226c1e0a",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_0_2",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_0_2.json",
+      "sha256": "136abaa980a3c626599b51dcad575c90a247fd5f0fee4ce56f24d14bc8a6d82c",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_0_3",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_0_3.json",
+      "sha256": "d77e9623e3f96c649dd3aedc665b29b402c9d7da554328e092d659e9e365a097",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_0_4",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_0_4.json",
+      "sha256": "c1287c88af59baa7d34b143fde685a76eb97709d4a06122aaf758db03203b791",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_0_5",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_0_5.json",
+      "sha256": "28e598ece5f79be7e68617f026803e7faf36fe9bdde1a12ecfa43901cde1ba7d",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_0_6",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_0_6.json",
+      "sha256": "dae4d76def115b67aab6208550c626fcbb2c558e1725133f44bd5590af12a862",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_0_7",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_0_7.json",
+      "sha256": "6571fc7cdb30220904a6baad222a454de6d5e2629d474cd31f2895fa64279975",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_1_0",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_1_0.json",
+      "sha256": "16363e7152e5551e949724ce0bb34ac9b9893fa17d312b4525c3c36783c6738d",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_1_1",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_1_1.json",
+      "sha256": "1924480089f670b835da99a5ddf8701a2818be66d9405d66550c582cd89deedb",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_1_2",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_1_2.json",
+      "sha256": "017c67d2f01be7aac01982e7c98f42763dc2da73fa1713c49e6e325b0da41262",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_1_3",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_1_3.json",
+      "sha256": "f7afe1f56119d08e61f4d1bb619e03c94c9a3550296cd9f5308f8c1487c55b01",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_1_4",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_1_4.json",
+      "sha256": "e12d756be738b8417fa1c53e94b8ddd1685d98dc8d4fc3c0644fbfa04f62ed64",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_1_5",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_1_5.json",
+      "sha256": "f170122e8537765bac658b99d6cd2167035d0375fae1e3694fc1d2d1534ec0cc",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_1_6",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_1_6.json",
+      "sha256": "651bbc29d63d6f58092739868cfb7785f079067b21d62b8bcabd7fa2e2f5a09f",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_1_7",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_1_7.json",
+      "sha256": "83cdbd035733f5010d8af660347133a8154ea23d10d452194b129a4b46470817",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_2_0",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_2_0.json",
+      "sha256": "a44725004377fcc8a35993f9c45a2d1c3223432a1c159944ebea94b54a102d67",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_2_1",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_2_1.json",
+      "sha256": "be8a468359c7b9beac84e35ec8dcc6a2f8818758c99e9bca77187641efdc7f8e",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_2_2",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_2_2.json",
+      "sha256": "8dce29d064b23b79a78ba505fed3cb269db9ee7a09a4267effa1f698c6ff35ad",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_2_3",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_2_3.json",
+      "sha256": "3b2243e8f5bc1f03069911ca9f3d0e238c62486d282953bde0b24e710621118b",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_2_4",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_2_4.json",
+      "sha256": "8e7ea3f41d71992461d57d0e1870e718191e26ac994fa395843a0d61d411309a",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_2_5",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_2_5.json",
+      "sha256": "b46c6ac85d853db9b19d00986c9998c892ebc8378dfb39a7e6fc76fc73c52e98",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_2_6",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_2_6.json",
+      "sha256": "542021e46524e9aaff9df3db8edcacb644ec6aad35e4a7750897facca528ed14",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_2_7",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_2_7.json",
+      "sha256": "621c1b5b3ab93d4aa12be8e0f37506f4aa1727fd99ff68c8047de7b8315e5ba6",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_3_0",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_3_0.json",
+      "sha256": "48d8f82c74c9eda55ca9004f0e472ea4aa6d350b3059bf3af1429e7ee8481887",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_3_1",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_3_1.json",
+      "sha256": "de24d27935ee6e300e26fe67c98420d64faca9f4b691105ecfafd34c2dffa5cb",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_3_2",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_3_2.json",
+      "sha256": "3b92ef3ca89d456e08cb23fb9d31469a4ec0f25122dd4dea1cf2246d317f88a8",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_3_3",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_3_3.json",
+      "sha256": "28fc4ecc0e84b9947cfda4e9e5cc0287174f270f2723ef2982eaceeda85b8eb2",
+      "triangles": 2862
+    },
+    {
+      "name": "Terrain6_3_4",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_3_4.json",
+      "sha256": "300049ed470934055a0870389b3a8854df780c59eb00279746b4af1aa0988278",
+      "triangles": 2862
+    },
+    {
+      "name": "Terrain6_3_5",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_3_5.json",
+      "sha256": "8544f1f1ace952d72e29b73b9ca6f3b9fe66ce474afb42df808ea48b1730ea7a",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_3_6",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_3_6.json",
+      "sha256": "e76ff5323cbc4251065d881af4b0eed54e87061d22c70816dc45ed6d8aff1be3",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_3_7",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_3_7.json",
+      "sha256": "8cc7ea3fa5ff7ac005cf268b434188b27c7f4f182aa87a5f274b3f2d77e74168",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_4_0",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_4_0.json",
+      "sha256": "97593dd9b392542d58293c64448190b7fb3fd6d258b9a26474e969cbefb8829b",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_4_1",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_4_1.json",
+      "sha256": "160303a92c81e99c621af83015b282978beca19752ebd5c3d0d1dfbb51af06ad",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_4_2",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_4_2.json",
+      "sha256": "cc75398b39df096e747a3a246b8b542be6ff8ebe957f708756ef0cf28694ee63",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_4_3",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_4_3.json",
+      "sha256": "05d38b3f0a99a0c2b29ac29c86b142ebe89e25307082d9be90e31d94683abf59",
+      "triangles": 2862
+    },
+    {
+      "name": "Terrain6_4_4",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_4_4.json",
+      "sha256": "e108b5319671a83c603c1c0ff00b3105171ac4a88f1d8a1ba9ef6860139e80a9",
+      "triangles": 2862
+    },
+    {
+      "name": "Terrain6_4_5",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_4_5.json",
+      "sha256": "524cc7b4bf80cf153774c8516b611bb6cff044031d3d121ccd94f7be7e87e4ca",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_4_6",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_4_6.json",
+      "sha256": "a8665c9ed6b1929fbf0dd84979558d21d7e32e44f3a1bc6342e9d77abbc70a73",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_4_7",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_4_7.json",
+      "sha256": "d4f3b32bc56e126a9c8c388b9d52dbd8856958cc9edbd8511caae5926d14bf53",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_5_0",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_5_0.json",
+      "sha256": "79fc91d8f40a42eec7a67d970f88ab2c27c930383cef2a1f1e0fd7ebe9e492d7",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_5_1",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_5_1.json",
+      "sha256": "ed457bf73985ac9194539d78f017957b576799defc46a05a6b8051f4ebbe9543",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_5_2",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_5_2.json",
+      "sha256": "8f052e5d531bad738490b9bd5a41a2e7359e9a23bf2909b9d25577ed2221e819",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_5_3",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_5_3.json",
+      "sha256": "2bf84363935f4380fe4f8e0f72a486f650deb7deb8ebe5a4c0e0c51dfbb52b1c",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_5_4",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_5_4.json",
+      "sha256": "f497ef28a8d9a4cec19a910025f928a025e706bfb1e271186d48573a7ef94837",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_5_5",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_5_5.json",
+      "sha256": "c3663eb62e5d347586a0365e66192face02819804d3dfa461119e4d128a3b4ff",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_5_6",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_5_6.json",
+      "sha256": "44981789d55df423394c35a1470c10ea6272a56a74a7405a4d24a9cf69ef72e7",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_5_7",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_5_7.json",
+      "sha256": "2e7dadf8595eaf599aff4b7d6475ce92b0b558a863508a36eaca286820886d98",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_6_0",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_6_0.json",
+      "sha256": "4479a1b2fa009afa7cf88819db2a66f926bea854f5ec49295bad2297505d5c08",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_6_1",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_6_1.json",
+      "sha256": "62d84e715d6c5b1a63ac42cc62821941878788ef99298517457d6d776ee244fa",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_6_2",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_6_2.json",
+      "sha256": "2f3c4e369ad4cd9c6436744e7e0d3e793736955672f1780de253375e6fab81be",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_6_3",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_6_3.json",
+      "sha256": "3d3f1767435228efee7780ff734b4b84f326abf324d593072b5509d670777f05",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_6_4",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_6_4.json",
+      "sha256": "0f989accf969bce8bfaa5dd87ea135f226acf98a1f6925aa58e68508024c9cf6",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_6_5",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_6_5.json",
+      "sha256": "e1286d6f1fb7361c0511e6d9edcab6be9b3c174588cb0d476ad30ae9b8a1033c",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_6_6",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_6_6.json",
+      "sha256": "840924e837d7fdc929eeeee9749ebf1442ac0ad89c26e023f53e1ea7eec1c2bf",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_6_7",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_6_7.json",
+      "sha256": "6b6daf20e9d016c5d990f0ede8093b555be52cd6f39ef405564a3d6f5022aa28",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_7_0",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_7_0.json",
+      "sha256": "4cf6a9d407e36b1e59bb74f7953f6a6dd749fb8bd3bf7ebac3b64bd8890bb3ac",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_7_1",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_7_1.json",
+      "sha256": "6720e2751b1aa4bb750c8de9884213a4dec0d2e8526c2897c436fd3311bdbb8c",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_7_2",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_7_2.json",
+      "sha256": "a38b385e42d41e010e60ecc1b6dd3d91052540a98e11079e799354427a3ecb6e",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_7_3",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_7_3.json",
+      "sha256": "e3e4ed75a89b5a15a204f55d836c2661e3960b55e0bb72c54b5df9f90312e690",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_7_4",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_7_4.json",
+      "sha256": "6afac07413da274269ce018e622d3773dfd13a9ff918538fc2bacf85f91877ee",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_7_5",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_7_5.json",
+      "sha256": "31a895df08d5948f48a688ac12b26e3b9511cae253c20b42bb280c7d80afec75",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_7_6",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_7_6.json",
+      "sha256": "a66f3059a082ba289f30ffdd7ca84264281aa208f1da67c43e621290495fabdf",
+      "triangles": 3200
+    },
+    {
+      "name": "Terrain6_7_7",
+      "material": "ground",
+      "source": "SourceAssets/WorldExpansion/V6/Terrain/Terrain6_7_7.json",
+      "sha256": "a15711e2d7ec1ca64718255eaa4ca93816f5ff61f1328745123bc7872d15e21e",
+      "triangles": 3200
+    }
+  ],
+  "triangles": 203448,
+  "preserved": "V4 continuous roads, river banks, settlement bases; V5 outer home apron remains"
+}

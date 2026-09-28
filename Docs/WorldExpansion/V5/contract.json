@@ -1,0 +1,353 @@
+{
+  "map": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion",
+  "terrain_manifest": "SourceAssets/WorldExpansion/TerrainV5/manifest.json",
+  "textures": [
+    {
+      "source_file": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\WorldExpansion\\ArtDirection\\T_VoxelMeadow.png",
+      "unreal_asset": "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_VoxelMeadow.T_VoxelMeadow",
+      "sha256": "e8e97c6e80b58bc88fb1939899075b352a96d740d8e3dab358933749c0ba8204",
+      "srgb": true,
+      "generated_source_file": "C:\\Users\\hello\\.codex\\generated_images\\01a0e4ff-7e37-7110-bc1a-ea5ad89fadeb\\exec-e63278c7-6171-4e5d-b023-b79bdf331f69.png",
+      "native_resampling": true,
+      "power_of_two_mode": "STRETCH_TO_POWER_OF_TWO",
+      "mip_gen_settings": "TMGS_FROM_TEXTURE_GROUP"
+    },
+    {
+      "source_file": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\WorldExpansion\\ArtDirection\\T_MossLimestone.png",
+      "unreal_asset": "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_MossLimestone.T_MossLimestone",
+      "sha256": "bcf198b7557375cd154e5847b8aee56d6aa3df8eff79750572128dc53b61dcc9",
+      "srgb": true,
+      "generated_source_file": "C:\\Users\\hello\\.codex\\generated_images\\01a0e4ff-7e37-7110-bc1a-ea5ad89fadeb\\exec-6cf959f0-1296-478f-aa2e-4d6d9f4946ef.png",
+      "native_resampling": true,
+      "power_of_two_mode": "STRETCH_TO_POWER_OF_TWO",
+      "mip_gen_settings": "TMGS_FROM_TEXTURE_GROUP"
+    },
+    {
+      "source_file": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\WorldExpansion\\ArtDirection\\T_OchreGravel.png",
+      "unreal_asset": "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_OchreGravel.T_OchreGravel",
+      "sha256": "32a67bc3a797a854b7b8aef2e910c365f845c8d4b26908fcfb62420b76519c1d",
+      "srgb": true,
+      "generated_source_file": "C:\\Users\\hello\\.codex\\generated_images\\01a0e4ff-7e37-7110-bc1a-ea5ad89fadeb\\exec-ec8a83f2-0bde-40b0-928f-f5a9aced6ca4.png",
+      "native_resampling": true,
+      "power_of_two_mode": "STRETCH_TO_POWER_OF_TWO",
+      "mip_gen_settings": "TMGS_FROM_TEXTURE_GROUP"
+    }
+  ],
+  "material_used_textures": [
+    {
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass",
+      "textures": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_VoxelMeadow.T_VoxelMeadow"
+      ]
+    },
+    {
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone",
+      "textures": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_MossLimestone.T_MossLimestone"
+      ]
+    },
+    {
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath",
+      "textures": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_OchreGravel.T_OchreGravel"
+      ]
+    },
+    {
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGround",
+      "textures": [
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_VoxelMeadow.T_VoxelMeadow",
+        "/Game/Terrarium/WorldExpansion/TerrainV5/Textures/T_MossLimestone.T_MossLimestone"
+      ]
+    }
+  ],
+  "material_texture_parameters": [],
+  "actor_bindings": [
+    {
+      "prefix": "WX_VoxelGround_",
+      "count": 64,
+      "mesh_prefix": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_",
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass"
+      },
+      "visible": true,
+      "hidden_in_game": false,
+      "collision_profile": "BlockAll",
+      "collision_enabled": "QUERY_AND_PHYSICS",
+      "collision_trace_flag": "CTF_USE_COMPLEX_AS_SIMPLE",
+      "min_lods": 1
+    },
+    {
+      "prefix": "WX_VoxelRock_",
+      "count": 64,
+      "mesh_prefix": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_",
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone"
+      },
+      "visible": true,
+      "hidden_in_game": false,
+      "collision_profile": "BlockAll",
+      "collision_enabled": "QUERY_AND_PHYSICS",
+      "collision_trace_flag": "CTF_USE_COMPLEX_AS_SIMPLE",
+      "min_lods": 1
+    },
+    {
+      "prefix": "WX_VoxelHomeGround",
+      "count": 1,
+      "mesh_prefix": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelHomeGround",
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass"
+      },
+      "visible": true,
+      "hidden_in_game": false,
+      "collision_profile": "BlockAll",
+      "collision_enabled": "QUERY_AND_PHYSICS",
+      "collision_trace_flag": "CTF_USE_COMPLEX_AS_SIMPLE"
+    },
+    {
+      "prefix": "WX_VoxelHomeRock",
+      "count": 1,
+      "mesh_prefix": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelHomeRock",
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone"
+      },
+      "visible": true,
+      "hidden_in_game": false,
+      "collision_profile": "BlockAll",
+      "collision_enabled": "QUERY_AND_PHYSICS",
+      "collision_trace_flag": "CTF_USE_COMPLEX_AS_SIMPLE"
+    },
+    {
+      "prefix": "WX_Terrain_",
+      "count": 64,
+      "visible": false,
+      "hidden_in_game": true,
+      "collision_profile": "NoCollision",
+      "collision_enabled": "NO_COLLISION"
+    },
+    {
+      "prefix": "WX_HomeApron",
+      "count": 1,
+      "visible": false,
+      "hidden_in_game": true,
+      "collision_profile": "NoCollision",
+      "collision_enabled": "NO_COLLISION"
+    },
+    {
+      "prefix": "WX_HomeApproach",
+      "count": 1,
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+      }
+    },
+    {
+      "prefix": "WX_CityRoad",
+      "count": 1,
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+      }
+    },
+    {
+      "prefix": "WX_BrookmereRoad",
+      "count": 1,
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+      }
+    },
+    {
+      "prefix": "WX_ReedbankRoad",
+      "count": 1,
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+      }
+    },
+    {
+      "prefix": "WX_HighfieldRoad",
+      "count": 1,
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+      }
+    },
+    {
+      "prefix": "WX_StonegateRoad",
+      "count": 1,
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+      }
+    },
+    {
+      "prefix": "WX_WesternTradeRoad",
+      "count": 1,
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+      }
+    },
+    {
+      "prefix": "WX_EasternTradeRoad",
+      "count": 1,
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath"
+      }
+    }
+  ],
+  "foliage_groups": [
+    {
+      "name": "Bush",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_29"
+      ],
+      "count": 1045,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "collision_profile": "NoCollision"
+    },
+    {
+      "name": "Flowers",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_30"
+      ],
+      "count": 1584,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "collision_profile": "NoCollision"
+    },
+    {
+      "name": "GardenPatch2m",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_41"
+      ],
+      "count": 62,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_GardenPatch2m.SM_GardenPatch2m",
+      "collision_profile": "NoCollision"
+    },
+    {
+      "name": "Grass",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_42"
+      ],
+      "count": 10538,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "collision_profile": "NoCollision"
+    },
+    {
+      "name": "GroundPlants",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_43"
+      ],
+      "count": 2659,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "collision_profile": "NoCollision"
+    },
+    {
+      "name": "MossCliff4m",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_44"
+      ],
+      "count": 254,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_MossCliff4m.SM_MossCliff4m",
+      "collision_profile": "NoCollision"
+    },
+    {
+      "name": "MossRock",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_45"
+      ],
+      "count": 18,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_MossRock.SM_Blender_MossRock",
+      "collision_profile": "NoCollision"
+    },
+    {
+      "name": "RockCluster",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_46"
+      ],
+      "count": 497,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_RockCluster_Detail.SM_RockCluster_Detail",
+      "collision_profile": "NoCollision"
+    },
+    {
+      "name": "ShoreOutcrop",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_47"
+      ],
+      "count": 38,
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_ShoreOutcrop_Detail.SM_ShoreOutcrop_Detail",
+      "collision_profile": "NoCollision"
+    },
+    {
+      "name": "ShrubGroundcover",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_48"
+      ],
+      "count": 1050,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover",
+      "collision_profile": "NoCollision"
+    },
+    {
+      "name": "WheatPatch2m",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_49"
+      ],
+      "count": 31,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WheatPatch2m.SM_WheatPatch2m",
+      "collision_profile": "NoCollision"
+    },
+    {
+      "name": "/Game/Terrarium/WorldExpansion/SettlementFoliage/FT_WX_Settlement_WornPath2m.FT_WX_Settlement_WornPath2m",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_51"
+      ],
+      "count": 1894,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m",
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath",
+        "1": "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+        "2": "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone"
+      }
+    },
+    {
+      "name": "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_WornPath2m.FT_WX_Dressing_WornPath2m",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_52"
+      ],
+      "count": 24,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m",
+      "materials": {
+        "0": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelPath.M_VoxelPath",
+        "1": "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+        "2": "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone"
+      }
+    },
+    {
+      "name": "Additional V5 forest groves",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_50"
+      ],
+      "count": 3266,
+      "mesh": "/Game/Terrarium/WorldExpansion/Forest/SM_WX_BroadTree5m.SM_WX_BroadTree5m",
+      "collision_profile": "BlockAll",
+      "min_lods": 3,
+      "simple_collision_primitives": 1,
+      "collision_trace_flag": "CTF_USE_SIMPLE_AND_COMPLEX"
+    },
+    {
+      "name": "Existing regional forest after reground 0",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_53"
+      ],
+      "count": 2200,
+      "mesh": "/Game/Terrarium/WorldExpansion/Forest/SM_WX_BroadTree5m.SM_WX_BroadTree5m",
+      "min_lods": 3,
+      "collision_profile": "BlockAll"
+    },
+    {
+      "name": "Existing regional forest after reground 1",
+      "components": [
+        "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_54"
+      ],
+      "count": 734,
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover",
+      "min_lods": 3,
+      "collision_profile": "NoCollision"
+    }
+  ],
+  "expected_ecology_receipt": "Docs\\WorldExpansion\\ecology-v5-integration.json",
+  "notes": "Generated texture sources plus expected actor/material/retirement bindings. Native validation and image review determine actual acceptance."
+}

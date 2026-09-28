@@ -1,0 +1,568 @@
+{
+  "source_blend": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\HomesteadArchitecture.blend",
+  "coordinates": {
+    "units": "metres",
+    "up": "Z",
+    "front": "-Y",
+    "pivot": "base center, Z=0",
+    "fbx_import_scale": 1
+  },
+  "assets": [
+    {
+      "name": "Cottage",
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Cottage_LOD0.fbx",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Cottage_LOD0.fbx",
+          "triangles": 43496,
+          "vertices": 25376,
+          "bounds_m": {
+            "min": [
+              -2.880000114440918,
+              -3.0399999618530273,
+              0.0
+            ],
+            "max": [
+              2.880000114440918,
+              2.7200000286102295,
+              5.394999980926514
+            ]
+          },
+          "dimensions_m": [
+            5.760000228881836,
+            5.759999990463257,
+            5.394999980926514
+          ],
+          "parts": 48,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Cottage_LOD1.fbx",
+          "triangles": 12516,
+          "vertices": 8344,
+          "bounds_m": {
+            "min": [
+              -2.880000114440918,
+              -3.0399999618530273,
+              0.0
+            ],
+            "max": [
+              2.880000114440918,
+              2.7200000286102295,
+              5.394999980926514
+            ]
+          },
+          "dimensions_m": [
+            5.760000228881836,
+            5.759999990463257,
+            5.394999980926514
+          ],
+          "parts": 48,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Cottage_LOD2.fbx",
+          "triangles": 6876,
+          "vertices": 4584,
+          "bounds_m": {
+            "min": [
+              -2.880000114440918,
+              -3.0399999618530273,
+              0.0
+            ],
+            "max": [
+              2.880000114440918,
+              2.7200000286102295,
+              5.394999980926514
+            ]
+          },
+          "dimensions_m": [
+            5.760000228881836,
+            5.759999990463257,
+            5.394999980926514
+          ],
+          "parts": 43,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -2.880000114440918,
+          -3.0399999618530273,
+          0.0
+        ],
+        "max": [
+          2.880000114440918,
+          2.7200000286102295,
+          5.394999980926514
+        ]
+      },
+      "dimensions_m": [
+        5.760000228881836,
+        5.759999990463257,
+        5.394999980926514
+      ],
+      "material_slots": [
+        "M_HP_Roof",
+        "M_HP_Wood",
+        "M_HP_Plaster",
+        "M_HP_Stone",
+        "M_HP_Teal",
+        "M_HP_Iron",
+        "M_HP_Moss",
+        "M_HP_Brass"
+      ],
+      "collision_notes": "Use complex-as-simple for static cottage, or author separate wall/floor collision pieces. A single convex hull will seal the doorway. Fence/bridge rails must not seal the clear route.",
+      "traversal": {
+        "floor_top_m": 0.24,
+        "door_clear_width_m": 1.28,
+        "door_clear_height_m": 2.18,
+        "door_front_y_m": -2.22,
+        "entry_step_rise_m": 0.12,
+        "interior_clear_footprint_m": [
+          4.56,
+          3.96
+        ],
+        "door_open_degrees": 105,
+        "central_route_x_m": [
+          -0.5,
+          0.5
+        ]
+      }
+    },
+    {
+      "name": "Fence",
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Fence_LOD0.fbx",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Fence_LOD0.fbx",
+          "triangles": 376,
+          "vertices": 224,
+          "bounds_m": {
+            "min": [
+              -1.5149999856948853,
+              -0.11999999731779099,
+              0.0
+            ],
+            "max": [
+              1.5149999856948853,
+              0.11999999731779099,
+              1.2599999904632568
+            ]
+          },
+          "dimensions_m": [
+            3.0299999713897705,
+            0.23999999463558197,
+            1.2599999904632568
+          ],
+          "parts": 5,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Fence_LOD1.fbx",
+          "triangles": 216,
+          "vertices": 144,
+          "bounds_m": {
+            "min": [
+              -1.5149999856948853,
+              -0.11999999731779099,
+              0.0
+            ],
+            "max": [
+              1.5149999856948853,
+              0.11999999731779099,
+              1.2599999904632568
+            ]
+          },
+          "dimensions_m": [
+            3.0299999713897705,
+            0.23999999463558197,
+            1.2599999904632568
+          ],
+          "parts": 5,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Fence_LOD2.fbx",
+          "triangles": 120,
+          "vertices": 80,
+          "bounds_m": {
+            "min": [
+              -1.5149999856948853,
+              -0.11500000208616257,
+              0.0
+            ],
+            "max": [
+              1.5149999856948853,
+              0.11500000208616257,
+              1.2599999904632568
+            ]
+          },
+          "dimensions_m": [
+            3.0299999713897705,
+            0.23000000417232513,
+            1.2599999904632568
+          ],
+          "parts": 3,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -1.5149999856948853,
+          -0.11999999731779099,
+          0.0
+        ],
+        "max": [
+          1.5149999856948853,
+          0.11999999731779099,
+          1.2599999904632568
+        ]
+      },
+      "dimensions_m": [
+        3.0299999713897705,
+        0.23999999463558197,
+        1.2599999904632568
+      ],
+      "material_slots": [
+        "M_HP_Roof",
+        "M_HP_Wood",
+        "M_HP_Plaster",
+        "M_HP_Stone",
+        "M_HP_Teal",
+        "M_HP_Iron",
+        "M_HP_Moss",
+        "M_HP_Brass"
+      ],
+      "collision_notes": "Use complex-as-simple for static cottage, or author separate wall/floor collision pieces. A single convex hull will seal the doorway. Fence/bridge rails must not seal the clear route."
+    },
+    {
+      "name": "Bridge",
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Bridge_LOD0.fbx",
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Bridge_LOD0.fbx",
+          "triangles": 2188,
+          "vertices": 1336,
+          "bounds_m": {
+            "min": [
+              -1.2549999952316284,
+              -1.8200000524520874,
+              0.0
+            ],
+            "max": [
+              1.2549999952316284,
+              1.8200000524520874,
+              1.340000033378601
+            ]
+          },
+          "dimensions_m": [
+            2.509999990463257,
+            3.640000104904175,
+            1.340000033378601
+          ],
+          "parts": 8,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Bridge_LOD1.fbx",
+          "triangles": 780,
+          "vertices": 520,
+          "bounds_m": {
+            "min": [
+              -1.2549999952316284,
+              -1.8200000524520874,
+              0.0
+            ],
+            "max": [
+              1.2549999952316284,
+              1.8200000524520874,
+              1.340000033378601
+            ]
+          },
+          "dimensions_m": [
+            2.509999990463257,
+            3.640000104904175,
+            1.340000033378601
+          ],
+          "parts": 7,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Bridge_LOD2.fbx",
+          "triangles": 420,
+          "vertices": 280,
+          "bounds_m": {
+            "min": [
+              -1.2549999952316284,
+              -1.8200000524520874,
+              0.0
+            ],
+            "max": [
+              1.2549999952316284,
+              1.8200000524520874,
+              1.340000033378601
+            ]
+          },
+          "dimensions_m": [
+            2.509999990463257,
+            3.640000104904175,
+            1.340000033378601
+          ],
+          "parts": 6,
+          "material_slots": [
+            "M_HP_Roof",
+            "M_HP_Wood",
+            "M_HP_Plaster",
+            "M_HP_Stone",
+            "M_HP_Teal",
+            "M_HP_Iron",
+            "M_HP_Moss",
+            "M_HP_Brass"
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -1.2549999952316284,
+          -1.8200000524520874,
+          0.0
+        ],
+        "max": [
+          1.2549999952316284,
+          1.8200000524520874,
+          1.340000033378601
+        ]
+      },
+      "dimensions_m": [
+        2.509999990463257,
+        3.640000104904175,
+        1.340000033378601
+      ],
+      "material_slots": [
+        "M_HP_Roof",
+        "M_HP_Wood",
+        "M_HP_Plaster",
+        "M_HP_Stone",
+        "M_HP_Teal",
+        "M_HP_Iron",
+        "M_HP_Moss",
+        "M_HP_Brass"
+      ],
+      "collision_notes": "Use complex-as-simple for static cottage, or author separate wall/floor collision pieces. A single convex hull will seal the doorway. Fence/bridge rails must not seal the clear route.",
+      "traversal": {
+        "deck_top_m": 0.32,
+        "clear_width_m": 2.04,
+        "module_length_m": 3.6,
+        "deck_end_y_m": [
+          -1.8,
+          1.8
+        ],
+        "rail_top_m": 1.21,
+        "placement_note": "Ground-base pivot; to join a path at elevation H, place actor Z=H-32cm. Supports need terrain or dedicated piles below them."
+      }
+    }
+  ],
+  "materials": [
+    {
+      "name": "M_HP_Roof",
+      "base_color_linear": [
+        0.5088813208549338,
+        0.13563332965520566,
+        0.03189603307301153,
+        1
+      ],
+      "base_color_texture": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\T_HP_Roof_BaseColor.png",
+      "roughness": 0.87,
+      "source": "cottage_roof_tile_v6_candidate.png",
+      "source_sha256": "c97b792e2105e51bcf43aea6cdb607318e7fa7eb285aa26a3514f52b21d6fe72",
+      "uv_notes": "Explicit tile/wood/stone surface crop per modeled component; plaster uses 2m repeat scale. Base-color sRGB; linear filtering and mipmaps, no global pixelation."
+    },
+    {
+      "name": "M_HP_Wood",
+      "base_color_linear": [
+        0.19120168274079138,
+        0.08437621154414882,
+        0.019382360956935723,
+        1
+      ],
+      "base_color_texture": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\T_HP_Wood_BaseColor.png",
+      "roughness": 0.88,
+      "source": "terrain_wood_3d.png",
+      "source_sha256": "cc66c773544371c19cbdbb99973df70e3b16d5d005f66a8cf5b6c4fc75ba04f7",
+      "uv_notes": "Explicit tile/wood/stone surface crop per modeled component; plaster uses 2m repeat scale. Base-color sRGB; linear filtering and mipmaps, no global pixelation."
+    },
+    {
+      "name": "M_HP_Plaster",
+      "base_color_linear": [
+        0.7835377915261935,
+        0.6724431569576875,
+        0.4286904966139066,
+        1
+      ],
+      "base_color_texture": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\T_HP_Plaster_BaseColor.png",
+      "roughness": 0.93,
+      "source": "cottage_plaster_v5.png",
+      "source_sha256": "ed1033d54685a366aeab48dad9fc122a7b7cb57ebea8510c97b715ad2da94800",
+      "uv_notes": "Explicit tile/wood/stone surface crop per modeled component; plaster uses 2m repeat scale. Base-color sRGB; linear filtering and mipmaps, no global pixelation."
+    },
+    {
+      "name": "M_HP_Stone",
+      "base_color_linear": [
+        0.24620132670783548,
+        0.23455058216100522,
+        0.17464740365558504,
+        1
+      ],
+      "base_color_texture": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\T_HP_Stone_BaseColor.png",
+      "roughness": 0.92,
+      "source": "terrain_cliff_face_v7.png",
+      "source_sha256": "bbfbefe362ea664d83bdb79fa4a10e20871266b609d77e4c106e57454cc84dde",
+      "uv_notes": "Explicit tile/wood/stone surface crop per modeled component; plaster uses 2m repeat scale. Base-color sRGB; linear filtering and mipmaps, no global pixelation."
+    },
+    {
+      "name": "M_HP_Teal",
+      "base_color_linear": [
+        0.016807375752887384,
+        0.1559264637078274,
+        0.13563332965520566,
+        1
+      ],
+      "base_color_texture": null,
+      "roughness": 0.75,
+      "source": null,
+      "source_sha256": null,
+      "uv_notes": "Explicit tile/wood/stone surface crop per modeled component; plaster uses 2m repeat scale. Base-color sRGB; linear filtering and mipmaps, no global pixelation."
+    },
+    {
+      "name": "M_HP_Iron",
+      "base_color_linear": [
+        0.0595112381629812,
+        0.07036009569659588,
+        0.05612849004960009,
+        1
+      ],
+      "base_color_texture": null,
+      "roughness": 0.62,
+      "source": null,
+      "source_sha256": null,
+      "uv_notes": "Explicit tile/wood/stone surface crop per modeled component; plaster uses 2m repeat scale. Base-color sRGB; linear filtering and mipmaps, no global pixelation."
+    },
+    {
+      "name": "M_HP_Moss",
+      "base_color_linear": [
+        0.13843161503245183,
+        0.19120168274079138,
+        0.027320891639074894,
+        1
+      ],
+      "base_color_texture": null,
+      "roughness": 0.95,
+      "source": null,
+      "source_sha256": null,
+      "uv_notes": "Explicit tile/wood/stone surface crop per modeled component; plaster uses 2m repeat scale. Base-color sRGB; linear filtering and mipmaps, no global pixelation."
+    },
+    {
+      "name": "M_HP_Brass",
+      "base_color_linear": [
+        0.5840784178911641,
+        0.32314320911295075,
+        0.046665086336880095,
+        1
+      ],
+      "base_color_texture": null,
+      "roughness": 0.48,
+      "source": null,
+      "source_sha256": null,
+      "uv_notes": "Explicit tile/wood/stone surface crop per modeled component; plaster uses 2m repeat scale. Base-color sRGB; linear filtering and mipmaps, no global pixelation."
+    }
+  ],
+  "lod_method": "Authored feature count reduction, no blanket decimation. Preserve doorway and traversal dimensions; fine trim drops only atdistance. Screen thresholds and runtime tests belong to Unreal integration.",
+  "source_references": [
+    "Docs/CalibrationIntegration/References/settlement-growth-stage-1-homestead.png",
+    "Docs/CalibrationIntegration/References/settlement-growth-stage-2-village.png",
+    "Docs/CalibrationIntegration/References/settlement-growth-stage-3-town.png",
+    "Docs/CalibrationIntegration/References/settlement-growth-stage-4-city.png"
+  ]
+}

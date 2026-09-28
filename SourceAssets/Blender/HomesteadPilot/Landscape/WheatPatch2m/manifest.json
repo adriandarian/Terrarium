@@ -1,0 +1,66 @@
+{
+  "key": "WheatPatch2m",
+  "name": "WheatPatch2m",
+  "mesh_name": "SM_Pilot_WheatPatch2m",
+  "bounds_m": {
+    "min": [
+      -1.0,
+      -1.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      0.9197908043861389
+    ]
+  },
+  "dimensions_m": [
+    2.0,
+    2.0,
+    0.9197908043861389
+  ],
+  "origin": "base-center, Z-up, metres",
+  "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/WheatPatch2m/SM_Pilot_WheatPatch2m.fbx",
+  "fbx_path": "SourceAssets/Blender/HomesteadPilot/Landscape/WheatPatch2m/SM_Pilot_WheatPatch2m.fbx",
+  "blend_path": "SourceAssets/Blender/HomesteadPilot/Landscape/WheatPatch2m/WheatPatch2m.blend",
+  "preview_path": "Docs/HomesteadPilot/Landscape/WheatPatch2m.png",
+  "vertices": 18024,
+  "triangles": 32444,
+  "material_slots": [
+    {
+      "slot": 0,
+      "name": "M_PilotLandscape_Soil",
+      "color_hex": "655540",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/Soil_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 1,
+      "name": "M_PilotLandscape_Wheat",
+      "color_hex": "b7a05b",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/Wheat_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    }
+  ],
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/WheatPatch2m/SM_Pilot_WheatPatch2m.fbx",
+      "triangles": 32444
+    }
+  ],
+  "collision_notes": "Use simple authored-envelope collision for terrain/path; ramp proxy on stair; trunk-only on tree; no collision on foliage/crops. Runtime integration owns collision creation.",
+  "traversal": {
+    "walkable_width_m": null,
+    "stair_riser_m": null,
+    "stair_tread_m": null
+  },
+  "geometry": "Exterior-only voxel canopy surfaces; closed chamfered solids for stone and wood. No internal voxel faces.",
+  "uv_mapping": "Dominant-axis world-unit UV, repeating 1m authored surface textures",
+  "lod_status": "source LOD0 only; runtime LOD/traversal agent owns integration",
+  "validation": "exported, render saved, packaged normal Blender project; Unreal appearance pending"
+}

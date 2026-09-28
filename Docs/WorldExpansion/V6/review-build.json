@@ -1,0 +1,14 @@
+{
+  "native_validation": true,
+  "all_routes": true,
+  "reopen": true,
+  "protected_home": true,
+  "protected_maps": true,
+  "views": 12,
+  "route_count": 13,
+  "browser_url": "http://127.0.0.1:8770/WorldExpansion/V6/review.html",
+  "browser_comparison_controls_verified": true,
+  "browser_landmark_selection_verified": true,
+  "delivered_view": "Current V6 Alderhaven",
+  "native_viewpoints_inspected": 12
+}

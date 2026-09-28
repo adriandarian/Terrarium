@@ -1,0 +1,101 @@
+{
+  "name": "Tide",
+  "source_blend": "SourceAssets/Blender/Tide/Tide.blend",
+  "source_sha256": "29856a09dd449d5907279484ea78c63e05c4c45f1a80d8ce1334e4b28dc3e656",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Tide/Tide.blend",
+  "blend_sha256": "f0b971ab49ebd768a09f3550a39e41aa751ae50052ac901790afe2276857fd5d",
+  "parts_retained": 155,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Tide/SM_HP_Tide_LOD0.fbx",
+      "triangles": 16740,
+      "vertices": 8680,
+      "bounds_m": {
+        "min": [
+          -0.48545336723327637,
+          -0.028324998915195465,
+          -0.018268009647727013
+        ],
+        "max": [
+          0.4907376170158386,
+          0.12929999828338623,
+          1.2827554941177368
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "8ad3bacc3f0acd5ce77ab769101a5707e4006e683c9c23bc46860a7099f870d9",
+      "material_slots": [
+        "M_Tide_Wave.004"
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Tide/SM_HP_Tide_LOD1.fbx",
+      "triangles": 6820,
+      "vertices": 3720,
+      "bounds_m": {
+        "min": [
+          -0.48545336723327637,
+          -0.028324998915195465,
+          -0.018268009647727013
+        ],
+        "max": [
+          0.4907376170158386,
+          0.12929999828338623,
+          1.2827554941177368
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "a8a7e4cd1733511da78dd2bc3c01796ee7d5d330f35cddd789c5fa243ad28cb6",
+      "material_slots": [
+        "M_Tide_Wave.004"
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Tide/SM_HP_Tide_LOD2.fbx",
+      "triangles": 1860,
+      "vertices": 1240,
+      "bounds_m": {
+        "min": [
+          -0.48545336723327637,
+          -0.028324998915195465,
+          -0.018268009647727013
+        ],
+        "max": [
+          0.4907376170158386,
+          0.12929999828338623,
+          1.2827554941177368
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "d2b69f94a00817887d8ba7245cdc59636bafd0d2e6ad50b4bb07317ae73ad9f4",
+      "material_slots": [
+        "M_Tide_Wave.004"
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -0.48545336723327637,
+      -0.028324998915195465,
+      -0.018268009647727013
+    ],
+    "max": [
+      0.4907376170158386,
+      0.12929999828338623,
+      1.2827554941177368
+    ]
+  },
+  "materials": [
+    "M_Tide_Wave.004"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/Tide/SM_Blender_Tide",
+  "collision": "none",
+  "screen_sizes": [
+    1.0,
+    0.16,
+    0.045
+  ]
+}

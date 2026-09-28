@@ -1,0 +1,503 @@
+{
+  "saved_source": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\HomesteadArchitecture.blend",
+  "source_sha256": "2c95aeff2aee81f00d4b38f3e7c64e409674c746977a2bcae145e2781c8284b1",
+  "reopened_normal_project": true,
+  "packed_source_textures": 4,
+  "source_textures_byte_identical": true,
+  "mesh_checks": [
+    {
+      "asset": "Cottage",
+      "lod": 0,
+      "source_bounds_pass": true,
+      "source_dimensions_m": [
+        5.760000228881836,
+        5.759999990463257,
+        5.394999980926514
+      ],
+      "uvs_finite": true,
+      "parts": 48,
+      "fbx_roundtrip_dimensions_m": [
+        5.760000228881836,
+        5.760000228881836,
+        5.394999980926514
+      ],
+      "expected_unreal_dimensions_cm": [
+        576.0000228881836,
+        576.0000228881836,
+        539.4999980926514
+      ],
+      "fbx_uv_and_8_material_slots_pass": true
+    },
+    {
+      "asset": "Cottage",
+      "lod": 1,
+      "source_bounds_pass": true,
+      "source_dimensions_m": [
+        5.760000228881836,
+        5.759999990463257,
+        5.394999980926514
+      ],
+      "uvs_finite": true,
+      "parts": 48,
+      "fbx_roundtrip_dimensions_m": [
+        5.760000228881836,
+        5.760000228881836,
+        5.394999980926514
+      ],
+      "expected_unreal_dimensions_cm": [
+        576.0000228881836,
+        576.0000228881836,
+        539.4999980926514
+      ],
+      "fbx_uv_and_8_material_slots_pass": true
+    },
+    {
+      "asset": "Cottage",
+      "lod": 2,
+      "source_bounds_pass": true,
+      "source_dimensions_m": [
+        5.760000228881836,
+        5.759999990463257,
+        5.394999980926514
+      ],
+      "uvs_finite": true,
+      "parts": 43,
+      "fbx_roundtrip_dimensions_m": [
+        5.760000228881836,
+        5.760000228881836,
+        5.394999980926514
+      ],
+      "expected_unreal_dimensions_cm": [
+        576.0000228881836,
+        576.0000228881836,
+        539.4999980926514
+      ],
+      "fbx_uv_and_8_material_slots_pass": true
+    },
+    {
+      "asset": "Fence",
+      "lod": 0,
+      "source_bounds_pass": true,
+      "source_dimensions_m": [
+        3.0299999713897705,
+        0.23999999463558197,
+        1.2599999904632568
+      ],
+      "uvs_finite": true,
+      "parts": 5,
+      "fbx_roundtrip_dimensions_m": [
+        3.0299999713897705,
+        0.23999999463558197,
+        1.2599999904632568
+      ],
+      "expected_unreal_dimensions_cm": [
+        302.99999713897705,
+        23.999999463558197,
+        125.99999904632568
+      ],
+      "fbx_uv_and_8_material_slots_pass": true
+    },
+    {
+      "asset": "Fence",
+      "lod": 1,
+      "source_bounds_pass": true,
+      "source_dimensions_m": [
+        3.0299999713897705,
+        0.23999999463558197,
+        1.2599999904632568
+      ],
+      "uvs_finite": true,
+      "parts": 5,
+      "fbx_roundtrip_dimensions_m": [
+        3.0299999713897705,
+        0.23999999463558197,
+        1.2599999904632568
+      ],
+      "expected_unreal_dimensions_cm": [
+        302.99999713897705,
+        23.999999463558197,
+        125.99999904632568
+      ],
+      "fbx_uv_and_8_material_slots_pass": true
+    },
+    {
+      "asset": "Fence",
+      "lod": 2,
+      "source_bounds_pass": true,
+      "source_dimensions_m": [
+        3.0299999713897705,
+        0.23000000417232513,
+        1.2599999904632568
+      ],
+      "uvs_finite": true,
+      "parts": 3,
+      "fbx_roundtrip_dimensions_m": [
+        3.0299999713897705,
+        0.23000000417232513,
+        1.2599999904632568
+      ],
+      "expected_unreal_dimensions_cm": [
+        302.99999713897705,
+        23.000000417232513,
+        125.99999904632568
+      ],
+      "fbx_uv_and_8_material_slots_pass": true
+    },
+    {
+      "asset": "Bridge",
+      "lod": 0,
+      "source_bounds_pass": true,
+      "source_dimensions_m": [
+        2.509999990463257,
+        3.640000104904175,
+        1.340000033378601
+      ],
+      "uvs_finite": true,
+      "parts": 8,
+      "fbx_roundtrip_dimensions_m": [
+        2.509999990463257,
+        3.640000104904175,
+        1.340000033378601
+      ],
+      "expected_unreal_dimensions_cm": [
+        250.99999904632568,
+        364.0000104904175,
+        134.0000033378601
+      ],
+      "fbx_uv_and_8_material_slots_pass": true
+    },
+    {
+      "asset": "Bridge",
+      "lod": 1,
+      "source_bounds_pass": true,
+      "source_dimensions_m": [
+        2.509999990463257,
+        3.640000104904175,
+        1.340000033378601
+      ],
+      "uvs_finite": true,
+      "parts": 7,
+      "fbx_roundtrip_dimensions_m": [
+        2.509999990463257,
+        3.640000104904175,
+        1.340000033378601
+      ],
+      "expected_unreal_dimensions_cm": [
+        250.99999904632568,
+        364.0000104904175,
+        134.0000033378601
+      ],
+      "fbx_uv_and_8_material_slots_pass": true
+    },
+    {
+      "asset": "Bridge",
+      "lod": 2,
+      "source_bounds_pass": true,
+      "source_dimensions_m": [
+        2.509999990463257,
+        3.640000104904175,
+        1.340000033378601
+      ],
+      "uvs_finite": true,
+      "parts": 6,
+      "fbx_roundtrip_dimensions_m": [
+        2.509999990463257,
+        3.640000104904175,
+        1.340000033378601
+      ],
+      "expected_unreal_dimensions_cm": [
+        250.99999904632568,
+        364.0000104904175,
+        134.0000033378601
+      ],
+      "fbx_uv_and_8_material_slots_pass": true
+    }
+  ],
+  "cottage_static_support_and_clearance_samples": [
+    {
+      "x_m": -0.3,
+      "y_m": -3.0,
+      "point_support": true,
+      "surface_z_m": 0.11699998378753662,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": -0.3,
+      "y_m": -2.8,
+      "point_support": true,
+      "surface_z_m": 0.1170000433921814,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": -0.3,
+      "y_m": -2.55,
+      "point_support": true,
+      "surface_z_m": 0.2369999885559082,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": -0.3,
+      "y_m": -2.32,
+      "point_support": true,
+      "surface_z_m": 0.24000006914138794,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": -0.3,
+      "y_m": -2.12,
+      "point_support": true,
+      "surface_z_m": 0.24000000953674316,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": -0.3,
+      "y_m": -1.95,
+      "point_support": true,
+      "surface_z_m": 0.24000000953674316,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": -0.3,
+      "y_m": -1.5,
+      "point_support": true,
+      "surface_z_m": 0.24000000953674316,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": -0.3,
+      "y_m": -0.5,
+      "point_support": true,
+      "surface_z_m": 0.24000000953674316,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": -0.3,
+      "y_m": 0.5,
+      "point_support": true,
+      "surface_z_m": 0.24000000953674316,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": -0.3,
+      "y_m": 1.0,
+      "point_support": true,
+      "surface_z_m": 0.24000000953674316,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0,
+      "y_m": -3.0,
+      "point_support": false,
+      "note": "Point lies in a modeled masonry joint; capsule/controller check required in Unreal."
+    },
+    {
+      "x_m": 0,
+      "y_m": -2.8,
+      "point_support": false,
+      "note": "Point lies in a modeled masonry joint; capsule/controller check required in Unreal."
+    },
+    {
+      "x_m": 0,
+      "y_m": -2.55,
+      "point_support": false,
+      "note": "Point lies in a modeled masonry joint; capsule/controller check required in Unreal."
+    },
+    {
+      "x_m": 0,
+      "y_m": -2.32,
+      "point_support": true,
+      "surface_z_m": 0.24000006914138794,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0,
+      "y_m": -2.12,
+      "point_support": true,
+      "surface_z_m": 0.24000000953674316,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0,
+      "y_m": -1.95,
+      "point_support": true,
+      "surface_z_m": 0.1899999976158142,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0,
+      "y_m": -1.5,
+      "point_support": true,
+      "surface_z_m": 0.1899999976158142,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0,
+      "y_m": -0.5,
+      "point_support": true,
+      "surface_z_m": 0.1899999976158142,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0,
+      "y_m": 0.5,
+      "point_support": true,
+      "surface_z_m": 0.1899999976158142,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0,
+      "y_m": 1.0,
+      "point_support": true,
+      "surface_z_m": 0.1899999976158142,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0.3,
+      "y_m": -3.0,
+      "point_support": true,
+      "surface_z_m": 0.11699998378753662,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0.3,
+      "y_m": -2.8,
+      "point_support": true,
+      "surface_z_m": 0.11699998378753662,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0.3,
+      "y_m": -2.55,
+      "point_support": true,
+      "surface_z_m": 0.2369999885559082,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0.3,
+      "y_m": -2.32,
+      "point_support": true,
+      "surface_z_m": 0.24000000953674316,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0.3,
+      "y_m": -2.12,
+      "point_support": true,
+      "surface_z_m": 0.24000006914138794,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0.3,
+      "y_m": -1.95,
+      "point_support": true,
+      "surface_z_m": 0.24000006914138794,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0.3,
+      "y_m": -1.5,
+      "point_support": true,
+      "surface_z_m": 0.24000000953674316,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0.3,
+      "y_m": -0.5,
+      "point_support": true,
+      "surface_z_m": 0.24000000953674316,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0.3,
+      "y_m": 0.5,
+      "point_support": true,
+      "surface_z_m": 0.24000000953674316,
+      "clear_180cm_vertical_ray": true
+    },
+    {
+      "x_m": 0.3,
+      "y_m": 1.0,
+      "point_support": true,
+      "surface_z_m": 0.24000006914138794,
+      "clear_180cm_vertical_ray": true
+    }
+  ],
+  "bridge_deck_samples": [
+    {
+      "x_m": -0.8,
+      "y_m": -1.725,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": -0.8,
+      "y_m": -0.825,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": -0.8,
+      "y_m": 0.075,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": -0.8,
+      "y_m": 0.825,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": -0.8,
+      "y_m": 1.725,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": 0,
+      "y_m": -1.725,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": 0,
+      "y_m": -0.825,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": 0,
+      "y_m": 0.075,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": 0,
+      "y_m": 0.825,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": 0,
+      "y_m": 1.725,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": 0.8,
+      "y_m": -1.725,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": 0.8,
+      "y_m": -0.825,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": 0.8,
+      "y_m": 0.075,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": 0.8,
+      "y_m": 0.825,
+      "deck_z_m": 0.3199999928474426
+    },
+    {
+      "x_m": 0.8,
+      "y_m": 1.725,
+      "deck_z_m": 0.3199999928474426
+    }
+  ],
+  "limitations": "Static sampled rays only; no capsule sweep, movement/controller, navigation, collision import, LOD transition or frame-time test. Unreal integration must report those separately."
+}

@@ -1,0 +1,213 @@
+{
+  "passed": true,
+  "error": null,
+  "configured_spawn_cm": [
+    650,
+    -150,
+    672
+  ],
+  "observation_seconds": 3.20133800000076,
+  "teleports_or_movement_injected": false,
+  "samples": [
+    {
+      "world_time_seconds": 16.000008642673492,
+      "pawn_cm": [
+        650.0,
+        -150.0,
+        657.1500263214111
+      ],
+      "camera_cm": [
+        650.0,
+        -150.0,
+        732.1500263214111
+      ],
+      "near_configured_spawn": true,
+      "grounded": true,
+      "correct_floor_height": true,
+      "camera_above_courtyard": true,
+      "view_target_is_pawn": true,
+      "valid_selected_start": true,
+      "selected_start": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.PlayerStart_0"
+    },
+    {
+      "world_time_seconds": 16.333342134952545,
+      "pawn_cm": [
+        650.0,
+        -150.0,
+        657.1500263214111
+      ],
+      "camera_cm": [
+        650.0,
+        -150.0,
+        732.1500263214111
+      ],
+      "near_configured_spawn": true,
+      "grounded": true,
+      "correct_floor_height": true,
+      "camera_above_courtyard": true,
+      "view_target_is_pawn": true,
+      "valid_selected_start": true,
+      "selected_start": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.PlayerStart_0"
+    },
+    {
+      "world_time_seconds": 16.666675746440887,
+      "pawn_cm": [
+        650.0,
+        -150.0,
+        657.1500263214111
+      ],
+      "camera_cm": [
+        650.0,
+        -150.0,
+        732.1500263214111
+      ],
+      "near_configured_spawn": true,
+      "grounded": true,
+      "correct_floor_height": true,
+      "camera_above_courtyard": true,
+      "view_target_is_pawn": true,
+      "valid_selected_start": true,
+      "selected_start": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.PlayerStart_0"
+    },
+    {
+      "world_time_seconds": 17.00000935792923,
+      "pawn_cm": [
+        650.0,
+        -150.0,
+        657.1500263214111
+      ],
+      "camera_cm": [
+        650.0,
+        -150.0,
+        732.1500263214111
+      ],
+      "near_configured_spawn": true,
+      "grounded": true,
+      "correct_floor_height": true,
+      "camera_above_courtyard": true,
+      "view_target_is_pawn": true,
+      "valid_selected_start": true,
+      "selected_start": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.PlayerStart_0"
+    },
+    {
+      "world_time_seconds": 17.333342850208282,
+      "pawn_cm": [
+        650.0,
+        -150.0,
+        657.1500263214111
+      ],
+      "camera_cm": [
+        650.0,
+        -150.0,
+        732.1500263214111
+      ],
+      "near_configured_spawn": true,
+      "grounded": true,
+      "correct_floor_height": true,
+      "camera_above_courtyard": true,
+      "view_target_is_pawn": true,
+      "valid_selected_start": true,
+      "selected_start": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.PlayerStart_0"
+    },
+    {
+      "world_time_seconds": 17.666676342487335,
+      "pawn_cm": [
+        650.0,
+        -150.0,
+        657.1500263214111
+      ],
+      "camera_cm": [
+        650.0,
+        -150.0,
+        732.1500263214111
+      ],
+      "near_configured_spawn": true,
+      "grounded": true,
+      "correct_floor_height": true,
+      "camera_above_courtyard": true,
+      "view_target_is_pawn": true,
+      "valid_selected_start": true,
+      "selected_start": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.PlayerStart_0"
+    },
+    {
+      "world_time_seconds": 18.000009953975677,
+      "pawn_cm": [
+        650.0,
+        -150.0,
+        657.1500263214111
+      ],
+      "camera_cm": [
+        650.0,
+        -150.0,
+        732.1500263214111
+      ],
+      "near_configured_spawn": true,
+      "grounded": true,
+      "correct_floor_height": true,
+      "camera_above_courtyard": true,
+      "view_target_is_pawn": true,
+      "valid_selected_start": true,
+      "selected_start": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.PlayerStart_0"
+    },
+    {
+      "world_time_seconds": 18.33334356546402,
+      "pawn_cm": [
+        650.0,
+        -150.0,
+        657.1500263214111
+      ],
+      "camera_cm": [
+        650.0,
+        -150.0,
+        732.1500263214111
+      ],
+      "near_configured_spawn": true,
+      "grounded": true,
+      "correct_floor_height": true,
+      "camera_above_courtyard": true,
+      "view_target_is_pawn": true,
+      "valid_selected_start": true,
+      "selected_start": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.PlayerStart_0"
+    },
+    {
+      "world_time_seconds": 18.666676968336105,
+      "pawn_cm": [
+        650.0,
+        -150.0,
+        657.1500263214111
+      ],
+      "camera_cm": [
+        650.0,
+        -150.0,
+        732.1500263214111
+      ],
+      "near_configured_spawn": true,
+      "grounded": true,
+      "correct_floor_height": true,
+      "camera_above_courtyard": true,
+      "view_target_is_pawn": true,
+      "valid_selected_start": true,
+      "selected_start": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.PlayerStart_0"
+    },
+    {
+      "world_time_seconds": 19.000010460615158,
+      "pawn_cm": [
+        650.0,
+        -150.0,
+        657.1500263214111
+      ],
+      "camera_cm": [
+        650.0,
+        -150.0,
+        732.1500263214111
+      ],
+      "near_configured_spawn": true,
+      "grounded": true,
+      "correct_floor_height": true,
+      "camera_above_courtyard": true,
+      "view_target_is_pawn": true,
+      "valid_selected_start": true,
+      "selected_start": "/Game/Terrarium/HomesteadPilot/Maps/UEDPIE_0_StartingHome.StartingHome:PersistentLevel.PlayerStart_0"
+    }
+  ]
+}

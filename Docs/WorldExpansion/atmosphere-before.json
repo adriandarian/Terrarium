@@ -1,0 +1,16 @@
+[
+  {
+    "label": "Baseline_WarmSun",
+    "kind": "sun",
+    "intensity": 22500.0,
+    "atmosphere_sun_light": true,
+    "hidden": false
+  },
+  {
+    "label": "Pass7_DistantAtmosphere",
+    "kind": "fog",
+    "density": 0.05000000074505806,
+    "falloff": 0.0010000000474974513,
+    "start": 6800.0
+  }
+]

@@ -1,0 +1,233 @@
+{
+  "basis": "Initial successful build receipt plus inspection of native Unreal screenshot",
+  "native_capture": "Docs/ScaleCalibration/Unreal/unreal-viewport.png",
+  "camera_crop_note": "Native image has black side bars; all bounds are concept-frame pixels, not full screenshot pixels",
+  "initial_actor_count": 98,
+  "initial_saved": true,
+  "bounds": [
+    {
+      "object": "cottage",
+      "annotated_bounds_px": [
+        198,
+        218,
+        315,
+        338
+      ],
+      "initial_generated_bounds_px": [
+        202.15,
+        218.07,
+        303.85,
+        333.0
+      ],
+      "edge_error_px": [
+        4.15,
+        0.07,
+        -11.15,
+        -5.0
+      ],
+      "width_change_percent": -13.1,
+      "all_bounds_edges_within_annotation_tolerance": false,
+      "visible_silhouette_match": "not established by geometry bounds",
+      "image_clipped_bounds_px": [
+        202.15,
+        218.07,
+        303.85,
+        333.0
+      ]
+    },
+    {
+      "object": "shed",
+      "annotated_bounds_px": [
+        104,
+        307,
+        162,
+        358
+      ],
+      "initial_generated_bounds_px": [
+        105.82,
+        302.96,
+        161.19,
+        355.0
+      ],
+      "edge_error_px": [
+        1.82,
+        -4.04,
+        -0.81,
+        -3.0
+      ],
+      "width_change_percent": -4.5,
+      "all_bounds_edges_within_annotation_tolerance": true,
+      "visible_silhouette_match": "not established by geometry bounds",
+      "image_clipped_bounds_px": [
+        105.82,
+        302.96,
+        161.19,
+        355.0
+      ]
+    },
+    {
+      "object": "person",
+      "annotated_bounds_px": [
+        168,
+        367,
+        186,
+        396
+      ],
+      "initial_generated_bounds_px": [
+        172.0,
+        365.86,
+        182.0,
+        395.0
+      ],
+      "edge_error_px": [
+        4.0,
+        -1.14,
+        -4.0,
+        -1.0
+      ],
+      "width_change_percent": -44.4,
+      "all_bounds_edges_within_annotation_tolerance": true,
+      "visible_silhouette_match": "not established by geometry bounds",
+      "image_clipped_bounds_px": [
+        172.0,
+        365.86,
+        182.0,
+        395.0
+      ]
+    },
+    {
+      "object": "wheat",
+      "annotated_bounds_px": [
+        231,
+        81,
+        480,
+        193
+      ],
+      "initial_generated_bounds_px": [
+        235.0,
+        75.93,
+        494.0,
+        190.0
+      ],
+      "edge_error_px": [
+        4.0,
+        -5.07,
+        14.0,
+        -3.0
+      ],
+      "width_change_percent": 4.0,
+      "all_bounds_edges_within_annotation_tolerance": true,
+      "visible_silhouette_match": "not established by geometry bounds",
+      "image_clipped_bounds_px": [
+        235.0,
+        75.93,
+        481,
+        190.0
+      ],
+      "comparison_note": "Right extent494 is outside481px frame; compare clipped right edge481 against annotation480. Raw bounds are retained above."
+    },
+    {
+      "object": "garden",
+      "annotated_bounds_px": [
+        272,
+        338,
+        352,
+        390
+      ],
+      "initial_generated_bounds_px": [
+        274.0,
+        342.69,
+        351.0,
+        389.0
+      ],
+      "edge_error_px": [
+        2.0,
+        4.69,
+        -1.0,
+        -1.0
+      ],
+      "width_change_percent": -3.7,
+      "all_bounds_edges_within_annotation_tolerance": true,
+      "visible_silhouette_match": "not established by geometry bounds",
+      "image_clipped_bounds_px": [
+        274.0,
+        342.69,
+        351.0,
+        389.0
+      ]
+    },
+    {
+      "object": "bridge",
+      "annotated_bounds_px": [
+        245,
+        542,
+        373,
+        618
+      ],
+      "initial_generated_bounds_px": [
+        251.6,
+        541.5,
+        368.38,
+        614.63
+      ],
+      "edge_error_px": [
+        6.6,
+        -0.5,
+        -4.62,
+        -3.37
+      ],
+      "width_change_percent": -8.8,
+      "all_bounds_edges_within_annotation_tolerance": false,
+      "visible_silhouette_match": "not established by geometry bounds",
+      "image_clipped_bounds_px": [
+        251.6,
+        541.5,
+        368.38,
+        614.63
+      ]
+    },
+    {
+      "object": "stairs",
+      "annotated_bounds_px": [
+        145,
+        417,
+        205,
+        474
+      ],
+      "initial_generated_bounds_px": [
+        145.0,
+        417.0,
+        204.0,
+        471.13
+      ],
+      "edge_error_px": [
+        0.0,
+        0.0,
+        -1.0,
+        -2.87
+      ],
+      "width_change_percent": -1.7,
+      "all_bounds_edges_within_annotation_tolerance": true,
+      "visible_silhouette_match": "not established by geometry bounds",
+      "image_clipped_bounds_px": [
+        145.0,
+        417.0,
+        204.0,
+        471.13
+      ]
+    }
+  ],
+  "blocking_findings": [
+    "Stair top treads occluded by main terrace; whole-mesh bounds hide this visibility failure",
+    "Cottage projected width101.7px versus117px target",
+    "Person projected width10px versus18px target; screen edges sit at annotation tolerance but silhouette too narrow for useful marker comparison"
+  ],
+  "correction": "One scoped correction script prepared; updated evidence must be assessed after save and recapture",
+  "not_approved": [
+    "Fine detail",
+    "Tree species/crown fidelity",
+    "Lighting/material fidelity",
+    "Whole-scene similarity"
+  ],
+  "comparison_method": "Use image-clipped bounds for cropped forms, raw projected bounds otherwise; numerical agreement does not demonstrate visible silhouette agreement."
+}

@@ -1,0 +1,124 @@
+{
+  "name": "EmberCrest",
+  "source_blend": "SourceAssets/Blender/EmberCrest/EmberCrest.blend",
+  "source_sha256": "3e7fde2d4ca966dbc1ab1cd31eddd3ac0c93fd3ed6eef620c0079c582fcab69d",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/EmberCrest/EmberCrest.blend",
+  "blend_sha256": "f6cf63666a85078e6f9b63d1d73d3e786a6b8698b730b9af9e2eae6e2c920a39",
+  "parts_retained": 582,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/EmberCrest/SM_HP_EmberCrest_LOD0.fbx",
+      "triangles": 65624,
+      "vertices": 33976,
+      "bounds_m": {
+        "min": [
+          -0.4560000002384186,
+          -0.1600000113248825,
+          -0.02658185176551342
+        ],
+        "max": [
+          0.4560000002384186,
+          0.14000000059604645,
+          1.1662591695785522
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "4990f5d3cdd6afbf6832d1e1ddc6ba19785ca292878fed7bdc02a5da6124ed56",
+      "material_slots": [
+        "M_EmberCrest_Field.002",
+        "M_EmberCrest_Frame.002",
+        "M_EmberCrest_Enamel.002"
+      ],
+      "material_face_counts": [
+        22626,
+        3370,
+        6720
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/EmberCrest/SM_HP_EmberCrest_LOD1.fbx",
+      "triangles": 26820,
+      "vertices": 14574,
+      "bounds_m": {
+        "min": [
+          -0.4560000002384186,
+          -0.1600000113248825,
+          -0.026096468791365623
+        ],
+        "max": [
+          0.4560000002384186,
+          0.14000000059604645,
+          1.1662591695785522
+        ]
+      },
+      "max_bounds_delta_m": 0.00048538297414779663,
+      "sha256": "9f0a4161ee0f29e05664dd04d6ad6f8c1a2ca56175856ac2bc3fdbcbc6151868",
+      "material_slots": [
+        "M_EmberCrest_Field.002",
+        "M_EmberCrest_Frame.002",
+        "M_EmberCrest_Enamel.002"
+      ],
+      "material_face_counts": [
+        10885,
+        1611,
+        3241
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/EmberCrest/SM_HP_EmberCrest_LOD2.fbx",
+      "triangles": 7400,
+      "vertices": 4864,
+      "bounds_m": {
+        "min": [
+          -0.4560000002384186,
+          -0.1600000113248825,
+          -0.027186835184693336
+        ],
+        "max": [
+          0.4560000002384186,
+          0.14000000059604645,
+          1.1662591695785522
+        ]
+      },
+      "max_bounds_delta_m": 0.0006049834191799164,
+      "sha256": "da87061cf8aaa461b8ab02a6d294f45f44575b91278f68f62c0b31e1a19fffaf",
+      "material_slots": [
+        "M_EmberCrest_Field.002",
+        "M_EmberCrest_Frame.002",
+        "M_EmberCrest_Enamel.002"
+      ],
+      "material_face_counts": [
+        2498,
+        354,
+        752
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -0.4560000002384186,
+      -0.1600000113248825,
+      -0.02658185176551342
+    ],
+    "max": [
+      0.4560000002384186,
+      0.14000000059604645,
+      1.1662591695785522
+    ]
+  },
+  "materials": [
+    "M_EmberCrest_Field.002",
+    "M_EmberCrest_Frame.002",
+    "M_EmberCrest_Enamel.002"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/EmberCrest/SM_Blender_EmberCrest",
+  "collision": "none",
+  "screen_sizes": [
+    1.0,
+    0.16,
+    0.045
+  ]
+}

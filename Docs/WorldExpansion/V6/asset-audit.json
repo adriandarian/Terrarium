@@ -1,0 +1,468 @@
+{
+  "Cottage": {
+    "min": [
+      -2.8800003051757814,
+      -2.72,
+      0.0
+    ],
+    "max": [
+      2.8800003051757814,
+      3.04,
+      5.395
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Roof.M_HP_Roof",
+      "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Wood.M_HP_Wood",
+      "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Plaster.M_HP_Plaster",
+      "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Stone.M_HP_Stone",
+      "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Teal.M_HP_Teal",
+      "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Iron.M_HP_Iron",
+      "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Moss.M_HP_Moss",
+      "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Brass.M_HP_Brass"
+    ]
+  },
+  "Fence": {
+    "min": [
+      -1.515,
+      -0.12000013351440429,
+      0.0
+    ],
+    "max": [
+      1.515,
+      0.12000013351440429,
+      1.26
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Wood.M_HP_Wood",
+      "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Iron.M_HP_Iron",
+      "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Moss.M_HP_Moss"
+    ]
+  },
+  "Bridge": {
+    "min": [
+      -1.2550001525878907,
+      -1.8200001525878906,
+      0.0
+    ],
+    "max": [
+      1.2550001525878907,
+      1.8200001525878906,
+      1.34
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Wood.M_HP_Wood",
+      "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Iron.M_HP_Iron"
+    ]
+  },
+  "MossCliff4m": {
+    "min": [
+      -2.018795166015625,
+      -2.0187457275390623,
+      0.0
+    ],
+    "max": [
+      2.018863525390625,
+      2.0229656982421873,
+      2.0139999389648438
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneShade.M_PilotLandscape_StoneShade",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Moss.M_PilotLandscape_Moss",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Grass.M_PilotLandscape_Grass"
+    ]
+  },
+  "FineCliffColumn1m": {
+    "min": [
+      -0.5053926086425782,
+      -0.5056921005249023,
+      0.0
+    ],
+    "max": [
+      0.5058987045288086,
+      0.5041527557373047,
+      3.2095001220703123
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneShade.M_PilotLandscape_StoneShade",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Grass.M_PilotLandscape_Grass",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Moss.M_PilotLandscape_Moss"
+    ]
+  },
+  "BroadTree5m": {
+    "min": [
+      -1.8400001525878906,
+      -1.9550001525878906,
+      0.0
+    ],
+    "max": [
+      1.84,
+      1.955,
+      4.992020568847656
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Bark.M_PilotLandscape_Bark",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Leaf.M_PilotLandscape_Leaf",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_LeafLight.M_PilotLandscape_LeafLight",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_LeafShade.M_PilotLandscape_LeafShade",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneShade.M_PilotLandscape_StoneShade",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Moss.M_PilotLandscape_Moss"
+    ]
+  },
+  "ShrubGroundcover": {
+    "min": [
+      -0.8649141693115234,
+      -0.789376220703125,
+      0.0
+    ],
+    "max": [
+      0.8361832427978516,
+      0.8290256500244141,
+      0.853238754272461
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_LeafLight.M_PilotLandscape_LeafLight",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_LeafShade.M_PilotLandscape_LeafShade",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Leaf.M_PilotLandscape_Leaf",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Grass.M_PilotLandscape_Grass"
+    ]
+  },
+  "WornPath2m": {
+    "min": [
+      -1.0000000762939454,
+      -1.0148008728027345,
+      0.0
+    ],
+    "max": [
+      1.0046627807617188,
+      1.0000000762939454,
+      0.0920208740234375
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Path.M_PilotLandscape_Path",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone"
+    ]
+  },
+  "StoneStairs2mRise": {
+    "min": [
+      -1.0000001525878905,
+      -1.8,
+      0.0
+    ],
+    "max": [
+      1.0000001525878905,
+      1.8,
+      2.0
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneShade.M_PilotLandscape_StoneShade",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Moss.M_PilotLandscape_Moss"
+    ]
+  },
+  "WheatPatch2m": {
+    "min": [
+      -1.0000000762939454,
+      -1.0000000762939454,
+      0.0
+    ],
+    "max": [
+      1.0000000762939454,
+      1.0000000762939454,
+      0.9197908020019532
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Soil.M_PilotLandscape_Soil",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Wheat.M_PilotLandscape_Wheat"
+    ]
+  },
+  "GardenPatch2m": {
+    "min": [
+      -1.0000000762939454,
+      -1.0000000762939454,
+      0.0
+    ],
+    "max": [
+      1.0000000762939454,
+      1.0000000762939454,
+      0.2700000190734863
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Soil.M_PilotLandscape_Soil",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_LeafLight.M_PilotLandscape_LeafLight",
+      "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Crop.M_PilotLandscape_Crop"
+    ]
+  },
+  "Lodge": {
+    "min": [
+      -2.600000305175781,
+      -2.0245001220703127,
+      0.0
+    ],
+    "max": [
+      2.600000305175781,
+      2.640000305175781,
+      5.6
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Lodge_0_M_Lodge.Lodge_0_M_Lodge"
+    ]
+  },
+  "CivicHall": {
+    "min": [
+      -3.99,
+      -1.7990003967285155,
+      0.0
+    ],
+    "max": [
+      3.9900003051757813,
+      2.885,
+      8.689999389648438
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/CivicHall_0_M_CivicHall.CivicHall_0_M_CivicHall"
+    ]
+  },
+  "HomesteadCompound": {
+    "min": [
+      -4.590357055664063,
+      -3.6953997802734375,
+      -0.0003925636410713196
+    ],
+    "max": [
+      4.595394897460937,
+      3.0901083374023437,
+      4.775
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/HomesteadCompound_0_M_Cottage.HomesteadCompound_0_M_Cottage",
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/HomesteadCompound_1_M_HomesteadCompound.HomesteadCompound_1_M_HomesteadCompound"
+    ]
+  },
+  "MarketStall": {
+    "min": [
+      -2.0399998474121093,
+      -1.0650002288818359,
+      -0.0042999908328056335
+    ],
+    "max": [
+      2.28,
+      1.375,
+      2.6057998657226564
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MarketStall_0_M_MarketStall.MarketStall_0_M_MarketStall"
+    ]
+  },
+  "Sign": {
+    "min": [
+      -1.1350000762939454,
+      -0.2695000076293945,
+      0.0015000030398368835
+    ],
+    "max": [
+      1.2025,
+      0.5375001144409179,
+      2.685
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Sign_0_M_Sign.Sign_0_M_Sign"
+    ]
+  },
+  "Lantern": {
+    "min": [
+      -0.84,
+      -0.335,
+      0.0020000040531158447
+    ],
+    "max": [
+      0.7470000457763671,
+      0.38549999237060545,
+      3.1814999389648437
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Lantern_0_M_Lantern.Lantern_0_M_Lantern"
+    ]
+  },
+  "MossTonic": {
+    "min": [
+      -0.2355000114440918,
+      -0.20395002365112305,
+      0.019000000953674316
+    ],
+    "max": [
+      0.3933461761474609,
+      0.20450002670288087,
+      0.855
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MossTonic_0_M_MossTonic_Glass.MossTonic_0_M_MossTonic_Glass",
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MossTonic_1_M_MossTonic_Liquid.MossTonic_1_M_MossTonic_Liquid",
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MossTonic_2_M_MossTonic_Trim.MossTonic_2_M_MossTonic_Trim"
+    ]
+  },
+  "TrailPrism": {
+    "min": [
+      -0.27743844985961913,
+      -0.27743844985961913,
+      0.0
+    ],
+    "max": [
+      0.27743844985961913,
+      0.27743844985961913,
+      1.12
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/TrailPrism_0_M_TrailPrism_Crystal.TrailPrism_0_M_TrailPrism_Crystal",
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/TrailPrism_1_M_TrailPrism_Core.TrailPrism_1_M_TrailPrism_Core",
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/TrailPrism_2_M_TrailPrism_Frame.TrailPrism_2_M_TrailPrism_Frame"
+    ]
+  },
+  "EmberCrest": {
+    "min": [
+      -0.4560000228881836,
+      -0.14000003814697265,
+      -0.026581852436065673
+    ],
+    "max": [
+      0.4560000228881836,
+      0.16000001907348632,
+      1.1662591552734376
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/EmberCrest_0_M_EmberCrest_Field.EmberCrest_0_M_EmberCrest_Field",
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/EmberCrest_1_M_EmberCrest_Frame.EmberCrest_1_M_EmberCrest_Frame",
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/EmberCrest_2_M_EmberCrest_Enamel.EmberCrest_2_M_EmberCrest_Enamel"
+    ]
+  },
+  "DeepDelverMark": {
+    "min": [
+      -0.47538974761962893,
+      -0.13800003051757812,
+      -0.01068979024887085
+    ],
+    "max": [
+      0.47538974761962893,
+      0.17775148391723633,
+      1.2952558898925781
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/DeepDelverMark_0_M_DeepDelverMark_Frame.DeepDelverMark_0_M_DeepDelverMark_Frame",
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/DeepDelverMark_1_M_DeepDelverMark_Cavern.DeepDelverMark_1_M_DeepDelverMark_Cavern",
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/DeepDelverMark_2_M_DeepDelverMark_Crystal.DeepDelverMark_2_M_DeepDelverMark_Crystal"
+    ]
+  },
+  "Grove": {
+    "min": [
+      -0.5062722015380859,
+      -0.29282997131347654,
+      -0.0013204142451286316
+    ],
+    "max": [
+      0.5581201171875,
+      0.008099996447563172,
+      1.1291287231445313
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Grove_0_M_Grove_Leaf.Grove_0_M_Grove_Leaf",
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Grove_1_M_Grove_Stem.Grove_1_M_Grove_Stem",
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Grove_2_M_Grove_Soil.Grove_2_M_Grove_Soil"
+    ]
+  },
+  "Tide": {
+    "min": [
+      -0.48545337677001954,
+      -0.12930002212524414,
+      -0.018268009424209596
+    ],
+    "max": [
+      0.49073760986328124,
+      0.02832499027252197,
+      1.2827554321289063
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Tide_0_M_Tide_Wave.Tide_0_M_Tide_Wave"
+    ]
+  },
+  "Ember": {
+    "min": [
+      -0.2554427909851074,
+      -0.7469462585449219,
+      -0.0020000003278255463
+    ],
+    "max": [
+      0.922305679321289,
+      0.19135637283325196,
+      1.344091339111328
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Ember_0_M_Ember_Flame.Ember_0_M_Ember_Flame"
+    ]
+  },
+  "Storm": {
+    "min": [
+      -0.1025779151916504,
+      -0.6976093292236328,
+      -0.04956912040710449
+    ],
+    "max": [
+      0.22118377685546875,
+      0.6057298660278321,
+      1.4079978942871094
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Storm_0_M_Storm_Lightning.Storm_0_M_Storm_Lightning",
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Storm_1_M_Storm_Cloud.Storm_1_M_Storm_Cloud"
+    ]
+  },
+  "BridgeThreshold": {
+    "min": [
+      -1.1699999237060548,
+      -0.4300000762939453,
+      -0.28
+    ],
+    "max": [
+      1.17,
+      0.48500011444091795,
+      0.0709999942779541
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/BridgeThreshold_0_M_BridgeThreshold.BridgeThreshold_0_M_BridgeThreshold"
+    ]
+  },
+  "BlueShed": {
+    "min": [
+      -0.955,
+      -1.015,
+      0.0
+    ],
+    "max": [
+      0.955,
+      0.825,
+      2.15
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/BlueShed_0_M_EnvironmentPigment.BlueShed_0_M_EnvironmentPigment"
+    ]
+  },
+  "Tower": {
+    "min": [
+      -0.500999984741211,
+      -0.500999984741211,
+      0.0
+    ],
+    "max": [
+      0.589375,
+      0.500999984741211,
+      2.635
+    ],
+    "materials": [
+      "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Tower_0_M_EnvironmentPigment.Tower_0_M_EnvironmentPigment"
+    ]
+  }
+}

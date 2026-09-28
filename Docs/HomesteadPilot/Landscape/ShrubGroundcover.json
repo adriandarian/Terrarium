@@ -1,0 +1,84 @@
+{
+  "key": "ShrubGroundcover",
+  "name": "ShrubGroundcover",
+  "mesh_name": "SM_Pilot_ShrubGroundcover",
+  "bounds_m": {
+    "min": [
+      -0.8649141788482666,
+      -0.8290256857872009,
+      0.0
+    ],
+    "max": [
+      0.8361832499504089,
+      0.7893761992454529,
+      0.8532387614250183
+    ]
+  },
+  "dimensions_m": [
+    1.7010974287986755,
+    1.6184018850326538,
+    0.8532387614250183
+  ],
+  "origin": "base-center, Z-up, metres",
+  "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/ShrubGroundcover/SM_Pilot_ShrubGroundcover.fbx",
+  "fbx_path": "SourceAssets/Blender/HomesteadPilot/Landscape/ShrubGroundcover/SM_Pilot_ShrubGroundcover.fbx",
+  "blend_path": "SourceAssets/Blender/HomesteadPilot/Landscape/ShrubGroundcover/ShrubGroundcover.blend",
+  "preview_path": "Docs/HomesteadPilot/Landscape/ShrubGroundcover.png",
+  "vertices": 1732,
+  "triangles": 3284,
+  "material_slots": [
+    {
+      "slot": 0,
+      "name": "M_PilotLandscape_LeafLight",
+      "color_hex": "82904e",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/LeafLight_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 1,
+      "name": "M_PilotLandscape_LeafShade",
+      "color_hex": "475932",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/LeafShade_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 2,
+      "name": "M_PilotLandscape_Leaf",
+      "color_hex": "697742",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/Leaf_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 3,
+      "name": "M_PilotLandscape_Grass",
+      "color_hex": "77804b",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/Grass_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    }
+  ],
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/ShrubGroundcover/SM_Pilot_ShrubGroundcover.fbx",
+      "triangles": 3284
+    }
+  ],
+  "collision_notes": "Use simple authored-envelope collision for terrain/path; ramp proxy on stair; trunk-only on tree; no collision on foliage/crops. Runtime integration owns collision creation.",
+  "traversal": {
+    "walkable_width_m": null,
+    "stair_riser_m": null,
+    "stair_tread_m": null
+  },
+  "geometry": "Exterior-only voxel canopy surfaces; closed chamfered solids for stone and wood. No internal voxel faces.",
+  "uv_mapping": "Dominant-axis world-unit UV, repeating 1m authored surface textures",
+  "lod_status": "source LOD0 only; runtime LOD/traversal agent owns integration",
+  "validation": "exported, render saved, packaged normal Blender project; Unreal appearance pending"
+}

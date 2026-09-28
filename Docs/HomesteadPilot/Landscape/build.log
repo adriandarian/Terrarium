@@ -1,0 +1,37 @@
+00:05.219  blend            | Read blend: "C:\Users\hello\Projects\Terrarium\SourceAssets\Blender\DetailCalibration\DetailCalibration.blend"
+01:03.594  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Landscape\MossCliff4m.png'
+01:09.375  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Landscape\FineCliffColumn1m.png'
+01:20.250  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Landscape\BroadTree5m.png'
+01:32.172  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Landscape\ShrubGroundcover.png'
+01:46.453  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Landscape\WornPath2m.png'
+01:57.734  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Landscape\StoneStairs2mRise.png'
+02:12.031  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Landscape\WheatPatch2m.png'
+02:24.781  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Landscape\GardenPatch2m.png'
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Landscape\\MossCliff4m\\SM_Pilot_MossCliff4m.fbx'
+export finished in 0.0388 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Landscape\\FineCliffColumn1m\\SM_Pilot_FineCliffColumn1m.fbx'
+export finished in 0.0210 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Landscape\\BroadTree5m\\SM_Pilot_BroadTree5m.fbx'
+export finished in 0.0947 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Landscape\\ShrubGroundcover\\SM_Pilot_ShrubGroundcover.fbx'
+export finished in 0.0632 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Landscape\\WornPath2m\\SM_Pilot_WornPath2m.fbx'
+export finished in 0.0751 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Landscape\\StoneStairs2mRise\\SM_Pilot_StoneStairs2mRise.fbx'
+export finished in 0.0638 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Landscape\\WheatPatch2m\\SM_Pilot_WheatPatch2m.fbx'
+export finished in 0.0839 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Landscape\\GardenPatch2m\\SM_Pilot_GardenPatch2m.fbx'
+export finished in 0.0781 sec.
+TERRARIUM_LANDSCAPE_PILOT_COMPLETE 8
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+
+Blender quit

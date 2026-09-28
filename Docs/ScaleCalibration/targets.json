@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "status": "manual concept annotations; editor blockout awaiting visual review",
+  "reference": "Docs/Environment/reference.png",
+  "image_size_px": [481, 809],
+  "coordinates": "top-left origin; x right; y down; bounds [left, top, right, bottom]; ground polygons are projected at their explicit level",
+  "camera_convention": {"projection": "orthographic", "yaw_degrees": 135, "pitch_degrees": -45, "world_units_per_pixel": 5.5, "ortho_width": 2645.5, "aspect_ratio": 0.5945611866501854, "provenance": "Existing reference.py and inspected editor camera; retained for comparison, not independently inferred from image"},
+  "scale_convention": {"person_height_world_units": 180, "world_units": "Unreal centimetres used as an arbitrary consistent construction scale", "not_measured": ["absolute world dimensions", "hidden building depth", "exact camera pitch", "terrace elevation in centimetres"], "terrace_heights": {"upper": 880, "main": 560, "landing": 280, "south": 280, "water": 0}, "height_provenance": "Retained construction elevations. Their projected vertical drops (41 px and 36 px) approximately agree with visible terrace faces, but are not measured metric heights."},
+  "objects": [
+    {"id": "cottage", "bounds_px": [198, 218, 315, 338], "anchor_px": [251, 333], "footprint_px": [[208,309],[252,333],[298,307],[254,283]], "level": "main", "confidence": "medium", "tolerance_px": 10, "wall_height": 260, "roof_rise": 220, "note": "Bounds include roof and chimney, exclude fence and cast shadow. Ground back corners inferred behind walls."},
+    {"id": "shed", "bounds_px": [104, 307, 162, 358], "anchor_px": [132, 355], "footprint_px": [[109,342],[132,355],[158,340],[135,327]], "level": "main", "confidence": "medium", "tolerance_px": 5, "wall_height": 150, "roof_rise": 80, "note": "Small blue-green roof left of cottage; back ground contacts occluded."},
+    {"id": "person", "bounds_px": [168, 367, 186, 396], "anchor_px": [177, 394], "level": "main", "confidence": "high", "tolerance_px": 4, "height": 180, "note": "Main scene figure only; inset character is a separate illustration and is excluded."},
+    {"id": "wheat", "bounds_px": [231, 81, 480, 193], "footprint_px": [[235,110],[295,83],[494,155],[440,190]], "level": "upper", "confidence": "medium", "tolerance_px": 8, "height": 55, "note": "Right side continues beyond frame; stalk tips lie above footprint. Footprint approximates planted area, not every stalk."},
+    {"id": "garden", "bounds_px": [272, 338, 352, 390], "footprint_px": [[274,364],[307,345],[351,369],[316,389]], "level": "main", "confidence": "medium", "tolerance_px": 6, "height": 18, "note": "Planted bed only; fenced yard is a separate boundary and much larger."},
+    {"id": "fenced_yard", "bounds_px": [143, 269, 435, 409], "footprint_px": [[146,307],[241,269],[431,340],[430,367],[338,409]], "level": "main", "confidence": "medium", "tolerance_px": 8, "height": 65, "note": "Open polygon; access gap remains between first and last points."},
+    {"id": "bridge", "bounds_px": [245, 542, 373, 618], "footprint_px": [[252,559],[281,546],[368,597],[339,614]], "level": "landing", "confidence": "high", "tolerance_px": 6, "height": 12, "note": "Deck endpoints connect landing and south-bank path; rails about 4 px above deck. Span axis approximately (267,552) to (354,606)."},
+    {"id": "stairs", "bounds_px": [145, 417, 205, 474], "footprint_px": [[145,430],[175,417],[204,456],[174,471]], "level": "main", "confidence": "medium", "tolerance_px": 6, "top_edge_px": [[145,430],[175,417]], "bottom_edge_px": [[174,471],[204,456]], "note": "About 7-9 visible riser bands; eight blockout steps, not asset reconstruction."}
+  ],
+  "terraces": [
+    {"id": "upper", "top": 880, "bottom": 560, "confidence": "medium", "tolerance_px": 8, "polygon_px": [[170,-80],[620,-80],[620,280],[480,256],[438,245],[402,232],[374,230],[357,219],[334,218],[316,207],[286,203],[271,192],[246,184],[241,168],[218,153],[186,139]], "edge_px": [[186,139],[218,153],[241,168],[246,184],[271,192],[286,203],[316,207],[334,218],[357,219],[374,230],[402,232],[438,245],[480,256]], "note": "Visible grass/cliff boundary; unobserved outer corners extend beyond crop."},
+    {"id": "main", "top": 560, "bottom": 0, "confidence": "high", "tolerance_px": 7, "polygon_px": [[-100,-80],[600,-80],[600,306],[480,337],[449,351],[420,362],[388,378],[360,390],[332,400],[306,413],[278,426],[254,428],[233,419],[212,412],[188,415],[171,428],[147,434],[124,431],[99,442],[71,444],[42,431],[19,424],[-100,410]], "edge_px": [[0,417],[42,431],[71,444],[99,442],[124,431],[147,434],[171,428],[188,415],[212,412],[233,419],[254,428],[278,426],[306,413],[332,400],[360,390],[388,378],[420,362],[449,351],[480,337]], "note": "Continuous main terrace; most rear area is hidden by upper terrace."},
+    {"id": "landing", "top": 280, "bottom": 0, "confidence": "medium", "tolerance_px": 8, "polygon_px": [[121,474],[175,455],[220,458],[265,448],[318,428],[373,411],[432,381],[540,347],[560,476],[481,494],[444,503],[411,514],[378,512],[346,529],[313,550],[282,560],[265,561],[242,555],[218,558],[193,545],[166,535],[148,518],[123,511]], "edge_px": [[123,511],[148,518],[166,535],[193,545],[218,558],[242,555],[265,561],[282,560],[313,550],[346,529],[378,512],[411,514],[444,503],[481,494]], "note": "Lower landing edge adjacent to water."},
+    {"id": "south", "top": 280, "bottom": 0, "confidence": "medium", "tolerance_px": 9, "polygon_px": [[-100,571],[0,607],[31,617],[65,635],[98,651],[128,663],[153,673],[181,669],[209,668],[233,660],[258,651],[285,642],[307,630],[332,615],[357,616],[384,614],[410,596],[439,591],[482,583],[600,550],[600,950],[-100,950]], "edge_px": [[0,607],[31,617],[65,635],[98,651],[128,663],[153,673],[181,669],[209,668],[233,660],[258,651],[285,642],[307,630],[332,615],[357,616],[384,614],[410,596],[439,591],[482,583]], "note": "Far bank behind bridge endpoint; foreground hidden partly by reference inset."}
+  ],
+  "paths": [
+    {"id": "north_main", "level": "main", "width_px": 23, "tolerance_px": 5, "confidence": "medium", "points_px": [[63,-15],[91,23],[112,48],[142,74],[115,100],[75,132],[42,166],[39,187],[76,212],[112,237],[128,255],[111,284],[75,317],[48,346],[54,369],[103,399],[154,425]]},
+    {"id": "door_link", "level": "main", "width_px": 19, "tolerance_px": 4, "confidence": "medium", "points_px": [[91,391],[137,377],[180,357],[217,338],[230,322]]},
+    {"id": "courtyard_link", "level": "main", "width_px": 16, "tolerance_px": 4, "confidence": "medium", "points_px": [[216,339],[242,350],[269,352]]},
+    {"id": "landing_link", "level": "landing", "width_px": 26, "tolerance_px": 5, "confidence": "high", "points_px": [[188,471],[212,493],[239,519],[267,551]]},
+    {"id": "south_link", "level": "south", "width_px": 27, "tolerance_px": 5, "confidence": "medium", "points_px": [[354,606],[383,637],[353,663],[309,693],[268,724],[236,755],[215,789],[204,847]]}
+  ],
+  "tree_clusters": [
+    {"id": "north_left", "anchor_px": [55,82], "bounds_px": [29,29,78,90], "level": "main", "confidence": "low", "tolerance_px": 10},
+    {"id": "north_middle", "anchor_px": [303,64], "bounds_px": [269,0,339,70], "level": "upper", "confidence": "medium", "tolerance_px": 10},
+    {"id": "east_courtyard", "anchor_px": [449,296], "bounds_px": [425,243,480,307], "level": "main", "confidence": "low", "tolerance_px": 12},
+    {"id": "east_landing", "anchor_px": [457,434], "bounds_px": [429,373,480,446], "level": "landing", "confidence": "low", "tolerance_px": 12},
+    {"id": "southwest_bank", "anchor_px": [24,673], "bounds_px": [0,620,54,690], "level": "south", "confidence": "low", "tolerance_px": 12},
+    {"id": "southeast", "anchor_px": [445,749], "bounds_px": [401,679,481,765], "level": "south", "confidence": "medium", "tolerance_px": 12},
+    {"id": "foreground", "anchor_px": [342,806], "bounds_px": [312,740,382,809], "level": "south", "confidence": "low", "tolerance_px": 12}
+  ],
+  "ratios": [
+    {"name": "cottage visible height / person visible height", "target": 4.14, "tolerance_fraction": 0.17, "basis": "120 / 29 px; includes cottage footprint depth, so not a metric height ratio"},
+    {"name": "shed width / cottage width", "target": 0.496, "tolerance_fraction": 0.13, "basis": "58 / 117 px"},
+    {"name": "garden width / cottage width", "target": 0.684, "tolerance_fraction": 0.14, "basis": "80 / 117 px, crop bed not full fenced yard"},
+    {"name": "bridge deck transverse width / landing path width", "target": 1.24, "tolerance_fraction": 0.2, "basis": "Approx 32 / 26 px, perpendicular screen distances depend on orientation"}
+  ],
+  "exclusions": ["Reference inset at approximately [28,697,218,786] is not world geometry", "Shadows excluded from silhouette bounds", "No assertion that live rendered scene currently meets these measurements"]
+}

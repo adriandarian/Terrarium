@@ -1,0 +1,53 @@
+{
+  "method": "Unreal FBX native A/B import: admitted filter=True versus temporary filter=False; no admitted asset edited",
+  "assets": [
+    {
+      "name": "DeepDelverMark",
+      "level": 0,
+      "source_sha256": "b136516f8477589a0c229cfd2bd156d76601d624ebbe92ef5294529e42b7de6b",
+      "source_triangles": 64948,
+      "native_without_degenerate_filter": 64940,
+      "native_with_degenerate_filter": 64904,
+      "native_removed_triangles": 36,
+      "unfiltered_matches_source": false,
+      "admitted_asset_unchanged": true,
+      "temporary_asset_deleted": true
+    },
+    {
+      "name": "DeepDelverMark",
+      "level": 1,
+      "source_sha256": "8d769cb7b0cfec28bfb81fd47331666e01da52126b24d13cf8674b6f1a5cb32a",
+      "source_triangles": 26532,
+      "native_without_degenerate_filter": 26524,
+      "native_with_degenerate_filter": 26516,
+      "native_removed_triangles": 8,
+      "unfiltered_matches_source": false,
+      "admitted_asset_unchanged": true,
+      "temporary_asset_deleted": true
+    },
+    {
+      "name": "Storm",
+      "level": 0,
+      "source_sha256": "d575faf064c4c0b44b722d859f5430f060ffe3421318f471c156938a2b1f28ed",
+      "source_triangles": 8796,
+      "native_without_degenerate_filter": 8794,
+      "native_with_degenerate_filter": 8791,
+      "native_removed_triangles": 3,
+      "unfiltered_matches_source": false,
+      "admitted_asset_unchanged": true,
+      "temporary_asset_deleted": true
+    },
+    {
+      "name": "Storm",
+      "level": 1,
+      "source_sha256": "e03b48d6056d94a982f7813ac0496e187b97091cc245601443d163d62ff9815a",
+      "source_triangles": 4002,
+      "native_without_degenerate_filter": 4001,
+      "native_with_degenerate_filter": 4001,
+      "native_removed_triangles": 0,
+      "unfiltered_matches_source": false,
+      "admitted_asset_unchanged": true,
+      "temporary_asset_deleted": true
+    }
+  ]
+}

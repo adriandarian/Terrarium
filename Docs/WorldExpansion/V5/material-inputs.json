@@ -1,0 +1,24 @@
+{
+  "MaterialExpressionTextureSampleParameter2D": [
+    "UVs",
+    "Apply View MipBias"
+  ],
+  "MaterialExpressionComponentMask": [
+    "None"
+  ],
+  "MaterialExpressionPower": [
+    "Base",
+    "Exp"
+  ],
+  "MaterialExpressionLinearInterpolate": [
+    "A",
+    "B",
+    "Alpha"
+  ],
+  "MaterialExpressionAbs": [
+    "None"
+  ],
+  "MaterialExpressionSaturate": [
+    "None"
+  ]
+}

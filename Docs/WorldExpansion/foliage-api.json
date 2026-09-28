@@ -1,0 +1,5 @@
+{
+  "actor_instance_guid": "(Guid):  [Read-Only] The instance GUID for this actor; this guid will be unique for actors from instanced streaming levels.\r\nsee: ActorGuid\r\nnote: This is not guaranteed to be valid during PostLoad, but safe to access from RegisterAllComponents.",
+  "add_instances": "X.add_instances(world_context_object, foliage_type, transforms) -> None\r\nAdd Instances\r\n\r\nArgs:\r\n    world_context_object (Object): \r\n    foliage_type (FoliageType): \r\n    transforms (Array[Transform]):",
+  "remove_all_instances": "X.remove_all_instances(world_context_object, foliage_type) -> None\r\nRemove All Instances\r\n\r\nArgs:\r\n    world_context_object (Object): \r\n    foliage_type (FoliageType):"
+}

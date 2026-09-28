@@ -1,0 +1,31 @@
+{
+  "assets": [
+    {
+      "name": "BroadTree5mV2",
+      "reopened": true,
+      "scene": "Terrarium_Pilot_BroadTree5mV2",
+      "triangles": 11584,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 14.937235740427843,
+      "uv_layers": 1,
+      "material_slots": 6,
+      "packed_image_count": 6,
+      "files_present": true
+    },
+    {
+      "name": "StoneStairs2mRiseV2",
+      "reopened": true,
+      "scene": "Terrarium_Pilot_StoneStairs2mRiseV2",
+      "triangles": 4532,
+      "boundary_edges": 0,
+      "nonmanifold_edges": 0,
+      "signed_volume_m3": 7.733059108548425,
+      "uv_layers": 1,
+      "material_slots": 4,
+      "packed_image_count": 4,
+      "files_present": true
+    }
+  ],
+  "status": "sources reopened and geometry inspected; Unreal validation remains separate"
+}

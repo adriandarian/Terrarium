@@ -1,0 +1,1544 @@
+{
+  "revision": 6,
+  "archive": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegionV5Archive",
+  "texture": "/Game/Terrarium/WorldExpansion/V6/Textures/T_LimestonePaving.T_LimestonePaving",
+  "texture_sha256": "702e5baed876e10ece23ee11db1323a2cd62e4417eaaeac634e82be18aa86558",
+  "retired_actors": [
+    "WX_Alderhaven_MarketStall_00081",
+    "WX_Alderhaven_MarketStall_00082",
+    "WX_Alderhaven_MarketStall_00083",
+    "WX_Alderhaven_MarketStall_00084",
+    "WX_Alderhaven_Lodge_00094",
+    "WX_Alderhaven_Cottage_00097",
+    "WX_Alderhaven_Cottage_00100",
+    "WX_Alderhaven_Cottage_00103",
+    "WX_Alderhaven_Cottage_00106",
+    "WX_Alderhaven_Cottage_00109",
+    "WX_Alderhaven_Cottage_00112",
+    "WX_Alderhaven_Lodge_00115",
+    "WX_Alderhaven_Cottage_00118",
+    "WX_Alderhaven_Cottage_00121",
+    "WX_Alderhaven_Lodge_00124",
+    "WX_Alderhaven_Cottage_00127",
+    "WX_Alderhaven_Cottage_00130",
+    "WX_Alderhaven_Lodge_00133",
+    "WX_Alderhaven_Cottage_00136",
+    "WX_Alderhaven_Cottage_00139",
+    "WX_Alderhaven_Lodge_00238",
+    "WX_Alderhaven_Cottage_00241",
+    "WX_Alderhaven_Cottage_00244",
+    "WX_Alderhaven_Cottage_00247",
+    "WX_Alderhaven_Cottage_00250",
+    "WX_Alderhaven_Cottage_00253",
+    "WX_Alderhaven_Cottage_00256",
+    "WX_Alderhaven_Lodge_00259",
+    "WX_Alderhaven_Cottage_00262",
+    "WX_Alderhaven_Cottage_00265",
+    "WX_Alderhaven_Lodge_00268",
+    "WX_Alderhaven_Cottage_00271",
+    "WX_Alderhaven_Cottage_00274",
+    "WX_Alderhaven_Lodge_00277",
+    "WX_Alderhaven_Cottage_00280",
+    "WX_Alderhaven_Cottage_00283",
+    "WX_Alderhaven_Lodge_00382",
+    "WX_Alderhaven_Cottage_00385",
+    "WX_Alderhaven_Cottage_00388",
+    "WX_Alderhaven_Cottage_00391",
+    "WX_Alderhaven_Cottage_00394",
+    "WX_Alderhaven_Cottage_00397",
+    "WX_Alderhaven_Cottage_00400",
+    "WX_Alderhaven_Lodge_00403",
+    "WX_Alderhaven_Cottage_00406",
+    "WX_Alderhaven_Cottage_00409",
+    "WX_Alderhaven_Lodge_00412",
+    "WX_Alderhaven_Cottage_00415",
+    "WX_Alderhaven_Cottage_00418",
+    "WX_Alderhaven_Lodge_00421",
+    "WX_Alderhaven_Cottage_00424",
+    "WX_Alderhaven_Cottage_00427",
+    "WX_Alderhaven_HomesteadCompound_00526",
+    "WX_Alderhaven_Cottage_00529",
+    "WX_Alderhaven_Cottage_00532",
+    "WX_Alderhaven_HomesteadCompound_00535",
+    "WX_Alderhaven_Cottage_00538",
+    "WX_Alderhaven_Cottage_00541",
+    "WX_Alderhaven_HomesteadCompound_00544",
+    "WX_Alderhaven_Lodge_00547",
+    "WX_Alderhaven_Cottage_00550",
+    "WX_Alderhaven_HomesteadCompound_00553",
+    "WX_Alderhaven_Lodge_00556",
+    "WX_Alderhaven_Cottage_00559",
+    "WX_Alderhaven_HomesteadCompound_00562",
+    "WX_Alderhaven_Lodge_00565",
+    "WX_Alderhaven_Cottage_00568",
+    "WX_Alderhaven_HomesteadCompound_00571",
+    "WX_Alderhaven_Cottage_00670",
+    "WX_Alderhaven_Cottage_00673",
+    "WX_Alderhaven_Cottage_00674",
+    "WX_Alderhaven_Cottage_00677",
+    "WX_Alderhaven_Cottage_00678",
+    "WX_Alderhaven_Lodge_00681",
+    "WX_Alderhaven_Cottage_00682",
+    "WX_Alderhaven_Lodge_00685",
+    "WX_Alderhaven_Cottage_00686",
+    "WX_Alderhaven_Cottage_00689",
+    "WX_Alderhaven_Cottage_00690",
+    "WX_Alderhaven_Cottage_00693",
+    "WX_Alderhaven_Cottage_00866",
+    "WX_Alderhaven_Cottage_00869",
+    "WX_Alderhaven_Cottage_00870",
+    "WX_Alderhaven_Cottage_00873",
+    "WX_Alderhaven_Cottage_00874",
+    "WX_Alderhaven_Lodge_00877",
+    "WX_Alderhaven_Cottage_00878",
+    "WX_Alderhaven_Lodge_00881",
+    "WX_Alderhaven_Cottage_00882",
+    "WX_Alderhaven_Cottage_00885",
+    "WX_Alderhaven_Cottage_00886",
+    "WX_Alderhaven_Cottage_00889",
+    "WX_Alderhaven_CivicHall_01062",
+    "WX_Alderhaven_Tower_01063",
+    "WX_Alderhaven_Tower_01064",
+    "WX_Alderhaven_CivicHall_01065",
+    "WX_Alderhaven_Lodge_01066",
+    "WX_Alderhaven_Lodge_01067",
+    "WX_Alderhaven_Cottage_01068",
+    "WX_Alderhaven_Cottage_01069",
+    "WX_Alderhaven_Cottage_01070",
+    "WX_Alderhaven_Cottage_01071",
+    "WX_Stonegate_MarketStall_01323",
+    "WX_Stonegate_MarketStall_01324",
+    "WX_Stonegate_MarketStall_01325",
+    "WX_Stonegate_MarketStall_01326",
+    "WX_Stonegate_Lodge_01336",
+    "WX_Stonegate_Cottage_01339",
+    "WX_Stonegate_Cottage_01342",
+    "WX_Stonegate_Cottage_01345",
+    "WX_Stonegate_Cottage_01348",
+    "WX_Stonegate_Cottage_01351",
+    "WX_Stonegate_Cottage_01354",
+    "WX_Stonegate_Cottage_01357",
+    "WX_Stonegate_Lodge_01360",
+    "WX_Stonegate_Lodge_01438",
+    "WX_Stonegate_Cottage_01441",
+    "WX_Stonegate_Cottage_01444",
+    "WX_Stonegate_Cottage_01447",
+    "WX_Stonegate_Cottage_01450",
+    "WX_Stonegate_Cottage_01453",
+    "WX_Stonegate_Cottage_01456",
+    "WX_Stonegate_Cottage_01459",
+    "WX_Stonegate_Lodge_01462",
+    "WX_Stonegate_Lodge_01540",
+    "WX_Stonegate_Cottage_01543",
+    "WX_Stonegate_Cottage_01546",
+    "WX_Stonegate_Cottage_01549",
+    "WX_Stonegate_Cottage_01552",
+    "WX_Stonegate_Cottage_01555",
+    "WX_Stonegate_Cottage_01558",
+    "WX_Stonegate_Cottage_01561",
+    "WX_Stonegate_Lodge_01564",
+    "WX_Stonegate_Lodge_01642",
+    "WX_Stonegate_Cottage_01645",
+    "WX_Stonegate_Cottage_01648",
+    "WX_Stonegate_Cottage_01651",
+    "WX_Stonegate_Cottage_01654",
+    "WX_Stonegate_Cottage_01657",
+    "WX_Stonegate_Cottage_01660",
+    "WX_Stonegate_Cottage_01663",
+    "WX_Stonegate_Lodge_01666",
+    "WX_Stonegate_CivicHall_01744",
+    "WX_Stonegate_Cottage_01745",
+    "WX_Stonegate_Cottage_01748",
+    "WX_Stonegate_Cottage_01751",
+    "WX_Stonegate_Cottage_01754",
+    "WX_Stonegate_Cottage_01757",
+    "WX_Stonegate_Cottage_01760",
+    "WX_Stonegate_Cottage_01763",
+    "WX_Stonegate_Cottage_01766",
+    "WX_Stonegate_Lodge_01769",
+    "WX_Stonegate_Lodge_01770",
+    "WX_Stonegate_Lodge_01771",
+    "WX_Stonegate_Lodge_01772",
+    "WX_Stonegate_Tower_01773",
+    "WX_Stonegate_Tower_01774",
+    "WX_Stonegate_Tower_02041",
+    "WX_Stonegate_Tower_02042",
+    "WX_Stonegate_Tower_02043",
+    "WX_Stonegate_Tower_02044",
+    "WX_Stonegate_Tower_02045",
+    "WX_Stonegate_Tower_02046",
+    "WX_Stonegate_Tower_02047",
+    "WX_Stonegate_Tower_02048",
+    "WX_Brookmere_Lodge_02147",
+    "WX_Brookmere_Lodge_02150",
+    "WX_Brookmere_Cottage_02153",
+    "WX_Brookmere_Cottage_02156",
+    "WX_Brookmere_Lodge_02159",
+    "WX_Brookmere_Lodge_02162",
+    "WX_Brookmere_Cottage_02165",
+    "WX_Brookmere_Cottage_02168",
+    "WX_Brookmere_Lodge_02192",
+    "WX_Brookmere_Lodge_02195",
+    "WX_Brookmere_Cottage_02198",
+    "WX_Brookmere_Cottage_02201",
+    "WX_Brookmere_Lodge_02204",
+    "WX_Brookmere_Lodge_02207",
+    "WX_Brookmere_Cottage_02210",
+    "WX_Brookmere_Cottage_02213",
+    "WX_Brookmere_Lodge_02237",
+    "WX_Brookmere_MarketStall_02238",
+    "WX_Brookmere_MarketStall_02239",
+    "WX_Brookmere_Tower_02240",
+    "WX_Reedbank_Lodge_02386",
+    "WX_Reedbank_Lodge_02389",
+    "WX_Reedbank_Cottage_02392",
+    "WX_Reedbank_Cottage_02395",
+    "WX_Reedbank_Lodge_02398",
+    "WX_Reedbank_Lodge_02401",
+    "WX_Reedbank_Cottage_02404",
+    "WX_Reedbank_Cottage_02407",
+    "WX_Reedbank_Lodge_02431",
+    "WX_Reedbank_Lodge_02434",
+    "WX_Reedbank_Cottage_02437",
+    "WX_Reedbank_Cottage_02440",
+    "WX_Reedbank_Lodge_02443",
+    "WX_Reedbank_Lodge_02446",
+    "WX_Reedbank_Cottage_02449",
+    "WX_Reedbank_Cottage_02452",
+    "WX_Reedbank_Lodge_02476",
+    "WX_Reedbank_MarketStall_02477",
+    "WX_Reedbank_MarketStall_02478",
+    "WX_Reedbank_Tower_02479",
+    "WX_Highfield_Lodge_02625",
+    "WX_Highfield_Lodge_02628",
+    "WX_Highfield_Cottage_02631",
+    "WX_Highfield_Cottage_02634",
+    "WX_Highfield_Lodge_02637",
+    "WX_Highfield_Lodge_02640",
+    "WX_Highfield_Cottage_02643",
+    "WX_Highfield_Cottage_02646",
+    "WX_Highfield_Lodge_02670",
+    "WX_Highfield_Lodge_02673",
+    "WX_Highfield_Cottage_02676",
+    "WX_Highfield_Cottage_02679",
+    "WX_Highfield_Lodge_02682",
+    "WX_Highfield_Lodge_02685",
+    "WX_Highfield_Cottage_02688",
+    "WX_Highfield_Cottage_02691",
+    "WX_Highfield_Lodge_02715",
+    "WX_Highfield_MarketStall_02716",
+    "WX_Highfield_MarketStall_02717",
+    "WX_Highfield_Tower_02718",
+    "WX_Dressing_Lodge_00000",
+    "WX_Dressing_Cottage_00002",
+    "WX_Dressing_Cottage_00004",
+    "WX_Dressing_Cottage_00006",
+    "WX_Dressing_Lodge_00008",
+    "WX_Dressing_Cottage_00010",
+    "WX_Dressing_Cottage_00012",
+    "WX_Dressing_Cottage_00014",
+    "WX_Dressing_Lodge_00016",
+    "WX_Dressing_Cottage_00018",
+    "WX_Dressing_Cottage_00020",
+    "WX_Dressing_Cottage_00022",
+    "WX_Dressing_Lodge_00024",
+    "WX_Dressing_Cottage_00026",
+    "WX_Dressing_Cottage_00028",
+    "WX_Dressing_Cottage_00030",
+    "WX_Dressing_Lodge_00032",
+    "WX_Dressing_Cottage_00034",
+    "WX_Dressing_Cottage_00036",
+    "WX_Dressing_Cottage_00038",
+    "WX_Dressing_Lodge_00040",
+    "WX_Dressing_Cottage_00042",
+    "WX_Dressing_Cottage_00044",
+    "WX_Dressing_Cottage_00046",
+    "WX_Dressing_GardenWell_00624",
+    "WX_Dressing_MarketStall_00625",
+    "WX_Dressing_MarketStall_00627"
+  ],
+  "retired_foliage_types": [
+    "/Game/Terrarium/WorldExpansion/SettlementFoliage/FT_WX_Settlement_BroadTree5m.FT_WX_Settlement_BroadTree5m",
+    "/Game/Terrarium/WorldExpansion/SettlementFoliage/FT_WX_Settlement_GardenPatch2m.FT_WX_Settlement_GardenPatch2m",
+    "/Game/Terrarium/WorldExpansion/SettlementFoliage/FT_WX_Settlement_Lantern.FT_WX_Settlement_Lantern",
+    "/Game/Terrarium/WorldExpansion/SettlementFoliage/FT_WX_Settlement_MossCliff4m.FT_WX_Settlement_MossCliff4m",
+    "/Game/Terrarium/WorldExpansion/SettlementFoliage/FT_WX_Settlement_ShrubGroundcover.FT_WX_Settlement_ShrubGroundcover",
+    "/Game/Terrarium/WorldExpansion/SettlementFoliage/FT_WX_Settlement_Sign.FT_WX_Settlement_Sign",
+    "/Game/Terrarium/WorldExpansion/SettlementFoliage/FT_WX_Settlement_WheatPatch2m.FT_WX_Settlement_WheatPatch2m",
+    "/Game/Terrarium/WorldExpansion/SettlementFoliage/FT_WX_Settlement_WornPath2m.FT_WX_Settlement_WornPath2m",
+    "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_BroadTree5m.FT_WX_Dressing_BroadTree5m",
+    "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_Fence.FT_WX_Dressing_Fence",
+    "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_GardenPatch2m.FT_WX_Dressing_GardenPatch2m",
+    "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_Lantern.FT_WX_Dressing_Lantern",
+    "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_MossCliff4m.FT_WX_Dressing_MossCliff4m",
+    "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_ShrubGroundcover.FT_WX_Dressing_ShrubGroundcover",
+    "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_Sign.FT_WX_Dressing_Sign",
+    "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_WornPath2m.FT_WX_Dressing_WornPath2m"
+  ],
+  "geometry": [
+    {
+      "label": "WX6_Alderhaven_Lanes",
+      "mesh": "/Game/Terrarium/WorldExpansion/V6/Meshes/SM_Alderhaven_Lanes.SM_Alderhaven_Lanes",
+      "triangles": 82,
+      "material": "/Game/Terrarium/WorldExpansion/V6/Materials/M_LimestonePaving.M_LimestonePaving"
+    },
+    {
+      "label": "WX6_Stonegate_Lanes",
+      "mesh": "/Game/Terrarium/WorldExpansion/V6/Meshes/SM_Stonegate_Lanes.SM_Stonegate_Lanes",
+      "triangles": 43,
+      "material": "/Game/Terrarium/WorldExpansion/V6/Materials/M_LimestonePaving.M_LimestonePaving"
+    },
+    {
+      "label": "WX6_Brookmere_Lanes",
+      "mesh": "/Game/Terrarium/WorldExpansion/V6/Meshes/SM_Brookmere_Lanes.SM_Brookmere_Lanes",
+      "triangles": 31,
+      "material": "/Game/Terrarium/WorldExpansion/V6/Materials/M_LimestonePaving.M_LimestonePaving"
+    },
+    {
+      "label": "WX6_Reedbank_Lanes",
+      "mesh": "/Game/Terrarium/WorldExpansion/V6/Meshes/SM_Reedbank_Lanes.SM_Reedbank_Lanes",
+      "triangles": 35,
+      "material": "/Game/Terrarium/WorldExpansion/V6/Materials/M_LimestonePaving.M_LimestonePaving"
+    },
+    {
+      "label": "WX6_Highfield_Lanes",
+      "mesh": "/Game/Terrarium/WorldExpansion/V6/Meshes/SM_Highfield_Lanes.SM_Highfield_Lanes",
+      "triangles": 23,
+      "material": "/Game/Terrarium/WorldExpansion/V6/Materials/M_LimestonePaving.M_LimestonePaving"
+    },
+    {
+      "label": "WX6_CivicTerrace",
+      "mesh": "/Game/Terrarium/WorldExpansion/V6/Meshes/SM_CivicTerrace.SM_CivicTerrace",
+      "triangles": 12,
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+    },
+    {
+      "label": "WX6_CivicTerraceSurface",
+      "mesh": "/Game/Terrarium/WorldExpansion/V6/Meshes/SM_CivicTerraceSurface.SM_CivicTerraceSurface",
+      "triangles": 2,
+      "material": "/Game/Terrarium/WorldExpansion/V6/Materials/M_LimestonePaving.M_LimestonePaving"
+    },
+    {
+      "label": "WX6_CivicRamp",
+      "mesh": "/Game/Terrarium/WorldExpansion/V6/Meshes/SM_CivicRamp.SM_CivicRamp",
+      "triangles": 2,
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+    },
+    {
+      "label": "WX6_BellTowerStone",
+      "mesh": "/Game/Terrarium/WorldExpansion/V6/Meshes/SM_BellTowerStone.SM_BellTowerStone",
+      "triangles": 1188,
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+    },
+    {
+      "label": "WX6_BellTowerRoof",
+      "mesh": "/Game/Terrarium/WorldExpansion/V6/Meshes/SM_BellTowerRoof.SM_BellTowerRoof",
+      "triangles": 4,
+      "material": "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Roof.M_HP_Roof"
+    },
+    {
+      "label": "WX6_StonegateBastions",
+      "mesh": "/Game/Terrarium/WorldExpansion/V6/Meshes/SM_StonegateBastions.SM_StonegateBastions",
+      "triangles": 168,
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone"
+    }
+  ],
+  "actors": [
+    {
+      "label": "WX6_Alderhaven_CivicHall_00000",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_CivicHall.SM_WX_CivicHall"
+    },
+    {
+      "label": "WX6_Alderhaven_GardenWell_00006",
+      "mesh": "/Game/Terrarium/Meshes/SM_GardenWell_v2_Detail.SM_GardenWell_v2_Detail"
+    },
+    {
+      "label": "WX6_Alderhaven_MarketStall_00007",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_MarketStall.SM_WX_MarketStall"
+    },
+    {
+      "label": "WX6_Alderhaven_MarketStall_00008",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_MarketStall.SM_WX_MarketStall"
+    },
+    {
+      "label": "WX6_Alderhaven_MarketStall_00009",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_MarketStall.SM_WX_MarketStall"
+    },
+    {
+      "label": "WX6_Alderhaven_MarketStall_00010",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_MarketStall.SM_WX_MarketStall"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00011",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00017",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00023",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00029",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00035",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00041",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00047",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00053",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00059",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00065",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00071",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00077",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00083",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00088",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00094",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00100",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00106",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00112",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00118",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00124",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00130",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00136",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00142",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00148",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00154",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00160",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00166",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00172",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00178",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00184",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00190",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00196",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00202",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00208",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00214",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00220",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00226",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00232",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00237",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00243",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00249",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00255",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00261",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00267",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00273",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00279",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00285",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00291",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00297",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00303",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00309",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00315",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00321",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00327",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00333",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00339",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00345",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00351",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00357",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00363",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00369",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00375",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00381",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00387",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00393",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00399",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00405",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00411",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00417",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00423",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00429",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00435",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00441",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00447",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00453",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00459",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00465",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00471",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00477",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00483",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00488",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00494",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00500",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00506",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00512",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00518",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00524",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00530",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00536",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00542",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00548",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00554",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00560",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00566",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00572",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00578",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00584",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00590",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00596",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00602",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00608",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00614",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00620",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00626",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00632",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00638",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00644",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00650",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00656",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00662",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00668",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00674",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00680",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00686",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00692",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00698",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00704",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00710",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Cottage_00716",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00722",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00728",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Alderhaven_Lodge_00734",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_CivicHall_01158",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_CivicHall.SM_WX_CivicHall"
+    },
+    {
+      "label": "WX6_Stonegate_GardenWell_01164",
+      "mesh": "/Game/Terrarium/Meshes/SM_GardenWell_v2_Detail.SM_GardenWell_v2_Detail"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01165",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01171",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01177",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01183",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01189",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01195",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01201",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01207",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01213",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01219",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01225",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01231",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01237",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01243",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01249",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01255",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01261",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01267",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01273",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01279",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01285",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01291",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01297",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01303",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01309",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01315",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01321",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01327",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01333",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01339",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01345",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01351",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01357",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01363",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01369",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01375",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01381",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01387",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01393",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01399",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01405",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01411",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01417",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01423",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01429",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01435",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01441",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01447",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01453",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01459",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01465",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01471",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01477",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01483",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01489",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01495",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01501",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01507",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Cottage_01513",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Stonegate_Lodge_01519",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Brookmere_Lodge_01695",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Brookmere_GardenWell_01701",
+      "mesh": "/Game/Terrarium/Meshes/SM_GardenWell_v2_Detail.SM_GardenWell_v2_Detail"
+    },
+    {
+      "label": "WX6_Brookmere_Lodge_01702",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Brookmere_Lodge_01708",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01714",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Lodge_01720",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01726",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01732",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01738",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01744",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Lodge_01750",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01756",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01762",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01768",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01774",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Lodge_01780",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01786",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01792",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01798",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01804",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01810",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Lodge_01816",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Brookmere_Lodge_01822",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01828",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01834",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01840",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01846",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01852",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Brookmere_Cottage_01858",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Lodge_02022",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Reedbank_MarketStall_02028",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_MarketStall.SM_WX_MarketStall"
+    },
+    {
+      "label": "WX6_Reedbank_MarketStall_02029",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_MarketStall.SM_WX_MarketStall"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02030",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Lodge_02036",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02041",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Lodge_02047",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Reedbank_Lodge_02053",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02059",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02065",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02070",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02076",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Lodge_02082",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02088",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02094",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02100",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Lodge_02106",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02112",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02118",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Lodge_02124",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02130",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02136",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02142",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02148",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02154",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02160",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02166",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02172",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02178",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Lodge_02184",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02190",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02196",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02202",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Lodge_02208",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02214",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02220",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Reedbank_Cottage_02226",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Highfield_Lodge_02354",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Highfield_GardenWell_02360",
+      "mesh": "/Game/Terrarium/Meshes/SM_GardenWell_v2_Detail.SM_GardenWell_v2_Detail"
+    },
+    {
+      "label": "WX6_Highfield_Cottage_02361",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Highfield_Cottage_02367",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Highfield_Cottage_02373",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Highfield_Lodge_02379",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Highfield_Lodge_02385",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Highfield_Lodge_02391",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Highfield_Cottage_02397",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Highfield_Cottage_02403",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Highfield_Lodge_02409",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Highfield_Cottage_02415",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Highfield_Cottage_02420",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Highfield_Lodge_02426",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Highfield_Lodge_02432",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Highfield_Lodge_02438",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge"
+    },
+    {
+      "label": "WX6_Highfield_Cottage_02444",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Highfield_Cottage_02450",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Highfield_Cottage_02456",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Highfield_Cottage_02462",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    },
+    {
+      "label": "WX6_Highfield_Cottage_02468",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage"
+    }
+  ],
+  "foliage": [
+    {
+      "asset": "Fence",
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_Fence.FT_WX6_Fence",
+      "count": 795,
+      "components": [
+        {
+          "path": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_4",
+          "count": 795
+        }
+      ]
+    },
+    {
+      "asset": "GardenPatch2m",
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_GardenPatch2m.FT_WX6_GardenPatch2m",
+      "count": 534,
+      "components": [
+        {
+          "path": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+          "count": 534
+        }
+      ]
+    },
+    {
+      "asset": "BroadTree5m",
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_BroadTree5m.FT_WX6_BroadTree5m",
+      "count": 429,
+      "components": [
+        {
+          "path": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_32",
+          "count": 429
+        }
+      ]
+    },
+    {
+      "asset": "MossCliff4m",
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_MossCliff4m.FT_WX6_MossCliff4m",
+      "count": 539,
+      "components": [
+        {
+          "path": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_33",
+          "count": 539
+        }
+      ]
+    },
+    {
+      "asset": "WheatPatch2m",
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_WheatPatch2m.FT_WX6_WheatPatch2m",
+      "count": 770,
+      "components": [
+        {
+          "path": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_55",
+          "count": 770
+        }
+      ]
+    },
+    {
+      "asset": "Lantern",
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_Lantern.FT_WX6_Lantern",
+      "count": 94,
+      "components": [
+        {
+          "path": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_56",
+          "count": 94
+        }
+      ]
+    },
+    {
+      "asset": "ShrubGroundcover",
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_ShrubGroundcover.FT_WX6_ShrubGroundcover",
+      "count": 840,
+      "components": [
+        {
+          "path": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_57",
+          "count": 840
+        }
+      ]
+    }
+  ],
+  "road_materials": [
+    "WX_CityRoad",
+    "WX_BrookmereRoad",
+    "WX_ReedbankRoad",
+    "WX_HighfieldRoad",
+    "WX_StonegateRoad",
+    "WX_WesternTradeRoad",
+    "WX_EasternTradeRoad"
+  ]
+}

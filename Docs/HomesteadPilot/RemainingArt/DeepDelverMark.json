@@ -1,0 +1,124 @@
+{
+  "name": "DeepDelverMark",
+  "source_blend": "SourceAssets/Blender/DeepDelverMark/DeepDelverMark.blend",
+  "source_sha256": "a9c4103d00611a221a2bb9b94da35097f9c71eab4052e20c66c2f0390c306f34",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/DeepDelverMark/DeepDelverMark.blend",
+  "blend_sha256": "963c58b6411effadba73ca477803d4a4767984e3b0a7f2d65ebca374fb6cab52",
+  "parts_retained": 585,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/DeepDelverMark/SM_HP_DeepDelverMark_LOD0.fbx",
+      "triangles": 64948,
+      "vertices": 33636,
+      "bounds_m": {
+        "min": [
+          -0.4753897488117218,
+          -0.17775148153305054,
+          -0.010689790360629559
+        ],
+        "max": [
+          0.4753897488117218,
+          0.1379999965429306,
+          1.2952558994293213
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "b136516f8477589a0c229cfd2bd156d76601d624ebbe92ef5294529e42b7de6b",
+      "material_slots": [
+        "M_DeepDelverMark_Frame.002",
+        "M_DeepDelverMark_Cavern.007",
+        "M_DeepDelverMark_Crystal.007"
+      ],
+      "material_face_counts": [
+        1330,
+        30130,
+        984
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/DeepDelverMark/SM_HP_DeepDelverMark_LOD1.fbx",
+      "triangles": 26532,
+      "vertices": 14428,
+      "bounds_m": {
+        "min": [
+          -0.4750005006790161,
+          -0.1775757372379303,
+          -0.010229178704321384
+        ],
+        "max": [
+          0.4750005006790161,
+          0.1379999965429306,
+          1.2950347661972046
+        ]
+      },
+      "max_bounds_delta_m": 0.00046061165630817413,
+      "sha256": "8d769cb7b0cfec28bfb81fd47331666e01da52126b24d13cf8674b6f1a5cb32a",
+      "material_slots": [
+        "M_DeepDelverMark_Frame.002",
+        "M_DeepDelverMark_Cavern.007",
+        "M_DeepDelverMark_Crystal.007"
+      ],
+      "material_face_counts": [
+        650,
+        14506,
+        478
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/DeepDelverMark/SM_HP_DeepDelverMark_LOD2.fbx",
+      "triangles": 7304,
+      "vertices": 4814,
+      "bounds_m": {
+        "min": [
+          -0.47600001096725464,
+          -0.17800000309944153,
+          -0.011547005735337734
+        ],
+        "max": [
+          0.47600001096725464,
+          0.1379999965429306,
+          1.2955739498138428
+        ]
+      },
+      "max_bounds_delta_m": 0.0008572153747081757,
+      "sha256": "ce974f4830cfb92518cdb7c1961fc5aa7fafb98e1ae1fe3a1918ad2adb30750b",
+      "material_slots": [
+        "M_DeepDelverMark_Frame.002",
+        "M_DeepDelverMark_Cavern.007",
+        "M_DeepDelverMark_Crystal.007"
+      ],
+      "material_face_counts": [
+        162,
+        3346,
+        114
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -0.4753897488117218,
+      -0.17775148153305054,
+      -0.010689790360629559
+    ],
+    "max": [
+      0.4753897488117218,
+      0.1379999965429306,
+      1.2952558994293213
+    ]
+  },
+  "materials": [
+    "M_DeepDelverMark_Frame.002",
+    "M_DeepDelverMark_Cavern.007",
+    "M_DeepDelverMark_Crystal.007"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/DeepDelverMark/SM_Blender_DeepDelverMark",
+  "collision": "none",
+  "screen_sizes": [
+    1.0,
+    0.16,
+    0.045
+  ]
+}

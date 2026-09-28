@@ -1,0 +1,101 @@
+{
+  "name": "Sign",
+  "source_blend": "SourceAssets/Blender/Sign/Sign.blend",
+  "source_sha256": "14759dffa3022507b3f26b36c6f57dd341b606f53cc5497c548cbf3bab01f687",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Sign/Sign.blend",
+  "blend_sha256": "bccce4b671f09cd0d09278864a18b3e1c84fa86c300bf230936b58df9c0532f8",
+  "parts_retained": 76,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Sign/SM_HP_Sign_LOD0.fbx",
+      "triangles": 8208,
+      "vertices": 4256,
+      "bounds_m": {
+        "min": [
+          -1.1350001096725464,
+          -0.5375000238418579,
+          0.0015000030398368835
+        ],
+        "max": [
+          1.2024999856948853,
+          0.2695000171661377,
+          2.684999942779541
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "65202267b90d96ed688521dc2a0aaf508992bfdf699458e9294ac3f1f42ac2ff",
+      "material_slots": [
+        "M_Sign"
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Sign/SM_HP_Sign_LOD1.fbx",
+      "triangles": 3344,
+      "vertices": 1824,
+      "bounds_m": {
+        "min": [
+          -1.1350001096725464,
+          -0.5375000238418579,
+          0.0015000030398368835
+        ],
+        "max": [
+          1.2024999856948853,
+          0.2695000171661377,
+          2.684999942779541
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "a3aa61492ca748912eaddc0c565144413d322344a4cea9e692636285b31d1da0",
+      "material_slots": [
+        "M_Sign"
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Sign/SM_HP_Sign_LOD2.fbx",
+      "triangles": 912,
+      "vertices": 608,
+      "bounds_m": {
+        "min": [
+          -1.1350001096725464,
+          -0.5375000238418579,
+          0.0015000030398368835
+        ],
+        "max": [
+          1.2024999856948853,
+          0.2695000171661377,
+          2.684999942779541
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "5f3fe16140ada28e55e72b0958863dae6674b37144970ae165e9acba041007ed",
+      "material_slots": [
+        "M_Sign"
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -1.1350001096725464,
+      -0.5375000238418579,
+      0.0015000030398368835
+    ],
+    "max": [
+      1.2024999856948853,
+      0.2695000171661377,
+      2.684999942779541
+    ]
+  },
+  "materials": [
+    "M_Sign"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/Sign/SM_Blender_Sign",
+  "collision": "complex_as_simple",
+  "screen_sizes": [
+    1.0,
+    0.16,
+    0.045
+  ]
+}

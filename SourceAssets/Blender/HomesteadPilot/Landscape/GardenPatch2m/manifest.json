@@ -1,0 +1,75 @@
+{
+  "key": "GardenPatch2m",
+  "name": "GardenPatch2m",
+  "mesh_name": "SM_Pilot_GardenPatch2m",
+  "bounds_m": {
+    "min": [
+      -1.0,
+      -1.0,
+      0.0
+    ],
+    "max": [
+      1.0,
+      1.0,
+      0.27000001072883606
+    ]
+  },
+  "dimensions_m": [
+    2.0,
+    2.0,
+    0.27000001072883606
+  ],
+  "origin": "base-center, Z-up, metres",
+  "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/GardenPatch2m/SM_Pilot_GardenPatch2m.fbx",
+  "fbx_path": "SourceAssets/Blender/HomesteadPilot/Landscape/GardenPatch2m/SM_Pilot_GardenPatch2m.fbx",
+  "blend_path": "SourceAssets/Blender/HomesteadPilot/Landscape/GardenPatch2m/GardenPatch2m.blend",
+  "preview_path": "Docs/HomesteadPilot/Landscape/GardenPatch2m.png",
+  "vertices": 3902,
+  "triangles": 7700,
+  "material_slots": [
+    {
+      "slot": 0,
+      "name": "M_PilotLandscape_Soil",
+      "color_hex": "655540",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/Soil_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 1,
+      "name": "M_PilotLandscape_LeafLight",
+      "color_hex": "82904e",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/LeafLight_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 2,
+      "name": "M_PilotLandscape_Crop",
+      "color_hex": "607948",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/Crop_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    }
+  ],
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/GardenPatch2m/SM_Pilot_GardenPatch2m.fbx",
+      "triangles": 7700
+    }
+  ],
+  "collision_notes": "Use simple authored-envelope collision for terrain/path; ramp proxy on stair; trunk-only on tree; no collision on foliage/crops. Runtime integration owns collision creation.",
+  "traversal": {
+    "walkable_width_m": null,
+    "stair_riser_m": null,
+    "stair_tread_m": null
+  },
+  "geometry": "Exterior-only voxel canopy surfaces; closed chamfered solids for stone and wood. No internal voxel faces.",
+  "uv_mapping": "Dominant-axis world-unit UV, repeating 1m authored surface textures",
+  "lod_status": "source LOD0 only; runtime LOD/traversal agent owns integration",
+  "validation": "exported, render saved, packaged normal Blender project; Unreal appearance pending"
+}

@@ -1,0 +1,20 @@
+// World is centimetres. One coordinate field crosses every tile seam.
+float2 p = World.xy;
+float2 flow = float2(.819152, .573576);
+float along = dot(p, flow) - Seconds * 7.0;
+float across = dot(p, float2(-flow.y, flow.x));
+float pool = .5 + .24*sin(p.x*.0017 + sin(p.y*.0021)) + .18*sin(p.y*.0027);
+float3 low = float3(.019,.110,.112);
+float3 high = float3(.051,.213,.183);
+float3 color = lerp(low, high, saturate(pool + DepthBias));
+float2 cell = p/float2(43,31);
+float2 id = floor(cell), f = frac(cell);
+float pigment = frac(sin(dot(id,float2(127.1,311.7)))*43758.5453);
+color *= lerp(.965,1.035,pigment)*lerp(.992,1.008,step(f.x+f.y,1.0));
+float bend = across*.088 + sin(along*.014)*.7 + sin(along*.031)*.24;
+float ripple = sin(bend);
+float fade = 1-saturate(length(float2(ddx(bend),ddy(bend)))*.55);
+float crest = smoothstep(.86,.98,ripple) * (.5+.5*sin(along*.046+across*.008));
+color *= 1 + .055*ripple*fade;
+color = lerp(color, float3(.16,.34,.285), crest*.17*fade);
+return color;

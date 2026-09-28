@@ -1,0 +1,28 @@
+{
+  "geometry": [
+    {
+      "name": "MillStairs",
+      "asset_suffix": "",
+      "material": "wood",
+      "source": "SourceAssets/WorldExpansion/V6/MillStairs.json",
+      "sha256": "d859b51f9ffedee871b242c74aed3632eb9cf1ee49f73aa1086d0d942f4a6864",
+      "triangles": 328
+    },
+    {
+      "name": "CivicPlanterStone",
+      "asset_suffix": "",
+      "material": "stone",
+      "source": "SourceAssets/WorldExpansion/V6/CivicPlanterStone.json",
+      "sha256": "ee0084df25f0fedffb293d77aace6f51a8ffde219b548bd9216c01f9f54d3ee0",
+      "triangles": 192
+    },
+    {
+      "name": "Bell",
+      "asset_suffix": "",
+      "material": "brass",
+      "source": "SourceAssets/WorldExpansion/V6/Bell.json",
+      "sha256": "de6819413e9f87b27a2bd0f685c5c9b96cb238d5f7b1201f386f187cb9aba698",
+      "triangles": 172
+    }
+  ]
+}

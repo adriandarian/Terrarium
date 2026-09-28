@@ -1,0 +1,118 @@
+{
+  "world": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion",
+  "meshes": [
+    {
+      "actor": "WX_Terrain_2_0",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_0.SM_Terrain_2_0",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "a02959a04ed89fc8c82a96f74692551c09a01d4e2cc43daed55b9493ad513fed"
+    },
+    {
+      "actor": "WX_Terrain_2_1",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_1.SM_Terrain_2_1",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "2cc5ab375055d631115c0ee51d4f4778a6b30142ca9a8707849bdf2ce549985d"
+    },
+    {
+      "actor": "WX_Terrain_2_2",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_2.SM_Terrain_2_2",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "dd26c15c0f50e414f3cb66393be1e6ece0d2be4c9ef02b4b0cbc152186ced690"
+    },
+    {
+      "actor": "WX_Terrain_2_3",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_3.SM_Terrain_2_3",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "e5246f3c1185ed78b40a42f42c9ca1d55c231ea10e0783ed1033d6b91a2d0b2b"
+    },
+    {
+      "actor": "WX_Terrain_2_4",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_4.SM_Terrain_2_4",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "9540cbe0123546141e09cd1d03bbfc8e1242ca7ef08d836e300c4fbf55bc08ce"
+    },
+    {
+      "actor": "WX_Terrain_2_5",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_5.SM_Terrain_2_5",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "00d8807edab187b817b115b7d959385615cbad48a7b30207d706276aeb1b222c"
+    },
+    {
+      "actor": "WX_Terrain_2_6",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_6.SM_Terrain_2_6",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "756cf68ed30d311d01b7f9a5222f9a3c5c112c8946699d906a9ce05b0c3859e8"
+    },
+    {
+      "actor": "WX_Terrain_2_7",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_2_7.SM_Terrain_2_7",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "1b06a61c9400f9c0b4486119d5fba63455552a23b331799c7de0a15b4e080592"
+    },
+    {
+      "actor": "WX_Terrain_3_0",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_0.SM_Terrain_3_0",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "cd171014a83348ddd596e6ff3dcd0e1d00eb7b3f14f60bf4d95204f58577a92e"
+    },
+    {
+      "actor": "WX_Terrain_3_1",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_1.SM_Terrain_3_1",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "2f63ead031208693cad6a8d8c4870b2f9ab58ea537a083538b77c1d8787965bc"
+    },
+    {
+      "actor": "WX_Terrain_3_2",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_2.SM_Terrain_3_2",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "1a1446d65d28c0ce333ca9d9fe5fa74d6fc112c40c9d2637db88cbdcd60f6707"
+    },
+    {
+      "actor": "WX_Terrain_3_3",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_3.SM_Terrain_3_3",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "5a397a0bc8b21d95a23468a94f712f2a545d91c5cbf227a76ae243afeaa5ac8b"
+    },
+    {
+      "actor": "WX_Terrain_3_4",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_4.SM_Terrain_3_4",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "9314acfbc7b425d886fc6e31236c9df4e89b6a1245917a08625e6a97c230778b"
+    },
+    {
+      "actor": "WX_Terrain_3_5",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_5.SM_Terrain_3_5",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "01b6012f629981186cf6ce4f5c595b3e0a96074ca7f87a9887664c85ae04e1c8"
+    },
+    {
+      "actor": "WX_Terrain_3_6",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_6.SM_Terrain_3_6",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "f5f21435b35031fcca5fe4ab2e05d8b72cf5f2eacb24e4b102346b941fdf12e1"
+    },
+    {
+      "actor": "WX_Terrain_3_7",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_7.SM_Terrain_3_7",
+      "triangles": 3200,
+      "collision": true,
+      "source_sha256": "51cadf0e7c97deea0aee750dd2d426c62012bab73d558401f65ae2ebcb0a87c0"
+    }
+  ],
+  "validation": "native triangle counts and upward terrain normal checked; visual and traversal validation separate"
+}

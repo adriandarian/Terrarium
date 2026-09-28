@@ -1,0 +1,3968 @@
+{
+  "error": null,
+  "request": {
+    "actor_labels": [],
+    "seconds_per_actor": 24,
+    "capture_stills": true
+  },
+  "pilot_components": 42,
+  "forced_lod_zero_before_and_after": true,
+  "camera_restored": true,
+  "throttle_restored": true,
+  "samples": [
+    {
+      "t": 0.10544149999986985,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        427.9576066612941,
+        -337.93390492229935,
+        1010.3084850428075
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 752.3270210116981,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 0.2226593999985198,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        446.27678668016017,
+        -349.55094590987295,
+        1015.6701962678414
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 774.6674844493396,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 0.3437854999992851,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        465.7784389029539,
+        -361.91784731944944,
+        1021.3779969184153
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 798.4499871600636,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 0.4446799999986979,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        482.47902621015135,
+        -372.50846366059903,
+        1026.2659736912535
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 818.8165570468898,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 0.5601800999993429,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        502.1208059839207,
+        -384.964226443965,
+        1032.0147872835764
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 842.7699470149013,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 0.6712028000001737,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        521.542576790758,
+        -397.2804713458618,
+        1037.6992080075286
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 866.4550333647028,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 0.7896315999987564,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        542.8619658537451,
+        -410.80008392239023,
+        1043.9390291966956
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 892.4542883195651,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 0.908939899998586,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        564.986592410667,
+        -424.8303349097065,
+        1050.41452965238
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 919.4355402182503,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 1.0237827999990259,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        586.9147175966945,
+        -438.7359752715777,
+        1056.8325175117052
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 946.1771562987717,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 1.1309971999999107,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        607.9615234048923,
+        -452.08273017433726,
+        1062.9925582360559
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 971.8439926502325,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 1.2422701999985293,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        630.4090235213049,
+        -466.31773024815993,
+        1069.5625582701277
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 999.2189927921991,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 1.3540314999991097,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        653.5915278456616,
+        -481.0188305514105,
+        1076.3476814870128
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1027.4903395292195,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 1.4727093000001332,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        678.9271863483939,
+        -497.0853456994846,
+        1083.7629961707391
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1058.3874840447465,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 1.5947242999991431,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        705.7697935410774,
+        -514.1074868460644,
+        1091.619369007622
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1091.1223708650923,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 1.7278057999992598,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        735.994425254036,
+        -533.2743264689161,
+        1100.4656026797074
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1127.9816778321149,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 1.8282683999987057,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        759.4853157966046,
+        -548.1709887642036,
+        1107.3409852775326
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1156.6291053230523,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 1.9297286000000895,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        783.8150385319902,
+        -563.5995934256676,
+        1114.4618797366697
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1186.299498902791,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 2.229924799999935,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        859.5175485277719,
+        -611.6060631790901,
+        1136.618711930557
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1278.619633043988,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 2.350433499999781,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        891.5392554741122,
+        -631.9125114865254,
+        1145.9909188416812
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1317.6704951736713,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 2.4530415999997786,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        919.5741087567494,
+        -649.6907111291736,
+        1154.1962417536724
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1351.8593406403022,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 2.563861699998597,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        950.6702864850763,
+        -669.410238469088,
+        1163.2975620644024
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1389.7815086016763,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 2.664095099999031,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        979.5464529529336,
+        -687.7219537901683,
+        1171.7491229818238
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1424.9963457575998,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 2.767905699998664,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1010.2247140317629,
+        -707.1764608157673,
+        1180.7281262244082
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1462.4088592683672,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 2.8798403999990114,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1044.2068925443432,
+        -728.7261349944769,
+        1190.6741296915047
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1503.85054038127,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 2.9886565999986487,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1078.1652027275184,
+        -750.2606731594173,
+        1200.6131473060927
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1545.2631137753863,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 3.099343099998805,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1113.6667092556415,
+        -772.773823640666,
+        1211.0038321435923
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1588.557633931634,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 3.217445599999337,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1152.6443625939007,
+        -797.4913599039523,
+        1222.4119258035703
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1636.0913575148768,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 3.3372580999985075,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1193.3783063923745,
+        -823.3226413371308,
+        1234.3340556958067
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1685.7668987325278,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 3.4545002999984717,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1234.4354033401157,
+        -849.3588491576496,
+        1246.3507669975845
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1735.8365291566024,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 3.5559212999996817,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1270.9344824203897,
+        -872.5046066231893,
+        1257.033424289372
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1780.3476012057172,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 3.6579352999997354,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1308.5911650169123,
+        -896.3844541234232,
+        1268.0548923664032
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1826.270384860013,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 3.7596118000001297,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1347.0897501279587,
+        -920.798191023111,
+        1279.3227709354899
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1873.2198788978744,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 3.8684998999997333,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1389.4170857796016,
+        -947.6399160704943,
+        1291.7112594188975
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1924.838580912073,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 3.968958899999052,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1429.5015415961834,
+        -973.0593270761317,
+        1303.4432952676532
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1973.7220636152217,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 4.074351599998408,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1472.6492715622096,
+        -1000.4213021765386,
+        1316.0718991601486
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2026.3412465006195,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 4.184061399999337,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1518.7868194463663,
+        -1029.6792593713697,
+        1329.5755717116092
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2082.6065487983715,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 4.287575199999992,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1563.4926955331202,
+        -1058.0293271337014,
+        1342.6602183711468
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2137.1259098797786,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 4.4121675999995205,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1618.8568758188303,
+        -1093.1383195100052,
+        1358.8643686986718
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2204.6432029111324,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 4.519806199999948,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1668.0937040598697,
+        -1124.3616740043228,
+        1373.2751476960493
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2264.688115400205,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 4.620627399999648,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1715.4276604682098,
+        -1154.3783292876606,
+        1387.1289885960512
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2322.4124524835465,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 4.725393099999565,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1765.8921353018038,
+        -1186.3801913772568,
+        1401.8990787912494
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2383.954494963539,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 4.829991799999334,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1817.6102212227197,
+        -1219.1770263514961,
+        1417.0360795485908
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2447.025331452461,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 4.933174099998723,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1869.9684263473068,
+        -1252.379790576844,
+        1432.360432267982
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2510.8768011165917,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 5.041621499998655,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1926.4715301129409,
+        -1288.2110271111485,
+        1448.8979260530455
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2579.7830252210233,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 5.151386899999125,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1985.240512927775,
+        -1325.479162554702,
+        1466.0986039500704
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2651.452516458626,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 5.254535499998383,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2041.9540113280805,
+        -1361.443820076847,
+        1482.6976766525986
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2720.615319385828,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 5.360920699999042,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2101.9972098366898,
+        -1399.519994740843,
+        1500.2712957282893
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2793.838732201205,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 5.483270400000038,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2173.051328220688,
+        -1444.5787039599638,
+        1521.0676230601912
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2880.4900960841296,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 5.585875099999612,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2234.3347881245813,
+        -1483.4413858502376,
+        1539.0042454710867
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2955.2260227961947,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 5.695871399999305,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2301.8001543446157,
+        -1526.224301014162,
+        1558.7502063159748
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3037.500859649895,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 5.799066499999753,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2366.800739051835,
+        -1567.4441839992278,
+        1577.7747676936976
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3116.7698653904067,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 5.916103599998678,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2442.575377495335,
+        -1615.4963937438865,
+        1599.9527106527707
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3209.1779610532117,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 6.035444899998765,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2522.155696158212,
+        -1665.9619616764426,
+        1623.2445112370274
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3306.227130154281,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 6.151231799998641,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2601.6653010442305,
+        -1716.3826867261128,
+        1646.515615106106
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3403.1900629421084,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 6.2549829999989015,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2674.888953201244,
+        -1762.8171978500727,
+        1667.946927932549
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3492.4871997189543,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 6.357230499999787,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2748.930879707209,
+        -1809.7706146587332,
+        1689.6177356903922
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3582.7822320433015,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 6.471943200000169,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2834.28036097362,
+        -1863.8946759496284,
+        1714.5980716708054
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3686.866965295023,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 6.785691299999598,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3080.596766529311,
+        -2020.095323375188,
+        1786.6906781749099
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3987.252825728792,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 6.901347299999543,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3176.3740016443294,
+        -2080.8321066188587,
+        1814.7230396719888
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4104.054331966619,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 7.002336399998967,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3262.2969728967437,
+        -2135.3198444862433,
+        1839.8712263800123
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4208.838443250052,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 7.11182799999915,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3357.9343542629604,
+        -2195.967939986771,
+        1867.8626550725635
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4325.469396135682,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 7.226982399999542,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3461.3787129648226,
+        -2261.566801602586,
+        1898.1390527414012
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4451.621053089172,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 7.344124199998987,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3569.7043791760198,
+        -2330.2611265170035,
+        1929.844125778825
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4583.725524078437,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 7.4558938999998645,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3676.0577773630753,
+        -2397.7047448795265,
+        1960.971949638451
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4713.424790160212,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 7.573810999998386,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3791.524514465498,
+        -2470.9275537737462,
+        1994.7670922050136
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4854.237884187557,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 7.690575399999943,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3909.261316949236,
+        -2545.5899163244094,
+        2029.2266441514735
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4997.81935063114,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 7.794146599999294,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4016.6063158353872,
+        -2613.662354642456,
+        2060.6446926059566
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 5128.727885858153,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 7.902267099998426,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4131.667187032679,
+        -2686.6277851578116,
+        2094.3210451515056
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 5269.046021464606,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 8.024026699999013,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4265.01566578201,
+        -2771.1902350964124,
+        2133.34986820009
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 5431.6661175003765,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 8.127185299999837,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4381.208219305988,
+        -2844.8733178189345,
+        2167.3574448412546
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 5573.364353505227,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 8.230093499998475,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4500.138809921107,
+        -2920.292716745596,
+        2202.166398192021
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 5718.401659133422,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 8.344777299998896,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4636.328468031786,
+        -3006.6568901816354,
+        2242.026785931732
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 5884.486608048883,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 8.457727099999829,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4774.324627116155,
+        -3094.1666496009916,
+        2282.4159056637427
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 6052.77460693226,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 8.573966799998743,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4920.461944358279,
+        -3186.839094681363,
+        2325.1878033931443
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 6230.990847471436,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 8.677929499999664,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        5054.805930905081,
+        -3272.032842247628,
+        2364.507994577574
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 6394.824977406561,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 8.779048200000034,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        5188.862740226174,
+        -3357.044477426857,
+        2403.744133891065
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 6558.3088912127705,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 8.880202499998632,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        5326.395732880473,
+        -3444.2605215490958,
+        2443.9976927167136
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 6726.032052986307,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 8.98144879999927,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        5467.57592817735,
+        -3533.789425883701,
+        2485.3187254865315
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 6898.203022860547,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 9.082289599999058,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        5611.7827696422055,
+        -3625.2376668126335,
+        2527.5256059152694
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 7074.065024646956,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 9.183026099999552,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        5759.511116387216,
+        -3718.9190574314207,
+        2570.763170816248
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 7254.2215450677,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 9.29085219999979,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        5921.807422914048,
+        -3821.838666448437,
+        2618.2645288241015
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 7452.143870100424,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 9.393115799999578,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        6079.820624793787,
+        -3922.0421603233926,
+        2664.5122952279276
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 7644.842896783031,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 9.523673499999859,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        6287.504778656971,
+        -4053.744306675656,
+        2725.297901236664
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 7898.116255152768,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 9.634374299999763,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        6468.983098711272,
+        -4168.828119393017,
+        2778.4135071062155
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 8119.431279609232,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 9.737924600000042,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        6643.3395766371,
+        -4279.395641980128,
+        2829.44467137719
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 8332.061130738291,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 9.860331299998506,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        6855.344406789979,
+        -4413.8377293941485,
+        2891.4948655682765
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 8590.603606534485,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 9.979825399999754,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        7068.648689578571,
+        -4549.103859943012,
+        2953.925387360059
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 8850.730780666914,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 10.080914899999698,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        7254.135198754541,
+        -4666.729451127774,
+        3008.214121753026
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 9076.93384063761,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 10.200582399998893,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        7479.847000602041,
+        -4809.863764494481,
+        3074.27611253766
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 9352.192135573585,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 10.301917999999205,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        7676.325942108454,
+        -4934.460166425377,
+        3131.782144198074
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 9591.800600825309,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 10.409174200000052,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        7889.77067386156,
+        -5069.815362171249,
+        3194.2537730038607
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 9852.099054182754,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 10.513259499999549,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        8102.44174133706,
+        -5204.679941545955,
+        3256.498963484495
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 10111.45401451873,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 10.618724199999633,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        8323.642228150253,
+        -5344.953420988469,
+        3321.240569381039
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 10381.21070575433,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 10.741483699999662,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        8588.55961209134,
+        -5512.949810804767,
+        3398.7773646808696
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 10704.28068617029,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 10.86090349999904,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        8854.178658451397,
+        -5681.3911572769985,
+        3476.5195245911304
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 11028.206352463043,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 10.96715199999926,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        9097.251094532108,
+        -5835.534653328183,
+        3547.6626766147538
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 11324.636152561474,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 11.068547799999578,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        9335.311981164352,
+        -5986.500093631556,
+        3617.339033677849
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 11614.954306991038,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 11.182426499999565,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        9609.964478849535,
+        -6160.669970212403,
+        3697.7251305613167
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 11949.89637733882,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 11.306245599998874,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        9917.58610127254,
+        -6355.747096626992,
+        3787.7607273680505
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 12325.044697366877,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 11.412182899999607,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        10188.435877274263,
+        -6527.50549116467,
+        3867.0338325392863
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 12655.349302247027,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 11.534737099998893,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        10510.838444197972,
+        -6731.955899457755,
+        3961.3955594437866
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 13048.523164349112,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 11.809602999999697,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        11270.820601237276,
+        -7213.895803921703,
+        4183.82936150407
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 13975.330672933627,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 11.920649899999262,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        11592.955553590939,
+        -7418.17650541427,
+        4278.112762192948
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 14368.178175803949,
+      "direction": "retreat",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 12.031217799998558,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        11735.38040301792,
+        -7508.494702611867,
+        4319.798083976453
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 14541.867016568558,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 12.135784499998408,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        11428.129626223224,
+        -7313.65274659572,
+        4229.871027353616
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 14167.170947306737,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 12.246490300000005,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        11111.463492473336,
+        -7112.840076412864,
+        4137.1882564999905
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 13780.992735416628,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 12.350074899999527,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        10822.98853090779,
+        -6929.904734932275,
+        4052.7565604320266
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 13429.194001800111,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 12.4518068999987,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        10546.841767658858,
+        -6754.787275310998,
+        3971.933117529899
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 13092.42965637458,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 12.553979499998604,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        10276.468756640304,
+        -6583.331219543136,
+        3892.7995533293474
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 12762.706472205615,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 12.654339199998503,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        10017.52309377617,
+        -6419.121774800025,
+        3817.0105788325272
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 12446.919078468864,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 12.782066499999928,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        9697.209362035715,
+        -6215.995993696323,
+        3723.260218323126
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 12056.292576346359,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 12.884306999998444,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        9448.070359385867,
+        -6058.005406650077,
+        3650.3414858402434
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 11752.464524334348,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 12.999887500000114,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        9173.976934809481,
+        -5884.190064235784,
+        3570.1190201105696
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 11418.204250460707,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 13.126212299999679,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        8883.31242127396,
+        -5699.8662263839915,
+        3485.0464795635885
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 11063.735331514952,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 13.22780529999909,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        8656.113903866382,
+        -5555.789117784064,
+        3418.5493525174675
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 10786.663968822782,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 13.338308699998379,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        8415.443978899842,
+        -5403.1691653662565,
+        3348.1093744784803
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 10493.164060327,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 13.440224099998886,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        8199.287228224242,
+        -5266.094152742706,
+        3284.843984036841
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 10229.558266820171,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 13.559056699999928,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        7954.097572537671,
+        -5110.608029624393,
+        3213.081157982235
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 9930.546491592646,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 13.673487599999135,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        7724.766140458017,
+        -4965.178340988514,
+        3145.9597632272144
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 9650.874013446726,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 13.787847300000067,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        7502.0300382838695,
+        -4823.931056682957,
+        3080.7687089323417
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 9379.244620551424,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 13.905856499999572,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        7278.756214929022,
+        -4682.342778457932,
+        3015.420272828484
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 9106.959470118683,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 14.08907249999902,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        6944.885598693118,
+        -4470.619948649798,
+        2917.702043686268
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 8699.800182026118,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 14.206367199998567,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        6739.021654149246,
+        -4340.0720813780745,
+        2857.4491818685497
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 8448.746591118957,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 14.311114099999031,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        6560.206980100975,
+        -4226.67741003039,
+        2805.1131797080798
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 8230.679915450333,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 14.420170899998993,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        6378.9371379604845,
+        -4111.725802819347,
+        2752.0585917645217
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 8009.619132352174,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 14.52070679999997,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        6216.14627348463,
+        -4008.492571688317,
+        2704.412485088662
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 7811.093687869425,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 14.622217999998611,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        6055.869661226624,
+        -3906.853744402753,
+        2657.5022571107093
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 7615.634404627955,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 14.725576299999375,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        5896.796802236161,
+        -3805.978272847825,
+        2610.944347162281
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 7421.64311317617,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 14.828856399999495,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        5741.891751235455,
+        -3707.7458014815234,
+        2565.6062834547565
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 7232.7345143948205,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 14.94481899999846,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        5572.65879000017,
+        -3600.4273382591477,
+        2516.0746850444293
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 7026.3528543517905,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 15.048112799999217,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        5425.985060931253,
+        -3507.4147295812986,
+        2473.1457887315764
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 6847.482453048235,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 15.154548599999544,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        5278.75476100032,
+        -3414.0491735275355,
+        2430.0539936298396
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 6667.933306790998,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 15.259806799998842,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        5136.95049953331,
+        -3324.1245199143095,
+        2388.550307346812
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 6495.001280611717,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 15.370081299999583,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4992.331376993106,
+        -3232.4148324497896,
+        2346.2227592862646
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 6318.636497026102,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 15.472990399999617,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4860.916043933501,
+        -3149.0782797778456,
+        2307.7597349761363
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 6158.373895733902,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 15.576401399999668,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4732.217217116222,
+        -3067.464389601034,
+        2270.091785663762
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 6001.424106932342,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 15.678045299999212,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4608.914450527425,
+        -2989.272391276432,
+        2234.003171052407
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 5851.054879385029,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 15.778883899998618,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4489.641590695721,
+        -2913.6359435782774,
+        2199.0940413455664
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 5705.600172273194,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 15.88121129999854,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4371.638451335732,
+        -2838.804684471943,
+        2164.556537142643
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 5561.693904761012,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 15.984884199999215,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4255.11858138017,
+        -2764.914035231831,
+        2130.4531605702837
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 5419.596502376182,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 16.09392879999905,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4135.772306084603,
+        -2689.231031385861,
+        2095.522543410605
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 5274.052264210855,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 16.204177799998433,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        4018.365885438745,
+        -2614.7781792689757,
+        2061.1596885874274
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 5130.873702447614,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 16.32409209999969,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3894.2825046312378,
+        -2536.0911572934833,
+        2024.8426015218154
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4979.552506340898,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 16.435933400000067,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3781.853241746241,
+        -2464.7945515615343,
+        1991.9364757993774
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4842.443649164073,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 16.552949799999624,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3667.5341027406153,
+        -2392.299487801869,
+        1958.4772156026088
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4703.03006501087,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 16.668698599998606,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3557.691637343104,
+        -2322.6432902327156,
+        1926.3282013399228
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4569.075838916345,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 16.76903869999842,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3465.006422688589,
+        -2263.8673004518037,
+        1899.20082144104
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4456.045089337667,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 16.893534899998485,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3353.188899271014,
+        -2192.958627065049,
+        1866.4737414163842
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4319.682255901601,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 17.004332799999247,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3256.555674529547,
+        -2131.6790211314355,
+        1838.190846370101
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4201.836859875421,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 17.12470409999878,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3154.558344322214,
+        -2066.9977873414196,
+        1808.3379692362475
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 4077.4498718176983,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 17.24381319999884,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        3056.602957754179,
+        -2004.8797373226657,
+        1779.6680999968225
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3957.9920833200945,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 17.356296799998745,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2966.7326326074676,
+        -1947.888799424751,
+        1753.3645901977852
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3848.394125824105,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 17.472195599999395,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2876.7359689014447,
+        -1890.8177443916634,
+        1727.024103259437
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3738.642096914321,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 17.579795899999226,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2795.4822835492346,
+        -1839.2910170951398,
+        1703.2425368148874
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3639.5522367286985,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 17.68783699999949,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2716.0624706049725,
+        -1788.9272332768273,
+        1679.997713514128
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3542.698806308867,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 18.104964299998755,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2428.7712464886577,
+        -1606.7425545689202,
+        1595.9124771874017
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3192.3436549475073,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 18.24862469999971,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2336.552796750691,
+        -1548.262562052161,
+        1568.9217114104358
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 3079.8821308768165,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 18.356605499999205,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2269.382727416953,
+        -1505.666908328327,
+        1549.2621789225127
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2997.967412177136,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 18.48055579999891,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2194.478189913124,
+        -1458.1664699112648,
+        1527.3388996530991
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2906.6204152212467,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 18.581036899999162,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2135.4346139408526,
+        -1420.7242022215316,
+        1510.0578530270686
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2834.6160542794523,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 18.695481599999766,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2069.965524092118,
+        -1379.207218415017,
+        1490.8961681932926
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2754.775700805386,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 18.814405899998746,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        2003.8868127445512,
+        -1337.3036453653406,
+        1471.5560575549803
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2674.191906479085,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 18.941923399999723,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1935.1793941762917,
+        -1293.733087248883,
+        1451.4465691935384
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2590.4023716397437,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 19.054446999998618,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1876.340991599488,
+        -1256.4209295172518,
+        1434.2255733174009
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2518.648222155837,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 19.202742699999362,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1801.279458596321,
+        -1208.820932978658,
+        1412.2563441457423
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2427.109767273926,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 19.306546399999206,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1750.367142680405,
+        -1176.5350741051502,
+        1397.3551785118157
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2365.021577132565,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 19.41596709999976,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1698.1092307583415,
+        -1143.3959104472563,
+        1382.0601799004799
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2301.292416252,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 19.517147799999293,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1651.0405883402555,
+        -1113.5475030601774,
+        1368.2839918756742
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2243.8916328153095,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 19.61721739999848,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1605.6436870826012,
+        -1084.7592242138599,
+        1354.9970939466048
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2188.529558110853,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 19.72770159999891,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1556.8220137859244,
+        -1053.7991387086504,
+        1340.707823713431
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2128.990932139296,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 19.84604599999875,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1505.9993385064888,
+        -1021.570125116813,
+        1325.8328943633524
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2067.0120598473013,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 19.958450099999027,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1459.0983887865605,
+        -991.8280594407611,
+        1312.1057871282514
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 2009.8157797010474,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 20.058464199999435,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1418.459423157622,
+        -966.0570080663122,
+        1300.2114557246596
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1960.256065519415,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 20.160857400000168,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1377.8916977646115,
+        -940.3311334268421,
+        1288.3379751218272
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1910.7832296742804,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 20.276311599998735,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1333.376011770696,
+        -912.1016740160665,
+        1275.3089938553153
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1856.495807730481,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 20.393471800000043,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1289.4952704183224,
+        -884.2748624267564,
+        1262.4658500448645
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1802.9827085202692,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 20.50988529999995,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1247.147059362648,
+        -857.4198993182798,
+        1250.0712516871063
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1751.338548696276,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 20.625051499999245,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1206.4462922531227,
+        -831.60965676102,
+        1238.1588320452938
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1701.7034668553915,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 20.72638559999905,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1171.5890195635006,
+        -809.5050448115035,
+        1227.9567034532095
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1659.194597721706,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 20.84286339999926,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1132.596870147631,
+        -784.778315913635,
+        1216.5443670388086
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1611.6431959950357,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 20.95921829999861,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1094.7615948628045,
+        -760.785214513501,
+        1205.4706279310544
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1565.5026163793937,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 21.076031499998862,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1057.8668665021787,
+        -737.3885575043237,
+        1194.6721708498958
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1520.5090452078987,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 21.193640599998616,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        1021.7919281379839,
+        -714.5117673221514,
+        1184.1136523042778
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1476.5152179344905,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 21.308495199999015,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        987.5695187354929,
+        -692.8097516034986,
+        1174.0973373572072
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1434.7805723216966,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 21.41081479999957,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        957.8976410822174,
+        -673.993438945324,
+        1165.4128853611264
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1398.5953556713607,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 21.52516949999881,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        925.6203311712675,
+        -653.5249009530141,
+        1155.9658678262144
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1359.2327826092264,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 21.626231899999766,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        897.8518567627618,
+        -635.91562449884,
+        1147.8385094627492
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1325.3687894281222,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 21.74309910000011,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        866.6022135364169,
+        -616.0987775748163,
+        1138.692272420892
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1287.2594684203843,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 21.8595265999993,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        836.3636558484679,
+        -596.9231068458731,
+        1129.8419628536876
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1250.3831785570321,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 21.975608299999294,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        807.0773264713648,
+        -578.3512882164905,
+        1121.2703542555112
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1214.6681427312965,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 22.077143599999545,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        782.1475868590975,
+        -562.5421850477356,
+        1113.9738451007013
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1184.2660212529217,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 22.38380580000012,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        710.5782255595507,
+        -517.1567364187548,
+        1093.0267149642484
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1096.9863123510354,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 22.4862409999987,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        687.8667737546343,
+        -502.75435234734437,
+        1086.3794607774437
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1069.2894199060154,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 22.607320600000094,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        661.7599095449247,
+        -486.1987799216748,
+        1078.7384273502116
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1037.4517806258816,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 22.719417799999064,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        638.2832815479914,
+        -471.31116216752207,
+        1071.8672191559872
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 1008.8217464832801,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 22.820175400000153,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        617.734916344017,
+        -458.2804915503675,
+        1065.8530634865313
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 983.7627645272138,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 22.934812599998622,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        594.9759810733103,
+        -443.84799601284624,
+        1059.191911699983
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 956.0079654165959,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 23.052228200000172,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        572.3309242928799,
+        -429.487716103305,
+        1052.5640902032717
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 928.392042513632,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 23.169333599998936,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        550.3972612954614,
+        -415.5785639586005,
+        1046.1444815211003
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 901.6436730045849,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 23.273699100000158,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        531.3828810083811,
+        -403.52066426435454,
+        1040.579297046833
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 878.4554043618042,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 23.386077699999078,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        511.45499702338986,
+        -390.88346954216496,
+        1034.7467456365916
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 854.153106819132,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 23.487048299999515,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        494.02071007208997,
+        -379.8275802559748,
+        1029.6440275045038
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 832.8917812687662,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 23.603369999998904,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        474.47306566273016,
+        -367.4315130695515,
+        1023.9227657261547
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 809.0531905256445,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 23.719066899999234,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        455.58542911603536,
+        -355.4539874545743,
+        1018.3946769807806
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 786.0194874199191,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 23.819353899998532,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        439.649096565107,
+        -345.34802047105876,
+        1013.7303845268503
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 766.584935528543,
+      "direction": "approach",
+      "forced_lod_model": 0
+    },
+    {
+      "t": 23.919785399999455,
+      "actor": "Reference_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "camera_cm": [
+        424.08467950565534,
+        -335.4779023357967,
+        1009.1749453874986
+      ],
+      "target_cm": [
+        -188.95055056829824,
+        53.27614600378365,
+        829.75
+      ],
+      "bounds_radius_cm": 488.52131998319794,
+      "distance_cm": 747.6039391145777,
+      "direction": "approach",
+      "forced_lod_model": 0
+    }
+  ],
+  "captures": [
+    {
+      "actor": "Reference_Cottage",
+      "t": 1.9297286000000895,
+      "path": "C:\\Users\\hello\\Projects\\Terrarium\\Docs\\HomesteadPilot\\RuntimeCompletion\\lod-0-near.png",
+      "request_accepted": true,
+      "distance_cm": 1186.299498902791
+    },
+    {
+      "actor": "Reference_Cottage",
+      "t": 6.488720499999545,
+      "path": "C:\\Users\\hello\\Projects\\Terrarium\\Docs\\HomesteadPilot\\RuntimeCompletion\\lod-0-middle.png",
+      "request_accepted": true,
+      "distance_cm": 3702.3412683287956
+    },
+    {
+      "actor": "Reference_Cottage",
+      "t": 11.534737099998893,
+      "path": "C:\\Users\\hello\\Projects\\Terrarium\\Docs\\HomesteadPilot\\RuntimeCompletion\\lod-0-far.png",
+      "request_accepted": true,
+      "distance_cm": 13048.523164349112
+    },
+    {
+      "actor": "Reference_Cottage",
+      "t": 17.77807329999996,
+      "path": "C:\\Users\\hello\\Projects\\Terrarium\\Docs\\HomesteadPilot\\RuntimeCompletion\\lod-0-return-middle.png",
+      "request_accepted": true,
+      "distance_cm": 3463.784676263492
+    },
+    {
+      "actor": "Reference_Cottage",
+      "t": 22.093331599999146,
+      "path": "C:\\Users\\hello\\Projects\\Terrarium\\Docs\\HomesteadPilot\\RuntimeCompletion\\lod-0-return-near.png",
+      "request_accepted": true,
+      "distance_cm": 1179.4897721690502
+    }
+  ],
+  "visual_smoothness_verified": false,
+  "actual_rendered_lod_indices_observed": false,
+  "scope": "Continuous approach/retreat of editor viewport with automatic component LODs. Distance samples and optional auto-LOD stills are evidence for a visual reviewer; not a rendered-LOD-index query or gameplay walking test."
+}

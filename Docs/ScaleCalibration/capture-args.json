@@ -1,0 +1,30 @@
+{
+  "captureTransform": {
+    "location": {
+      "x": 3250,
+      "y": -3250,
+      "z": 4596.1940777
+    },
+    "rotation": {
+      "pitch": -45,
+      "yaw": 135,
+      "roll": 0
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    }
+  },
+  "annotations": {
+    "gridSpacing": 0,
+    "gridExtent": 0,
+    "gridHeight": 0,
+    "maxLabelDistance": 0,
+    "classFilter": {
+      "refPath": "/Script/Engine.Actor"
+    },
+    "maxLabels": 0
+  },
+  "bShowUI": false
+}

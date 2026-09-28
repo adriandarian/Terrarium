@@ -1,0 +1,26 @@
+{
+  "scope": "Exact hash-bound native FBX import normalization measured by the coordinator; no percentage triangle tolerance",
+  "assets": [
+    {
+      "name": "Storm",
+      "level": 0,
+      "source_sha256": "d575faf064c4c0b44b722d859f5430f060ffe3421318f471c156938a2b1f28ed",
+      "source_triangles": 8796,
+      "native_without_degenerate_filter": 8794,
+      "native_with_degenerate_filter": 8791,
+      "native_import_normalization_triangles": 2,
+      "baseline_native_lod0_triangles": 8794,
+      "basis": "Independent native FBX import with optional degenerate removal disabled still normalizes two triangles; baseline imported LOD0 equals that unfiltered native count. Enabling the filter removes three additional triangles. Exact per-triangle cause of the two unconditional removals is not isolated."
+    },
+    {
+      "name": "Storm",
+      "level": 1,
+      "source_sha256": "e03b48d6056d94a982f7813ac0496e187b97091cc245601443d163d62ff9815a",
+      "source_triangles": 4002,
+      "native_without_degenerate_filter": 4001,
+      "native_with_degenerate_filter": 4001,
+      "native_import_normalization_triangles": 1,
+      "basis": "Independent native FBX import normalizes one triangle with the optional degenerate filter disabled. Enabling the filter removes no additional triangles. Exact per-triangle cause of the unconditional removal is not isolated."
+    }
+  ]
+}

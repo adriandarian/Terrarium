@@ -1,0 +1,182 @@
+[
+  {
+    "name": "RegionOverview",
+    "actor": "WX_Review_RegionOverview",
+    "position_m": [
+      100,
+      -850,
+      650
+    ],
+    "target_m": [
+      0,
+      45,
+      35
+    ],
+    "fov": 70
+  },
+  {
+    "name": "AlderwatchCity",
+    "actor": "WX_Review_AlderwatchCity",
+    "position_m": [
+      445,
+      75,
+      125
+    ],
+    "target_m": [
+      300,
+      265,
+      27
+    ],
+    "fov": 57
+  },
+  {
+    "name": "StonegateTown",
+    "actor": "WX_Review_StonegateTown",
+    "position_m": [
+      -170,
+      240,
+      125
+    ],
+    "target_m": [
+      -320,
+      390,
+      37
+    ],
+    "fov": 57
+  },
+  {
+    "name": "BrookmereVillage",
+    "actor": "WX_Review_BrookmereVillage",
+    "position_m": [
+      -113,
+      75,
+      82
+    ],
+    "target_m": [
+      -220,
+      180,
+      18
+    ],
+    "fov": 57
+  },
+  {
+    "name": "ReedbankVillage",
+    "actor": "WX_Review_ReedbankVillage",
+    "position_m": [
+      385,
+      -412,
+      75
+    ],
+    "target_m": [
+      280,
+      -300,
+      15
+    ],
+    "fov": 57
+  },
+  {
+    "name": "HighfieldVillage",
+    "actor": "WX_Review_HighfieldVillage",
+    "position_m": [
+      -218,
+      -430,
+      92
+    ],
+    "target_m": [
+      -340,
+      -310,
+      24
+    ],
+    "fov": 57
+  },
+  {
+    "name": "MountainPass",
+    "actor": "WX_Review_MountainPass",
+    "position_m": [
+      -90,
+      400,
+      105
+    ],
+    "target_m": [
+      -440,
+      705,
+      170
+    ],
+    "fov": 65
+  },
+  {
+    "name": "HomeInValley",
+    "actor": "WX_Review_HomeInValley",
+    "position_m": [
+      55,
+      -65,
+      45
+    ],
+    "target_m": [
+      0,
+      12,
+      5
+    ],
+    "fov": 65
+  },
+  {
+    "name": "CityStreet",
+    "actor": "WX_Review_CityStreet",
+    "position_m": [
+      300,
+      202,
+      26.2
+    ],
+    "target_m": [
+      300,
+      290,
+      28
+    ],
+    "fov": 74
+  },
+  {
+    "name": "RiverMill",
+    "actor": "WX_Review_RiverMill",
+    "position_m": [
+      24,
+      -307,
+      15
+    ],
+    "target_m": [
+      61,
+      -282,
+      5
+    ],
+    "fov": 60
+  },
+  {
+    "name": "OldAqueduct",
+    "actor": "WX_Review_OldAqueduct",
+    "position_m": [
+      -153,
+      451,
+      27
+    ],
+    "target_m": [
+      -195,
+      490,
+      15
+    ],
+    "fov": 60
+  },
+  {
+    "name": "CivicCourt",
+    "actor": "WX_Review_CivicCourt",
+    "position_m": [
+      326,
+      274,
+      30
+    ],
+    "target_m": [
+      290,
+      304,
+      33
+    ],
+    "fov": 67
+  }
+]

@@ -1,0 +1,102 @@
+{
+  "key": "BroadTree5m",
+  "name": "BroadTree5m",
+  "mesh_name": "SM_Pilot_BroadTree5m",
+  "bounds_m": {
+    "min": [
+      -1.840000033378601,
+      -1.9550000429153442,
+      0.0
+    ],
+    "max": [
+      1.840000033378601,
+      1.9550000429153442,
+      4.992020606994629
+    ]
+  },
+  "dimensions_m": [
+    3.680000066757202,
+    3.9100000858306885,
+    4.992020606994629
+  ],
+  "origin": "base-center, Z-up, metres",
+  "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/BroadTree5m/SM_Pilot_BroadTree5m.fbx",
+  "fbx_path": "SourceAssets/Blender/HomesteadPilot/Landscape/BroadTree5m/SM_Pilot_BroadTree5m.fbx",
+  "blend_path": "SourceAssets/Blender/HomesteadPilot/Landscape/BroadTree5m/BroadTree5m.blend",
+  "preview_path": "Docs/HomesteadPilot/Landscape/BroadTree5m.png",
+  "vertices": 5976,
+  "triangles": 11664,
+  "material_slots": [
+    {
+      "slot": 0,
+      "name": "M_PilotLandscape_Bark",
+      "color_hex": "655039",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/Bark_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 1,
+      "name": "M_PilotLandscape_Leaf",
+      "color_hex": "697742",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/Leaf_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 2,
+      "name": "M_PilotLandscape_LeafLight",
+      "color_hex": "82904e",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/LeafLight_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 3,
+      "name": "M_PilotLandscape_LeafShade",
+      "color_hex": "475932",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/LeafShade_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 4,
+      "name": "M_PilotLandscape_StoneShade",
+      "color_hex": "69654f",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/StoneShade_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 5,
+      "name": "M_PilotLandscape_Moss",
+      "color_hex": "66713d",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/Moss_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    }
+  ],
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/BroadTree5m/SM_Pilot_BroadTree5m.fbx",
+      "triangles": 11664
+    }
+  ],
+  "collision_notes": "Use simple authored-envelope collision for terrain/path; ramp proxy on stair; trunk-only on tree; no collision on foliage/crops. Runtime integration owns collision creation.",
+  "traversal": {
+    "walkable_width_m": null,
+    "stair_riser_m": null,
+    "stair_tread_m": null
+  },
+  "geometry": "Exterior-only voxel canopy surfaces; closed chamfered solids for stone and wood. No internal voxel faces.",
+  "uv_mapping": "Dominant-axis world-unit UV, repeating 1m authored surface textures",
+  "lod_status": "source LOD0 only; runtime LOD/traversal agent owns integration",
+  "validation": "exported, render saved, packaged normal Blender project; Unreal appearance pending"
+}

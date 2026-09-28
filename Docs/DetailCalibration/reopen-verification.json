@@ -1,0 +1,173 @@
+{
+  "file": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\DetailCalibration.blend",
+  "sha256": "75f60ba75dd10909c04733c1ac8c1d56c2010399d38c1bc4cb1c81a2929fa19e",
+  "scene": "Terrarium_DetailCalibration",
+  "scene_count": 1,
+  "camera": "DC_Camera",
+  "active_normal_project_verified": true,
+  "missing_external_textures": 0,
+  "specimens": [
+    {
+      "name": "DC_Cliff_Coarse",
+      "parts": 3,
+      "measured_dimensions_m": [
+        3.0,
+        1.5,
+        2.4000000953674316
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Cliff_Half",
+      "parts": 3,
+      "measured_dimensions_m": [
+        3.0,
+        1.5,
+        2.4000000953674316
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Cliff_Third",
+      "parts": 3,
+      "measured_dimensions_m": [
+        3.0,
+        1.5,
+        2.4000000953674316
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Cottage_Coarse",
+      "parts": 10,
+      "measured_dimensions_m": [
+        2.4000000953674316,
+        1.649999976158142,
+        3.4000000953674316
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Cottage_Half",
+      "parts": 10,
+      "measured_dimensions_m": [
+        2.4000000953674316,
+        1.649999976158142,
+        3.4000000953674316
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Cottage_Third",
+      "parts": 10,
+      "measured_dimensions_m": [
+        2.4000000953674316,
+        1.649999976158142,
+        3.4000000953674316
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Tree_Coarse",
+      "parts": 2,
+      "measured_dimensions_m": [
+        3.299999952316284,
+        2.200000047683716,
+        3.5
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Tree_Half",
+      "parts": 2,
+      "measured_dimensions_m": [
+        3.299999952316284,
+        2.200000047683716,
+        3.5
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Tree_Third",
+      "parts": 2,
+      "measured_dimensions_m": [
+        3.299999952316284,
+        2.200000047683716,
+        3.5
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Fence_Coarse",
+      "parts": 3,
+      "measured_dimensions_m": [
+        2.799999952316284,
+        0.2199999988079071,
+        1.2400000095367432
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Fence_Half",
+      "parts": 4,
+      "measured_dimensions_m": [
+        2.799999952316284,
+        0.2199999988079071,
+        1.2400000095367432
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Fence_Third",
+      "parts": 4,
+      "measured_dimensions_m": [
+        2.799999952316284,
+        0.2199999988079071,
+        1.2400000095367432
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Bridge_Coarse",
+      "parts": 7,
+      "measured_dimensions_m": [
+        1.4199999570846558,
+        2.0999999046325684,
+        1.2899999618530273
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Bridge_Half",
+      "parts": 7,
+      "measured_dimensions_m": [
+        1.4199999570846558,
+        2.0999999046325684,
+        1.2899999618530273
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Bridge_Third",
+      "parts": 7,
+      "measured_dimensions_m": [
+        1.4199999570846558,
+        2.0999999046325684,
+        1.2899999618530273
+      ],
+      "bounds_pass": true
+    },
+    {
+      "name": "DC_Person",
+      "parts": 6,
+      "measured_dimensions_m": [
+        0.75,
+        0.3100000023841858,
+        1.7999999523162842
+      ],
+      "bounds_pass": true
+    }
+  ],
+  "geometry_frozen": true,
+  "method": "Direct fresh Blender background reopen. MCP CLI wrapper stalled; its background worker had exited before this fallback."
+}

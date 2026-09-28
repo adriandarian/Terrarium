@@ -1,0 +1,6 @@
+00:02.094  blend            | Read blend: "C:\Users\hello\Projects\Terrarium\SourceAssets\Blender\HomesteadPilot\Architecture\HomesteadArchitecture.blend"
+00:15.312  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Architecture\Cottage_interior-lit-QA.png'
+LIT_INTERIOR_QA_RENDERED_NOT_SAVED
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+
+Blender quit

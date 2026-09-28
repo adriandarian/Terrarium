@@ -1,0 +1,17 @@
+{
+  "modes": [
+    "NONE",
+    "PAD_TO_POWER_OF_TWO",
+    "PAD_TO_SQUARE_POWER_OF_TWO",
+    "RESIZE_TO_SPECIFIC_RESOLUTION",
+    "STRETCH_TO_POWER_OF_TWO",
+    "STRETCH_TO_SQUARE_POWER_OF_TWO"
+  ],
+  "properties": {
+    "power_of_two_mode": "<TexturePowerOfTwoSetting.NONE: 0>",
+    "mip_gen_settings": "<TextureMipGenSettings.TMGS_NO_MIPMAPS: 13>",
+    "never_stream": "False",
+    "filter": "<TextureFilter.TF_DEFAULT: 3>",
+    "lod_group": "<TextureGroup.TEXTUREGROUP_WORLD: 0>"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "concurrent_work": "All asset imports, LOD sweeps, traversal, query benchmark and background Blender exports finished. Existing live Blender MCP window remains open; no background Blender process. Editor overhead and passive recorder overhead included. Message Log diagnostic popup closed before this fresh final run; no captures during measured interval.",
+  "input_provider": "none",
+  "name": "idle"
+}

@@ -1,0 +1,22 @@
+00:13.500  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Architecture\Cottage_front.png'
+RENDERED Cottage_front
+00:21.344  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Architecture\Cottage_rear.png'
+RENDERED Cottage_rear
+00:30.078  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Architecture\Cottage_roof_close.png'
+RENDERED Cottage_roof_close
+00:40.156  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Architecture\Cottage_entry.png'
+RENDERED Cottage_entry
+00:43.484  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Architecture\Fence_front.png'
+RENDERED Fence_front
+00:49.312  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Architecture\Bridge_front.png'
+RENDERED Bridge_front
+00:56.047  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Architecture\Cottage_LOD1.png'
+RENDERED Cottage_LOD1
+01:04.781  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Architecture\Cottage_LOD2.png'
+RENDERED Cottage_LOD2
+01:20.156  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\HomesteadPilot\Architecture\Cottage_interior.png'
+Info: Saved as "HomesteadArchitecture.blend"
+ARCHITECTURE_PACKAGED
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+
+Blender quit

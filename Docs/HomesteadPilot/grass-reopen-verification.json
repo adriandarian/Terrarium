@@ -1,0 +1,9 @@
+{
+  "saved_and_reopened": true,
+  "grass": {
+    "count": 5841,
+    "visible": true,
+    "transform_hash": "5be5c67096ba559cd518a7bfa3e7cb8e643ea83d54305410451b36cc3bc787e3"
+  },
+  "scope": "Retained terrain presence, visibility and transforms; inspect the final exported image separately"
+}

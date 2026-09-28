@@ -1,0 +1,710 @@
+{
+  "assets": [
+    {
+      "name": "Lodge",
+      "independent_blend_reopen": true,
+      "parts": 3033,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 327564,
+          "materials": [
+            "M_Lodge.002"
+          ],
+          "material_face_counts": [
+            163782
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 133452,
+          "materials": [
+            "M_Lodge.002"
+          ],
+          "material_face_counts": [
+            78858
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 36396,
+          "materials": [
+            "M_Lodge.002"
+          ],
+          "material_face_counts": [
+            18198
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": [
+        "Docs/HomesteadPilot/RemainingArt/Lodge-LOD0.png",
+        "Docs/HomesteadPilot/RemainingArt/Lodge-LOD2.png"
+      ]
+    },
+    {
+      "name": "CivicHall",
+      "independent_blend_reopen": true,
+      "parts": 5779,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 624240,
+          "materials": [
+            "M_CivicHall.001"
+          ],
+          "material_face_counts": [
+            312120
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 254448,
+          "materials": [
+            "M_CivicHall.001"
+          ],
+          "material_face_counts": [
+            150336
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 69552,
+          "materials": [
+            "M_CivicHall.001"
+          ],
+          "material_face_counts": [
+            34776
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": [
+        "Docs/HomesteadPilot/RemainingArt/CivicHall-LOD0.png",
+        "Docs/HomesteadPilot/RemainingArt/CivicHall-LOD2.png"
+      ]
+    },
+    {
+      "name": "HomesteadCompound",
+      "independent_blend_reopen": true,
+      "parts": 4039,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 436212,
+          "materials": [
+            "M_Cottage_Atlas.001",
+            "M_HomesteadCompound_Frame"
+          ],
+          "material_face_counts": [
+            146502,
+            71604
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 177716,
+          "materials": [
+            "M_Cottage_Atlas.001",
+            "M_HomesteadCompound_Frame"
+          ],
+          "material_face_counts": [
+            70538,
+            34476
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 48468,
+          "materials": [
+            "M_Cottage_Atlas.001",
+            "M_HomesteadCompound_Frame"
+          ],
+          "material_face_counts": [
+            16278,
+            7956
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": [
+        "Docs/HomesteadPilot/RemainingArt/HomesteadCompound-LOD0.png",
+        "Docs/HomesteadPilot/RemainingArt/HomesteadCompound-LOD2.png"
+      ]
+    },
+    {
+      "name": "MarketStall",
+      "independent_blend_reopen": true,
+      "parts": 634,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 68472,
+          "materials": [
+            "M_MarketStall.002"
+          ],
+          "material_face_counts": [
+            34236
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 27896,
+          "materials": [
+            "M_MarketStall.002"
+          ],
+          "material_face_counts": [
+            16484
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 7608,
+          "materials": [
+            "M_MarketStall.002"
+          ],
+          "material_face_counts": [
+            3804
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": [
+        "Docs/HomesteadPilot/RemainingArt/MarketStall-LOD0.png",
+        "Docs/HomesteadPilot/RemainingArt/MarketStall-LOD2.png"
+      ]
+    },
+    {
+      "name": "Sign",
+      "independent_blend_reopen": true,
+      "parts": 76,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 8208,
+          "materials": [
+            "M_Sign"
+          ],
+          "material_face_counts": [
+            4104
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 3344,
+          "materials": [
+            "M_Sign"
+          ],
+          "material_face_counts": [
+            1976
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 912,
+          "materials": [
+            "M_Sign"
+          ],
+          "material_face_counts": [
+            456
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": [
+        "Docs/HomesteadPilot/RemainingArt/Sign-LOD0.png",
+        "Docs/HomesteadPilot/RemainingArt/Sign-LOD2.png"
+      ]
+    },
+    {
+      "name": "Lantern",
+      "independent_blend_reopen": true,
+      "parts": 95,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 10260,
+          "materials": [
+            "M_Lantern.001"
+          ],
+          "material_face_counts": [
+            5130
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 4180,
+          "materials": [
+            "M_Lantern.001"
+          ],
+          "material_face_counts": [
+            2470
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 1140,
+          "materials": [
+            "M_Lantern.001"
+          ],
+          "material_face_counts": [
+            570
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": [
+        "Docs/HomesteadPilot/RemainingArt/Lantern-LOD0.png",
+        "Docs/HomesteadPilot/RemainingArt/Lantern-LOD2.png"
+      ]
+    },
+    {
+      "name": "MossTonic",
+      "independent_blend_reopen": true,
+      "parts": 351,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 47396,
+          "materials": [
+            "M_MossTonic_Glass.001",
+            "M_MossTonic_Liquid.006",
+            "M_MossTonic_Trim.006"
+          ],
+          "material_face_counts": [
+            4514,
+            290,
+            18846
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 21684,
+          "materials": [
+            "M_MossTonic_Glass.001",
+            "M_MossTonic_Liquid.006",
+            "M_MossTonic_Trim.006"
+          ],
+          "material_face_counts": [
+            3078,
+            138,
+            9074
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 7940,
+          "materials": [
+            "M_MossTonic_Glass.001",
+            "M_MossTonic_Liquid.006",
+            "M_MossTonic_Trim.006"
+          ],
+          "material_face_counts": [
+            1802,
+            34,
+            2094
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": []
+    },
+    {
+      "name": "TrailPrism",
+      "independent_blend_reopen": true,
+      "parts": 122,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 17432,
+          "materials": [
+            "M_TrailPrism_Crystal.002",
+            "M_TrailPrism_Core.005",
+            "M_TrailPrism_Frame.005"
+          ],
+          "material_face_counts": [
+            1586,
+            626,
+            6480
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 7816,
+          "materials": [
+            "M_TrailPrism_Crystal.002",
+            "M_TrailPrism_Core.005",
+            "M_TrailPrism_Frame.005"
+          ],
+          "material_face_counts": [
+            942,
+            366,
+            3120
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 2584,
+          "materials": [
+            "M_TrailPrism_Crystal.002",
+            "M_TrailPrism_Core.005",
+            "M_TrailPrism_Frame.005"
+          ],
+          "material_face_counts": [
+            402,
+            146,
+            720
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": []
+    },
+    {
+      "name": "EmberCrest",
+      "independent_blend_reopen": true,
+      "parts": 582,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 65624,
+          "materials": [
+            "M_EmberCrest_Field.002",
+            "M_EmberCrest_Frame.002",
+            "M_EmberCrest_Enamel.002"
+          ],
+          "material_face_counts": [
+            22626,
+            3370,
+            6720
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 26820,
+          "materials": [
+            "M_EmberCrest_Field.002",
+            "M_EmberCrest_Frame.002",
+            "M_EmberCrest_Enamel.002"
+          ],
+          "material_face_counts": [
+            10885,
+            1611,
+            3241
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 7400,
+          "materials": [
+            "M_EmberCrest_Field.002",
+            "M_EmberCrest_Frame.002",
+            "M_EmberCrest_Enamel.002"
+          ],
+          "material_face_counts": [
+            2498,
+            354,
+            752
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": []
+    },
+    {
+      "name": "DeepDelverMark",
+      "independent_blend_reopen": true,
+      "parts": 585,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 64948,
+          "materials": [
+            "M_DeepDelverMark_Frame.002",
+            "M_DeepDelverMark_Cavern.007",
+            "M_DeepDelverMark_Crystal.007"
+          ],
+          "material_face_counts": [
+            1330,
+            30130,
+            984
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 26532,
+          "materials": [
+            "M_DeepDelverMark_Frame.002",
+            "M_DeepDelverMark_Cavern.007",
+            "M_DeepDelverMark_Crystal.007"
+          ],
+          "material_face_counts": [
+            650,
+            14506,
+            478
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 7304,
+          "materials": [
+            "M_DeepDelverMark_Frame.002",
+            "M_DeepDelverMark_Cavern.007",
+            "M_DeepDelverMark_Crystal.007"
+          ],
+          "material_face_counts": [
+            162,
+            3346,
+            114
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": []
+    },
+    {
+      "name": "Grove",
+      "independent_blend_reopen": true,
+      "parts": 109,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 11772,
+          "materials": [
+            "M_Grove_Leaf.001",
+            "M_Grove_Stem.006",
+            "M_Grove_Soil.006"
+          ],
+          "material_face_counts": [
+            4320,
+            648,
+            918
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 4796,
+          "materials": [
+            "M_Grove_Leaf.001",
+            "M_Grove_Stem.006",
+            "M_Grove_Soil.006"
+          ],
+          "material_face_counts": [
+            2080,
+            312,
+            442
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 1308,
+          "materials": [
+            "M_Grove_Leaf.001",
+            "M_Grove_Stem.006",
+            "M_Grove_Soil.006"
+          ],
+          "material_face_counts": [
+            480,
+            72,
+            102
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": []
+    },
+    {
+      "name": "Tide",
+      "independent_blend_reopen": true,
+      "parts": 155,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 16740,
+          "materials": [
+            "M_Tide_Wave.004"
+          ],
+          "material_face_counts": [
+            8370
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 6820,
+          "materials": [
+            "M_Tide_Wave.004"
+          ],
+          "material_face_counts": [
+            4030
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 1860,
+          "materials": [
+            "M_Tide_Wave.004"
+          ],
+          "material_face_counts": [
+            930
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": []
+    },
+    {
+      "name": "Ember",
+      "independent_blend_reopen": true,
+      "parts": 557,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 60156,
+          "materials": [
+            "M_Ember_Flame.008"
+          ],
+          "material_face_counts": [
+            30078
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 24508,
+          "materials": [
+            "M_Ember_Flame.008"
+          ],
+          "material_face_counts": [
+            14482
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 6684,
+          "materials": [
+            "M_Ember_Flame.008"
+          ],
+          "material_face_counts": [
+            3342
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": []
+    },
+    {
+      "name": "Storm",
+      "independent_blend_reopen": true,
+      "parts": 53,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 8796,
+          "materials": [
+            "M_Storm_Lightning.001",
+            "M_Storm_Cloud.004"
+          ],
+          "material_face_counts": [
+            3768,
+            972
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 4002,
+          "materials": [
+            "M_Storm_Lightning.001",
+            "M_Storm_Cloud.004"
+          ],
+          "material_face_counts": [
+            2089,
+            468
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 1338,
+          "materials": [
+            "M_Storm_Lightning.001",
+            "M_Storm_Cloud.004"
+          ],
+          "material_face_counts": [
+            913,
+            108
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": []
+    },
+    {
+      "name": "BridgeThreshold",
+      "independent_blend_reopen": true,
+      "parts": 14,
+      "fbx_roundtrip": [
+        {
+          "level": 0,
+          "triangles": 1512,
+          "materials": [
+            "M_BridgeThreshold.002"
+          ],
+          "material_face_counts": [
+            756
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 1,
+          "triangles": 616,
+          "materials": [
+            "M_BridgeThreshold.002"
+          ],
+          "material_face_counts": [
+            364
+          ],
+          "uv_layers": 1
+        },
+        {
+          "level": 2,
+          "triangles": 168,
+          "materials": [
+            "M_BridgeThreshold.002"
+          ],
+          "material_face_counts": [
+            84
+          ],
+          "uv_layers": 1
+        }
+      ],
+      "previews": []
+    }
+  ],
+  "scope": "Independent source reopening, 45 FBX triangle/material/UV roundtrips, representative LOD0/LOD2 renders. Unreal verification separate."
+}

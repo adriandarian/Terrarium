@@ -1,0 +1,124 @@
+{
+  "name": "TrailPrism",
+  "source_blend": "SourceAssets/Blender/TrailPrism/TrailPrism.blend",
+  "source_sha256": "a174d993975d102f68e58b9e57f46dd683a295ac87cc939ba54bd33cc92bdfd1",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/TrailPrism/TrailPrism.blend",
+  "blend_sha256": "362bdac914c114925ebe233c317d4837ff44af6d7dcfd6e732f0f1df35754313",
+  "parts_retained": 122,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/TrailPrism/SM_HP_TrailPrism_LOD0.fbx",
+      "triangles": 17432,
+      "vertices": 8960,
+      "bounds_m": {
+        "min": [
+          -0.2774384319782257,
+          -0.2774384319782257,
+          0.0
+        ],
+        "max": [
+          0.2774384319782257,
+          0.2774384319782257,
+          1.1200000047683716
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "8540baef425cb5f93210ab678390bf84978afed15c1a6acb41af6de422ceac88",
+      "material_slots": [
+        "M_TrailPrism_Crystal.002",
+        "M_TrailPrism_Core.005",
+        "M_TrailPrism_Frame.005"
+      ],
+      "material_face_counts": [
+        1586,
+        626,
+        6480
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/TrailPrism/SM_HP_TrailPrism_LOD1.fbx",
+      "triangles": 7816,
+      "vertices": 4152,
+      "bounds_m": {
+        "min": [
+          -0.2774384319782257,
+          -0.2774384319782257,
+          0.0
+        ],
+        "max": [
+          0.2774384319782257,
+          0.2774384319782257,
+          1.1200000047683716
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "77966b5ba141f718f11b1d72cd1dc4c085d855666a7c5fa811d41fee822482e5",
+      "material_slots": [
+        "M_TrailPrism_Crystal.002",
+        "M_TrailPrism_Core.005",
+        "M_TrailPrism_Frame.005"
+      ],
+      "material_face_counts": [
+        942,
+        366,
+        3120
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/TrailPrism/SM_HP_TrailPrism_LOD2.fbx",
+      "triangles": 2584,
+      "vertices": 1536,
+      "bounds_m": {
+        "min": [
+          -0.2774384319782257,
+          -0.2774384319782257,
+          0.0
+        ],
+        "max": [
+          0.2774384319782257,
+          0.2774384319782257,
+          1.1200000047683716
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "79cdbe1bd5f6491ed01e5d2f9e6a8a248822fcd85951e65220650c78c7fafb0e",
+      "material_slots": [
+        "M_TrailPrism_Crystal.002",
+        "M_TrailPrism_Core.005",
+        "M_TrailPrism_Frame.005"
+      ],
+      "material_face_counts": [
+        402,
+        146,
+        720
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -0.2774384319782257,
+      -0.2774384319782257,
+      0.0
+    ],
+    "max": [
+      0.2774384319782257,
+      0.2774384319782257,
+      1.1200000047683716
+    ]
+  },
+  "materials": [
+    "M_TrailPrism_Crystal.002",
+    "M_TrailPrism_Core.005",
+    "M_TrailPrism_Frame.005"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/TrailPrism/SM_Blender_TrailPrism",
+  "collision": "none",
+  "screen_sizes": [
+    1.0,
+    0.16,
+    0.045
+  ]
+}

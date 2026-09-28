@@ -1,0 +1,306 @@
+{
+  "actors": [
+    {
+      "label": "WX_Dressing_Lodge_00000",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge",
+      "location_m": [
+        222,
+        250,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00002",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        232,
+        250,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00004",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        246,
+        250,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00006",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        260,
+        250,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Lodge_00008",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge",
+      "location_m": [
+        274,
+        250,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00010",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        326,
+        250,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00012",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        340,
+        250,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00014",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        354,
+        250,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Lodge_00016",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge",
+      "location_m": [
+        368,
+        250,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00018",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        378,
+        250,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00020",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        202,
+        270,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00022",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        222,
+        270,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Lodge_00024",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge",
+      "location_m": [
+        378,
+        270,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00026",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        398,
+        270,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00028",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        290,
+        230,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00030",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        290,
+        202,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Lodge_00032",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge",
+      "location_m": [
+        310,
+        230,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00034",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        310,
+        202,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00036",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        285,
+        316,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00038",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        285,
+        360,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Lodge_00040",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge",
+      "location_m": [
+        315,
+        316,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00042",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        315,
+        360,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00044",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        199,
+        246,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_Cottage_00046",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+      "location_m": [
+        401,
+        246,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_GardenWell_00624",
+      "mesh": "/Game/Terrarium/Meshes/SM_GardenWell_v2_Detail.SM_GardenWell_v2_Detail",
+      "location_m": [
+        300,
+        271,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_MarketStall_00625",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_MarketStall.SM_WX_MarketStall",
+      "location_m": [
+        295,
+        273,
+        24
+      ]
+    },
+    {
+      "label": "WX_Dressing_MarketStall_00627",
+      "mesh": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_MarketStall.SM_WX_MarketStall",
+      "location_m": [
+        305,
+        273,
+        24
+      ]
+    }
+  ],
+  "instances": [
+    {
+      "asset": "WornPath2m",
+      "count": 24,
+      "foliage_type": "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_WornPath2m.FT_WX_Dressing_WornPath2m"
+    },
+    {
+      "asset": "Fence",
+      "count": 290,
+      "foliage_type": "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_Fence.FT_WX_Dressing_Fence"
+    },
+    {
+      "asset": "ShrubGroundcover",
+      "count": 190,
+      "foliage_type": "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_ShrubGroundcover.FT_WX_Dressing_ShrubGroundcover"
+    },
+    {
+      "asset": "GardenPatch2m",
+      "count": 62,
+      "foliage_type": "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_GardenPatch2m.FT_WX_Dressing_GardenPatch2m"
+    },
+    {
+      "asset": "MossCliff4m",
+      "count": 16,
+      "foliage_type": "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_MossCliff4m.FT_WX_Dressing_MossCliff4m"
+    },
+    {
+      "asset": "BroadTree5m",
+      "count": 22,
+      "foliage_type": "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_BroadTree5m.FT_WX_Dressing_BroadTree5m"
+    },
+    {
+      "asset": "Lantern",
+      "count": 2,
+      "foliage_type": "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_Lantern.FT_WX_Dressing_Lantern"
+    },
+    {
+      "asset": "Sign",
+      "count": 1,
+      "foliage_type": "/Game/Terrarium/WorldExpansion/DressingFoliage/FT_WX_Dressing_Sign.FT_WX_Dressing_Sign"
+    }
+  ],
+  "summary": {
+    "infill_buildings": 24,
+    "actors": 27,
+    "instances": 607,
+    "instances_by_asset": {
+      "WornPath2m": 24,
+      "Fence": 290,
+      "ShrubGroundcover": 190,
+      "GardenPatch2m": 62,
+      "MossCliff4m": 16,
+      "BroadTree5m": 22,
+      "Lantern": 2,
+      "Sign": 1
+    }
+  },
+  "original_actor_labels_preserved": true,
+  "validation": "Native count verification and save; visual and traversal confirmation follow."
+}

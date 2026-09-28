@@ -1,0 +1,1350 @@
+{
+  "meshes": [
+    {
+      "source": "/Game/Terrarium/Environment/Meshes/SM_Env_FlowerBorder.SM_Env_FlowerBorder",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Env_FlowerBorder.SM_Env_FlowerBorder",
+      "triangles": [
+        2376,
+        1782,
+        1188
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18000000715255737,
+        0.05999999865889549
+      ],
+      "policy": "Conservative generated lower LODs; original LOD0 retained",
+      "source_contract": {
+        "lod0_triangles": 2376,
+        "lod0_vertices": 6048,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -128.5,
+            -17.5,
+            0.0
+          ],
+          [
+            121.0,
+            17.0,
+            128.0
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Environment/Materials/M_EnvironmentPigment.M_EnvironmentPigment"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 2376,
+        "lod0_vertices": 6048,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -128.5,
+            -17.5,
+            0.0
+          ],
+          [
+            121.0,
+            17.0,
+            128.0
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Environment/Materials/M_EnvironmentPigment.M_EnvironmentPigment"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 0.0,
+        "limit_cm": 2.495,
+        "fraction_of_longest_dimension": 0.0,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "89801624f6fb8a21695066935ef20e0fdadb4403efe2f2cf43932174d528c663",
+      "reduction_attempts": [],
+      "instances": 1
+    },
+    {
+      "source": "/Game/Terrarium/Blender/TrailPatch/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "triangles": [
+        5554,
+        3332,
+        1778
+      ],
+      "screen_sizes": [
+        1.0,
+        0.23999999463558197,
+        0.07999999821186066
+      ],
+      "policy": "Conservative generated lower LODs; original LOD0 retained",
+      "source_contract": {
+        "lod0_triangles": 5554,
+        "lod0_vertices": 12790,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -116.0,
+            -100.00000762939453,
+            -14.0
+          ],
+          [
+            116.0,
+            100.00000762939453,
+            0.8999999761581421
+          ]
+        ],
+        "materials": [
+          [
+            "M_TrailPatch_001",
+            "/Game/Terrarium/Blender/TrailPatch/M_TrailPatch.M_TrailPatch"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 5554,
+        "lod0_vertices": 12790,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -116.13253784179688,
+            -100.0000228881836,
+            -14.000003814697266
+          ],
+          [
+            116.00003051757812,
+            100.00000762939453,
+            1.5165061950683594
+          ]
+        ],
+        "materials": [
+          [
+            "M_TrailPatch_001",
+            "/Game/Terrarium/Blender/TrailPatch/M_TrailPatch.M_TrailPatch"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 0.6165062189102173,
+        "limit_cm": 2.32,
+        "fraction_of_longest_dimension": 0.0026573543918543847,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "630c71ce154d8f81b7a2b9b8e5b4951a03018e23c9fe0a5a8a96c3d27c455bdc",
+      "reduction_attempts": [],
+      "instances": 88
+    },
+    {
+      "source": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "triangles": [
+        1532,
+        1148,
+        766
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18000000715255737,
+        0.05999999865889549
+      ],
+      "policy": "Conservative generated lower LODs; original LOD0 retained",
+      "source_contract": {
+        "lod0_triangles": 1532,
+        "lod0_vertices": 3520,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -24.173538208007812,
+            -21.262004852294922,
+            -0.23109781742095947
+          ],
+          [
+            25.629440307617188,
+            21.791536331176758,
+            34.354217529296875
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 1532,
+        "lod0_vertices": 3520,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -24.173538208007812,
+            -21.39066791534424,
+            -0.3240165710449219
+          ],
+          [
+            25.629440307617188,
+            21.791537284851074,
+            34.354217529296875
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 0.1286630630493164,
+        "limit_cm": 0.49802978515625,
+        "fraction_of_longest_dimension": 0.002583441129107371,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "5908be1fe013415fc986742dea383d4e2f71473268c63d933af7ec5848decf07",
+      "reduction_attempts": [],
+      "instances": 569
+    },
+    {
+      "source": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "triangles": [
+        3092,
+        2318,
+        1546
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18000000715255737,
+        0.05999999865889549
+      ],
+      "policy": "Conservative generated lower LODs; original LOD0 retained",
+      "source_contract": {
+        "lod0_triangles": 3092,
+        "lod0_vertices": 6936,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -32.12291717529297,
+            -39.177093505859375,
+            1.3808128833770752
+          ],
+          [
+            32.41787338256836,
+            32.139957427978516,
+            27.272430419921875
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 3092,
+        "lod0_vertices": 6936,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -32.13689041137695,
+            -39.185434341430664,
+            1.3250961303710938
+          ],
+          [
+            32.44291305541992,
+            32.14874839782715,
+            27.2852783203125
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 0.055716753005981445,
+        "limit_cm": 0.7131705093383789,
+        "fraction_of_longest_dimension": 0.0007812543042150029,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "7020e60ad65c49662783b1a0cac7b1831172fdbe60eb6474e4a6df73e45c2293",
+      "reduction_attempts": [],
+      "instances": 498
+    },
+    {
+      "source": "/Game/Terrarium/Meshes/SM_RockCluster_Detail.SM_RockCluster_Detail",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_RockCluster_Detail.SM_RockCluster_Detail",
+      "triangles": [
+        496
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "policy": "Under 512 triangles; retain minimal original mesh without redundant LODs",
+      "source_contract": {
+        "lod0_triangles": 496,
+        "lod0_vertices": 1262,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -63.11317825317383,
+            -46.58049392700195,
+            -4.029386043548584
+          ],
+          [
+            55.1215934753418,
+            32.956504821777344,
+            50.02938461303711
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 496,
+        "lod0_vertices": 1262,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -63.11317825317383,
+            -46.58049392700195,
+            -4.029386043548584
+          ],
+          [
+            55.1215934753418,
+            32.956504821777344,
+            50.02938461303711
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 0.0,
+        "limit_cm": 1.1823477172851562,
+        "fraction_of_longest_dimension": 0.0,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "4040c37e5ca0077b391d562b9c7db99599a6d400be86d3ae458851c5f2370c6a",
+      "reduction_attempts": [],
+      "instances": 61
+    },
+    {
+      "source": "/Game/Terrarium/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "triangles": [
+        1708,
+        1452,
+        1196
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18,
+        0.06
+      ],
+      "policy": "Generated lower LODs within 1% aggregate envelope budget; original LOD0 retained",
+      "source_contract": {
+        "lod0_triangles": 1708,
+        "lod0_vertices": 4620,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -19.0256404876709,
+            -18.561756134033203,
+            -0.05025569349527359
+          ],
+          [
+            33.953529357910156,
+            18.561756134033203,
+            35.96552658081055
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 1708,
+        "lod0_vertices": 4620,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -19.025641441345215,
+            -18.561756134033203,
+            -0.05025482177734375
+          ],
+          [
+            33.95353031158447,
+            18.561756134033203,
+            35.96552658081055
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 9.5367431640625e-07,
+        "limit_cm": 0.5297916984558105,
+        "fraction_of_longest_dimension": 1.8000929784025204e-08,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "14a8eab1ab1bef5ad2fa90a0daa069e0093ee184e057d4c7807250a61cd7f8db",
+      "reduction_attempts": [
+        {
+          "fractions": [
+            1.0,
+            0.75,
+            0.5
+          ],
+          "triangles": [
+            1708,
+            1280,
+            854
+          ],
+          "aggregate_bounds_review": {
+            "maximum_cm": 1.299036979675293,
+            "limit_cm": 0.5297916984558105,
+            "fraction_of_longest_dimension": 0.02451976849508231,
+            "within_budget": false,
+            "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+          },
+          "actually_reduces": true
+        },
+        {
+          "fractions": [
+            1.0,
+            0.85,
+            0.7
+          ],
+          "triangles": [
+            1708,
+            1452,
+            1196
+          ],
+          "aggregate_bounds_review": {
+            "maximum_cm": 9.5367431640625e-07,
+            "limit_cm": 0.5297916984558105,
+            "fraction_of_longest_dimension": 1.8000929784025204e-08,
+            "within_budget": true,
+            "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+          },
+          "actually_reduces": true
+        }
+      ],
+      "instances": 136
+    },
+    {
+      "source": "/Game/Terrarium/Meshes/SM_ShoreOutcrop_Detail.SM_ShoreOutcrop_Detail",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_ShoreOutcrop_Detail.SM_ShoreOutcrop_Detail",
+      "triangles": [
+        1646,
+        988,
+        526
+      ],
+      "screen_sizes": [
+        1.0,
+        0.24,
+        0.08
+      ],
+      "policy": "Generated lower LODs within 1% aggregate envelope budget; original LOD0 retained",
+      "source_contract": {
+        "lod0_triangles": 1646,
+        "lod0_vertices": 4262,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -81.04912567138672,
+            -74.4909439086914,
+            -0.9700000286102295
+          ],
+          [
+            102.61685943603516,
+            64.76602935791016,
+            116.19999694824219
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 1646,
+        "lod0_vertices": 4262,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -81.17220306396484,
+            -74.4909439086914,
+            -0.9722671508789062
+          ],
+          [
+            102.71050262451172,
+            64.76602935791016,
+            116.19999694824219
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 0.123077392578125,
+        "limit_cm": 1.8366598510742187,
+        "fraction_of_longest_dimension": 0.0006701153319496801,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "3f95a89fb9ce8a7b5f79faa48fd70530840bac88c4c7066f3ecc2e19eaf0f96b",
+      "reduction_attempts": [
+        {
+          "fractions": [
+            1.0,
+            0.6,
+            0.32
+          ],
+          "triangles": [
+            1646,
+            988,
+            526
+          ],
+          "aggregate_bounds_review": {
+            "maximum_cm": 0.123077392578125,
+            "limit_cm": 1.8366598510742187,
+            "fraction_of_longest_dimension": 0.0006701153319496801,
+            "within_budget": true,
+            "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+          },
+          "actually_reduces": true
+        }
+      ],
+      "instances": 32
+    },
+    {
+      "source": "/Game/Terrarium/Meshes/SM_ShoreOutcrop_v2_Detail.SM_ShoreOutcrop_v2_Detail",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_ShoreOutcrop_v2_Detail.SM_ShoreOutcrop_v2_Detail",
+      "triangles": [
+        1118,
+        670,
+        358
+      ],
+      "screen_sizes": [
+        1.0,
+        0.24,
+        0.08
+      ],
+      "policy": "Generated lower LODs within 1% aggregate envelope budget; original LOD0 retained",
+      "source_contract": {
+        "lod0_triangles": 1118,
+        "lod0_vertices": 2914,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -76.47000122070312,
+            -60.06999969482422,
+            -65.0
+          ],
+          [
+            107.5,
+            85.0,
+            106.0999984741211
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 1118,
+        "lod0_vertices": 2914,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -77.08988189697266,
+            -60.38715934753418,
+            -65.00000381469727
+          ],
+          [
+            107.63216400146484,
+            85.00000381469727,
+            106.35977172851562
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 0.6198806762695312,
+        "limit_cm": 1.8397000122070313,
+        "fraction_of_longest_dimension": 0.0033694660659695248,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "68325f47e2a42b81016d6af84f8d4a11c35b7e1c7a56d9c5a7c9655caadaa021",
+      "reduction_attempts": [
+        {
+          "fractions": [
+            1.0,
+            0.6,
+            0.32
+          ],
+          "triangles": [
+            1118,
+            670,
+            358
+          ],
+          "aggregate_bounds_review": {
+            "maximum_cm": 0.6198806762695312,
+            "limit_cm": 1.8397000122070313,
+            "fraction_of_longest_dimension": 0.0033694660659695248,
+            "within_budget": true,
+            "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+          },
+          "actually_reduces": true
+        }
+      ],
+      "instances": 8
+    },
+    {
+      "source": "/Game/Terrarium/Meshes/SM_RiverStones_v2_Detail.SM_RiverStones_v2_Detail",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_RiverStones_v2_Detail.SM_RiverStones_v2_Detail",
+      "triangles": [
+        398
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "policy": "Under 512 triangles; retain minimal original mesh without redundant LODs",
+      "source_contract": {
+        "lod0_triangles": 398,
+        "lod0_vertices": 1094,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -49.74930953979492,
+            -31.968454360961914,
+            -58.0
+          ],
+          [
+            45.95433044433594,
+            44.42912292480469,
+            30.96807289123535
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 398,
+        "lod0_vertices": 1094,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -49.74930953979492,
+            -31.968454360961914,
+            -58.0
+          ],
+          [
+            45.95433044433594,
+            44.42912292480469,
+            30.96807289123535
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 0.0,
+        "limit_cm": 0.9570363998413086,
+        "fraction_of_longest_dimension": 0.0,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "9f6622a4f209f47b272ded27d526b3b492197eba191cc08cf58cad4e31481759",
+      "reduction_attempts": [],
+      "instances": 41
+    },
+    {
+      "source": "/Game/Terrarium/Blender/Riverbank/SM_Blender_Riverbank.SM_Blender_Riverbank",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_Riverbank.SM_Blender_Riverbank",
+      "triangles": [
+        59508,
+        44630,
+        29754
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18,
+        0.06
+      ],
+      "policy": "Generated lower LODs within 1% aggregate envelope budget; original LOD0 retained",
+      "source_contract": {
+        "lod0_triangles": 59508,
+        "lod0_vertices": 150092,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -112.5,
+            -58.50000762939453,
+            0.0
+          ],
+          [
+            112.5,
+            58.50000762939453,
+            116.0
+          ]
+        ],
+        "materials": [
+          [
+            "M_Riverbank_002",
+            "/Game/Terrarium/Blender/Riverbank/M_Riverbank.M_Riverbank"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 59508,
+        "lod0_vertices": 150092,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -112.50019073486328,
+            -58.50019454956055,
+            0.0
+          ],
+          [
+            112.50019073486328,
+            58.50019454956055,
+            116.0
+          ]
+        ],
+        "materials": [
+          [
+            "M_Riverbank_002",
+            "/Game/Terrarium/Blender/Riverbank/M_Riverbank.M_Riverbank"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 0.00019073486328125,
+        "limit_cm": 2.25,
+        "fraction_of_longest_dimension": 8.477105034722222e-07,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "9a9117a846c52a3a6e34e31271284c65943248d7e4d006e728f8630a7d0941bf",
+      "reduction_attempts": [
+        {
+          "fractions": [
+            1.0,
+            0.75,
+            0.5
+          ],
+          "triangles": [
+            59508,
+            44630,
+            29754
+          ],
+          "aggregate_bounds_review": {
+            "maximum_cm": 0.00019073486328125,
+            "limit_cm": 2.25,
+            "fraction_of_longest_dimension": 8.477105034722222e-07,
+            "within_budget": true,
+            "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+          },
+          "actually_reduces": true
+        }
+      ],
+      "instances": 35
+    },
+    {
+      "source": "/Game/Terrarium/Blender/MossFringe/SM_Blender_MossFringe.SM_Blender_MossFringe",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_MossFringe.SM_Blender_MossFringe",
+      "triangles": [
+        92016,
+        78214,
+        64412
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18,
+        0.06
+      ],
+      "policy": "Generated lower LODs within 1% aggregate envelope budget; original LOD0 retained",
+      "source_contract": {
+        "lod0_triangles": 92016,
+        "lod0_vertices": 110205,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -25.999998092651367,
+            -20.040626525878906,
+            -114.40000915527344
+          ],
+          [
+            23.30000114440918,
+            21.500001907348633,
+            1.2000000476837158
+          ]
+        ],
+        "materials": [
+          [
+            "M_MossFringe_002",
+            "/Game/Terrarium/Blender/MossFringe/M_MossFringe.M_MossFringe"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 92016,
+        "lod0_vertices": 110205,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -26.18844223022461,
+            -20.0966157913208,
+            -114.56710052490234
+          ],
+          [
+            23.391769409179688,
+            21.70069408416748,
+            1.3638381958007812
+          ]
+        ],
+        "materials": [
+          [
+            "M_MossFringe_002",
+            "/Game/Terrarium/Blender/MossFringe/M_MossFringe.M_MossFringe"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 0.20069217681884766,
+        "limit_cm": 1.1560000920295717,
+        "fraction_of_longest_dimension": 0.0017360913567618797,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "50c8ce760834d70600ae672348c1f7f55e7e3b3ad221e33fbaac577f32c28f92",
+      "reduction_attempts": [
+        {
+          "fractions": [
+            1.0,
+            0.75,
+            0.5
+          ],
+          "triangles": [
+            92016,
+            69012,
+            46008
+          ],
+          "aggregate_bounds_review": {
+            "maximum_cm": 2.5547149181365967,
+            "limit_cm": 1.1560000920295717,
+            "fraction_of_longest_dimension": 0.02209960825912499,
+            "within_budget": false,
+            "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+          },
+          "actually_reduces": true
+        },
+        {
+          "fractions": [
+            1.0,
+            0.85,
+            0.7
+          ],
+          "triangles": [
+            92016,
+            78214,
+            64412
+          ],
+          "aggregate_bounds_review": {
+            "maximum_cm": 0.20069217681884766,
+            "limit_cm": 1.1560000920295717,
+            "fraction_of_longest_dimension": 0.0017360913567618797,
+            "within_budget": true,
+            "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+          },
+          "actually_reduces": true
+        }
+      ],
+      "instances": 209
+    },
+    {
+      "source": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "triangles": [
+        2832,
+        2662,
+        2492
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18,
+        0.06
+      ],
+      "policy": "Generated lower LODs within 1% aggregate envelope budget; original LOD0 retained",
+      "source_contract": {
+        "lod0_triangles": 2832,
+        "lod0_vertices": 6616,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -66.69489288330078,
+            -51.93669891357422,
+            -1.2153531312942505
+          ],
+          [
+            54.51994705200195,
+            52.190189361572266,
+            110.57099914550781
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 2832,
+        "lod0_vertices": 6616,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -66.69489479064941,
+            -51.93670082092285,
+            -1.4658050537109375
+          ],
+          [
+            54.519948959350586,
+            52.1901912689209,
+            110.57099914550781
+          ]
+        ],
+        "materials": [
+          [
+            "Material_0",
+            "/Game/Terrarium/Materials/M_SculptedPalette.M_SculptedPalette"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 0.250451922416687,
+        "limit_cm": 1.2121483993530273,
+        "fraction_of_longest_dimension": 0.0020661820165778656,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "3c71e2aa109c86fb9373d59d208f683a2a26c8dd87381424b8b176265e0e9afd",
+      "reduction_attempts": [
+        {
+          "fractions": [
+            1.0,
+            0.75,
+            0.5
+          ],
+          "triangles": [
+            2832,
+            2124,
+            1416
+          ],
+          "aggregate_bounds_review": {
+            "maximum_cm": 2.55401611328125,
+            "limit_cm": 1.2121483993530273,
+            "fraction_of_longest_dimension": 0.021070160342120087,
+            "within_budget": false,
+            "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+          },
+          "actually_reduces": true
+        },
+        {
+          "fractions": [
+            1.0,
+            0.85,
+            0.7
+          ],
+          "triangles": [
+            2832,
+            2408,
+            1982
+          ],
+          "aggregate_bounds_review": {
+            "maximum_cm": 2.55401611328125,
+            "limit_cm": 1.2121483993530273,
+            "fraction_of_longest_dimension": 0.021070160342120087,
+            "within_budget": false,
+            "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+          },
+          "actually_reduces": true
+        },
+        {
+          "fractions": [
+            1.0,
+            0.94,
+            0.88
+          ],
+          "triangles": [
+            2832,
+            2662,
+            2492
+          ],
+          "aggregate_bounds_review": {
+            "maximum_cm": 0.250451922416687,
+            "limit_cm": 1.2121483993530273,
+            "fraction_of_longest_dimension": 0.0020661820165778656,
+            "within_budget": true,
+            "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+          },
+          "actually_reduces": true
+        }
+      ],
+      "instances": 67
+    },
+    {
+      "source": "/Game/Terrarium/Blender/MossRock/SM_Blender_MossRock.SM_Blender_MossRock",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_MossRock.SM_Blender_MossRock",
+      "triangles": [
+        78300,
+        46980,
+        25056
+      ],
+      "screen_sizes": [
+        1.0,
+        0.24,
+        0.08
+      ],
+      "policy": "Generated lower LODs within 1% aggregate envelope budget; original LOD0 retained",
+      "source_contract": {
+        "lod0_triangles": 78300,
+        "lod0_vertices": 204342,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -87.93900299072266,
+            -65.25900268554688,
+            0.06299987435340881
+          ],
+          [
+            85.77900695800781,
+            80.3790054321289,
+            124.25698852539062
+          ]
+        ],
+        "materials": [
+          [
+            "M_MossRock_003",
+            "/Game/Terrarium/Blender/MossRock/M_MossRock.M_MossRock"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 78300,
+        "lod0_vertices": 204342,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -87.93935775756836,
+            -65.2765998840332,
+            0.0523223876953125
+          ],
+          [
+            85.78763198852539,
+            80.39982223510742,
+            124.25698852539062
+          ]
+        ],
+        "materials": [
+          [
+            "M_MossRock_003",
+            "/Game/Terrarium/Blender/MossRock/M_MossRock.M_MossRock"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 0.020816802978515625,
+        "limit_cm": 1.7371800994873048,
+        "fraction_of_longest_dimension": 0.00011983100073883706,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "6796dcdc2df0be9f5aa82128b05c394efae58fda991fd0d69696ea19c28d9f85",
+      "reduction_attempts": [
+        {
+          "fractions": [
+            1.0,
+            0.6,
+            0.32
+          ],
+          "triangles": [
+            78300,
+            46980,
+            25056
+          ],
+          "aggregate_bounds_review": {
+            "maximum_cm": 0.020816802978515625,
+            "limit_cm": 1.7371800994873048,
+            "fraction_of_longest_dimension": 0.00011983100073883706,
+            "within_budget": true,
+            "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+          },
+          "actually_reduces": true
+        }
+      ],
+      "instances": 7
+    },
+    {
+      "source": "/Game/Terrarium/Blender/AncientTree/SM_Blender_AncientTree.SM_Blender_AncientTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingEnvironment/Retained/Meshes/SM_Blender_AncientTree.SM_Blender_AncientTree",
+      "triangles": [
+        250668,
+        188000,
+        125334
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18,
+        0.06
+      ],
+      "policy": "Generated lower LODs within 1% aggregate envelope budget; original LOD0 retained",
+      "source_contract": {
+        "lod0_triangles": 250668,
+        "lod0_vertices": 658868,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -157.36572265625,
+            -152.91664123535156,
+            0.07500052452087402
+          ],
+          [
+            154.72561645507812,
+            151.7726593017578,
+            443.4499816894531
+          ]
+        ],
+        "materials": [
+          [
+            "M_AncientTree_001",
+            "/Game/Terrarium/Blender/AncientTree/M_AncientTree.M_AncientTree"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "contract": {
+        "lod0_triangles": 250668,
+        "lod0_vertices": 658868,
+        "lod0_sections": 1,
+        "bounds": [
+          [
+            -157.36572265625,
+            -152.91664123535156,
+            0.07501220703125
+          ],
+          [
+            154.72561645507812,
+            151.7726593017578,
+            443.4499816894531
+          ]
+        ],
+        "materials": [
+          [
+            "M_AncientTree_001",
+            "/Game/Terrarium/Blender/AncientTree/M_AncientTree.M_AncientTree"
+          ]
+        ],
+        "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "collision_lod": 0,
+        "simple_collision_count": 0,
+        "nanite": false
+      },
+      "aggregate_bounds_review": {
+        "maximum_cm": 1.1682510375976562e-05,
+        "limit_cm": 4.433749811649323,
+        "fraction_of_longest_dimension": 2.6349051868650104e-08,
+        "within_budget": true,
+        "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+      },
+      "lod0_render_triangle_positions_sha256": "2d247849a90dfede18a59c8d53b3ad35bebf8447ab4f7d61479b9a5a5e081a29",
+      "reduction_attempts": [
+        {
+          "fractions": [
+            1.0,
+            0.75,
+            0.5
+          ],
+          "triangles": [
+            250668,
+            188000,
+            125334
+          ],
+          "aggregate_bounds_review": {
+            "maximum_cm": 1.1682510375976562e-05,
+            "limit_cm": 4.433749811649323,
+            "fraction_of_longest_dimension": 2.6349051868650104e-08,
+            "within_budget": true,
+            "policy": "Aggregate reduced-LOD envelope only; exact render LOD0 geometry hash separately required"
+          },
+          "actually_reduces": true
+        }
+      ],
+      "instances": 1
+    }
+  ]
+}

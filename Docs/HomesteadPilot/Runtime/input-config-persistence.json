@@ -1,0 +1,45 @@
+{
+  "file": "C:\\Users\\hello\\Projects\\Terrarium\\Config\\DefaultInput.ini",
+  "added_lines": [
+    "+AxisMappings=(AxisName=\"HP_MoveForward\",Scale=1.000000,Key=W)",
+    "+AxisMappings=(AxisName=\"HP_MoveForward\",Scale=-1.000000,Key=S)",
+    "+AxisMappings=(AxisName=\"HP_MoveRight\",Scale=1.000000,Key=D)",
+    "+AxisMappings=(AxisName=\"HP_MoveRight\",Scale=-1.000000,Key=A)",
+    "+AxisMappings=(AxisName=\"HP_Turn\",Scale=1.000000,Key=MouseX)",
+    "+AxisMappings=(AxisName=\"HP_LookUp\",Scale=-1.000000,Key=MouseY)"
+  ],
+  "expected_mappings": [
+    [
+      "HP_MoveForward",
+      "W",
+      1.0
+    ],
+    [
+      "HP_MoveForward",
+      "S",
+      -1.0
+    ],
+    [
+      "HP_MoveRight",
+      "D",
+      1.0
+    ],
+    [
+      "HP_MoveRight",
+      "A",
+      -1.0
+    ],
+    [
+      "HP_Turn",
+      "MouseX",
+      1.0
+    ],
+    [
+      "HP_LookUp",
+      "MouseY",
+      -1.0
+    ]
+  ],
+  "source_readback_contains_all_six": true,
+  "scope": "Only six additive pilot axis mappings; no project default map or game mode changes"
+}

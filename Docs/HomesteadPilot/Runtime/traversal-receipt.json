@@ -1,0 +1,1154 @@
+{
+  "level": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome",
+  "measurement": "Possessed PIE Character driven by AddMovementInput; real gravity and collision",
+  "physical_keyboard_input_test": "Separate manual-control receipt required",
+  "waypoint_approach": "Transient maximum walking speed decreases near targets to prevent frame-step overshoot; original speed restored at end",
+  "background_throttle_disabled_during_test": true,
+  "background_throttle_restored": true,
+  "routes": [
+    {
+      "name": "cottage_enter_exit",
+      "start_cm": [
+        230,
+        53,
+        652
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            65,
+            53,
+            664
+          ],
+          "actual_cm": [
+            80.25999094183885,
+            53.0,
+            675.8500075340271
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 0.6776085000001331
+        },
+        {
+          "target_cm": [
+            -160,
+            53,
+            676
+          ],
+          "actual_cm": [
+            -147.9814532036524,
+            53.0,
+            676.1500043869019
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 0.8156032999995659
+        },
+        {
+          "target_cm": [
+            230,
+            53,
+            652
+          ],
+          "actual_cm": [
+            215.59199249725947,
+            53.0,
+            653.1469206809998
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.5834830000003421
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "terrace_stairs_up_down",
+      "start_cm": [
+        875,
+        -650,
+        372
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            855,
+            -140,
+            652
+          ],
+          "actual_cm": [
+            855.7691594493422,
+            -159.86148979912517,
+            658.1650507172922
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.982175000001007
+        },
+        {
+          "target_cm": [
+            875,
+            -650,
+            372
+          ],
+          "actual_cm": [
+            874.2380152343143,
+            -630.5539811469399,
+            372.4500067246306
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.9676939000000857
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "river_bridge_both_spans",
+      "start_cm": [
+        864,
+        -1840,
+        372
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            894,
+            -1388,
+            372
+          ],
+          "actual_cm": [
+            892.7879764668327,
+            -1406.0165272241939,
+            372.15000793285645
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.6994208000014623
+        },
+        {
+          "target_cm": [
+            922,
+            -950,
+            372
+          ],
+          "actual_cm": [
+            920.7709137109733,
+            -969.256374742465,
+            378.16499206371583
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.5640676999992138
+        },
+        {
+          "target_cm": [
+            864,
+            -1840,
+            372
+          ],
+          "actual_cm": [
+            865.2262448834736,
+            -1821.174391136357,
+            378.95000843310373
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 3.333514300000388
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "all_routes_passed": true,
+  "error": null,
+  "trace": [
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 0,
+      "position_cm": [
+        217.51709283584526,
+        53.0,
+        653.1205916404724
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 149.89700186914743,
+      "frame_delta_ms": 16.559403389692307
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 0,
+      "position_cm": [
+        178.28507955010377,
+        53.0,
+        653.1205916404724
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.682300716638565
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 0,
+      "position_cm": [
+        131.66085134084665,
+        53.0,
+        653.1205916404724
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.643598675727844
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 1,
+      "position_cm": [
+        77.89865039402888,
+        53.0,
+        675.8500075340271
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 248.0087763071053,
+      "frame_delta_ms": 9.521197527647018
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 1,
+      "position_cm": [
+        39.022678769137386,
+        53.0,
+        676.1500043869019
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.619902104139328
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 1,
+      "position_cm": [
+        -7.611573451254841,
+        53.0,
+        676.1500043869019
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.55369997024536
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 1,
+      "position_cm": [
+        -54.31588109681415,
+        53.0,
+        676.1500043869019
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.736600548028946
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 1,
+      "position_cm": [
+        -100.90872090408611,
+        53.0,
+        676.1500043869019
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.57480001449585
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        -152.15555705795694,
+        53.0,
+        676.1500043869019
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 212.77486597164093,
+      "frame_delta_ms": 9.747602045536041
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        -157.1741895886908,
+        53.0,
+        676.1500043869019
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 51.56952075393227,
+      "frame_delta_ms": 16.617901623249054
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        -133.33441359295531,
+        53.0,
+        676.1500043869019
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 218.0956191211413,
+      "frame_delta_ms": 16.57779887318611
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        -88.1204796733319,
+        53.0,
+        676.1500043869019
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.516398638486862
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        -40.94476291555755,
+        53.0,
+        676.1500043869019
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 18.260199576616287
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        5.297544210964517,
+        53.0,
+        676.1500043869019
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.630198806524277
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        52.059196293169336,
+        53.0,
+        676.1500043869019
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.89799875020981
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        98.60373622160562,
+        53.0,
+        663.8500018119812
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.589298844337463
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        145.3042366204799,
+        53.0,
+        653.1469206809998
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.789600253105164
+    },
+    {
+      "route": "cottage_enter_exit",
+      "waypoint": 2,
+      "position_cm": [
+        191.9025087950767,
+        53.0,
+        653.1469206809998
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.648199409246445
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 0,
+      "position_cm": [
+        874.7712457991603,
+        -644.1667678785788,
+        373.1650037765503
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 100.03700131912953,
+      "frame_delta_ms": 16.80940017104149
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 0,
+      "position_cm": [
+        873.5218573144675,
+        -612.3073615188911,
+        373.1650094985962
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 266.46799969064523,
+      "frame_delta_ms": 16.711197793483734
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 0,
+      "position_cm": [
+        871.7232129519684,
+        -566.5300010771603,
+        395.34417247772217
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000004,
+      "frame_delta_ms": 16.608797013759613
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 0,
+      "position_cm": [
+        869.9335749188782,
+        -521.0183579074506,
+        441.7324857711792
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.79219678044319
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 0,
+      "position_cm": [
+        868.1989489242752,
+        -477.0534505959902,
+        464.92667865753174
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999824,
+      "frame_delta_ms": 16.64389669895172
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 0,
+      "position_cm": [
+        866.4675838807651,
+        -433.13383505030254,
+        488.1208257675171
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999983,
+      "frame_delta_ms": 16.724199056625366
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 0,
+      "position_cm": [
+        864.8272032276038,
+        -391.7579252688906,
+        534.5091695785522
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999926,
+      "frame_delta_ms": 16.807202249765396
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 0,
+      "position_cm": [
+        863.1005021418778,
+        -347.81672616370116,
+        557.7033414840698
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999988,
+      "frame_delta_ms": 16.686297953128815
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 0,
+      "position_cm": [
+        861.4686868752298,
+        -306.497202163223,
+        604.0916814804077
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999997,
+      "frame_delta_ms": 16.709599643945694
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 0,
+      "position_cm": [
+        859.7498971998609,
+        -262.5529323896199,
+        627.2858381271362
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000153,
+      "frame_delta_ms": 16.585499048233032
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 0,
+      "position_cm": [
+        857.9378441388538,
+        -215.8315303596487,
+        658.1650507172922
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999993,
+      "frame_delta_ms": 16.585901379585266
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 0,
+      "position_cm": [
+        855.7691594493422,
+        -159.86148979912517,
+        658.1650507172922
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999993,
+      "frame_delta_ms": 16.64460077881813
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 1,
+      "position_cm": [
+        855.3668588240577,
+        -149.3197299856799,
+        658.1650507172922
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 19.587995434637797,
+      "frame_delta_ms": 16.558099538087845
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 1,
+      "position_cm": [
+        856.1020898666115,
+        -167.93195873982066,
+        658.1650507172922
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 186.66903649603637,
+      "frame_delta_ms": 16.7074017226696
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 1,
+      "position_cm": [
+        857.7888653199914,
+        -210.91300963800165,
+        658.1650507172922
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000074,
+      "frame_delta_ms": 16.385700553655624
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 1,
+      "position_cm": [
+        859.6152347165589,
+        -257.49562370203057,
+        657.3158453947035
+      ],
+      "movement_mode": "<MovementMode.MOVE_FALLING: 3>",
+      "speed_cm_s": 280.46930976809955,
+      "frame_delta_ms": 16.549300402402878
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 1,
+      "position_cm": [
+        861.4421330499688,
+        -304.097972507661,
+        641.0199671555171
+      ],
+      "movement_mode": "<MovementMode.MOVE_FALLING: 3>",
+      "speed_cm_s": 332.5702257728433,
+      "frame_delta_ms": 16.538698226213455
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 1,
+      "position_cm": [
+        863.270807537159,
+        -350.7458432517293,
+        597.4793644428363
+      ],
+      "movement_mode": "<MovementMode.MOVE_FALLING: 3>",
+      "speed_cm_s": 442.6539691310291,
+      "frame_delta_ms": 16.717102378606796
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 1,
+      "position_cm": [
+        865.1034912481123,
+        -397.49622684343115,
+        526.5111131725947
+      ],
+      "movement_mode": "<MovementMode.MOVE_FALLING: 3>",
+      "speed_cm_s": 578.8266656583189,
+      "frame_delta_ms": 16.381502151489258
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 1,
+      "position_cm": [
+        866.9291818890391,
+        -444.07228281956725,
+        488.1208329053239
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999995,
+      "frame_delta_ms": 16.506198793649673
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 1,
+      "position_cm": [
+        868.7560034153753,
+        -490.6820597707462,
+        483.22331205845876
+      ],
+      "movement_mode": "<MovementMode.MOVE_FALLING: 3>",
+      "speed_cm_s": 296.6464913998741,
+      "frame_delta_ms": 16.47079735994339
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 1,
+      "position_cm": [
+        870.5840222109142,
+        -537.322642777012,
+        453.2739226936379
+      ],
+      "movement_mode": "<MovementMode.MOVE_FALLING: 3>",
+      "speed_cm_s": 383.0142869592523,
+      "frame_delta_ms": 16.722101718187332
+    },
+    {
+      "route": "terrace_stairs_up_down",
+      "waypoint": 1,
+      "position_cm": [
+        872.4097721384469,
+        -583.9054210051941,
+        396.1786889946224
+      ],
+      "movement_mode": "<MovementMode.MOVE_FALLING: 3>",
+      "speed_cm_s": 508.53377671987045,
+      "frame_delta_ms": 16.672398895025253
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 0,
+      "position_cm": [
+        863.648421008132,
+        -1839.1711482823864,
+        378.1650219936296
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 16.666997224095198,
+      "frame_delta_ms": 16.666997224092484
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 0,
+      "position_cm": [
+        864.8647675689316,
+        -1821.0903599750652,
+        378.95000592087536
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 183.66299875747612,
+      "frame_delta_ms": 16.87069982290268
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 0,
+      "position_cm": [
+        867.7333121171339,
+        -1778.4499247588963,
+        379.25000468109874
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999426,
+      "frame_delta_ms": 16.738001257181168
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 0,
+      "position_cm": [
+        870.8668683427828,
+        -1731.87013525562,
+        378.9500030598524
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000244,
+      "frame_delta_ms": 16.874801367521286
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 0,
+      "position_cm": [
+        873.9939537729852,
+        -1685.386533045019,
+        372.15000793285645
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000004,
+      "frame_delta_ms": 16.71620085835457
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 0,
+      "position_cm": [
+        877.1255216343666,
+        -1638.8363002442086,
+        372.15000793285645
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999994,
+      "frame_delta_ms": 16.815800219774246
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 0,
+      "position_cm": [
+        880.2642518078792,
+        -1592.1796008707847,
+        372.15000793285645
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999915,
+      "frame_delta_ms": 16.940802335739136
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 0,
+      "position_cm": [
+        883.3926396866899,
+        -1545.6766379793398,
+        372.15000793285645
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999835,
+      "frame_delta_ms": 16.701601445674896
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 0,
+      "position_cm": [
+        886.5240778143027,
+        -1499.1283336492925,
+        372.15000793285645
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000057,
+      "frame_delta_ms": 16.81309938430786
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 0,
+      "position_cm": [
+        889.653146007746,
+        -1452.6152579945428,
+        372.15000793285645
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.000000000003,
+      "frame_delta_ms": 16.701798886060715
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 1,
+      "position_cm": [
+        893.090975212322,
+        -1401.504229606198,
+        372.15000793285645
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 255.89629860454295,
+      "frame_delta_ms": 8.333500474691391
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 1,
+      "position_cm": [
+        895.794350604925,
+        -1360.1978647959145,
+        372.15000793285645
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999847,
+      "frame_delta_ms": 16.692399978637695
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 1,
+      "position_cm": [
+        898.7851267008875,
+        -1313.6282185003763,
+        372.15000793285645
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000404,
+      "frame_delta_ms": 16.752399504184723
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 1,
+      "position_cm": [
+        901.7611485605822,
+        -1267.066914129662,
+        372.15000793285645
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999517,
+      "frame_delta_ms": 16.828399151563644
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 1,
+      "position_cm": [
+        904.7284442574479,
+        -1220.592533013928,
+        377.1499917203931
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999375,
+      "frame_delta_ms": 16.786500811576843
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 1,
+      "position_cm": [
+        907.7006980539699,
+        -1174.0291358223888,
+        377.1499917203931
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000114,
+      "frame_delta_ms": 16.649600118398666
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 1,
+      "position_cm": [
+        910.6721487793359,
+        -1127.475648164952,
+        378.16499206371583
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999676,
+      "frame_delta_ms": 16.907699406147003
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 1,
+      "position_cm": [
+        913.6439040650456,
+        -1080.9167354799251,
+        378.16499206371583
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000597,
+      "frame_delta_ms": 16.845200210809708
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 1,
+      "position_cm": [
+        916.6133744433893,
+        -1034.393450102089,
+        378.16499206371583
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000006,
+      "frame_delta_ms": 16.779102385044098
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 1,
+      "position_cm": [
+        919.5793761787161,
+        -987.9244580268703,
+        378.16499206371583
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999676,
+      "frame_delta_ms": 16.371101140975952
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        921.4594963054903,
+        -958.2986987164211,
+        378.16499206371583
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 17.40850452515475,
+      "frame_delta_ms": 16.720399260520935
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        920.5991125431184,
+        -971.2157524820982,
+        378.16499206371583
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 152.67493764779178,
+      "frame_delta_ms": 16.53299853205681
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        918.0173518705058,
+        -1010.746118646455,
+        378.16499206371583
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999784,
+      "frame_delta_ms": 16.6097991168499
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        914.9638141207445,
+        -1057.598098449474,
+        378.16499206371583
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000085,
+      "frame_delta_ms": 17.108500003814697
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        911.9405998328589,
+        -1104.0057410694753,
+        378.0854635547615
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000048,
+      "frame_delta_ms": 16.561497002840042
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        908.9090976055685,
+        -1150.5449478107867,
+        377.14998439063794
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000052,
+      "frame_delta_ms": 16.628999263048172
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        905.8687619351434,
+        -1197.2206764981127,
+        377.14998439063794
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999994,
+      "frame_delta_ms": 16.88939705491066
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        902.8370890053153,
+        -1243.7636038119929,
+        372.1500110935188
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000216,
+      "frame_delta_ms": 17.00509712100029
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        899.813750493195,
+        -1290.1786191470926,
+        372.1500110935188
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999962,
+      "frame_delta_ms": 16.76030084490776
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        896.7778893385599,
+        -1336.785893588499,
+        372.1500110935188
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999959,
+      "frame_delta_ms": 16.969498246908188
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        893.7457337520722,
+        -1383.3362810695378,
+        372.1500110935188
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999982,
+      "frame_delta_ms": 16.76739752292633
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        890.7158713080762,
+        -1429.8514640614635,
+        372.1500110935188
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999744,
+      "frame_delta_ms": 16.582801938056946
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        887.6852445649962,
+        -1476.3783808431265,
+        372.1500110935188
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999993,
+      "frame_delta_ms": 16.574397683143616
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        884.6532454919719,
+        -1522.9263659856263,
+        372.1500110935188
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.999999999997,
+      "frame_delta_ms": 16.683701425790787
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        881.6097532390088,
+        -1569.650797218285,
+        372.1500110935188
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999967,
+      "frame_delta_ms": 17.350800335407257
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        878.5905468609435,
+        -1616.002385810182,
+        372.1500110935188
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999835,
+      "frame_delta_ms": 16.64470136165619
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        875.5580200363909,
+        -1662.5584731275048,
+        372.1500110935188
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000031,
+      "frame_delta_ms": 16.729798167943954
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        872.5187337978163,
+        -1709.2183326083803,
+        378.95000700259226
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000347,
+      "frame_delta_ms": 16.831398010253906
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        869.490139890897,
+        -1755.7140408203811,
+        379.25062612795847
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999965,
+      "frame_delta_ms": 16.51100069284439
+    },
+    {
+      "route": "river_bridge_both_spans",
+      "waypoint": 2,
+      "position_cm": [
+        866.4626981021212,
+        -1802.19206143521,
+        379.25062612795847
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999988,
+      "frame_delta_ms": 16.690898686647415
+    }
+  ],
+  "frame_pacing": {
+    "source": "GameplayStatics.get_world_delta_seconds; one sample per unique engine frame after warmup",
+    "samples": 812,
+    "mean_ms": 16.78954310751901,
+    "median_ms": 16.66020229458809,
+    "p95_ms": 16.931500285863876,
+    "max_ms": 51.35359987616539,
+    "scope": "PIE world delta including editor overhead; not GPU/CPU profiler timings"
+  },
+  "memory": {
+    "editor_process_working_set_bytes": 4001226752,
+    "editor_process_private_bytes": 14455197696,
+    "scope": "Entire editor process with PIE, not standalone game or GPU memory"
+  },
+  "wall_seconds": 18.134494199999608
+}

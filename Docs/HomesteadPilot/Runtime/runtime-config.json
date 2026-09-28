@@ -1,0 +1,91 @@
+{
+  "spawn_cm": [
+    650,
+    -150,
+    672
+  ],
+  "spawn_yaw": 180,
+  "max_step_height_cm": 37,
+  "test_routes": [
+    {
+      "name": "cottage_enter_exit",
+      "start_cm": [
+        230,
+        53,
+        652
+      ],
+      "waypoints_cm": [
+        [
+          65,
+          53,
+          664
+        ],
+        [
+          -160,
+          53,
+          676
+        ],
+        [
+          230,
+          53,
+          652
+        ]
+      ],
+      "xy_tolerance_cm": 16,
+      "z_tolerance_cm": 35,
+      "segment_timeout_s": 20
+    },
+    {
+      "name": "terrace_stairs_up_down",
+      "start_cm": [
+        875,
+        -650,
+        372
+      ],
+      "waypoints_cm": [
+        [
+          855,
+          -140,
+          652
+        ],
+        [
+          875,
+          -650,
+          372
+        ]
+      ],
+      "xy_tolerance_cm": 20,
+      "z_tolerance_cm": 32,
+      "segment_timeout_s": 20
+    },
+    {
+      "name": "river_bridge_both_spans",
+      "start_cm": [
+        864,
+        -1840,
+        372
+      ],
+      "waypoints_cm": [
+        [
+          894,
+          -1388,
+          372
+        ],
+        [
+          922,
+          -950,
+          372
+        ],
+        [
+          864,
+          -1840,
+          372
+        ]
+      ],
+      "xy_tolerance_cm": 20,
+      "z_tolerance_cm": 30,
+      "segment_timeout_s": 20
+    }
+  ],
+  "lod_review_forced": 0
+}

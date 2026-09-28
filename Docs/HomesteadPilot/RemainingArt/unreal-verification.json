@@ -1,0 +1,2165 @@
+{
+  "manifest_sha256": "884dc02af87157fb8bde3f370bfddbce7fce61d6e8dadec932aeaee093684d0c",
+  "verified_families": 17,
+  "verification_scope": "17 actual meshes; three decreasing LODs; section material slot parity; actual materials; inherited baseline body/component collision checked against explicit restoration receipt; untouched placement transforms; forced LOD zero; source and package fingerprints. No visual or movement claims.",
+  "assets": [
+    {
+      "name": "Lodge",
+      "inputs": {
+        "spec_sha256": "7c615e47dfbb9dcb0fe299cd262c8fbaa3e37e2997a6514018379e2f916d2289",
+        "baseline_package_sha256": "0ec3c9f1f3fef19352d77a9732c54d9c57ec9468e8cd83fd30e5dd3816dcb09c",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/Lodge/M_Lodge.M_Lodge": "c72cc04c58ed63415f54cff98ab93276c741cf173f556c14155e9f93bff21605"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Lodge.SM_HP_Lodge": "258a4f3ddff204f7108e39191ea0bdc6f44dbf364565942b56e776025b7246c4",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Lodge_0_M_Lodge.Lodge_0_M_Lodge": "a778fdbc3c896bf0fa9cd9b0d24e9556cd344745258376e49324f259d01058a6"
+      },
+      "triangles": [
+        327564,
+        133452,
+        36396
+      ],
+      "section_material_slots": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_Lodge_UpperTerrace",
+          "transform": {
+            "location": [
+              -2170.0,
+              -140.0,
+              880.0
+            ],
+            "scale": [
+              0.85,
+              0.85,
+              0.85
+            ],
+            "quaternion": [
+              -0.0,
+              0.0,
+              -0.7071067811865476,
+              0.7071067811865477
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_Lodge_UpperTerrace": []
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "Lodge",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Lodge.SM_HP_Lodge",
+        "lod_count": 3,
+        "triangles": [
+          327564,
+          133452,
+          36396
+        ],
+        "screen_sizes": [
+          1.0,
+          0.2199999988079071,
+          0.07500000298023224
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "complex_as_simple",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/Lodge/M_Lodge.M_Lodge",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Lodge_0_M_Lodge.Lodge_0_M_Lodge"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_Lodge_UpperTerrace",
+            "transform": {
+              "location": [
+                -2170.0,
+                -140.0,
+                880.0
+              ],
+              "scale": [
+                0.85,
+                0.85,
+                0.85
+              ],
+              "quaternion": [
+                -0.0,
+                0.0,
+                -0.7071067811865476,
+                0.7071067811865477
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "CivicHall",
+      "inputs": {
+        "spec_sha256": "4688a70ff6b46f03f189a246ba16af4da39739cb2d74b8b56a57fed663ded40a",
+        "baseline_package_sha256": "f43616ca814779b3e7e6398879fd24ff8b0640c44d47d28c1d6d4144f5aa383a",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/CivicHall/M_CivicHall.M_CivicHall": "726c0a1b39a6b5b5a362ef6f52445e5f0fae31e63157505513cb59c04ff30784"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_CivicHall.SM_HP_CivicHall": "b115404a338bab107512ffc3f44b3f518cd433a8ad679f463b4a93f3c1dce504",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/CivicHall_0_M_CivicHall.CivicHall_0_M_CivicHall": "8ffaa60dad173fd35bb63f47b45bbd2fe8c907a29d09587444c0dd2b280c06a2"
+      },
+      "triangles": [
+        624240,
+        254448,
+        69552
+      ],
+      "section_material_slots": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_CivicHall_NorthPath",
+          "transform": {
+            "location": [
+              -1765.962564408368,
+              2936.577840662698,
+              559.6771514892578
+            ],
+            "scale": [
+              0.72,
+              0.72,
+              0.72
+            ],
+            "quaternion": [
+              -0.0,
+              0.0,
+              -0.7071067811865476,
+              0.7071067811865477
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_CivicHall_NorthPath": []
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "CivicHall",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_CivicHall.SM_HP_CivicHall",
+        "lod_count": 3,
+        "triangles": [
+          624240,
+          254448,
+          69552
+        ],
+        "screen_sizes": [
+          1.0,
+          0.2199999988079071,
+          0.07500000298023224
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "complex_as_simple",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/CivicHall/M_CivicHall.M_CivicHall",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/CivicHall_0_M_CivicHall.CivicHall_0_M_CivicHall"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_CivicHall_NorthPath",
+            "transform": {
+              "location": [
+                -1765.962564408368,
+                2936.577840662698,
+                559.6771514892578
+              ],
+              "scale": [
+                0.72,
+                0.72,
+                0.72
+              ],
+              "quaternion": [
+                -0.0,
+                0.0,
+                -0.7071067811865476,
+                0.7071067811865477
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "HomesteadCompound",
+      "inputs": {
+        "spec_sha256": "cb73e0b04d4f3ca619251b3c30ab7cf0489d54175eb4926686c0b304e225ffa4",
+        "baseline_package_sha256": "c9686af5b920072870c9b290c8a166a56d406af23e105d427b9a21f3b9533fe0",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/Cottage/M_Cottage.M_Cottage": "656c315b6a6105a35ce5d7f1ea3f59002cd5f394c0cb9c60a776570814cfb536",
+          "/Game/Terrarium/Blender/HomesteadCompound/M_HomesteadCompound.M_HomesteadCompound": "f90d774ec8ddd1144c6e04edff1af6f7d449de0fd0707cd048ad55b7ab71e32b"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_HomesteadCompound.SM_HP_HomesteadCompound": "8358d1ec10f52f549fb8543dafcc05dae2bd93b3197944ac46e5ba082e7bb214",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/HomesteadCompound_0_M_Cottage.HomesteadCompound_0_M_Cottage": "e32991866394e8edb432846ab4fdf1d79c366330a7258666d963631f3e64356b",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/HomesteadCompound_1_M_HomesteadCompound.HomesteadCompound_1_M_HomesteadCompound": "ca013dab26ebeb9ee45974d8cb3ec72db7f29eb8d388c14fd72224ca3640c6e7"
+      },
+      "triangles": [
+        436212,
+        177716,
+        48468
+      ],
+      "section_material_slots": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_HomesteadCompound_WestClearing",
+          "transform": {
+            "location": [
+              103.22791117475299,
+              2000.7683162458193,
+              559.7902066737413
+            ],
+            "scale": [
+              0.9,
+              0.9,
+              0.9
+            ],
+            "quaternion": [
+              -0.0,
+              0.0,
+              -0.7071067811865476,
+              0.7071067811865477
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_HomesteadCompound_WestClearing": []
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "HomesteadCompound",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_HomesteadCompound.SM_HP_HomesteadCompound",
+        "lod_count": 3,
+        "triangles": [
+          436212,
+          177716,
+          48468
+        ],
+        "screen_sizes": [
+          1.0,
+          0.2199999988079071,
+          0.07500000298023224
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "complex_as_simple",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/Cottage/M_Cottage.M_Cottage",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/HomesteadCompound_0_M_Cottage.HomesteadCompound_0_M_Cottage"
+          },
+          {
+            "index": 1,
+            "source": "/Game/Terrarium/Blender/HomesteadCompound/M_HomesteadCompound.M_HomesteadCompound",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/HomesteadCompound_1_M_HomesteadCompound.HomesteadCompound_1_M_HomesteadCompound"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_HomesteadCompound_WestClearing",
+            "transform": {
+              "location": [
+                103.22791117475299,
+                2000.7683162458193,
+                559.7902066737413
+              ],
+              "scale": [
+                0.9,
+                0.9,
+                0.9
+              ],
+              "quaternion": [
+                -0.0,
+                0.0,
+                -0.7071067811865476,
+                0.7071067811865477
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "MarketStall",
+      "inputs": {
+        "spec_sha256": "bc45c60481f9d1e4e4ee06bb0828c2a1de36ad323c939b749712f9ebb4393c07",
+        "baseline_package_sha256": "8b4e9793bb7d3fc855c60aee30342c0075af1d023f50303c2cff3172a7c888d1",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/MarketStall/M_MarketStall.M_MarketStall": "b2e18c8611f62eeafaa85ca28ea5727ea0df35b7dc7c411aa1e36fe29387e743"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_MarketStall.SM_HP_MarketStall": "72e2b764fb248c01eebce2658cb6c5ed8b29dd8fb7eef2bf3de6ded21be56c6a",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MarketStall_0_M_MarketStall.MarketStall_0_M_MarketStall": "4b4064d62a9a3db3eb1bbd251e22a33f088b9019c62ce99492000823673f7343"
+      },
+      "triangles": [
+        68472,
+        27896,
+        7608
+      ],
+      "section_material_slots": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_MarketStall_UpperPath",
+          "transform": {
+            "location": [
+              275.0,
+              550.0,
+              560.0
+            ],
+            "scale": [
+              0.8,
+              0.8,
+              0.8
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_MarketStall_UpperPath": []
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "MarketStall",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_MarketStall.SM_HP_MarketStall",
+        "lod_count": 3,
+        "triangles": [
+          68472,
+          27896,
+          7608
+        ],
+        "screen_sizes": [
+          1.0,
+          0.2199999988079071,
+          0.07500000298023224
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "complex_as_simple",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/MarketStall/M_MarketStall.M_MarketStall",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MarketStall_0_M_MarketStall.MarketStall_0_M_MarketStall"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_MarketStall_UpperPath",
+            "transform": {
+              "location": [
+                275.0,
+                550.0,
+                560.0
+              ],
+              "scale": [
+                0.8,
+                0.8,
+                0.8
+              ],
+              "quaternion": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "Sign",
+      "inputs": {
+        "spec_sha256": "857ffd718c430e8f491965bb404fbe61f08a9197556d9a847d84c0df4e4957f4",
+        "baseline_package_sha256": "5149dea0dfd03e31043991ea66c61496cbe6ad3a714932573cb4f5c88690fa49",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/Sign/M_Sign.M_Sign": "d1f54780bfb512b19a5ab86638d83fba25e627848771c0a400ab0090528318c3"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Sign.SM_HP_Sign": "3d29cada32d2591fd09ed88100c0bdc8e1e6e8f10967871daa83c908ce5bebcd",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Sign_0_M_Sign.Sign_0_M_Sign": "a07cd2c3df4e69089945cf49deb3d361db5529d157d880f7db930fc62d3da798"
+      },
+      "triangles": [
+        8208,
+        3344,
+        912
+      ],
+      "section_material_slots": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_Sign_Courtyard",
+          "transform": {
+            "location": [
+              257.0,
+              -490.0,
+              560.0
+            ],
+            "scale": [
+              0.62,
+              0.62,
+              0.62
+            ],
+            "quaternion": [
+              -0.0,
+              0.0,
+              -0.7071067811865476,
+              0.7071067811865477
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_Sign_Courtyard": []
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "Sign",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Sign.SM_HP_Sign",
+        "lod_count": 3,
+        "triangles": [
+          8208,
+          3344,
+          912
+        ],
+        "screen_sizes": [
+          1.0,
+          0.1599999964237213,
+          0.04500000178813934
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "complex_as_simple",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/Sign/M_Sign.M_Sign",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Sign_0_M_Sign.Sign_0_M_Sign"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_Sign_Courtyard",
+            "transform": {
+              "location": [
+                257.0,
+                -490.0,
+                560.0
+              ],
+              "scale": [
+                0.62,
+                0.62,
+                0.62
+              ],
+              "quaternion": [
+                -0.0,
+                0.0,
+                -0.7071067811865476,
+                0.7071067811865477
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "Lantern",
+      "inputs": {
+        "spec_sha256": "1a18c17c436887ae6b310eea4b1cf18ce5bcbf5e5e563cc47a39944a74163696",
+        "baseline_package_sha256": "8a1be8ffe493f8c49898cf5094a351aa0df50ae9cd81d9d2673eb080ef7dec6f",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/Lantern/M_Lantern.M_Lantern": "6a55acc15eb730db23f8b5b7708db66fe64e2cb3ccb14845af3671c319ec56b1"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Lantern.SM_HP_Lantern": "707692aabdb7517161bdb4677a258dbddd188fcef29793540c19300be7f9f519",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Lantern_0_M_Lantern.Lantern_0_M_Lantern": "5932e708f8b0770cae818f8fff89ec72218f0ccbfbc467d9bf00a9433d1a8608"
+      },
+      "triangles": [
+        10260,
+        4180,
+        1140
+      ],
+      "section_material_slots": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Reference_Lantern",
+          "transform": {
+            "location": [
+              122.0,
+              -350.0,
+              560.0
+            ],
+            "scale": [
+              0.64,
+              0.64,
+              0.64
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Reference_Lantern": []
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "Lantern",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Lantern.SM_HP_Lantern",
+        "lod_count": 3,
+        "triangles": [
+          10260,
+          4180,
+          1140
+        ],
+        "screen_sizes": [
+          1.0,
+          0.1599999964237213,
+          0.04500000178813934
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "complex_as_simple",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/Lantern/M_Lantern.M_Lantern",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Lantern_0_M_Lantern.Lantern_0_M_Lantern"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Reference_Lantern",
+            "transform": {
+              "location": [
+                122.0,
+                -350.0,
+                560.0
+              ],
+              "scale": [
+                0.64,
+                0.64,
+                0.64
+              ],
+              "quaternion": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "MossTonic",
+      "inputs": {
+        "spec_sha256": "5d6b2abff3aa03a8c0efe86caa12f6d26954d7504a53a14fed53a937da8e8cb3",
+        "baseline_package_sha256": "84cd27629db9268f1e7d30299d218a58d0ee2a00633af13468a842781406de9f",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Glass.M_MossTonic_Glass": "e8b424690d3f29344d42d087463611c985eca34f5a40a8bab2704b8d21a6dd68",
+          "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Liquid.M_MossTonic_Liquid": "ed913b1719a351e86ab66ff17e1288d41bc082f663b9255de8c24c82cc91a9bf",
+          "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Trim.M_MossTonic_Trim": "0252c4fa02270cbd21f59681bb651d8e0afe8232db63e37960aad17b4ba180cc"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_MossTonic.SM_HP_MossTonic": "08ee454a42f30aa259d3db2b8db44c081f43be5eb7e96c6ecbecdd425a87c54a",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MossTonic_0_M_MossTonic_Glass.MossTonic_0_M_MossTonic_Glass": "adc0795f7843ed2fb5c3593250609fc2d20951785350dfc206b491a4019c58b0",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MossTonic_1_M_MossTonic_Liquid.MossTonic_1_M_MossTonic_Liquid": "eae2140c0c6bce93ec3ed1052c51cf9063992ea016b394441725c9762eb62dfb",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MossTonic_2_M_MossTonic_Trim.MossTonic_2_M_MossTonic_Trim": "a818cb6963a012fc5787dedfa5611233377cc515a64c81ff13a53e455755f7e0"
+      },
+      "triangles": [
+        47396,
+        21684,
+        7940
+      ],
+      "section_material_slots": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_MossTonic_MarketCounter",
+          "transform": {
+            "location": [
+              241.4,
+              623.0,
+              634.5939962673187
+            ],
+            "scale": [
+              0.22,
+              0.22,
+              0.22
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_MossTonic_MarketCounter": []
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "MossTonic",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_MossTonic.SM_HP_MossTonic",
+        "lod_count": 3,
+        "triangles": [
+          47396,
+          21684,
+          7940
+        ],
+        "screen_sizes": [
+          1.0,
+          0.1599999964237213,
+          0.04500000178813934
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "none",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Glass.M_MossTonic_Glass",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MossTonic_0_M_MossTonic_Glass.MossTonic_0_M_MossTonic_Glass"
+          },
+          {
+            "index": 1,
+            "source": "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Liquid.M_MossTonic_Liquid",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MossTonic_1_M_MossTonic_Liquid.MossTonic_1_M_MossTonic_Liquid"
+          },
+          {
+            "index": 2,
+            "source": "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Trim.M_MossTonic_Trim",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MossTonic_2_M_MossTonic_Trim.MossTonic_2_M_MossTonic_Trim"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_MossTonic_MarketCounter",
+            "transform": {
+              "location": [
+                241.4,
+                623.0,
+                634.5939962673187
+              ],
+              "scale": [
+                0.22,
+                0.22,
+                0.22
+              ],
+              "quaternion": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "TrailPrism",
+      "inputs": {
+        "spec_sha256": "059adc5067c50a14da27df9a628844cef98ada3250561bca3bc5377c62aff0ad",
+        "baseline_package_sha256": "340f1d8d3c6e74e3226d6456a4ce554d3dd9b46b7d20d767ef098b5c0485a72d",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Crystal.M_TrailPrism_Crystal": "e68038bbf4dc212eda60f7d354bb1af43bad3875d1ffccae99e3a5b1a5c8deaf",
+          "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Core.M_TrailPrism_Core": "60c6e9ccb0e24842f4eefc3dde1861aeed5fff631007510d1c05fb873a43f141",
+          "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Frame.M_TrailPrism_Frame": "6523fbb6c95975116930390c0c4b0a532b5d4367bbec06c0797a75a45e18134e"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_TrailPrism.SM_HP_TrailPrism": "3454d3c14feeb2b54acb14799d05d20b2e588d51873f26449e103fa2e971c988",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/TrailPrism_0_M_TrailPrism_Crystal.TrailPrism_0_M_TrailPrism_Crystal": "3a2324f163d002cc2b5cea2a0f151eb31f84a3bee6ea44b228df66c8157e0f7d",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/TrailPrism_1_M_TrailPrism_Core.TrailPrism_1_M_TrailPrism_Core": "602e17f75d48f8d2b8e2d256e0d4a0c433f926d999c1c4cada2fe5b73cc95d72",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/TrailPrism_2_M_TrailPrism_Frame.TrailPrism_2_M_TrailPrism_Frame": "5698a31a4c1ccdd540e42069657b378926a1553b622b4fcf1d190f83ccafecc0"
+      },
+      "triangles": [
+        17432,
+        7816,
+        2584
+      ],
+      "section_material_slots": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_TrailPrism_MarketCounter",
+          "transform": {
+            "location": [
+              307.0,
+              623.0,
+              635.0119962882995
+            ],
+            "scale": [
+              0.19,
+              0.19,
+              0.19
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_TrailPrism_MarketCounter": []
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "TrailPrism",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_TrailPrism.SM_HP_TrailPrism",
+        "lod_count": 3,
+        "triangles": [
+          17432,
+          7816,
+          2584
+        ],
+        "screen_sizes": [
+          1.0,
+          0.1599999964237213,
+          0.04500000178813934
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "none",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Crystal.M_TrailPrism_Crystal",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/TrailPrism_0_M_TrailPrism_Crystal.TrailPrism_0_M_TrailPrism_Crystal"
+          },
+          {
+            "index": 1,
+            "source": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Core.M_TrailPrism_Core",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/TrailPrism_1_M_TrailPrism_Core.TrailPrism_1_M_TrailPrism_Core"
+          },
+          {
+            "index": 2,
+            "source": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Frame.M_TrailPrism_Frame",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/TrailPrism_2_M_TrailPrism_Frame.TrailPrism_2_M_TrailPrism_Frame"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_TrailPrism_MarketCounter",
+            "transform": {
+              "location": [
+                307.0,
+                623.0,
+                635.0119962882995
+              ],
+              "scale": [
+                0.19,
+                0.19,
+                0.19
+              ],
+              "quaternion": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "EmberCrest",
+      "inputs": {
+        "spec_sha256": "98ab498ae22c0cd45dde84c46060d5236983e12d13475547585ccbba3136e333",
+        "baseline_package_sha256": "b0695286c939a49715a9d3e38a4833a6591a02d005cfd625d775c392c469730d",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Field.M_EmberCrest_Field": "f390af22b862c43c07be9ef93bd667a22bbed0a8b78fc6254eb3c7583cddf77e",
+          "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Frame.M_EmberCrest_Frame": "f6c0822297bbf30841d2dff6cd5d40f3315a543c48c063ca721bb216b8b1bfd9",
+          "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Enamel.M_EmberCrest_Enamel": "c41d3a31f1160d81d4de6d451c45f6cff6df041404bbc5a3b1f0835d7f170e22"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_EmberCrest.SM_HP_EmberCrest": "be735a4c8c23d5498335e971ff79105b4af2280e6771c77ce7a69b78a5e89959",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/EmberCrest_0_M_EmberCrest_Field.EmberCrest_0_M_EmberCrest_Field": "455027b439b53f571780028fa995d86367ccc50e9c584888b6711c5da5dd1b0b",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/EmberCrest_1_M_EmberCrest_Frame.EmberCrest_1_M_EmberCrest_Frame": "7ec9a57980b4df132e38c5beb6f379219f43ee5199d85230a9e1f3954fddda05",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/EmberCrest_2_M_EmberCrest_Enamel.EmberCrest_2_M_EmberCrest_Enamel": "6d789559bd17b2d6ee75bcb98fcea0e2a070e57e5777c6d36a385f061eeb8e2d"
+      },
+      "triangles": [
+        65624,
+        26820,
+        7400
+      ],
+      "section_material_slots": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_EmberCrest_MarketFront",
+          "transform": {
+            "location": [
+              184.0,
+              628.1750094509125,
+              592.0
+            ],
+            "scale": [
+              0.24,
+              0.24,
+              0.24
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_EmberCrest_MarketFront": []
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "EmberCrest",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_EmberCrest.SM_HP_EmberCrest",
+        "lod_count": 3,
+        "triangles": [
+          65624,
+          26820,
+          7400
+        ],
+        "screen_sizes": [
+          1.0,
+          0.1599999964237213,
+          0.04500000178813934
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "none",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Field.M_EmberCrest_Field",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/EmberCrest_0_M_EmberCrest_Field.EmberCrest_0_M_EmberCrest_Field"
+          },
+          {
+            "index": 1,
+            "source": "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Frame.M_EmberCrest_Frame",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/EmberCrest_1_M_EmberCrest_Frame.EmberCrest_1_M_EmberCrest_Frame"
+          },
+          {
+            "index": 2,
+            "source": "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Enamel.M_EmberCrest_Enamel",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/EmberCrest_2_M_EmberCrest_Enamel.EmberCrest_2_M_EmberCrest_Enamel"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_EmberCrest_MarketFront",
+            "transform": {
+              "location": [
+                184.0,
+                628.1750094509125,
+                592.0
+              ],
+              "scale": [
+                0.24,
+                0.24,
+                0.24
+              ],
+              "quaternion": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "DeepDelverMark",
+      "inputs": {
+        "spec_sha256": "29268be00db88e11ef76f38f0afb36d3e17669274718aab3caa2d37a5a30c2d0",
+        "baseline_package_sha256": "563950041dc951924943ecb9051f453b756eddc707675fb26cf7abe107da1d4a",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Frame.M_DeepDelverMark_Frame": "2a6745e1e3a569b8d1aa190bcb70452a3cb622f8880b0033c842d7b814f18545",
+          "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Cavern.M_DeepDelverMark_Cavern": "724c183f504de9a3141db2d0c33c4009dc253bd2923a28f1f9cbd3bc4578a54d",
+          "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Crystal.M_DeepDelverMark_Crystal": "443def5811e600e49268a68c949c47439640dcccef46065a43bde5afa32068a8"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_DeepDelverMark.SM_HP_DeepDelverMark": "4cb99da90a994a062abfda95e5683178cb214f73da7cbb70afa984c8b14da356",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/DeepDelverMark_0_M_DeepDelverMark_Frame.DeepDelverMark_0_M_DeepDelverMark_Frame": "022a2ee074308322bbbff90e6bff5257d1f93276e9d7711427f7d94bafe0a2e4",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/DeepDelverMark_1_M_DeepDelverMark_Cavern.DeepDelverMark_1_M_DeepDelverMark_Cavern": "333910039876544a30f02e28b892c7663c93233d061b8e6b0f273280d881e5ec",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/DeepDelverMark_2_M_DeepDelverMark_Crystal.DeepDelverMark_2_M_DeepDelverMark_Crystal": "5d4a1c3fca5d07a3c4b8497d02b4ac4719d5917f9343c9a017c1d932f9ae01be"
+      },
+      "triangles": [
+        64904,
+        26516,
+        7304
+      ],
+      "section_material_slots": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_DeepDelverMark_MarketFront",
+          "transform": {
+            "location": [
+              355.0,
+              627.988996720314,
+              590.0
+            ],
+            "scale": [
+              0.23,
+              0.23,
+              0.23
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_DeepDelverMark_MarketFront": []
+      },
+      "native_triangle_filter_evidence": [
+        {
+          "name": "DeepDelverMark",
+          "level": 0,
+          "source_sha256": "b136516f8477589a0c229cfd2bd156d76601d624ebbe92ef5294529e42b7de6b",
+          "source_triangles": 64948,
+          "native_without_degenerate_filter": 64940,
+          "native_with_degenerate_filter": 64904,
+          "native_removed_triangles": 36,
+          "unfiltered_matches_source": false,
+          "admitted_asset_unchanged": true,
+          "temporary_asset_deleted": true,
+          "native_unfiltered_normalization_triangles": 8,
+          "normalization_evidence": "Matches independently measured exact-zero-area source triangle count",
+          "accounted_total_removed": 44
+        },
+        {
+          "name": "DeepDelverMark",
+          "level": 1,
+          "source_sha256": "8d769cb7b0cfec28bfb81fd47331666e01da52126b24d13cf8674b6f1a5cb32a",
+          "source_triangles": 26532,
+          "native_without_degenerate_filter": 26524,
+          "native_with_degenerate_filter": 26516,
+          "native_removed_triangles": 8,
+          "unfiltered_matches_source": false,
+          "admitted_asset_unchanged": true,
+          "temporary_asset_deleted": true,
+          "native_unfiltered_normalization_triangles": 8,
+          "normalization_evidence": "Matches independently measured exact-zero-area source triangle count",
+          "accounted_total_removed": 16
+        }
+      ],
+      "receipt": {
+        "name": "DeepDelverMark",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_DeepDelverMark.SM_HP_DeepDelverMark",
+        "lod_count": 3,
+        "triangles": [
+          64904,
+          26516,
+          7304
+        ],
+        "screen_sizes": [
+          1.0,
+          0.1599999964237213,
+          0.04500000178813934
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "none",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Frame.M_DeepDelverMark_Frame",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/DeepDelverMark_0_M_DeepDelverMark_Frame.DeepDelverMark_0_M_DeepDelverMark_Frame"
+          },
+          {
+            "index": 1,
+            "source": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Cavern.M_DeepDelverMark_Cavern",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/DeepDelverMark_1_M_DeepDelverMark_Cavern.DeepDelverMark_1_M_DeepDelverMark_Cavern"
+          },
+          {
+            "index": 2,
+            "source": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Crystal.M_DeepDelverMark_Crystal",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/DeepDelverMark_2_M_DeepDelverMark_Crystal.DeepDelverMark_2_M_DeepDelverMark_Crystal"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_DeepDelverMark_MarketFront",
+            "transform": {
+              "location": [
+                355.0,
+                627.988996720314,
+                590.0
+              ],
+              "scale": [
+                0.23,
+                0.23,
+                0.23
+              ],
+              "quaternion": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "Grove",
+      "inputs": {
+        "spec_sha256": "d7964bbd2c284074c899b5f4ad6fa45d4a25dc36682fcc0ada187986896dd544",
+        "baseline_package_sha256": "bd684d3c9817bbab52d63cefe596401f89b38bd2278d92d4d7e49a484cad701b",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/Grove/M_Grove_Leaf.M_Grove_Leaf": "ac404f98647f125def2ba022f85cec094e12cd15a68e3ecd904579280370dc0d",
+          "/Game/Terrarium/Blender/Grove/M_Grove_Stem.M_Grove_Stem": "3fd4ba65a05778562b4e85e909eceb3aad2ef4bd82fd27b2f0c1c5d18c09465e",
+          "/Game/Terrarium/Blender/Grove/M_Grove_Soil.M_Grove_Soil": "07145179e9553b17d7a744bc705726d1d03cc4250756bab604e492838a23480c"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Grove.SM_HP_Grove": "e321917406dfd4dcb19ce12fe9eaa38b9faf3d1dadfc50ab36763bcf4fff1b2d",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Grove_0_M_Grove_Leaf.Grove_0_M_Grove_Leaf": "a4251baa227bd2be2fee2379a1936f597beeec5a9b64ad76740d660c8b8be636",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Grove_1_M_Grove_Stem.Grove_1_M_Grove_Stem": "9eb7760e2f6a06057b13a48e3a7e0162eb6488227e5ee74037adad68dca6d512",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Grove_2_M_Grove_Soil.Grove_2_M_Grove_Soil": "0d86f3d9540182070c3121944cdffd7f61ed249c70a429c0be5d230c3400be9c"
+      },
+      "triangles": [
+        11772,
+        4796,
+        1308
+      ],
+      "section_material_slots": [
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          1,
+          2
+        ],
+        [
+          0,
+          1,
+          2
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_Grove_MarketCounter",
+          "transform": {
+            "location": [
+              371.75,
+              624.0,
+              635.0436862301826
+            ],
+            "scale": [
+              0.24,
+              0.24,
+              0.24
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_Grove_MarketCounter": []
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "Grove",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Grove.SM_HP_Grove",
+        "lod_count": 3,
+        "triangles": [
+          11772,
+          4796,
+          1308
+        ],
+        "screen_sizes": [
+          1.0,
+          0.1599999964237213,
+          0.04500000178813934
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "none",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/Grove/M_Grove_Leaf.M_Grove_Leaf",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Grove_0_M_Grove_Leaf.Grove_0_M_Grove_Leaf"
+          },
+          {
+            "index": 1,
+            "source": "/Game/Terrarium/Blender/Grove/M_Grove_Stem.M_Grove_Stem",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Grove_1_M_Grove_Stem.Grove_1_M_Grove_Stem"
+          },
+          {
+            "index": 2,
+            "source": "/Game/Terrarium/Blender/Grove/M_Grove_Soil.M_Grove_Soil",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Grove_2_M_Grove_Soil.Grove_2_M_Grove_Soil"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_Grove_MarketCounter",
+            "transform": {
+              "location": [
+                371.75,
+                624.0,
+                635.0436862301826
+              ],
+              "scale": [
+                0.24,
+                0.24,
+                0.24
+              ],
+              "quaternion": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "Tide",
+      "inputs": {
+        "spec_sha256": "a6e7441803bb39e9aac2243535dc9e4d0364bdef1e0c846ccc52d9ad60ecc256",
+        "baseline_package_sha256": "893346363af5cec99accabe862cd33cae14ab50b244f0e4307cc867467633aeb",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/Tide/M_Tide_Wave.M_Tide_Wave": "e2ca98d075770f30afc749ff2b8cdd6a4b8d2d127bcb4f63bb5d379b06396428"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Tide.SM_HP_Tide": "2d7d698bf45e782f01f8a7bfa5e2732313ecf6b908570463483e00b8871844b7",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Tide_0_M_Tide_Wave.Tide_0_M_Tide_Wave": "179b2dbebf7f87c03f379b106dde0d8071bf338319e510a66cca1c2bc5727f16"
+      },
+      "triangles": [
+        16740,
+        6820,
+        1860
+      ],
+      "section_material_slots": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_Tide_MarketCounter",
+          "transform": {
+            "location": [
+              199.0,
+              624.0,
+              635.4504285144806
+            ],
+            "scale": [
+              0.24,
+              0.24,
+              0.24
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_Tide_MarketCounter": []
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "Tide",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Tide.SM_HP_Tide",
+        "lod_count": 3,
+        "triangles": [
+          16740,
+          6820,
+          1860
+        ],
+        "screen_sizes": [
+          1.0,
+          0.1599999964237213,
+          0.04500000178813934
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "none",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/Tide/M_Tide_Wave.M_Tide_Wave",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Tide_0_M_Tide_Wave.Tide_0_M_Tide_Wave"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_Tide_MarketCounter",
+            "transform": {
+              "location": [
+                199.0,
+                624.0,
+                635.4504285144806
+              ],
+              "scale": [
+                0.24,
+                0.24,
+                0.24
+              ],
+              "quaternion": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "Ember",
+      "inputs": {
+        "spec_sha256": "5e0c7d85a70b30d6ed144cd65e414cb41c0213503199135e5768fc8cd53d512a",
+        "baseline_package_sha256": "db558b9f1b363a935dbf8856e79aad4a0e351f382e5e75dc6bb3beb54ac51ddd",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/Ember/M_Ember_Flame.M_Ember_Flame": "c99651e70491574c2b36ba4dd6f5bb3b1fbff3728ebbaf075ae2f3aa1734cf63"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Ember.SM_HP_Ember": "2ca8c5b8cd78d4fffd0fed372931f11404d5ffc7625e9b0e7205f5bf0c8e232f",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Ember_0_M_Ember_Flame.Ember_0_M_Ember_Flame": "7263d04a27913144db27cf1fa6256b42b486561d0cd0b05e1747ba71ef47b73e"
+      },
+      "triangles": [
+        60156,
+        24508,
+        6684
+      ],
+      "section_material_slots": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_Ember_MarketCounter",
+          "transform": {
+            "location": [
+              337.5,
+              626.3,
+              635.040996293053
+            ],
+            "scale": [
+              0.145,
+              0.145,
+              0.145
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_Ember_MarketCounter": []
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "Ember",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Ember.SM_HP_Ember",
+        "lod_count": 3,
+        "triangles": [
+          60156,
+          24508,
+          6684
+        ],
+        "screen_sizes": [
+          1.0,
+          0.1599999964237213,
+          0.04500000178813934
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "none",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/Ember/M_Ember_Flame.M_Ember_Flame",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Ember_0_M_Ember_Flame.Ember_0_M_Ember_Flame"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_Ember_MarketCounter",
+            "transform": {
+              "location": [
+                337.5,
+                626.3,
+                635.040996293053
+              ],
+              "scale": [
+                0.145,
+                0.145,
+                0.145
+              ],
+              "quaternion": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "Storm",
+      "inputs": {
+        "spec_sha256": "34d6afcb525bee09b1d46e864d0838deacd017b2545fcfc16d692db82da15321",
+        "baseline_package_sha256": "0190365244025b378bf414d6ecdf0d441f3d8c850249ead2e032504efd8b1a95",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/Storm/M_Storm_Lightning.M_Storm_Lightning": "efead365a02e8127f8f2a3aaec283e89e6631508794c050e69aaeaba0372ce42",
+          "/Game/Terrarium/Blender/Storm/M_Storm_Cloud.M_Storm_Cloud": "c2f0923bde7c2d7bbf35cf16863615bf5e8d1ade44ff8f8c572098f1c38160cf"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Storm.SM_HP_Storm": "f7184129e4ea1cd7377f56705205622ae4864ca94e2a49a246cbae17997de787",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Storm_0_M_Storm_Lightning.Storm_0_M_Storm_Lightning": "a4f5c4ea02b8c4095cea52225eac36aa0186d7f6457526ea92bdc115e30f31b9",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Storm_1_M_Storm_Cloud.Storm_1_M_Storm_Cloud": "c182e5d6f1eadf4c73e1535cbba69716d577c04e9ff987012bfea41644bc999f"
+      },
+      "triangles": [
+        8791,
+        4001,
+        1338
+      ],
+      "section_material_slots": [
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ],
+        [
+          0,
+          1
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_Storm_MarketCounter",
+          "transform": {
+            "location": [
+              397.0,
+              626.0,
+              635.5572565947473
+            ],
+            "scale": [
+              0.11,
+              0.11,
+              0.11
+            ],
+            "quaternion": [
+              -0.0,
+              0.0,
+              -0.7071067811865476,
+              0.7071067811865477
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_Storm_MarketCounter": []
+      },
+      "native_triangle_filter_evidence": [
+        {
+          "name": "Storm",
+          "level": 0,
+          "source_sha256": "d575faf064c4c0b44b722d859f5430f060ffe3421318f471c156938a2b1f28ed",
+          "source_triangles": 8796,
+          "native_without_degenerate_filter": 8794,
+          "native_with_degenerate_filter": 8791,
+          "native_removed_triangles": 3,
+          "unfiltered_matches_source": false,
+          "admitted_asset_unchanged": true,
+          "temporary_asset_deleted": true,
+          "native_unfiltered_normalization_triangles": 2,
+          "normalization_evidence": "Independent native FBX import with optional degenerate removal disabled still normalizes two triangles; baseline imported LOD0 equals that unfiltered native count. Enabling the filter removes three additional triangles. Exact per-triangle cause of the two unconditional removals is not isolated.",
+          "accounted_total_removed": 5
+        },
+        {
+          "name": "Storm",
+          "level": 1,
+          "source_sha256": "e03b48d6056d94a982f7813ac0496e187b97091cc245601443d163d62ff9815a",
+          "source_triangles": 4002,
+          "native_without_degenerate_filter": 4001,
+          "native_with_degenerate_filter": 4001,
+          "native_removed_triangles": 0,
+          "unfiltered_matches_source": false,
+          "admitted_asset_unchanged": true,
+          "temporary_asset_deleted": true,
+          "native_unfiltered_normalization_triangles": 1,
+          "normalization_evidence": "Independent native FBX import normalizes one triangle with the optional degenerate filter disabled. Enabling the filter removes no additional triangles. Exact per-triangle cause of the unconditional removal is not isolated.",
+          "accounted_total_removed": 1
+        }
+      ],
+      "receipt": {
+        "name": "Storm",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Storm.SM_HP_Storm",
+        "lod_count": 3,
+        "triangles": [
+          8791,
+          4001,
+          1338
+        ],
+        "screen_sizes": [
+          1.0,
+          0.1599999964237213,
+          0.04500000178813934
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "none",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/Storm/M_Storm_Lightning.M_Storm_Lightning",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Storm_0_M_Storm_Lightning.Storm_0_M_Storm_Lightning"
+          },
+          {
+            "index": 1,
+            "source": "/Game/Terrarium/Blender/Storm/M_Storm_Cloud.M_Storm_Cloud",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Storm_1_M_Storm_Cloud.Storm_1_M_Storm_Cloud"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_Storm_MarketCounter",
+            "transform": {
+              "location": [
+                397.0,
+                626.0,
+                635.5572565947473
+              ],
+              "scale": [
+                0.11,
+                0.11,
+                0.11
+              ],
+              "quaternion": [
+                -0.0,
+                0.0,
+                -0.7071067811865476,
+                0.7071067811865477
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "BridgeThreshold",
+      "inputs": {
+        "spec_sha256": "5aa1b7ac02e3898d35092aaeb0809b55e91fc9edd07adac0a75f6f5e5337e6a0",
+        "baseline_package_sha256": "ccabfcf64f3e3d0fb056a0e280999bfea01478a42a25eb3f0e73b829bc18f9c4",
+        "baseline_materials": {
+          "/Game/Terrarium/Blender/BridgeThreshold/M_BridgeThreshold.M_BridgeThreshold": "066f374db6eb8b3190c97a7e79de1c2b48ab206cba2f570135d9dc63563d67a4"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BridgeThreshold.SM_HP_BridgeThreshold": "b1dde351fc45c544ef647f19600b6585d5f815f22bdfdabf58004e7dd610cce0",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/BridgeThreshold_0_M_BridgeThreshold.BridgeThreshold_0_M_BridgeThreshold": "f8684ad77c090fc0c108c92430da8e2e72e887df36bda2a174bd251b51bc72ee"
+      },
+      "triangles": [
+        1512,
+        616,
+        168
+      ],
+      "section_material_slots": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Blender_BridgeThreshold_South",
+          "transform": {
+            "location": [
+              868.4032036437609,
+              -1758.2932047080294,
+              280.0
+            ],
+            "scale": [
+              1.0,
+              1.0,
+              1.0
+            ],
+            "quaternion": [
+              -0.0,
+              0.0,
+              -0.03489949670250097,
+              0.9993908270190959
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Blender_BridgeThreshold_South": []
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "BridgeThreshold",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BridgeThreshold.SM_HP_BridgeThreshold",
+        "lod_count": 3,
+        "triangles": [
+          1512,
+          616,
+          168
+        ],
+        "screen_sizes": [
+          1.0,
+          0.1599999964237213,
+          0.04500000178813934
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "complex_as_simple",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Blender/BridgeThreshold/M_BridgeThreshold.M_BridgeThreshold",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/BridgeThreshold_0_M_BridgeThreshold.BridgeThreshold_0_M_BridgeThreshold"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Blender_BridgeThreshold_South",
+            "transform": {
+              "location": [
+                868.4032036437609,
+                -1758.2932047080294,
+                280.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "quaternion": [
+                -0.0,
+                0.0,
+                -0.03489949670250097,
+                0.9993908270190959
+              ]
+            }
+          }
+        ],
+        "lod_method": "Three actual Blender FBX meshes"
+      }
+    },
+    {
+      "name": "BlueShed",
+      "inputs": {
+        "spec_sha256": "83b24eb78b34c40eb5d3ac6aa55ae4d7043b8f76698fae78659756e25bf400d9",
+        "baseline_package_sha256": "12960a772660190639172092a36718ac63c7491253d65109c134bcb64e733570",
+        "baseline_materials": {
+          "/Game/Terrarium/Environment/Materials/M_EnvironmentPigment.M_EnvironmentPigment": "bea13d318b70745bc0d65b2c76a61ca4bc123d1917af83343c5d6d3510a995e3"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BlueShed.SM_HP_BlueShed": "3353d4dbdf02dcf1367820c23fefa543940b5e3309a0c76ac00391d307913d23",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/BlueShed_0_M_EnvironmentPigment.BlueShed_0_M_EnvironmentPigment": "f202538bc51845ff26d21b616812d69ed34f3a49d72b25294974f6a1c3f7c860"
+      },
+      "triangles": [
+        8140,
+        5860,
+        3418
+      ],
+      "section_material_slots": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.20000000298023224,
+        0.06499999761581421
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Reference_BlueShed",
+          "transform": {
+            "location": [
+              529.3526233870311,
+              314.57931995911304,
+              560.0
+            ],
+            "scale": [
+              1.2,
+              1.2,
+              1.2
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Reference_BlueShed": [
+          "/Game/Terrarium/Environment/Materials/M_ReferenceWeatheredProps.M_ReferenceWeatheredProps"
+        ]
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "BlueShed",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BlueShed.SM_HP_BlueShed",
+        "lod_count": 3,
+        "triangles": [
+          8140,
+          5860,
+          3418
+        ],
+        "screen_sizes": [
+          1.0,
+          0.20000000298023224,
+          0.06499999761581421
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "complex_as_simple",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Environment/Materials/M_EnvironmentPigment.M_EnvironmentPigment",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/BlueShed_0_M_EnvironmentPigment.BlueShed_0_M_EnvironmentPigment"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Reference_BlueShed",
+            "transform": {
+              "location": [
+                529.3526233870311,
+                314.57931995911304,
+                560.0
+              ],
+              "scale": [
+                1.2,
+                1.2,
+                1.2
+              ],
+              "quaternion": [
+                0.0,
+                0.0,
+                0.0,
+                1.0
+              ]
+            }
+          }
+        ],
+        "lod_method": "Unreal reduction of preserved source mesh"
+      }
+    },
+    {
+      "name": "Tower",
+      "inputs": {
+        "spec_sha256": "2f4bd4212a8608d016f644830f555f0e42997c4fcb7c8b85a42fbf48b23f7357",
+        "baseline_package_sha256": "a82d4580c367401fa57ab45a41aa6f424ff52d8b61ad294cac6feb6326743bc9",
+        "baseline_materials": {
+          "/Game/Terrarium/Environment/Materials/M_EnvironmentPigment.M_EnvironmentPigment": "bea13d318b70745bc0d65b2c76a61ca4bc123d1917af83343c5d6d3510a995e3"
+        }
+      },
+      "packages": {
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Tower.SM_HP_Tower": "b5216b585d8036fdf565716017d640aaf5a92de8595b0f03da3cc38af29f6135",
+        "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Tower_0_M_EnvironmentPigment.Tower_0_M_EnvironmentPigment": "aced768279d846dfe02caaba9a1f136592e50f3301c593290ce431c43dd7f983"
+      },
+      "triangles": [
+        5148,
+        3706,
+        2162
+      ],
+      "section_material_slots": [
+        [
+          0
+        ],
+        [
+          0
+        ],
+        [
+          0
+        ]
+      ],
+      "screen_sizes": [
+        1.0,
+        0.20000000298023224,
+        0.06499999761581421
+      ],
+      "bounds_error_cm": 0.0,
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "collision_policy": "inherited baseline body and original component settings",
+      "collision_restoration_receipt_sha256": "03d4daca3fd5977b40fc94578c3d0c68c58869e7e28cfefbf2026e2a231afd88",
+      "placements": [
+        {
+          "actor": "Reference_Tower",
+          "transform": {
+            "location": [
+              -344.3574945521653,
+              -515.1307979800832,
+              560.0
+            ],
+            "scale": [
+              1.0,
+              1.0,
+              1.0
+            ],
+            "quaternion": [
+              0.0,
+              -0.0,
+              0.7071067811865475,
+              0.7071067811865477
+            ]
+          }
+        }
+      ],
+      "component_material_overrides": {
+        "Reference_Tower": [
+          "/Game/Terrarium/Environment/Materials/M_ReferenceWeatheredProps.M_ReferenceWeatheredProps"
+        ]
+      },
+      "native_triangle_filter_evidence": [],
+      "receipt": {
+        "name": "Tower",
+        "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Tower.SM_HP_Tower",
+        "lod_count": 3,
+        "triangles": [
+          5148,
+          3706,
+          2162
+        ],
+        "screen_sizes": [
+          1.0,
+          0.20000000298023224,
+          0.06499999761581421
+        ],
+        "bounds_error_cm": 0.0,
+        "collision": "complex_as_simple",
+        "materials": [
+          {
+            "index": 0,
+            "source": "/Game/Terrarium/Environment/Materials/M_EnvironmentPigment.M_EnvironmentPigment",
+            "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Tower_0_M_EnvironmentPigment.Tower_0_M_EnvironmentPigment"
+          }
+        ],
+        "placements": [
+          {
+            "actor": "Reference_Tower",
+            "transform": {
+              "location": [
+                -344.3574945521653,
+                -515.1307979800832,
+                560.0
+              ],
+              "scale": [
+                1.0,
+                1.0,
+                1.0
+              ],
+              "quaternion": [
+                0.0,
+                -0.0,
+                0.7071067811865475,
+                0.7071067811865477
+              ]
+            }
+          }
+        ],
+        "lod_method": "Unreal reduction of preserved source mesh"
+      }
+    }
+  ]
+}

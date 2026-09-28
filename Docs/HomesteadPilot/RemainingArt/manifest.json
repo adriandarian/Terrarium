@@ -1,0 +1,1669 @@
+{
+  "scope": "Remaining inherited homestead architecture and props; characters excluded",
+  "geometry_policy": "Preserve LOD0, authored source parts, UVs, material identity, pivot, footprint and placement scale",
+  "assets": [
+    {
+      "name": "Lodge",
+      "source_blend": "SourceAssets/Blender/Lodge/Lodge.blend",
+      "source_sha256": "e61d3916a7aa5cdf5195f9e652bcfacb482e1025ae2ff666b0935cc406f4eddc",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Lodge/Lodge.blend",
+      "blend_sha256": "dfb2eeed8845c4c4606bb672d3a6fd9154df1578168931d55e0ae38ab7d6aed5",
+      "parts_retained": 3033,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Lodge/SM_HP_Lodge_LOD0.fbx",
+          "triangles": 327564,
+          "vertices": 169848,
+          "bounds_m": {
+            "min": [
+              -2.6000001430511475,
+              -2.640000104904175,
+              0.0
+            ],
+            "max": [
+              2.6000001430511475,
+              2.0244998931884766,
+              5.599999904632568
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "467417050914fbc06b0c16cc61bba9d70423658fba452d78950ce6e08be357f4",
+          "material_slots": [
+            "M_Lodge.002"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Lodge/SM_HP_Lodge_LOD1.fbx",
+          "triangles": 133452,
+          "vertices": 72792,
+          "bounds_m": {
+            "min": [
+              -2.6000001430511475,
+              -2.640000104904175,
+              0.0
+            ],
+            "max": [
+              2.6000001430511475,
+              2.0244998931884766,
+              5.599999904632568
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "318559d1573a8657e4b41f7b5fe3e555bf26ead30e52c5440d07c30b275ae8db",
+          "material_slots": [
+            "M_Lodge.002"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Lodge/SM_HP_Lodge_LOD2.fbx",
+          "triangles": 36396,
+          "vertices": 24264,
+          "bounds_m": {
+            "min": [
+              -2.6000001430511475,
+              -2.640000104904175,
+              0.0
+            ],
+            "max": [
+              2.6000001430511475,
+              2.0244998931884766,
+              5.599999904632568
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "b17b4137d24879f21b429f48c270269c41825af54ce51ffde7292a6203654c5c",
+          "material_slots": [
+            "M_Lodge.002"
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -2.6000001430511475,
+          -2.640000104904175,
+          0.0
+        ],
+        "max": [
+          2.6000001430511475,
+          2.0244998931884766,
+          5.599999904632568
+        ]
+      },
+      "materials": [
+        "M_Lodge.002"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/Lodge/SM_Blender_Lodge",
+      "collision": "complex_as_simple",
+      "screen_sizes": [
+        1.0,
+        0.22,
+        0.075
+      ]
+    },
+    {
+      "name": "CivicHall",
+      "source_blend": "SourceAssets/Blender/CivicHall/CivicHall.blend",
+      "source_sha256": "f3356ff6afd70cc6bbe5bff607c06523d01138d2ec09094e7694b2a391104079",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/CivicHall/CivicHall.blend",
+      "blend_sha256": "dffe5306e29587981413a8db00a1a95e3f4f26ece61f5aa6e95ccad798b59518",
+      "parts_retained": 5779,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/CivicHall/SM_HP_CivicHall_LOD0.fbx",
+          "triangles": 624240,
+          "vertices": 323676,
+          "bounds_m": {
+            "min": [
+              -3.990000009536743,
+              -2.884999990463257,
+              0.0
+            ],
+            "max": [
+              3.990000009536743,
+              1.7990000247955322,
+              8.6899995803833
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "1554f972f53442b9be2c17608e792dbf39e026580c476ca91c5a4cb3cf6718d6",
+          "material_slots": [
+            "M_CivicHall.001"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/CivicHall/SM_HP_CivicHall_LOD1.fbx",
+          "triangles": 254448,
+          "vertices": 138780,
+          "bounds_m": {
+            "min": [
+              -3.990000009536743,
+              -2.884999990463257,
+              0.0
+            ],
+            "max": [
+              3.990000009536743,
+              1.7990000247955322,
+              8.6899995803833
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "c00adb7c6925bceb87ca5baf67d3e917428204dd37f002304f1ff5f06791ed08",
+          "material_slots": [
+            "M_CivicHall.001"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/CivicHall/SM_HP_CivicHall_LOD2.fbx",
+          "triangles": 69552,
+          "vertices": 46332,
+          "bounds_m": {
+            "min": [
+              -3.990000009536743,
+              -2.884999990463257,
+              0.0
+            ],
+            "max": [
+              3.990000009536743,
+              1.7990000247955322,
+              8.6899995803833
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "0f1a3815536041b217c7316f6830d749bc21fdab439cc0b350fc00f64b2b726b",
+          "material_slots": [
+            "M_CivicHall.001"
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -3.990000009536743,
+          -2.884999990463257,
+          0.0
+        ],
+        "max": [
+          3.990000009536743,
+          1.7990000247955322,
+          8.6899995803833
+        ]
+      },
+      "materials": [
+        "M_CivicHall.001"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/CivicHall/SM_Blender_CivicHall",
+      "collision": "complex_as_simple",
+      "screen_sizes": [
+        1.0,
+        0.22,
+        0.075
+      ]
+    },
+    {
+      "name": "HomesteadCompound",
+      "source_blend": "SourceAssets/Blender/HomesteadCompound/HomesteadCompound.blend",
+      "source_sha256": "e0190579a34096eaa2c4c3673f9cb58729d22a38e95f23f639c0200b95aa4b42",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/HomesteadCompound/HomesteadCompound.blend",
+      "blend_sha256": "f051c87e2e8cd8c4b09a0392ef0929c522a1a07dab50c50a1ec212796e2af54c",
+      "parts_retained": 4039,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/HomesteadCompound/SM_HP_HomesteadCompound_LOD0.fbx",
+          "triangles": 436212,
+          "vertices": 226184,
+          "bounds_m": {
+            "min": [
+              -4.590356826782227,
+              -3.0901083946228027,
+              -0.0003925636410713196
+            ],
+            "max": [
+              4.595394611358643,
+              3.695399522781372,
+              4.775000095367432
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "8c032b110891bfffb99d47827329a702e6aab64812998629ce3e7bd34f354a42",
+          "material_slots": [
+            "M_Cottage_Atlas.001",
+            "M_HomesteadCompound_Frame"
+          ],
+          "material_face_counts": [
+            146502,
+            71604
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/HomesteadCompound/SM_HP_HomesteadCompound_LOD1.fbx",
+          "triangles": 177716,
+          "vertices": 96936,
+          "bounds_m": {
+            "min": [
+              -4.590356826782227,
+              -3.0901083946228027,
+              -0.0003925636410713196
+            ],
+            "max": [
+              4.595394611358643,
+              3.695399522781372,
+              4.775000095367432
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "3bbfc48b142c45c717d4ae3e3ad19acfb3c6d1b8eeb5658d3d8a61ff13115ef1",
+          "material_slots": [
+            "M_Cottage_Atlas.001",
+            "M_HomesteadCompound_Frame"
+          ],
+          "material_face_counts": [
+            70538,
+            34476
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/HomesteadCompound/SM_HP_HomesteadCompound_LOD2.fbx",
+          "triangles": 48468,
+          "vertices": 32312,
+          "bounds_m": {
+            "min": [
+              -4.590356826782227,
+              -3.0901083946228027,
+              -0.0003925636410713196
+            ],
+            "max": [
+              4.595394611358643,
+              3.695399522781372,
+              4.775000095367432
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "3cfca655f42c0f2a38fbf1ab54e06ffc4f70ad9a1e7dd5d142d989c669157190",
+          "material_slots": [
+            "M_Cottage_Atlas.001",
+            "M_HomesteadCompound_Frame"
+          ],
+          "material_face_counts": [
+            16278,
+            7956
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -4.590356826782227,
+          -3.0901083946228027,
+          -0.0003925636410713196
+        ],
+        "max": [
+          4.595394611358643,
+          3.695399522781372,
+          4.775000095367432
+        ]
+      },
+      "materials": [
+        "M_Cottage_Atlas.001",
+        "M_HomesteadCompound_Frame"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/HomesteadCompound/SM_Blender_HomesteadCompound",
+      "collision": "complex_as_simple",
+      "screen_sizes": [
+        1.0,
+        0.22,
+        0.075
+      ]
+    },
+    {
+      "name": "MarketStall",
+      "source_blend": "SourceAssets/Blender/MarketStall/MarketStall.blend",
+      "source_sha256": "3e59128ae9f33822d028799d3b5f2c2482fe63e4024cb9827b2a7490f986df71",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MarketStall/MarketStall.blend",
+      "blend_sha256": "bffcde354a7e308ae051f4d21ddd5259db8855db4192667f52e8ba980eed5e25",
+      "parts_retained": 634,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MarketStall/SM_HP_MarketStall_LOD0.fbx",
+          "triangles": 68472,
+          "vertices": 35504,
+          "bounds_m": {
+            "min": [
+              -2.0399999618530273,
+              -1.375,
+              -0.0042999908328056335
+            ],
+            "max": [
+              2.2799999713897705,
+              1.065000057220459,
+              2.605799913406372
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "13b419a0faee7969e4c78be2ec362b310b0b67c5f36c82364be264260e360d29",
+          "material_slots": [
+            "M_MarketStall.002"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MarketStall/SM_HP_MarketStall_LOD1.fbx",
+          "triangles": 27896,
+          "vertices": 15216,
+          "bounds_m": {
+            "min": [
+              -2.0399999618530273,
+              -1.375,
+              -0.0042999908328056335
+            ],
+            "max": [
+              2.2799999713897705,
+              1.065000057220459,
+              2.605799913406372
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "1f01cbcf9429451cf85d6b059469bbc155596c7b39925911aeefed9398bea0fd",
+          "material_slots": [
+            "M_MarketStall.002"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MarketStall/SM_HP_MarketStall_LOD2.fbx",
+          "triangles": 7608,
+          "vertices": 5072,
+          "bounds_m": {
+            "min": [
+              -2.0399999618530273,
+              -1.375,
+              -0.0042999908328056335
+            ],
+            "max": [
+              2.2799999713897705,
+              1.065000057220459,
+              2.605799913406372
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "c2f8b198d1c9d5ff3d9264371eb07eb18be6d6a1e75027be9b6527a7a441eb63",
+          "material_slots": [
+            "M_MarketStall.002"
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -2.0399999618530273,
+          -1.375,
+          -0.0042999908328056335
+        ],
+        "max": [
+          2.2799999713897705,
+          1.065000057220459,
+          2.605799913406372
+        ]
+      },
+      "materials": [
+        "M_MarketStall.002"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/MarketStall/SM_Blender_MarketStall",
+      "collision": "complex_as_simple",
+      "screen_sizes": [
+        1.0,
+        0.22,
+        0.075
+      ]
+    },
+    {
+      "name": "Sign",
+      "source_blend": "SourceAssets/Blender/Sign/Sign.blend",
+      "source_sha256": "14759dffa3022507b3f26b36c6f57dd341b606f53cc5497c548cbf3bab01f687",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Sign/Sign.blend",
+      "blend_sha256": "bccce4b671f09cd0d09278864a18b3e1c84fa86c300bf230936b58df9c0532f8",
+      "parts_retained": 76,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Sign/SM_HP_Sign_LOD0.fbx",
+          "triangles": 8208,
+          "vertices": 4256,
+          "bounds_m": {
+            "min": [
+              -1.1350001096725464,
+              -0.5375000238418579,
+              0.0015000030398368835
+            ],
+            "max": [
+              1.2024999856948853,
+              0.2695000171661377,
+              2.684999942779541
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "65202267b90d96ed688521dc2a0aaf508992bfdf699458e9294ac3f1f42ac2ff",
+          "material_slots": [
+            "M_Sign"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Sign/SM_HP_Sign_LOD1.fbx",
+          "triangles": 3344,
+          "vertices": 1824,
+          "bounds_m": {
+            "min": [
+              -1.1350001096725464,
+              -0.5375000238418579,
+              0.0015000030398368835
+            ],
+            "max": [
+              1.2024999856948853,
+              0.2695000171661377,
+              2.684999942779541
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "a3aa61492ca748912eaddc0c565144413d322344a4cea9e692636285b31d1da0",
+          "material_slots": [
+            "M_Sign"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Sign/SM_HP_Sign_LOD2.fbx",
+          "triangles": 912,
+          "vertices": 608,
+          "bounds_m": {
+            "min": [
+              -1.1350001096725464,
+              -0.5375000238418579,
+              0.0015000030398368835
+            ],
+            "max": [
+              1.2024999856948853,
+              0.2695000171661377,
+              2.684999942779541
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "5f3fe16140ada28e55e72b0958863dae6674b37144970ae165e9acba041007ed",
+          "material_slots": [
+            "M_Sign"
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -1.1350001096725464,
+          -0.5375000238418579,
+          0.0015000030398368835
+        ],
+        "max": [
+          1.2024999856948853,
+          0.2695000171661377,
+          2.684999942779541
+        ]
+      },
+      "materials": [
+        "M_Sign"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/Sign/SM_Blender_Sign",
+      "collision": "complex_as_simple",
+      "screen_sizes": [
+        1.0,
+        0.16,
+        0.045
+      ]
+    },
+    {
+      "name": "Lantern",
+      "source_blend": "SourceAssets/Blender/Lantern/Lantern.blend",
+      "source_sha256": "81c9a76fb655e446959295ad58186e732f087b0f10c0f6c850b64a3b06b94a8c",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Lantern/Lantern.blend",
+      "blend_sha256": "b685b58bd63492eb21d237ea951708fef4775243f7fec15a3f4be0defe7ff708",
+      "parts_retained": 95,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Lantern/SM_HP_Lantern_LOD0.fbx",
+          "triangles": 10260,
+          "vertices": 5320,
+          "bounds_m": {
+            "min": [
+              -0.8399999737739563,
+              -0.3855000138282776,
+              0.0020000040531158447
+            ],
+            "max": [
+              0.7470000386238098,
+              0.33500000834465027,
+              3.18149995803833
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "6b4d1e372771f1b96d47817bd7f72fa35e03d0312d29d91c76e06fe53ec044de",
+          "material_slots": [
+            "M_Lantern.001"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Lantern/SM_HP_Lantern_LOD1.fbx",
+          "triangles": 4180,
+          "vertices": 2280,
+          "bounds_m": {
+            "min": [
+              -0.8399999737739563,
+              -0.3855000138282776,
+              0.0020000040531158447
+            ],
+            "max": [
+              0.7470000386238098,
+              0.33500000834465027,
+              3.18149995803833
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "08c2c918677551afe177d518e186c2e898c30bd7b1342fadd8c13cfda6f3e712",
+          "material_slots": [
+            "M_Lantern.001"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Lantern/SM_HP_Lantern_LOD2.fbx",
+          "triangles": 1140,
+          "vertices": 760,
+          "bounds_m": {
+            "min": [
+              -0.8399999737739563,
+              -0.3855000138282776,
+              0.0020000040531158447
+            ],
+            "max": [
+              0.7470000386238098,
+              0.33500000834465027,
+              3.18149995803833
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "22aba1bb8754215c63497f6fe468729bf22a048de4a633a134b7fcfd7591b64b",
+          "material_slots": [
+            "M_Lantern.001"
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -0.8399999737739563,
+          -0.3855000138282776,
+          0.0020000040531158447
+        ],
+        "max": [
+          0.7470000386238098,
+          0.33500000834465027,
+          3.18149995803833
+        ]
+      },
+      "materials": [
+        "M_Lantern.001"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/Lantern/SM_Blender_Lantern",
+      "collision": "complex_as_simple",
+      "screen_sizes": [
+        1.0,
+        0.16,
+        0.045
+      ]
+    },
+    {
+      "name": "MossTonic",
+      "source_blend": "SourceAssets/Blender/MossTonic/MossTonic.blend",
+      "source_sha256": "147fac5a7a6db55a007939b87b06a3f9884dc2a0fb7b1f28886b2d69eb3d026f",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MossTonic/MossTonic.blend",
+      "blend_sha256": "b47a9e2314d21ff651a86e6144e6e5599b4107041fec53d3ed723b9ac3ceae9d",
+      "parts_retained": 351,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MossTonic/SM_HP_MossTonic_LOD0.fbx",
+          "triangles": 47396,
+          "vertices": 24400,
+          "bounds_m": {
+            "min": [
+              -0.23549999296665192,
+              -0.2045000046491623,
+              0.01900000125169754
+            ],
+            "max": [
+              0.3933461904525757,
+              0.20395000278949738,
+              0.8550000190734863
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "0552f4fb70107c3114802240dab8725c369157891d1030f751c91fcb42798937",
+          "material_slots": [
+            "M_MossTonic_Glass.001",
+            "M_MossTonic_Liquid.006",
+            "M_MossTonic_Trim.006"
+          ],
+          "material_face_counts": [
+            4514,
+            290,
+            18846
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MossTonic/SM_HP_MossTonic_LOD1.fbx",
+          "triangles": 21684,
+          "vertices": 11544,
+          "bounds_m": {
+            "min": [
+              -0.23549999296665192,
+              -0.2045000046491623,
+              0.01900000125169754
+            ],
+            "max": [
+              0.39302030205726624,
+              0.20395000278949738,
+              0.8550000190734863
+            ]
+          },
+          "max_bounds_delta_m": 0.00032588839530944824,
+          "sha256": "05bcf32b5adf9255f15ab4c210708e182424b98df859fb42e40ecc2627406e2e",
+          "material_slots": [
+            "M_MossTonic_Glass.001",
+            "M_MossTonic_Liquid.006",
+            "M_MossTonic_Trim.006"
+          ],
+          "material_face_counts": [
+            3078,
+            138,
+            9074
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MossTonic/SM_HP_MossTonic_LOD2.fbx",
+          "triangles": 7940,
+          "vertices": 4672,
+          "bounds_m": {
+            "min": [
+              -0.23549999296665192,
+              -0.2045000046491623,
+              0.01900000125169754
+            ],
+            "max": [
+              0.3943999409675598,
+              0.20395000278949738,
+              0.8550000190734863
+            ]
+          },
+          "max_bounds_delta_m": 0.0010537505149841309,
+          "sha256": "7dbc068f7ff980b53a8d8baed0a7ae0588e74e4ddf374bc5a7a0cd4c866af064",
+          "material_slots": [
+            "M_MossTonic_Glass.001",
+            "M_MossTonic_Liquid.006",
+            "M_MossTonic_Trim.006"
+          ],
+          "material_face_counts": [
+            1802,
+            34,
+            2094
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -0.23549999296665192,
+          -0.2045000046491623,
+          0.01900000125169754
+        ],
+        "max": [
+          0.3933461904525757,
+          0.20395000278949738,
+          0.8550000190734863
+        ]
+      },
+      "materials": [
+        "M_MossTonic_Glass.001",
+        "M_MossTonic_Liquid.006",
+        "M_MossTonic_Trim.006"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/MossTonic/SM_Blender_MossTonic",
+      "collision": "none",
+      "screen_sizes": [
+        1.0,
+        0.16,
+        0.045
+      ]
+    },
+    {
+      "name": "TrailPrism",
+      "source_blend": "SourceAssets/Blender/TrailPrism/TrailPrism.blend",
+      "source_sha256": "a174d993975d102f68e58b9e57f46dd683a295ac87cc939ba54bd33cc92bdfd1",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/TrailPrism/TrailPrism.blend",
+      "blend_sha256": "362bdac914c114925ebe233c317d4837ff44af6d7dcfd6e732f0f1df35754313",
+      "parts_retained": 122,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/TrailPrism/SM_HP_TrailPrism_LOD0.fbx",
+          "triangles": 17432,
+          "vertices": 8960,
+          "bounds_m": {
+            "min": [
+              -0.2774384319782257,
+              -0.2774384319782257,
+              0.0
+            ],
+            "max": [
+              0.2774384319782257,
+              0.2774384319782257,
+              1.1200000047683716
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "8540baef425cb5f93210ab678390bf84978afed15c1a6acb41af6de422ceac88",
+          "material_slots": [
+            "M_TrailPrism_Crystal.002",
+            "M_TrailPrism_Core.005",
+            "M_TrailPrism_Frame.005"
+          ],
+          "material_face_counts": [
+            1586,
+            626,
+            6480
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/TrailPrism/SM_HP_TrailPrism_LOD1.fbx",
+          "triangles": 7816,
+          "vertices": 4152,
+          "bounds_m": {
+            "min": [
+              -0.2774384319782257,
+              -0.2774384319782257,
+              0.0
+            ],
+            "max": [
+              0.2774384319782257,
+              0.2774384319782257,
+              1.1200000047683716
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "77966b5ba141f718f11b1d72cd1dc4c085d855666a7c5fa811d41fee822482e5",
+          "material_slots": [
+            "M_TrailPrism_Crystal.002",
+            "M_TrailPrism_Core.005",
+            "M_TrailPrism_Frame.005"
+          ],
+          "material_face_counts": [
+            942,
+            366,
+            3120
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/TrailPrism/SM_HP_TrailPrism_LOD2.fbx",
+          "triangles": 2584,
+          "vertices": 1536,
+          "bounds_m": {
+            "min": [
+              -0.2774384319782257,
+              -0.2774384319782257,
+              0.0
+            ],
+            "max": [
+              0.2774384319782257,
+              0.2774384319782257,
+              1.1200000047683716
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "79cdbe1bd5f6491ed01e5d2f9e6a8a248822fcd85951e65220650c78c7fafb0e",
+          "material_slots": [
+            "M_TrailPrism_Crystal.002",
+            "M_TrailPrism_Core.005",
+            "M_TrailPrism_Frame.005"
+          ],
+          "material_face_counts": [
+            402,
+            146,
+            720
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -0.2774384319782257,
+          -0.2774384319782257,
+          0.0
+        ],
+        "max": [
+          0.2774384319782257,
+          0.2774384319782257,
+          1.1200000047683716
+        ]
+      },
+      "materials": [
+        "M_TrailPrism_Crystal.002",
+        "M_TrailPrism_Core.005",
+        "M_TrailPrism_Frame.005"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/TrailPrism/SM_Blender_TrailPrism",
+      "collision": "none",
+      "screen_sizes": [
+        1.0,
+        0.16,
+        0.045
+      ]
+    },
+    {
+      "name": "EmberCrest",
+      "source_blend": "SourceAssets/Blender/EmberCrest/EmberCrest.blend",
+      "source_sha256": "3e7fde2d4ca966dbc1ab1cd31eddd3ac0c93fd3ed6eef620c0079c582fcab69d",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/EmberCrest/EmberCrest.blend",
+      "blend_sha256": "f6cf63666a85078e6f9b63d1d73d3e786a6b8698b730b9af9e2eae6e2c920a39",
+      "parts_retained": 582,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/EmberCrest/SM_HP_EmberCrest_LOD0.fbx",
+          "triangles": 65624,
+          "vertices": 33976,
+          "bounds_m": {
+            "min": [
+              -0.4560000002384186,
+              -0.1600000113248825,
+              -0.02658185176551342
+            ],
+            "max": [
+              0.4560000002384186,
+              0.14000000059604645,
+              1.1662591695785522
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "4990f5d3cdd6afbf6832d1e1ddc6ba19785ca292878fed7bdc02a5da6124ed56",
+          "material_slots": [
+            "M_EmberCrest_Field.002",
+            "M_EmberCrest_Frame.002",
+            "M_EmberCrest_Enamel.002"
+          ],
+          "material_face_counts": [
+            22626,
+            3370,
+            6720
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/EmberCrest/SM_HP_EmberCrest_LOD1.fbx",
+          "triangles": 26820,
+          "vertices": 14574,
+          "bounds_m": {
+            "min": [
+              -0.4560000002384186,
+              -0.1600000113248825,
+              -0.026096468791365623
+            ],
+            "max": [
+              0.4560000002384186,
+              0.14000000059604645,
+              1.1662591695785522
+            ]
+          },
+          "max_bounds_delta_m": 0.00048538297414779663,
+          "sha256": "9f0a4161ee0f29e05664dd04d6ad6f8c1a2ca56175856ac2bc3fdbcbc6151868",
+          "material_slots": [
+            "M_EmberCrest_Field.002",
+            "M_EmberCrest_Frame.002",
+            "M_EmberCrest_Enamel.002"
+          ],
+          "material_face_counts": [
+            10885,
+            1611,
+            3241
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/EmberCrest/SM_HP_EmberCrest_LOD2.fbx",
+          "triangles": 7400,
+          "vertices": 4864,
+          "bounds_m": {
+            "min": [
+              -0.4560000002384186,
+              -0.1600000113248825,
+              -0.027186835184693336
+            ],
+            "max": [
+              0.4560000002384186,
+              0.14000000059604645,
+              1.1662591695785522
+            ]
+          },
+          "max_bounds_delta_m": 0.0006049834191799164,
+          "sha256": "da87061cf8aaa461b8ab02a6d294f45f44575b91278f68f62c0b31e1a19fffaf",
+          "material_slots": [
+            "M_EmberCrest_Field.002",
+            "M_EmberCrest_Frame.002",
+            "M_EmberCrest_Enamel.002"
+          ],
+          "material_face_counts": [
+            2498,
+            354,
+            752
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -0.4560000002384186,
+          -0.1600000113248825,
+          -0.02658185176551342
+        ],
+        "max": [
+          0.4560000002384186,
+          0.14000000059604645,
+          1.1662591695785522
+        ]
+      },
+      "materials": [
+        "M_EmberCrest_Field.002",
+        "M_EmberCrest_Frame.002",
+        "M_EmberCrest_Enamel.002"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/EmberCrest/SM_Blender_EmberCrest",
+      "collision": "none",
+      "screen_sizes": [
+        1.0,
+        0.16,
+        0.045
+      ]
+    },
+    {
+      "name": "DeepDelverMark",
+      "source_blend": "SourceAssets/Blender/DeepDelverMark/DeepDelverMark.blend",
+      "source_sha256": "a9c4103d00611a221a2bb9b94da35097f9c71eab4052e20c66c2f0390c306f34",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/DeepDelverMark/DeepDelverMark.blend",
+      "blend_sha256": "963c58b6411effadba73ca477803d4a4767984e3b0a7f2d65ebca374fb6cab52",
+      "parts_retained": 585,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/DeepDelverMark/SM_HP_DeepDelverMark_LOD0.fbx",
+          "triangles": 64948,
+          "vertices": 33636,
+          "bounds_m": {
+            "min": [
+              -0.4753897488117218,
+              -0.17775148153305054,
+              -0.010689790360629559
+            ],
+            "max": [
+              0.4753897488117218,
+              0.1379999965429306,
+              1.2952558994293213
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "b136516f8477589a0c229cfd2bd156d76601d624ebbe92ef5294529e42b7de6b",
+          "material_slots": [
+            "M_DeepDelverMark_Frame.002",
+            "M_DeepDelverMark_Cavern.007",
+            "M_DeepDelverMark_Crystal.007"
+          ],
+          "material_face_counts": [
+            1330,
+            30130,
+            984
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/DeepDelverMark/SM_HP_DeepDelverMark_LOD1.fbx",
+          "triangles": 26532,
+          "vertices": 14428,
+          "bounds_m": {
+            "min": [
+              -0.4750005006790161,
+              -0.1775757372379303,
+              -0.010229178704321384
+            ],
+            "max": [
+              0.4750005006790161,
+              0.1379999965429306,
+              1.2950347661972046
+            ]
+          },
+          "max_bounds_delta_m": 0.00046061165630817413,
+          "sha256": "8d769cb7b0cfec28bfb81fd47331666e01da52126b24d13cf8674b6f1a5cb32a",
+          "material_slots": [
+            "M_DeepDelverMark_Frame.002",
+            "M_DeepDelverMark_Cavern.007",
+            "M_DeepDelverMark_Crystal.007"
+          ],
+          "material_face_counts": [
+            650,
+            14506,
+            478
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/DeepDelverMark/SM_HP_DeepDelverMark_LOD2.fbx",
+          "triangles": 7304,
+          "vertices": 4814,
+          "bounds_m": {
+            "min": [
+              -0.47600001096725464,
+              -0.17800000309944153,
+              -0.011547005735337734
+            ],
+            "max": [
+              0.47600001096725464,
+              0.1379999965429306,
+              1.2955739498138428
+            ]
+          },
+          "max_bounds_delta_m": 0.0008572153747081757,
+          "sha256": "ce974f4830cfb92518cdb7c1961fc5aa7fafb98e1ae1fe3a1918ad2adb30750b",
+          "material_slots": [
+            "M_DeepDelverMark_Frame.002",
+            "M_DeepDelverMark_Cavern.007",
+            "M_DeepDelverMark_Crystal.007"
+          ],
+          "material_face_counts": [
+            162,
+            3346,
+            114
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -0.4753897488117218,
+          -0.17775148153305054,
+          -0.010689790360629559
+        ],
+        "max": [
+          0.4753897488117218,
+          0.1379999965429306,
+          1.2952558994293213
+        ]
+      },
+      "materials": [
+        "M_DeepDelverMark_Frame.002",
+        "M_DeepDelverMark_Cavern.007",
+        "M_DeepDelverMark_Crystal.007"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/DeepDelverMark/SM_Blender_DeepDelverMark",
+      "collision": "none",
+      "screen_sizes": [
+        1.0,
+        0.16,
+        0.045
+      ]
+    },
+    {
+      "name": "Grove",
+      "source_blend": "SourceAssets/Blender/Grove/Grove.blend",
+      "source_sha256": "f9eb0d4c092e0c319c425381da7b8062ca2299092ebc3df46c90cbef1ae1d2d4",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Grove/Grove.blend",
+      "blend_sha256": "242e396b78765fa56292da2e25af301db1f5ebba891619eb571b44e969a0a443",
+      "parts_retained": 109,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Grove/SM_HP_Grove_LOD0.fbx",
+          "triangles": 11772,
+          "vertices": 6104,
+          "bounds_m": {
+            "min": [
+              -0.5062721967697144,
+              -0.008099999278783798,
+              -0.0013204142451286316
+            ],
+            "max": [
+              0.5581201314926147,
+              0.2928299903869629,
+              1.1291286945343018
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "ced16288ffb38f9db5bafb9d181fdc9036a0c277f89f60e1fef44099e69cf431",
+          "material_slots": [
+            "M_Grove_Leaf.001",
+            "M_Grove_Stem.006",
+            "M_Grove_Soil.006"
+          ],
+          "material_face_counts": [
+            4320,
+            648,
+            918
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Grove/SM_HP_Grove_LOD1.fbx",
+          "triangles": 4796,
+          "vertices": 2616,
+          "bounds_m": {
+            "min": [
+              -0.5062721967697144,
+              -0.008099999278783798,
+              -0.0013204142451286316
+            ],
+            "max": [
+              0.5581201314926147,
+              0.2928299903869629,
+              1.1291286945343018
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "f0def18d72c76052ae7c875f2e11cd248c9738518c04185c9e45552477aa75fc",
+          "material_slots": [
+            "M_Grove_Leaf.001",
+            "M_Grove_Stem.006",
+            "M_Grove_Soil.006"
+          ],
+          "material_face_counts": [
+            2080,
+            312,
+            442
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Grove/SM_HP_Grove_LOD2.fbx",
+          "triangles": 1308,
+          "vertices": 872,
+          "bounds_m": {
+            "min": [
+              -0.5062721967697144,
+              -0.008099999278783798,
+              -0.0013204142451286316
+            ],
+            "max": [
+              0.5581201314926147,
+              0.2928299903869629,
+              1.1291286945343018
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "e47d70c3661130138f9d52814e0d02d80334af1b4bb2dca7a9140a02278f256c",
+          "material_slots": [
+            "M_Grove_Leaf.001",
+            "M_Grove_Stem.006",
+            "M_Grove_Soil.006"
+          ],
+          "material_face_counts": [
+            480,
+            72,
+            102
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -0.5062721967697144,
+          -0.008099999278783798,
+          -0.0013204142451286316
+        ],
+        "max": [
+          0.5581201314926147,
+          0.2928299903869629,
+          1.1291286945343018
+        ]
+      },
+      "materials": [
+        "M_Grove_Leaf.001",
+        "M_Grove_Stem.006",
+        "M_Grove_Soil.006"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/Grove/SM_Blender_Grove",
+      "collision": "none",
+      "screen_sizes": [
+        1.0,
+        0.16,
+        0.045
+      ]
+    },
+    {
+      "name": "Tide",
+      "source_blend": "SourceAssets/Blender/Tide/Tide.blend",
+      "source_sha256": "29856a09dd449d5907279484ea78c63e05c4c45f1a80d8ce1334e4b28dc3e656",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Tide/Tide.blend",
+      "blend_sha256": "f0b971ab49ebd768a09f3550a39e41aa751ae50052ac901790afe2276857fd5d",
+      "parts_retained": 155,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Tide/SM_HP_Tide_LOD0.fbx",
+          "triangles": 16740,
+          "vertices": 8680,
+          "bounds_m": {
+            "min": [
+              -0.48545336723327637,
+              -0.028324998915195465,
+              -0.018268009647727013
+            ],
+            "max": [
+              0.4907376170158386,
+              0.12929999828338623,
+              1.2827554941177368
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "8ad3bacc3f0acd5ce77ab769101a5707e4006e683c9c23bc46860a7099f870d9",
+          "material_slots": [
+            "M_Tide_Wave.004"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Tide/SM_HP_Tide_LOD1.fbx",
+          "triangles": 6820,
+          "vertices": 3720,
+          "bounds_m": {
+            "min": [
+              -0.48545336723327637,
+              -0.028324998915195465,
+              -0.018268009647727013
+            ],
+            "max": [
+              0.4907376170158386,
+              0.12929999828338623,
+              1.2827554941177368
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "a8a7e4cd1733511da78dd2bc3c01796ee7d5d330f35cddd789c5fa243ad28cb6",
+          "material_slots": [
+            "M_Tide_Wave.004"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Tide/SM_HP_Tide_LOD2.fbx",
+          "triangles": 1860,
+          "vertices": 1240,
+          "bounds_m": {
+            "min": [
+              -0.48545336723327637,
+              -0.028324998915195465,
+              -0.018268009647727013
+            ],
+            "max": [
+              0.4907376170158386,
+              0.12929999828338623,
+              1.2827554941177368
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "d2b69f94a00817887d8ba7245cdc59636bafd0d2e6ad50b4bb07317ae73ad9f4",
+          "material_slots": [
+            "M_Tide_Wave.004"
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -0.48545336723327637,
+          -0.028324998915195465,
+          -0.018268009647727013
+        ],
+        "max": [
+          0.4907376170158386,
+          0.12929999828338623,
+          1.2827554941177368
+        ]
+      },
+      "materials": [
+        "M_Tide_Wave.004"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/Tide/SM_Blender_Tide",
+      "collision": "none",
+      "screen_sizes": [
+        1.0,
+        0.16,
+        0.045
+      ]
+    },
+    {
+      "name": "Ember",
+      "source_blend": "SourceAssets/Blender/Ember/Ember.blend",
+      "source_sha256": "26ec9aa3e637b7a2f4570870b9c3f50092e4fbba4af5c69c81abf5e455f7b80f",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Ember/Ember.blend",
+      "blend_sha256": "cbf6fd446168daff4decb0ed8c85f7ac07621c2af977ba10eacb2a5817a2d19c",
+      "parts_retained": 557,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Ember/SM_HP_Ember_LOD0.fbx",
+          "triangles": 60156,
+          "vertices": 31192,
+          "bounds_m": {
+            "min": [
+              -0.2554427683353424,
+              -0.191356360912323,
+              -0.0020000003278255463
+            ],
+            "max": [
+              0.922305703163147,
+              0.7469462156295776,
+              1.3440912961959839
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "63ea7eb891ac1a7ec08e695c49162b2db413c622a1fbbfcd868708186b5dc115",
+          "material_slots": [
+            "M_Ember_Flame.008"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Ember/SM_HP_Ember_LOD1.fbx",
+          "triangles": 24508,
+          "vertices": 13368,
+          "bounds_m": {
+            "min": [
+              -0.2554427683353424,
+              -0.191356360912323,
+              -0.0020000003278255463
+            ],
+            "max": [
+              0.922305703163147,
+              0.7469462156295776,
+              1.3440912961959839
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "314b02e82dbec5a5572c5a5f96a1438381b416247264802ff2cd8a9822c97351",
+          "material_slots": [
+            "M_Ember_Flame.008"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Ember/SM_HP_Ember_LOD2.fbx",
+          "triangles": 6684,
+          "vertices": 4456,
+          "bounds_m": {
+            "min": [
+              -0.2554427683353424,
+              -0.191356360912323,
+              -0.0020000003278255463
+            ],
+            "max": [
+              0.922305703163147,
+              0.7469462156295776,
+              1.3440912961959839
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "7c73e3791a036c317ed48bdb19b9697c39005c2d79bea614fbee06bfb80f805c",
+          "material_slots": [
+            "M_Ember_Flame.008"
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -0.2554427683353424,
+          -0.191356360912323,
+          -0.0020000003278255463
+        ],
+        "max": [
+          0.922305703163147,
+          0.7469462156295776,
+          1.3440912961959839
+        ]
+      },
+      "materials": [
+        "M_Ember_Flame.008"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/Ember/SM_Blender_Ember",
+      "collision": "none",
+      "screen_sizes": [
+        1.0,
+        0.16,
+        0.045
+      ]
+    },
+    {
+      "name": "Storm",
+      "source_blend": "SourceAssets/Blender/Storm/Storm.blend",
+      "source_sha256": "e392f761707508489910b69ccec9c6b836de6aff9b34c4aaacc9136b7c814e09",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Storm/Storm.blend",
+      "blend_sha256": "07446d1314b15c82f1ff32913eb3f740c4e1cf04e1d9e3a3bbc1807de7a100ce",
+      "parts_retained": 53,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Storm/SM_HP_Storm_LOD0.fbx",
+          "triangles": 8796,
+          "vertices": 4504,
+          "bounds_m": {
+            "min": [
+              -0.10257788002490997,
+              -0.605729877948761,
+              -0.04956911876797676
+            ],
+            "max": [
+              0.22118376195430756,
+              0.6976093053817749,
+              1.407997965812683
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "d575faf064c4c0b44b722d859f5430f060ffe3421318f471c156938a2b1f28ed",
+          "material_slots": [
+            "M_Storm_Lightning.001",
+            "M_Storm_Cloud.004"
+          ],
+          "material_face_counts": [
+            3768,
+            972
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Storm/SM_HP_Storm_LOD1.fbx",
+          "triangles": 4002,
+          "vertices": 2107,
+          "bounds_m": {
+            "min": [
+              -0.10257788002490997,
+              -0.605729877948761,
+              -0.04956911876797676
+            ],
+            "max": [
+              0.22118376195430756,
+              0.6976093053817749,
+              1.407997965812683
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "e03b48d6056d94a982f7813ac0496e187b97091cc245601443d163d62ff9815a",
+          "material_slots": [
+            "M_Storm_Lightning.001",
+            "M_Storm_Cloud.004"
+          ],
+          "material_face_counts": [
+            2089,
+            468
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Storm/SM_HP_Storm_LOD2.fbx",
+          "triangles": 1338,
+          "vertices": 775,
+          "bounds_m": {
+            "min": [
+              -0.10257788002490997,
+              -0.605729877948761,
+              -0.04965974763035774
+            ],
+            "max": [
+              0.22118376195430756,
+              0.6976093053817749,
+              1.407997965812683
+            ]
+          },
+          "max_bounds_delta_m": 9.062886238098145e-05,
+          "sha256": "b90b13f87501605e94b8556011ccec645090671f14f4b2e0b5c08212cbef99b3",
+          "material_slots": [
+            "M_Storm_Lightning.001",
+            "M_Storm_Cloud.004"
+          ],
+          "material_face_counts": [
+            913,
+            108
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -0.10257788002490997,
+          -0.605729877948761,
+          -0.04956911876797676
+        ],
+        "max": [
+          0.22118376195430756,
+          0.6976093053817749,
+          1.407997965812683
+        ]
+      },
+      "materials": [
+        "M_Storm_Lightning.001",
+        "M_Storm_Cloud.004"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/Storm/SM_Blender_Storm",
+      "collision": "none",
+      "screen_sizes": [
+        1.0,
+        0.16,
+        0.045
+      ]
+    },
+    {
+      "name": "BridgeThreshold",
+      "source_blend": "SourceAssets/Blender/BridgeThreshold/BridgeThreshold.blend",
+      "source_sha256": "31af08a11473eb540927e296ae50f862fde116fd346e4afcbc8b0f851f26c4b8",
+      "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/BridgeThreshold/BridgeThreshold.blend",
+      "blend_sha256": "b59097b7c76a8cdcb135415e0da27b0d3a232f1ee3bf0d542a49534c544d817f",
+      "parts_retained": 14,
+      "lods": [
+        {
+          "level": 0,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/BridgeThreshold/SM_HP_BridgeThreshold_LOD0.fbx",
+          "triangles": 1512,
+          "vertices": 784,
+          "bounds_m": {
+            "min": [
+              -1.1699999570846558,
+              -0.48500001430511475,
+              -0.2800000011920929
+            ],
+            "max": [
+              1.1699999570846558,
+              0.4300000071525574,
+              0.07099999487400055
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "201af8618cf8f8ed89c8ba9d69c208ceaa9b8b5599269394fe7d9fd2a6717eb8",
+          "material_slots": [
+            "M_BridgeThreshold.002"
+          ]
+        },
+        {
+          "level": 1,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/BridgeThreshold/SM_HP_BridgeThreshold_LOD1.fbx",
+          "triangles": 616,
+          "vertices": 336,
+          "bounds_m": {
+            "min": [
+              -1.1699999570846558,
+              -0.48500001430511475,
+              -0.2800000011920929
+            ],
+            "max": [
+              1.1699999570846558,
+              0.4300000071525574,
+              0.07099999487400055
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "d793a37ac087966e0d1fe29fab700a75d1081a2b0e0b067778f88a8447159d4c",
+          "material_slots": [
+            "M_BridgeThreshold.002"
+          ]
+        },
+        {
+          "level": 2,
+          "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/BridgeThreshold/SM_HP_BridgeThreshold_LOD2.fbx",
+          "triangles": 168,
+          "vertices": 112,
+          "bounds_m": {
+            "min": [
+              -1.1699999570846558,
+              -0.48500001430511475,
+              -0.2800000011920929
+            ],
+            "max": [
+              1.1699999570846558,
+              0.4300000071525574,
+              0.07099999487400055
+            ]
+          },
+          "max_bounds_delta_m": 0.0,
+          "sha256": "dfd25df193fa7fed48688488f554e9eca5377183d627a6595bbfc7a017a30ab1",
+          "material_slots": [
+            "M_BridgeThreshold.002"
+          ]
+        }
+      ],
+      "bounds_m": {
+        "min": [
+          -1.1699999570846558,
+          -0.48500001430511475,
+          -0.2800000011920929
+        ],
+        "max": [
+          1.1699999570846558,
+          0.4300000071525574,
+          0.07099999487400055
+        ]
+      },
+      "materials": [
+        "M_BridgeThreshold.002"
+      ],
+      "baseline_mesh": "/Game/Terrarium/Blender/BridgeThreshold/SM_Blender_BridgeThreshold",
+      "collision": "complex_as_simple",
+      "screen_sizes": [
+        1.0,
+        0.16,
+        0.045
+      ]
+    }
+  ],
+  "unreal_validation": "Pending coordinator import and visual inspection"
+}

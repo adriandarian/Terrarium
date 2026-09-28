@@ -1,0 +1,154 @@
+{
+  "test_routes": [
+    {
+      "name": "Alderhaven south avenue",
+      "start_cm": [
+        30000,
+        17000,
+        2500.0
+      ],
+      "waypoints_cm": [
+        [
+          30000,
+          18500,
+          2500.0
+        ]
+      ],
+      "xy_tolerance_cm": 40,
+      "z_tolerance_cm": 45,
+      "segment_timeout_s": 15
+    },
+    {
+      "name": "Stonegate gate street",
+      "start_cm": [
+        -32000,
+        31500,
+        3600.0
+      ],
+      "waypoints_cm": [
+        [
+          -32000,
+          33000,
+          3600.0
+        ]
+      ],
+      "xy_tolerance_cm": 40,
+      "z_tolerance_cm": 45,
+      "segment_timeout_s": 15
+    },
+    {
+      "name": "Brookmere market approach",
+      "start_cm": [
+        -25000,
+        18000,
+        1700.0
+      ],
+      "waypoints_cm": [
+        [
+          -23500,
+          18000,
+          1700.0
+        ]
+      ],
+      "xy_tolerance_cm": 40,
+      "z_tolerance_cm": 45,
+      "segment_timeout_s": 15
+    },
+    {
+      "name": "Reedbank village street",
+      "start_cm": [
+        28000,
+        -34500,
+        1292.0
+      ],
+      "waypoints_cm": [
+        [
+          28000,
+          -33000,
+          1292.0
+        ]
+      ],
+      "xy_tolerance_cm": 40,
+      "z_tolerance_cm": 45,
+      "segment_timeout_s": 15
+    },
+    {
+      "name": "City road rising grade",
+      "start_cm": [
+        4300,
+        6500,
+        732.0
+      ],
+      "waypoints_cm": [
+        [
+          5900,
+          6500,
+          796.0
+        ]
+      ],
+      "xy_tolerance_cm": 40,
+      "z_tolerance_cm": 45,
+      "segment_timeout_s": 15
+    },
+    {
+      "name": "Brookmere road rising grade",
+      "start_cm": [
+        -4900,
+        5300,
+        756.0
+      ],
+      "waypoints_cm": [
+        [
+          -6100,
+          5200,
+          804.0
+        ]
+      ],
+      "xy_tolerance_cm": 40,
+      "z_tolerance_cm": 45,
+      "segment_timeout_s": 15
+    },
+    {
+      "name": "Home exit to regional road hub",
+      "start_cm": [
+        -1291.79,
+        2695.75,
+        660.0
+      ],
+      "waypoints_cm": [
+        [
+          -2400,
+          5200,
+          660.0
+        ]
+      ],
+      "xy_tolerance_cm": 40,
+      "z_tolerance_cm": 45,
+      "segment_timeout_s": 30
+    },
+    {
+      "name": "City river bridge approach span and exit",
+      "start_cm": [
+        9917.3853,
+        7406.5195,
+        962.7389
+      ],
+      "waypoints_cm": [
+        [
+          12709.3023,
+          8453.4884,
+          1081.3953
+        ],
+        [
+          15501.2193,
+          9500.4572,
+          1200.0518
+        ]
+      ],
+      "xy_tolerance_cm": 40,
+      "z_tolerance_cm": 45,
+      "segment_timeout_s": 30
+    }
+  ],
+  "scope": "Six short street/road checks plus the home-to-hub approach and complete city river bridge with both bank transitions. The pawn is teleported only to each route initial start."
+}

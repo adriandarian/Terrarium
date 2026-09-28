@@ -1,5 +1,7 @@
 # Terrarium
 
+- For continuation, read `Docs/START_HERE.md` first. Load additional history and validation receipts only as needed for the current assignment.
+
 - Engine baseline: Unreal Engine 5.8.2; project descriptor: Terrarium.uproject.
 - Blank Blueprint project. Gameplay and art direction are yet to be defined.
 - Use bundled Unreal MCP with this project open. Discover toolsets first; call tools sequentially.

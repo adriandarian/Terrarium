@@ -1,0 +1,89 @@
+{
+  "groups": [
+    {
+      "type": "/Game/Terrarium/WorldExpansion/Forest/FT_WX_BroadTree5m.FT_WX_BroadTree5m",
+      "count": 2200,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 555.0638474010921
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/Forest/FT_WX_ShrubGroundcover.FT_WX_ShrubGroundcover",
+      "count": 734,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 487.043595422394
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/EcologyV5/Foliage/FT_WX_EcologyV5_Bush.FT_WX_EcologyV5_Bush",
+      "count": 1045,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 99.49639970061014
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/EcologyV5/Foliage/FT_WX_EcologyV5_Flowers.FT_WX_EcologyV5_Flowers",
+      "count": 1584,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 85.08863845762858
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/EcologyV5/Foliage/FT_WX_EcologyV5_GardenPatch2m.FT_WX_EcologyV5_GardenPatch2m",
+      "count": 62,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 4.0
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/EcologyV5/Foliage/FT_WX_EcologyV5_Grass.FT_WX_EcologyV5_Grass",
+      "count": 10538,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 212.8033687129655
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/EcologyV5/Foliage/FT_WX_EcologyV5_GroundPlants.FT_WX_EcologyV5_GroundPlants",
+      "count": 2659,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 206.69783081154196
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/EcologyV5/Foliage/FT_WX_EcologyV5_MossCliff4m.FT_WX_EcologyV5_MossCliff4m",
+      "count": 254,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 23.0
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/EcologyV5/Foliage/FT_WX_EcologyV5_MossRock.FT_WX_EcologyV5_MossRock",
+      "count": 18,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 23.0000000027444
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/EcologyV5/Foliage/FT_WX_EcologyV5_RockCluster.FT_WX_EcologyV5_RockCluster",
+      "count": 497,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 111.16164702474907
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/EcologyV5/Foliage/FT_WX_EcologyV5_ShoreOutcrop.FT_WX_EcologyV5_ShoreOutcrop",
+      "count": 38,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 60.73035634827761
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/EcologyV5/Foliage/FT_WX_EcologyV5_ShrubGroundcover.FT_WX_EcologyV5_ShrubGroundcover",
+      "count": 1050,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 98.02201946734124
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/EcologyV5/Foliage/FT_WX_EcologyV5_WheatPatch2m.FT_WX_EcologyV5_WheatPatch2m",
+      "count": 31,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 4.0
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V5Forest/FT_WX_V5ForestGroves.FT_WX_V5ForestGroves",
+      "count": 3266,
+      "failed_ground_traces": [],
+      "max_z_change_cm": 373.3643395671679
+    }
+  ],
+  "total": 23976
+}

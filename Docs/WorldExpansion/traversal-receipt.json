@@ -1,0 +1,4752 @@
+{
+  "level": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion",
+  "measurement": "Possessed PIE Character driven by AddMovementInput; real gravity and collision",
+  "physical_keyboard_input_test": "Separate manual-control receipt required",
+  "waypoint_approach": "Transient maximum walking speed decreases near targets to prevent frame-step overshoot; original speed restored at end",
+  "background_throttle_disabled_during_test": true,
+  "background_throttle_restored": true,
+  "routes": [
+    {
+      "name": "Alderhaven south avenue",
+      "start_cm": [
+        30000,
+        17000,
+        2500.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            30000,
+            18500,
+            2500.0
+          ],
+          "actual_cm": [
+            30000.0,
+            18460.9692020028,
+            2500.0
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 5.356535500002792
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Stonegate gate street",
+      "start_cm": [
+        -32000,
+        31500,
+        3600.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            -32000,
+            33000,
+            3600.0
+          ],
+          "actual_cm": [
+            -32000.0,
+            32961.448301635086,
+            3600.0
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 5.367098099999566
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Brookmere market approach",
+      "start_cm": [
+        -25000,
+        18000,
+        1700.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            -23500,
+            18000,
+            1700.0
+          ],
+          "actual_cm": [
+            -23526.458169680118,
+            18000.0,
+            1700.0
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 5.410330300001078
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Reedbank village street",
+      "start_cm": [
+        28000,
+        -34500,
+        1292.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            28000,
+            -33000,
+            1292.0
+          ],
+          "actual_cm": [
+            28000.0,
+            -33038.75700205486,
+            1292.0
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 5.365238999998837
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "City road rising grade",
+      "start_cm": [
+        4300,
+        6500,
+        732.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            5900,
+            6500,
+            796.0
+          ],
+          "actual_cm": [
+            5872.548752771173,
+            6500.0,
+            796.4057289425411
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 5.748092599998927
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Brookmere road rising grade",
+      "start_cm": [
+        -4900,
+        5300,
+        756.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            -6100,
+            5200,
+            804.0
+          ],
+          "actual_cm": [
+            -6062.5713265250215,
+            5203.119056122916,
+            803.9972723343611
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 4.3147345000033965
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "Home exit to regional road hub",
+      "start_cm": [
+        -1291.79,
+        2695.75,
+        660.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            -2400,
+            5200,
+            660.0
+          ],
+          "actual_cm": [
+            -2388.8364620151488,
+            5174.773472538098,
+            660.1500067710876
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 9.827796699999453
+        }
+      ],
+      "passed": true
+    },
+    {
+      "name": "City river bridge approach span and exit",
+      "start_cm": [
+        9917.3853,
+        7406.5195,
+        962.7389
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            12709.3023,
+            8453.4884,
+            1081.3953
+          ],
+          "actual_cm": [
+            12683.842099140766,
+            8443.940824449806,
+            1081.7104176387843
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 10.699563300000591
+        },
+        {
+          "target_cm": [
+            15501.2193,
+            9500.4572,
+            1200.0518
+          ],
+          "actual_cm": [
+            15465.546635589804,
+            9487.079951805074,
+            1200.0767986605963
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 10.612987600001361
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "all_routes_passed": true,
+  "error": null,
+  "trace": [
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17012.50504598843,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 150.02759929410746,
+      "frame_delta_ms": 16.485698521137238
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17051.757509192743,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.538899391889572
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17098.39425333432,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.706399619579315
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17145.02886959008,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.615301370620728
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17191.770894011774,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.598600894212723
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17238.402009686746,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.65249839425087
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17285.039397409477,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.693800687789917
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17331.641253611364,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.624201089143753
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17378.306417545595,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.729500144720078
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17424.938793262758,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.68829843401909
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17471.656570216932,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 17.008300870656967
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17518.36112924508,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.356199979782104
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17564.96091388754,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.625702381134033
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17611.595277717628,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.686800867319107
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17658.28998171381,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.632698476314545
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17704.960774114646,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.666002571582794
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17751.60678603343,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.704600304365158
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17798.375661453523,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 17.058800905942917
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17844.99938585452,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.613401472568512
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17891.657102188386,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.623802483081818
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17938.319493612566,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.72999933362007
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        17984.96237002901,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.750402748584747
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        18031.6281493812,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.545400023460388
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        18078.363929918327,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.92809909582138
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        18125.02985008649,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.98959991335869
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        18171.685941299715,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.689497977495193
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        18218.433481535234,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.963601112365723
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        18264.941593936004,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.70610159635544
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        18311.618125370063,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.716700047254562
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        18358.269290110387,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.52650162577629
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        18404.91731726221,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.333799809217453
+    },
+    {
+      "route": "Alderhaven south avenue",
+      "waypoint": 0,
+      "position_cm": [
+        30000.0,
+        18451.745973756828,
+        2500.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 17.024200409650803
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        31507.863782189113,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 117.30859783985409,
+      "frame_delta_ms": 17.04929769039154
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        31542.477237842384,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.282901167869568
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        31589.18806891829,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.8599970638752
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        31635.770661495033,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.485098749399185
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        31682.521673105064,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.64780080318451
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        31729.27584942371,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.648299992084503
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        31775.8521417895,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.634501516819
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        31822.563533000055,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.642000526189804
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        31869.245357028547,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.259800642728806
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        31915.917269698683,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.74320176243782
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        31962.61062916309,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.985200345516205
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32009.20691322476,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.47070050239563
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32055.866589508358,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.391701996326447
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32102.49190982372,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.667403280735016
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32149.1728649655,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.49399846792221
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32195.898704937998,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.81099832057953
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32242.539536915127,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.292300075292587
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32289.18246965796,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.845200210809708
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32335.817309133115,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.658499836921692
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32382.50756125838,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.89719781279564
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32429.373961649242,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.829002648591995
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32476.097029111686,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.96610078215599
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32522.678473255935,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.663499176502228
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32569.315496943298,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.545098274946213
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32616.007737181488,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.906797885894775
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32662.581257037225,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.402799636125565
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32709.317877254787,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.64559915661812
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32756.292469165626,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.92650094628334
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32802.92092498332,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.91649854183197
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32849.46966540009,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.526099294424057
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32896.13827358872,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.728699207305908
+    },
+    {
+      "route": "Stonegate gate street",
+      "waypoint": 0,
+      "position_cm": [
+        -32000.0,
+        32942.822589538395,
+        3600.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.80999994277954
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24995.84307709776,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 83.23500293440411,
+      "frame_delta_ms": 16.653399914503098
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24966.731335434346,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 249.75589934986806,
+      "frame_delta_ms": 16.637198626995087
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24920.324629556417,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.33720099925995
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24873.68853003907,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.627896577119827
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24827.060101341485,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.701802611351013
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24780.41879371929,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.70689880847931
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24733.722101610183,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.688399016857147
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24687.04190165925,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.524598002433777
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24640.347421925544,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.756098717451096
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24593.728401821136,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.495898365974426
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24547.08860562372,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.385700553655624
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24500.449117135286,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.803201287984848
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24453.45506550002,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 17.9843008518219
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24371.363937418937,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.649901866912842
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24324.57806603241,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.922298818826675
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24278.00384522605,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.721002757549286
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24231.364441227197,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.721300780773163
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24184.730945240735,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.634799540042877
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24138.10069740939,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.691099852323532
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24091.42760918665,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.814302653074265
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -24044.760233920097,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.605399549007416
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -23998.13155383992,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.62229746580124
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -23951.398629259347,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.97630062699318
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -23904.71828953552,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.611799597740173
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -23858.091037433624,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.551200300455093
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -23811.45507768917,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.352400183677673
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -23764.801393907546,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.614999622106552
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -23718.087005924463,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.71449840068817
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -23671.43861369419,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.69599860906601
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -23624.798929106473,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.582101583480835
+    },
+    {
+      "route": "Brookmere market approach",
+      "waypoint": 0,
+      "position_cm": [
+        -23578.182737838506,
+        18000.0,
+        1700.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.544800251722336
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -34500.0,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 0.0,
+      "frame_delta_ms": 16.798097640275955
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -34484.6254452244,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 167.1930025814835,
+      "frame_delta_ms": 16.67250320315361
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -34443.45470219772,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.614601016044617
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -34396.815913616825,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.517601907253265
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -34350.08542567413,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.4916031062603
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -34303.474469631125,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.64620265364647
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -34256.76755845468,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.702797263860703
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -34210.14921009462,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.63060113787651
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -34163.49964231174,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.6763998568058
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -34116.865054219175,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.566097736358643
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -34070.08310168903,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.79680123925209
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -34023.499978183914,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.637999564409256
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33976.77038624804,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.745097935199738
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33930.138625948835,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.44730195403099
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33883.52422565143,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.595300287008286
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33836.804602443386,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.466297209262848
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33790.170489995886,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.392100602388382
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33743.36277857344,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.61829650402069
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33696.71704620044,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.63139835000038
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33649.98185396116,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.465000808238983
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33603.34096565764,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.443602740764618
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33556.726230531145,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.60269871354103
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33510.06072968166,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.694501042366028
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33463.43706160705,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.455501317977905
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33416.83405801575,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.567401587963104
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33370.152822285105,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.705799847841263
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33323.488105832745,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.62050187587738
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33276.79830223243,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.733597964048386
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33230.00694215219,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 17.090998589992523
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33183.40950965803,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.602102667093277
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33136.76492571752,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.32780209183693
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33090.08184164684,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.652099788188934
+    },
+    {
+      "route": "Reedbank village street",
+      "waypoint": 0,
+      "position_cm": [
+        28000.0,
+        -33043.33424612801,
+        1292.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 17.11060106754303
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4309.9725014247215,
+        6500.0,
+        733.9026790093104
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 133.14840144187903,
+      "frame_delta_ms": 16.777999699115753
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4347.023436324153,
+        6500.0,
+        735.3847163735538
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.792498528957367
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4393.804716066871,
+        6500.0,
+        737.2559675190981
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.85350015759468
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4440.358187900339,
+        6500.0,
+        739.1181064314056
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.66409894824028
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4487.021168665443,
+        6500.0,
+        740.9846256574681
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.612499952316284
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4533.7972684665065,
+        6500.0,
+        742.8556696305477
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 17.14010164141655
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4580.354380653654,
+        6500.0,
+        744.7179540645982
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.66799932718277
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4627.001707897935,
+        6500.0,
+        746.5838471950226
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.70689880847931
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4673.6444163782935,
+        6500.0,
+        748.4495555523858
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.661401838064194
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4720.293004707847,
+        6500.0,
+        750.3154990889585
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.828902065753937
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4766.9483678503375,
+        6500.0,
+        752.1817136558416
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.66579768061638
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4813.581640617404,
+        6500.0,
+        754.0470445781372
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.602400690317154
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4860.311904297624,
+        6500.0,
+        755.9162551076386
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.666799783706665
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4906.971048609767,
+        6500.0,
+        757.7826208482403
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.75890013575554
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        4953.595948563371,
+        6500.0,
+        759.6476167780033
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.728002578020096
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5000.1991482539515,
+        6500.0,
+        761.5117448115216
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.569998115301132
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5046.819372074161,
+        6500.0,
+        763.3765537462627
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.45679771900177
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5093.526592002664,
+        6500.0,
+        765.2448426178611
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.95139706134796
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5140.111704663787,
+        6500.0,
+        767.108247068737
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.68190211057663
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5186.71680797771,
+        6500.0,
+        768.9724512036338
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.68049767613411
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5233.371332482849,
+        6500.0,
+        770.8386321115645
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.706999391317368
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5280.10896031693,
+        6500.0,
+        772.7081371892205
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.922898590564728
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5326.687884376798,
+        6500.0,
+        774.5712940829746
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.803499311208725
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5373.376848296676,
+        6500.0,
+        776.438852661119
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.886398196220398
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5419.984528021369,
+        6500.0,
+        778.3031597856369
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.594398766756058
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5466.616735802446,
+        6500.0,
+        780.1684480863188
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.72149822115898
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5513.2244165702205,
+        6500.0,
+        782.0327553452099
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.348600387573242
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5559.9022643728595,
+        6500.0,
+        783.8998692601281
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.770001500844955
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5606.525596575294,
+        6500.0,
+        785.76480256999
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.36660099029541
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5653.165980027471,
+        6500.0,
+        787.6304179592591
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.746699810028076
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5699.8543838127,
+        6500.0,
+        789.4979541379611
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.743697226047516
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5746.46945585445,
+        6500.0,
+        791.362557063525
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.800496727228165
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5793.15553669766,
+        6500.0,
+        793.2300002889702
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.954801976680756
+    },
+    {
+      "route": "City road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        5839.8390400870185,
+        6500.0,
+        795.0973404203419
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0,
+      "frame_delta_ms": 16.80769771337509
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -4902.762842442206,
+        5299.769763129817,
+        757.604931082508
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 66.60130263748893,
+      "frame_delta_ms": 16.658000648021698
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -4929.144976121292,
+        5297.571251989898,
+        758.6602137435725
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 233.6497012637092,
+      "frame_delta_ms": 16.87769964337349
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -4974.861131358918,
+        5293.761572386767,
+        760.488855200432
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999997436,
+      "frame_delta_ms": 16.648299992084503
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5021.381816305819,
+        5289.884848641202,
+        762.349677722657
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002433,
+      "frame_delta_ms": 16.654599457979202
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5067.819769180499,
+        5286.015019234982,
+        764.2071910364295
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999918,
+      "frame_delta_ms": 16.633301973342896
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5114.3018364717245,
+        5282.14151362738,
+        766.0664700954527
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999778,
+      "frame_delta_ms": 16.625400632619858
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5160.833264426115,
+        5278.263894631182,
+        767.9277343745982
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002484,
+      "frame_delta_ms": 16.767501831054688
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5207.291251164696,
+        5274.392395736303,
+        769.7860608082784
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998937,
+      "frame_delta_ms": 16.822200268507004
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5253.752306443008,
+        5270.520641129774,
+        771.6445100655123
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001825,
+      "frame_delta_ms": 16.658399254083633
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5300.347382688818,
+        5266.637718109291,
+        773.5083201568278
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000066,
+      "frame_delta_ms": 16.66800305247307
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5346.841866547483,
+        5262.7631777877305,
+        775.368106453431
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999902,
+      "frame_delta_ms": 16.83799922466278
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5393.283585451785,
+        5258.893034545698,
+        777.225770492974
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000189,
+      "frame_delta_ms": 16.626998782157898
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5439.7846263391175,
+        5255.017947805089,
+        779.0858072942525
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002274,
+      "frame_delta_ms": 16.751199960708618
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5486.242334497534,
+        5251.146472125224,
+        780.9441108028686
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000307,
+      "frame_delta_ms": 16.75419881939888
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5532.68821131475,
+        5247.275982390462,
+        782.8019410177372
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999534,
+      "frame_delta_ms": 16.558900475502014
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5579.254657211708,
+        5243.3954452323815,
+        784.6645939758815
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998937,
+      "frame_delta_ms": 16.902796924114227
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5625.673189514641,
+        5239.527234207138,
+        786.5213399714943
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.999999999996,
+      "frame_delta_ms": 16.6718028485775
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5672.168900997097,
+        5235.652591583604,
+        788.3811754811106
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999719,
+      "frame_delta_ms": 16.722001135349274
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5718.663050143775,
+        5231.778079154718,
+        790.2409485053028
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002825,
+      "frame_delta_ms": 16.750499606132507
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5765.110406138513,
+        5227.90746615516,
+        792.0988498293433
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000146,
+      "frame_delta_ms": 16.76110178232193
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5811.557259025786,
+        5224.036895081225,
+        793.9567308565278
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999763,
+      "frame_delta_ms": 16.704298555850983
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5858.092649471186,
+        5220.158945877445,
+        795.8181464613505
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000173,
+      "frame_delta_ms": 16.69370010495186
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5904.576083676281,
+        5216.2853263603465,
+        797.6774790711584
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000043,
+      "frame_delta_ms": 16.668200492858887
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5951.0311120598235,
+        5212.414073995047,
+        799.535675340374
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000043,
+      "frame_delta_ms": 16.674097627401352
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -5997.5229462884845,
+        5208.539754475979,
+        801.395343910055
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002746,
+      "frame_delta_ms": 16.792502254247665
+    },
+    {
+      "route": "Brookmere road rising grade",
+      "waypoint": 0,
+      "position_cm": [
+        -6043.986067010036,
+        5204.667827749168,
+        803.2538638807607
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999204,
+      "frame_delta_ms": 16.571201384067535
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1293.4711507520944,
+        2699.548938622583,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 83.20949934521386,
+      "frame_delta_ms": 16.591601073741913
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1305.26393794934,
+        2726.1973963505434,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 249.85800118746178,
+      "frame_delta_ms": 16.787800937891006
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1324.0375618280555,
+        2768.6206262422374,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998613,
+      "frame_delta_ms": 16.544099897146225
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1342.9436401226883,
+        2811.343166707798,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000955,
+      "frame_delta_ms": 16.764603555202484
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1361.793312521622,
+        2853.9382453526687,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000983,
+      "frame_delta_ms": 16.715500503778458
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1380.6907907195773,
+        2896.641351963536,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999295,
+      "frame_delta_ms": 16.751199960708618
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1399.5641448316742,
+        2939.289944771052,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999895,
+      "frame_delta_ms": 16.88459888100624
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1418.4262817567137,
+        2981.9131898189435,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999864,
+      "frame_delta_ms": 16.671698540449142
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1437.2864242056169,
+        3024.531927898963,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999505,
+      "frame_delta_ms": 16.660600900650024
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1456.1706109613324,
+        3067.2049995036195,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000107,
+      "frame_delta_ms": 16.698099672794342
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1475.0267425081709,
+        3109.814674047405,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000125,
+      "frame_delta_ms": 16.546200960874557
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1493.9032354402773,
+        3152.470359725418,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000008,
+      "frame_delta_ms": 16.607001423835754
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1512.813222908138,
+        3195.2017338480064,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000904,
+      "frame_delta_ms": 16.90329983830452
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1531.6571279996729,
+        3237.783779963346,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.000000000002,
+      "frame_delta_ms": 16.665298491716385
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1550.5500170030114,
+        3280.476516255759,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000335,
+      "frame_delta_ms": 16.75109937787056
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1569.4194058010708,
+        3323.1161485434473,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999888,
+      "frame_delta_ms": 16.545303165912628
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1588.3122943823014,
+        3365.808883882003,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999994,
+      "frame_delta_ms": 16.859296709299088
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1607.166918991615,
+        3408.4151531611724,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999931,
+      "frame_delta_ms": 16.614701598882675
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1626.0542331703336,
+        3451.0952918822236,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000055,
+      "frame_delta_ms": 16.773901879787445
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1644.9277687903102,
+        3493.744294847663,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999885,
+      "frame_delta_ms": 16.737300902605057
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1663.7973724430467,
+        3536.3844126478693,
+        668.1499695777893
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999977,
+      "frame_delta_ms": 16.703497618436813
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1682.6748965931874,
+        3579.0424285951954,
+        668.1499695777893
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999426,
+      "frame_delta_ms": 16.744498163461685
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1701.5811677927097,
+        3621.7654049727794,
+        668.1499695777893
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000813,
+      "frame_delta_ms": 16.68180152773857
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1720.470623342313,
+        3664.4503826034647,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999942,
+      "frame_delta_ms": 16.74950122833252
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1739.349484741215,
+        3707.11142036544,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001455,
+      "frame_delta_ms": 16.748100519180298
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1758.2178646931436,
+        3749.7487729381637,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999613,
+      "frame_delta_ms": 16.789700835943222
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1777.093009401592,
+        3792.401412001282,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999976,
+      "frame_delta_ms": 16.780000180006027
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1795.9522341804131,
+        3835.0180763991552,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999704,
+      "frame_delta_ms": 16.65019989013672
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1814.8268799532464,
+        3877.669588004912,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000002,
+      "frame_delta_ms": 16.68289676308632
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1833.7205735008224,
+        3920.364142346163,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000127,
+      "frame_delta_ms": 16.67249947786331
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1852.6052022071228,
+        3963.038212637669,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000455,
+      "frame_delta_ms": 16.680900007486343
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1871.4733103193428,
+        4005.674950927362,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998875,
+      "frame_delta_ms": 16.682498157024384
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1890.367332691663,
+        4048.370248322152,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000137,
+      "frame_delta_ms": 16.688302159309387
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1909.2373896919926,
+        4091.0113905633093,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000113,
+      "frame_delta_ms": 16.658302396535873
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1928.1533483470362,
+        4133.756257927697,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002666,
+      "frame_delta_ms": 16.68279990553856
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1947.0047999453166,
+        4176.355357074067,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000212,
+      "frame_delta_ms": 16.245197504758835
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1965.9524743588754,
+        4219.17189333539,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000064,
+      "frame_delta_ms": 17.14489981532097
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1984.825296188556,
+        4261.819283330953,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998613,
+      "frame_delta_ms": 17.059098929166794
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2003.6678188654168,
+        4304.39820556909,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000081,
+      "frame_delta_ms": 16.753997653722763
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2022.5736704862547,
+        4347.120233814175,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000233,
+      "frame_delta_ms": 17.023999243974686
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2041.40487382511,
+        4389.673577459623,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000035,
+      "frame_delta_ms": 16.68040081858635
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2060.2807551178685,
+        4432.32788100082,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999823,
+      "frame_delta_ms": 16.6018009185791
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2079.1611909921153,
+        4474.992476644309,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999997976,
+      "frame_delta_ms": 16.503997147083282
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2098.036766254145,
+        4517.646088640171,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999867,
+      "frame_delta_ms": 16.71299710869789
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2116.9384140680318,
+        4560.358617436993,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999955,
+      "frame_delta_ms": 16.644597053527832
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2135.8184198108056,
+        4603.022241101594,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999925,
+      "frame_delta_ms": 16.787998378276825
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2154.6914231483656,
+        4645.67004125508,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999847,
+      "frame_delta_ms": 17.115600407123566
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2173.5662276350636,
+        4688.321911510558,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998647,
+      "frame_delta_ms": 16.726698726415634
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2192.3864738074476,
+        4730.850494971456,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002393,
+      "frame_delta_ms": 16.680900007486343
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2211.2653693973693,
+        4773.511609995739,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000546,
+      "frame_delta_ms": 16.76250249147415
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2230.157317936619,
+        4816.202221097797,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999976,
+      "frame_delta_ms": 16.676202416419983
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2249.0029224484556,
+        4858.78810743592,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999924,
+      "frame_delta_ms": 16.719497740268707
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2267.9382572808768,
+        4901.576759635484,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.999999999974,
+      "frame_delta_ms": 16.66950061917305
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2286.7751148012844,
+        4944.142880177157,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999997885,
+      "frame_delta_ms": 16.287900507450104
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2305.7745489308954,
+        4987.076379170203,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001415,
+      "frame_delta_ms": 16.36040210723877
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2324.636039603453,
+        5029.69816386512,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000062,
+      "frame_delta_ms": 16.905199736356735
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2343.471423955245,
+        5072.260955450624,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999869,
+      "frame_delta_ms": 16.57159999012947
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2362.366873908157,
+        5114.959478785169,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000119,
+      "frame_delta_ms": 16.84590056538582
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2381.2743232204616,
+        5157.685117373829,
+        660.1500067710876
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000112,
+      "frame_delta_ms": 16.424302011728287
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        9924.697065305705,
+        7409.261412055115,
+        964.4606730297207
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 116.89940130071211,
+      "frame_delta_ms": 16.85750111937523
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        9957.115998616926,
+        7421.418512337112,
+        965.8384708483599
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999908,
+      "frame_delta_ms": 16.206197440624237
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10000.798208630016,
+        7437.799341483181,
+        967.6949590440148
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999748,
+      "frame_delta_ms": 16.57620072364807
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10044.521368355428,
+        7454.195526771731,
+        969.5531959309812
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000367,
+      "frame_delta_ms": 16.926098614931107
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10088.170832662683,
+        7470.564076277806,
+        971.4083007245565
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000509,
+      "frame_delta_ms": 16.922898590564728
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10131.963573106352,
+        7486.986354336314,
+        973.2694905040885
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000003763,
+      "frame_delta_ms": 16.91809669137001
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10175.605093200666,
+        7503.3519247624645,
+        975.1242506481783
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999854,
+      "frame_delta_ms": 16.788996756076813
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10219.287722204095,
+        7519.7329110299015,
+        976.9807586962125
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002973,
+      "frame_delta_ms": 16.3332000374794
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10263.028605513497,
+        7536.1357426626055,
+        978.8397501210819
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999546,
+      "frame_delta_ms": 16.66630059480667
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10306.67230162286,
+        7552.502129094421,
+        980.6946110600725
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999727,
+      "frame_delta_ms": 16.683001071214676
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10350.413132192223,
+        7568.9049409496065,
+        982.5535996655107
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999997107,
+      "frame_delta_ms": 16.93199947476387
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10394.093742424056,
+        7585.285170177678,
+        984.4100281328786
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999996714,
+      "frame_delta_ms": 16.68490096926689
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10437.84131102207,
+        7601.69050879367,
+        986.2693022753389
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.000000000033,
+      "frame_delta_ms": 16.909100115299225
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10481.420302913699,
+        7618.032631143257,
+        988.1214119509474
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999744,
+      "frame_delta_ms": 16.606397926807404
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10525.253130672334,
+        7634.46994194525,
+        989.9843096582
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999966,
+      "frame_delta_ms": 16.977500170469284
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10568.856346846422,
+        7650.821148400964,
+        991.8374489093859
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000733,
+      "frame_delta_ms": 16.69979840517044
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10612.610575339693,
+        7667.228984477728,
+        993.6970062192277
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000088,
+      "frame_delta_ms": 16.510702669620514
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10656.288012379018,
+        7683.608023758588,
+        995.553299858649
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999961,
+      "frame_delta_ms": 16.71930029988289
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10699.971349466336,
+        7699.989275557494,
+        997.4098441847376
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999995794,
+      "frame_delta_ms": 16.666900366544724
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10743.751321936588,
+        7716.406765625867,
+        999.2704956431553
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000004775,
+      "frame_delta_ms": 16.933400183916092
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10787.45329969862,
+        7732.7950076779525,
+        1001.1278322050883
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000813,
+      "frame_delta_ms": 16.442403197288513
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10831.13199566228,
+        7749.174519055437,
+        1002.9841793521731
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000099,
+      "frame_delta_ms": 16.368702054023743
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10874.75138837913,
+        7765.5317917148395,
+        1004.8380061203891
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000511,
+      "frame_delta_ms": 16.262400895357132
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10918.502653663398,
+        7781.938516588201,
+        1006.6974375052706
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999997283,
+      "frame_delta_ms": 16.650401055812836
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        10962.100574346634,
+        7798.287737234808,
+        1008.5503516602303
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999433,
+      "frame_delta_ms": 16.576901078224182
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11005.99653291177,
+        7814.74872208979,
+        1010.4159324616537
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002746,
+      "frame_delta_ms": 16.757700592279434
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11049.543329937991,
+        7831.078771364552,
+        1012.2666748893477
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000066,
+      "frame_delta_ms": 16.469500958919525
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11093.289980468619,
+        7847.483765705257,
+        1014.1259113190166
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.000000000012,
+      "frame_delta_ms": 16.56080037355423
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11136.974025639829,
+        7863.865283035623,
+        1015.9824853062845
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998033,
+      "frame_delta_ms": 16.774702817201614
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11180.612661635198,
+        7880.229771924644,
+        1017.8371229106285
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999664,
+      "frame_delta_ms": 16.660302877426147
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11224.277593424658,
+        7896.604121736683,
+        1019.6928780321203
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000004883,
+      "frame_delta_ms": 16.55000075697899
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11267.946693630742,
+        7912.9800347049895,
+        1021.5488125450904
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999996896,
+      "frame_delta_ms": 16.57569780945778
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11311.630606951849,
+        7929.361502591572,
+        1023.4053800587578
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.999999999981,
+      "frame_delta_ms": 16.680996865034103
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11355.389554702175,
+        7945.771108389785,
+        1025.2651365886609
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000022,
+      "frame_delta_ms": 16.361501067876816
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11399.144411192608,
+        7962.179179965497,
+        1027.1247097637147
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000503,
+      "frame_delta_ms": 16.610298305749893
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11442.817444438459,
+        7978.55656782376,
+        1028.980804415773
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999997704,
+      "frame_delta_ms": 16.623198986053467
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11486.507518577759,
+        7994.940346017222,
+        1030.837623599312
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999995345,
+      "frame_delta_ms": 16.701597720384598
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11530.192533579737,
+        8011.322227034133,
+        1032.694228843293
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999997107,
+      "frame_delta_ms": 16.61980152130127
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11573.839951768708,
+        8027.690009245832,
+        1034.54923623872
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000003365,
+      "frame_delta_ms": 16.248799860477448
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11617.630621677406,
+        8044.111510853711,
+        1036.4103391072351
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999482,
+      "frame_delta_ms": 16.711696982383728
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11661.416336952194,
+        8060.531154473835,
+        1038.2712345862979
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000241,
+      "frame_delta_ms": 17.170902341604233
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11704.947875503036,
+        8076.855481820204,
+        1040.121327478595
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001967,
+      "frame_delta_ms": 16.69039949774742
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11748.613778099927,
+        8093.230195685039,
+        1041.9771251487814
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000309,
+      "frame_delta_ms": 16.443002969026566
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11792.342365166289,
+        8109.628416226494,
+        1043.835586928913
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999632,
+      "frame_delta_ms": 16.56069979071617
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11835.985091444885,
+        8125.994438971768,
+        1045.690403033866
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000005275,
+      "frame_delta_ms": 16.39680191874504
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11879.744458185542,
+        8142.404201891363,
+        1047.5501798045257
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000175,
+      "frame_delta_ms": 16.944702714681625
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11923.421187140975,
+        8158.782975640761,
+        1049.4064445445156
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000254,
+      "frame_delta_ms": 16.69669896364212
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        11967.166816077457,
+        8175.1875868836605,
+        1051.2656354565236
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999959,
+      "frame_delta_ms": 16.768798232078552
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12010.854085227878,
+        8191.570313206262,
+        1053.1223455529177
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999566,
+      "frame_delta_ms": 16.65560156106949
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12054.581990580373,
+        8207.968278104998,
+        1054.9668252878007
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999915,
+      "frame_delta_ms": 16.490299254655838
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12098.21737622651,
+        8224.331548113034,
+        1056.8213316989636
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999614,
+      "frame_delta_ms": 16.70829951763153
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12141.90060783374,
+        8240.71276035691,
+        1058.677871625839
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999542,
+      "frame_delta_ms": 16.729097813367844
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12185.56105671966,
+        8257.085429080085,
+        1060.5334440461502
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001137,
+      "frame_delta_ms": 16.617801040410995
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12229.247198795862,
+        8273.467732749836,
+        1062.3901088858804
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002075,
+      "frame_delta_ms": 16.663800925016403
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12272.892074719493,
+        8289.834561612004,
+        1064.2450198277581
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999929,
+      "frame_delta_ms": 16.686100512742996
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12316.677658144175,
+        8306.254155788343,
+        1066.1059094157845
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999996805,
+      "frame_delta_ms": 17.10909977555275
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12360.184762429064,
+        8322.569320284772,
+        1067.9549636204342
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000024,
+      "frame_delta_ms": 16.52349904179573
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12403.868963867064,
+        8338.950896215187,
+        1069.811544139384
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998454,
+      "frame_delta_ms": 16.586698591709137
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12447.584416709735,
+        8355.344191422619,
+        1071.6694520592132
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000218,
+      "frame_delta_ms": 16.849897801876068
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12491.202655982339,
+        8371.701031540431,
+        1073.523228359741
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002456,
+      "frame_delta_ms": 16.63009822368622
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12534.865019136434,
+        8388.074418114189,
+        1075.3788810398569
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999377,
+      "frame_delta_ms": 16.68360084295273
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12578.60731763696,
+        8404.477780443562,
+        1077.2379312793323
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999997925,
+      "frame_delta_ms": 16.596797853708267
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12622.303500831089,
+        8420.86384953262,
+        1079.0950217479576
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000271,
+      "frame_delta_ms": 16.483701765537262
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 0,
+      "position_cm": [
+        12665.959440443447,
+        8437.234827278175,
+        1080.950403149226
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999691,
+      "frame_delta_ms": 16.687002032995224
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        12709.199741026112,
+        8453.449940064645,
+        1082.7881195807001
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000017,
+      "frame_delta_ms": 16.718901693820953
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        12752.998197345876,
+        8469.874360304553,
+        1084.649559506672
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999996123,
+      "frame_delta_ms": 17.06179976463318
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        12796.728280185947,
+        8486.27314025292,
+        1086.5080953462746
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000003337,
+      "frame_delta_ms": 16.852598637342453
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        12840.318519889504,
+        8502.619478981693,
+        1088.3606877617567
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999386,
+      "frame_delta_ms": 16.53420180082321
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        12884.00872541621,
+        8519.00330488212,
+        1090.217533224853
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999814,
+      "frame_delta_ms": 16.693297773599625
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        12927.726381158853,
+        8535.397424610905,
+        1092.0755464785286
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000003183,
+      "frame_delta_ms": 16.86690002679825
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        12971.384392797168,
+        8551.769177801812,
+        1093.9310185547072
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001796,
+      "frame_delta_ms": 16.9203020632267
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13014.99974848467,
+        8568.124935012247,
+        1095.7846630996546
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998187,
+      "frame_delta_ms": 16.8239027261734
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13058.651808311575,
+        8584.494456273957,
+        1097.6398675695573
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999997397,
+      "frame_delta_ms": 16.584202647209167
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13102.330059429467,
+        8600.873799269079,
+        1099.4961853216168
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000025,
+      "frame_delta_ms": 16.699500381946564
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13145.952572136042,
+        8617.232240361458,
+        1101.3501342701727
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000003854,
+      "frame_delta_ms": 16.347602009773254
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13189.606650734568,
+        8633.602518662476,
+        1103.2054244446786
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999841,
+      "frame_delta_ms": 16.607001423835754
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13233.284508255472,
+        8649.981714058751,
+        1105.0617229550178
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000055,
+      "frame_delta_ms": 16.496099531650543
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13276.939032214354,
+        8666.352159369886,
+        1106.9170297986304
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999798,
+      "frame_delta_ms": 16.656897962093353
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13320.607504937743,
+        8682.727835467336,
+        1108.772928132648
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.999999999989,
+      "frame_delta_ms": 16.54670014977455
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13364.469879356458,
+        8699.176224695315,
+        1110.6370639303466
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000003376,
+      "frame_delta_ms": 16.68890193104744
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13408.101987820715,
+        8715.538264196577,
+        1112.4914136235673
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000459,
+      "frame_delta_ms": 16.2976011633873
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13451.764613236086,
+        8731.911747553682,
+        1114.34708440414
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000074,
+      "frame_delta_ms": 16.5196992456913
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13495.472777724604,
+        8748.302308061979,
+        1116.2046967716649
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000005303,
+      "frame_delta_ms": 16.583401709794998
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13539.157294164179,
+        8764.684000552565,
+        1118.0613037968253
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000454,
+      "frame_delta_ms": 16.307998448610306
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13582.93650827961,
+        8781.101204669054,
+        1119.921933095738
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999636,
+      "frame_delta_ms": 16.53290167450905
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13626.615152017817,
+        8797.480694896776,
+        1121.7782881777305
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998005,
+      "frame_delta_ms": 16.67499914765358
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13670.349062436957,
+        8813.880910128375,
+        1123.6369780843158
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999881,
+      "frame_delta_ms": 16.84660091996193
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13713.956447541415,
+        8830.233678370367,
+        1125.490281252658
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000004616,
+      "frame_delta_ms": 16.367599368095398
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13757.637556388261,
+        8846.614093013774,
+        1127.3467176477307
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000436,
+      "frame_delta_ms": 16.607899218797684
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13801.322256441319,
+        8862.995854359404,
+        1129.2033090817154
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000129,
+      "frame_delta_ms": 16.72469824552536
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13844.9925897162,
+        8879.37222816361,
+        1131.059290412512
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999997215,
+      "frame_delta_ms": 16.665399074554443
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13888.626507945246,
+        8895.734946326607,
+        1132.913724032032
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998755,
+      "frame_delta_ms": 16.079802066087723
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13932.29773291751,
+        8912.1116545173,
+        1134.7697430923565
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999807,
+      "frame_delta_ms": 16.599401831626892
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        13976.012949921678,
+        8928.504859718787,
+        1136.6276317449904
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999991,
+      "frame_delta_ms": 16.520000994205475
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14019.714690868386,
+        8944.89301139908,
+        1138.4849461719643
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999656,
+      "frame_delta_ms": 16.498800367116928
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14063.33662734117,
+        8961.25123640379,
+        1140.33886794483
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000003746,
+      "frame_delta_ms": 16.23779907822609
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14107.013226914409,
+        8977.629960069698,
+        1142.1951152327038
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000004,
+      "frame_delta_ms": 16.686301678419113
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14150.670110501851,
+        8994.001290241471,
+        1144.050545353334
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000303,
+      "frame_delta_ms": 16.308799386024475
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14194.40069146166,
+        9010.400256925908,
+        1145.9091075970978
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001694,
+      "frame_delta_ms": 16.953900456428528
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14238.011222411975,
+        9026.754204859999,
+        1147.7625687469563
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000559,
+      "frame_delta_ms": 16.095899045467377
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14281.683469955055,
+        9043.131296514732,
+        1149.6186546393726
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002296,
+      "frame_delta_ms": 16.609400510787964
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14325.343159508073,
+        9059.503678923533,
+        1151.474206901653
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999295,
+      "frame_delta_ms": 16.632501035928726
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14369.028803021893,
+        9075.885794066913,
+        1153.3308349563279
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000559,
+      "frame_delta_ms": 16.689997166395187
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14412.704930864753,
+        9092.264340833954,
+        1155.1870556739175
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000003797,
+      "frame_delta_ms": 16.712401062250137
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14456.356308977789,
+        9108.633606452964,
+        1157.0422252828967
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000106,
+      "frame_delta_ms": 16.727201640605927
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14500.018855283104,
+        9125.007060143782,
+        1158.8978729469811
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999817,
+      "frame_delta_ms": 16.388099640607834
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14543.807402432678,
+        9141.42776414782,
+        1160.7588757190788
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999996464,
+      "frame_delta_ms": 16.655299812555313
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14587.572326926664,
+        9157.839609656645,
+        1162.6188925496274
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000355,
+      "frame_delta_ms": 16.96549728512764
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14631.14243263459,
+        9174.178398125947,
+        1164.470637205963
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999822,
+      "frame_delta_ms": 16.482003033161163
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14674.839061703866,
+        9190.564632852356,
+        1166.3277591458093
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002916,
+      "frame_delta_ms": 16.68979972600937
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14718.530053448625,
+        9206.94875358222,
+        1168.184641718185
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000445,
+      "frame_delta_ms": 16.798097640275955
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14762.146091826677,
+        9223.304766801584,
+        1170.0383386595095
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999576,
+      "frame_delta_ms": 16.40300080180168
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14805.829297578537,
+        9239.685967784311,
+        1171.894879947369
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001234,
+      "frame_delta_ms": 16.802702099084854
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14849.47273147854,
+        9256.052254323653,
+        1173.7497154819464
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998477,
+      "frame_delta_ms": 16.35659858584404
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14893.271031629263,
+        9272.47661570285,
+        1175.6111327894937
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000003064,
+      "frame_delta_ms": 16.86670258641243
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14936.847244438753,
+        9288.817694335055,
+        1177.4631082230446
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999996334,
+      "frame_delta_ms": 16.772698611021042
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        14980.483731303195,
+        9305.181375736242,
+        1179.3176439702795
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999833,
+      "frame_delta_ms": 16.47399738430977
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        15024.209015795434,
+        9321.57835624547,
+        1181.1759596391803
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000393,
+      "frame_delta_ms": 16.819298267364502
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        15067.895394739831,
+        9337.96074717532,
+        1183.0326460314138
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000268,
+      "frame_delta_ms": 16.76280051469803
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        15111.558832742525,
+        9354.334535252638,
+        1184.888357474348
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002547,
+      "frame_delta_ms": 16.478698700666428
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        15155.335057278899,
+        9370.750618277045,
+        1186.7488610441844
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999835,
+      "frame_delta_ms": 17.16500148177147
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        15199.040600391982,
+        9387.140195769638,
+        1188.6063593085387
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000005724,
+      "frame_delta_ms": 17.00570061802864
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        15242.632072653692,
+        9403.48699669603,
+        1199.538478088626
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998744,
+      "frame_delta_ms": 16.80220291018486
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        15290.303965803967,
+        9421.363955345954,
+        1199.8262927363714
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999809,
+      "frame_delta_ms": 8.333500474691391
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        15330.11609445162,
+        9436.29350251865,
+        1199.8262927363714
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999993787,
+      "frame_delta_ms": 16.73020049929619
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        15373.74046868635,
+        9452.652641684044,
+        1200.0767986605963
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002075,
+      "frame_delta_ms": 16.66959747672081
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        15417.410881071293,
+        9469.029045154524,
+        1200.0767986605963
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999788,
+      "frame_delta_ms": 16.680598258972168
+    },
+    {
+      "route": "City river bridge approach span and exit",
+      "waypoint": 1,
+      "position_cm": [
+        15461.186817490763,
+        9485.445020135126,
+        1200.0767986605963
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000005247,
+      "frame_delta_ms": 16.651500016450882
+    }
+  ],
+  "frame_pacing": {
+    "source": "GameplayStatics.get_world_delta_seconds; one sample per unique engine frame after warmup",
+    "samples": 3751,
+    "mean_ms": 16.72474921278018,
+    "median_ms": 16.661599278450012,
+    "p95_ms": 16.988001763820648,
+    "max_ms": 182.0392906665802,
+    "scope": "PIE world delta including editor overhead; not GPU/CPU profiler timings"
+  },
+  "memory": {
+    "editor_process_working_set_bytes": 8193273856,
+    "editor_process_private_bytes": 21910126592,
+    "scope": "Entire editor process with PIE, not standalone game or GPU memory"
+  },
+  "wall_seconds": 87.0747220000012
+}

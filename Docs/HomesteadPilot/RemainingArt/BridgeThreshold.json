@@ -1,0 +1,101 @@
+{
+  "name": "BridgeThreshold",
+  "source_blend": "SourceAssets/Blender/BridgeThreshold/BridgeThreshold.blend",
+  "source_sha256": "31af08a11473eb540927e296ae50f862fde116fd346e4afcbc8b0f851f26c4b8",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/BridgeThreshold/BridgeThreshold.blend",
+  "blend_sha256": "b59097b7c76a8cdcb135415e0da27b0d3a232f1ee3bf0d542a49534c544d817f",
+  "parts_retained": 14,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/BridgeThreshold/SM_HP_BridgeThreshold_LOD0.fbx",
+      "triangles": 1512,
+      "vertices": 784,
+      "bounds_m": {
+        "min": [
+          -1.1699999570846558,
+          -0.48500001430511475,
+          -0.2800000011920929
+        ],
+        "max": [
+          1.1699999570846558,
+          0.4300000071525574,
+          0.07099999487400055
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "201af8618cf8f8ed89c8ba9d69c208ceaa9b8b5599269394fe7d9fd2a6717eb8",
+      "material_slots": [
+        "M_BridgeThreshold.002"
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/BridgeThreshold/SM_HP_BridgeThreshold_LOD1.fbx",
+      "triangles": 616,
+      "vertices": 336,
+      "bounds_m": {
+        "min": [
+          -1.1699999570846558,
+          -0.48500001430511475,
+          -0.2800000011920929
+        ],
+        "max": [
+          1.1699999570846558,
+          0.4300000071525574,
+          0.07099999487400055
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "d793a37ac087966e0d1fe29fab700a75d1081a2b0e0b067778f88a8447159d4c",
+      "material_slots": [
+        "M_BridgeThreshold.002"
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/BridgeThreshold/SM_HP_BridgeThreshold_LOD2.fbx",
+      "triangles": 168,
+      "vertices": 112,
+      "bounds_m": {
+        "min": [
+          -1.1699999570846558,
+          -0.48500001430511475,
+          -0.2800000011920929
+        ],
+        "max": [
+          1.1699999570846558,
+          0.4300000071525574,
+          0.07099999487400055
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "dfd25df193fa7fed48688488f554e9eca5377183d627a6595bbfc7a017a30ab1",
+      "material_slots": [
+        "M_BridgeThreshold.002"
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -1.1699999570846558,
+      -0.48500001430511475,
+      -0.2800000011920929
+    ],
+    "max": [
+      1.1699999570846558,
+      0.4300000071525574,
+      0.07099999487400055
+    ]
+  },
+  "materials": [
+    "M_BridgeThreshold.002"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/BridgeThreshold/SM_Blender_BridgeThreshold",
+  "collision": "complex_as_simple",
+  "screen_sizes": [
+    1.0,
+    0.16,
+    0.045
+  ]
+}

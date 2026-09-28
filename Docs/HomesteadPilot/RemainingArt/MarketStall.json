@@ -1,0 +1,101 @@
+{
+  "name": "MarketStall",
+  "source_blend": "SourceAssets/Blender/MarketStall/MarketStall.blend",
+  "source_sha256": "3e59128ae9f33822d028799d3b5f2c2482fe63e4024cb9827b2a7490f986df71",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MarketStall/MarketStall.blend",
+  "blend_sha256": "bffcde354a7e308ae051f4d21ddd5259db8855db4192667f52e8ba980eed5e25",
+  "parts_retained": 634,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MarketStall/SM_HP_MarketStall_LOD0.fbx",
+      "triangles": 68472,
+      "vertices": 35504,
+      "bounds_m": {
+        "min": [
+          -2.0399999618530273,
+          -1.375,
+          -0.0042999908328056335
+        ],
+        "max": [
+          2.2799999713897705,
+          1.065000057220459,
+          2.605799913406372
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "13b419a0faee7969e4c78be2ec362b310b0b67c5f36c82364be264260e360d29",
+      "material_slots": [
+        "M_MarketStall.002"
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MarketStall/SM_HP_MarketStall_LOD1.fbx",
+      "triangles": 27896,
+      "vertices": 15216,
+      "bounds_m": {
+        "min": [
+          -2.0399999618530273,
+          -1.375,
+          -0.0042999908328056335
+        ],
+        "max": [
+          2.2799999713897705,
+          1.065000057220459,
+          2.605799913406372
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "1f01cbcf9429451cf85d6b059469bbc155596c7b39925911aeefed9398bea0fd",
+      "material_slots": [
+        "M_MarketStall.002"
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MarketStall/SM_HP_MarketStall_LOD2.fbx",
+      "triangles": 7608,
+      "vertices": 5072,
+      "bounds_m": {
+        "min": [
+          -2.0399999618530273,
+          -1.375,
+          -0.0042999908328056335
+        ],
+        "max": [
+          2.2799999713897705,
+          1.065000057220459,
+          2.605799913406372
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "c2f8b198d1c9d5ff3d9264371eb07eb18be6d6a1e75027be9b6527a7a441eb63",
+      "material_slots": [
+        "M_MarketStall.002"
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -2.0399999618530273,
+      -1.375,
+      -0.0042999908328056335
+    ],
+    "max": [
+      2.2799999713897705,
+      1.065000057220459,
+      2.605799913406372
+    ]
+  },
+  "materials": [
+    "M_MarketStall.002"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/MarketStall/SM_Blender_MarketStall",
+  "collision": "complex_as_simple",
+  "screen_sizes": [
+    1.0,
+    0.22,
+    0.075
+  ]
+}

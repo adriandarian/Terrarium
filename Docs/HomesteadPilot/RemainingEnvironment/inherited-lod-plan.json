@@ -1,0 +1,215 @@
+{
+  "meshes": [
+    {
+      "mesh": "/Game/Terrarium/Environment/Meshes/SM_Env_FlowerBorder.SM_Env_FlowerBorder",
+      "triangles": [
+        2376
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 2376,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 1
+    },
+    {
+      "mesh": "/Game/Terrarium/Blender/TrailPatch/SM_Blender_TrailPatch.SM_Blender_TrailPatch",
+      "triangles": [
+        5554
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 5554,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 88
+    },
+    {
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowGrass_v2_Detail.SM_MeadowGrass_v2_Detail",
+      "triangles": [
+        1532
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 1532,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 569
+    },
+    {
+      "mesh": "/Game/Terrarium/Meshes/SM_GroundPlants_v2_Detail.SM_GroundPlants_v2_Detail",
+      "triangles": [
+        3092
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 3092,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 498
+    },
+    {
+      "mesh": "/Game/Terrarium/Meshes/SM_RockCluster_Detail.SM_RockCluster_Detail",
+      "triangles": [
+        496
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 496,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 61
+    },
+    {
+      "mesh": "/Game/Terrarium/Meshes/SM_MeadowFlowers_v2_Detail.SM_MeadowFlowers_v2_Detail",
+      "triangles": [
+        1708
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 1708,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 136
+    },
+    {
+      "mesh": "/Game/Terrarium/Meshes/SM_ShoreOutcrop_Detail.SM_ShoreOutcrop_Detail",
+      "triangles": [
+        1646
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 1646,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 32
+    },
+    {
+      "mesh": "/Game/Terrarium/Meshes/SM_ShoreOutcrop_v2_Detail.SM_ShoreOutcrop_v2_Detail",
+      "triangles": [
+        1118
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 1118,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 8
+    },
+    {
+      "mesh": "/Game/Terrarium/Meshes/SM_RiverStones_v2_Detail.SM_RiverStones_v2_Detail",
+      "triangles": [
+        398
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 398,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 41
+    },
+    {
+      "mesh": "/Game/Terrarium/Blender/Riverbank/SM_Blender_Riverbank.SM_Blender_Riverbank",
+      "triangles": [
+        59508
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 59508,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 35
+    },
+    {
+      "mesh": "/Game/Terrarium/Blender/MossFringe/SM_Blender_MossFringe.SM_Blender_MossFringe",
+      "triangles": [
+        92016
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 92016,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 209
+    },
+    {
+      "mesh": "/Game/Terrarium/Meshes/SM_Bush_v2_Detail.SM_Bush_v2_Detail",
+      "triangles": [
+        2832
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 2832,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 67
+    },
+    {
+      "mesh": "/Game/Terrarium/Blender/MossRock/SM_Blender_MossRock.SM_Blender_MossRock",
+      "triangles": [
+        78300
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 78300,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 7
+    },
+    {
+      "mesh": "/Game/Terrarium/Blender/AncientTree/SM_Blender_AncientTree.SM_Blender_AncientTree",
+      "triangles": [
+        250668
+      ],
+      "screen_sizes": [
+        2.0
+      ],
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+      "collision_lod": 0,
+      "collision_lod_triangles": 250668,
+      "simple_collision_primitives": 0,
+      "nanite": false,
+      "expected_instances": 1
+    }
+  ],
+  "policy": "Preserve duplicated LOD0/materials/collision; generate conservative LODs on >=512 triangle meshes; smaller stones stay single LOD"
+}

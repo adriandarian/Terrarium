@@ -1,0 +1,142 @@
+{
+  "geometry": [
+    {
+      "name": "RiverMillFoundation",
+      "material": "stone",
+      "source": "SourceAssets/WorldExpansion/V6/RiverMillFoundation.json",
+      "sha256": "086406e5add6c3589340ff9f33dbbc583e48b1caf5724d8c06999613da894223",
+      "triangles": 60
+    },
+    {
+      "name": "RiverMillWheel",
+      "material": "wood",
+      "source": "SourceAssets/WorldExpansion/V6/RiverMillWheel.json",
+      "sha256": "da53cfb6ecf5b790528d06a4b3e74180733133fd443277ff94455299f95301fc",
+      "triangles": 364
+    },
+    {
+      "name": "MillLanding",
+      "material": "wood",
+      "source": "SourceAssets/WorldExpansion/V6/MillLanding.json",
+      "sha256": "5da538bba6907b3c7939d90c742a216d59e1aefdeb1ea150def72cf4d0932ba9",
+      "triangles": 168
+    },
+    {
+      "name": "OldAqueduct",
+      "material": "stone",
+      "source": "SourceAssets/WorldExpansion/V6/OldAqueduct.json",
+      "sha256": "11b202afacc237e34b3fd320c6a45251d4a4f314efa30b1a97607fda513bef58",
+      "triangles": 908
+    }
+  ],
+  "placements": [
+    {
+      "name": "RiverMill",
+      "asset": "Lodge",
+      "location": [
+        65,
+        -280,
+        7.1
+      ],
+      "yaw": 90,
+      "scale": [
+        1.28,
+        1.28,
+        1.1
+      ]
+    },
+    {
+      "name": "MillStore",
+      "asset": "BlueShed",
+      "location": [
+        68,
+        -284,
+        7.1
+      ],
+      "yaw": 0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "MillSign",
+      "asset": "Sign",
+      "location": [
+        70,
+        -272,
+        6.8
+      ],
+      "yaw": 90,
+      "scale": [
+        0.85,
+        0.85,
+        0.85
+      ]
+    }
+  ],
+  "paths": [
+    {
+      "name": "MillTrack",
+      "points": [
+        [
+          69,
+          -272
+        ],
+        [
+          105,
+          -266
+        ],
+        [
+          155,
+          -273
+        ],
+        [
+          195,
+          -272
+        ],
+        [
+          218,
+          -263
+        ],
+        [
+          236,
+          -260
+        ],
+        [
+          246,
+          -261
+        ]
+      ],
+      "width": 2.7,
+      "mesh_name": "MillTrackR2"
+    },
+    {
+      "name": "AqueductTrail",
+      "points": [
+        [
+          -225,
+          390
+        ],
+        [
+          -211,
+          412
+        ],
+        [
+          -214,
+          443
+        ],
+        [
+          -195,
+          469
+        ],
+        [
+          -195,
+          490
+        ]
+      ],
+      "width": 2.4
+    }
+  ]
+}

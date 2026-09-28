@@ -1,0 +1,1004 @@
+{
+  "scene": "Terrarium_DetailCalibration",
+  "dimension_status": "provisional; same family envelopes exactly fixed",
+  "units": "metres in Blender; FBX UnitScaleFactor=100 centimetres per source unit",
+  "import_scale": 1,
+  "palette": [
+    {
+      "slot": 0,
+      "name": "M_DC_Stone",
+      "linear_rgba": [
+        0.17464740574359894,
+        0.18116424977779388,
+        0.10224173218011856,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 1,
+      "name": "M_DC_StoneLight",
+      "linear_rgba": [
+        0.28744083642959595,
+        0.28314873576164246,
+        0.18782077729701996,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 2,
+      "name": "M_DC_StoneDark",
+      "linear_rgba": [
+        0.10702310502529144,
+        0.11697066575288773,
+        0.0666259378194809,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 3,
+      "name": "M_DC_Grass",
+      "linear_rgba": [
+        0.1384316086769104,
+        0.18116424977779388,
+        0.026241222396492958,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 4,
+      "name": "M_DC_GrassLight",
+      "linear_rgba": [
+        0.23074005544185638,
+        0.28744083642959595,
+        0.04817182570695877,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 5,
+      "name": "M_DC_Leaf",
+      "linear_rgba": [
+        0.15592646598815918,
+        0.18447498977184296,
+        0.012286487966775894,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 6,
+      "name": "M_DC_LeafLight",
+      "linear_rgba": [
+        0.25015828013420105,
+        0.2788942754268646,
+        0.023153366521000862,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 7,
+      "name": "M_DC_LeafDark",
+      "linear_rgba": [
+        0.0666259378194809,
+        0.09989872574806213,
+        0.009134058840572834,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 8,
+      "name": "M_DC_Wood",
+      "linear_rgba": [
+        0.19120168685913086,
+        0.08437620848417282,
+        0.019382361322641373,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 9,
+      "name": "M_DC_WoodLight",
+      "linear_rgba": [
+        0.31398871541023254,
+        0.14995978772640228,
+        0.03310476616024971,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 10,
+      "name": "M_DC_Roof",
+      "linear_rgba": [
+        0.48514994978904724,
+        0.12213877588510513,
+        0.02955683507025242,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 11,
+      "name": "M_DC_RoofLight",
+      "linear_rgba": [
+        0.6172065734863281,
+        0.18782077729701996,
+        0.04666508734226227,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 12,
+      "name": "M_DC_Plaster",
+      "linear_rgba": [
+        0.7835378050804138,
+        0.672443151473999,
+        0.42869049310684204,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 13,
+      "name": "M_DC_Teal",
+      "linear_rgba": [
+        0.020288562402129173,
+        0.19806931912899017,
+        0.16202937066555023,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 14,
+      "name": "M_DC_Iron",
+      "linear_rgba": [
+        0.06480326503515244,
+        0.07421357184648514,
+        0.05951123684644699,
+        1.0
+      ],
+      "roughness": 0.88
+    },
+    {
+      "slot": 15,
+      "name": "M_DC_Person",
+      "linear_rgba": [
+        0.7230551242828369,
+        0.38642942905426025,
+        0.05612849071621895,
+        1.0
+      ],
+      "roughness": 0.88
+    }
+  ],
+  "specimens": [
+    {
+      "name": "DC_Cliff_Coarse",
+      "family": "Cliff",
+      "variant": "Coarse",
+      "row": 0,
+      "column": 0,
+      "placement_m": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        3,
+        1.5,
+        2.4
+      ],
+      "bounds_m": {
+        "min": [
+          -1.5,
+          -0.75,
+          0
+        ],
+        "max": [
+          1.5,
+          0.75,
+          2.4
+        ]
+      },
+      "parts": 3,
+      "triangles": 1928,
+      "vertices": 1160,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Cliff_Coarse.fbx"
+    },
+    {
+      "name": "DC_Cliff_Half",
+      "family": "Cliff",
+      "variant": "Half",
+      "row": 0,
+      "column": 1,
+      "placement_m": [
+        5.5,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        3,
+        1.5,
+        2.4
+      ],
+      "bounds_m": {
+        "min": [
+          -1.5,
+          -0.75,
+          0
+        ],
+        "max": [
+          1.5,
+          0.75,
+          2.4
+        ]
+      },
+      "parts": 3,
+      "triangles": 7172,
+      "vertices": 4328,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Cliff_Half.fbx"
+    },
+    {
+      "name": "DC_Cliff_Third",
+      "family": "Cliff",
+      "variant": "Third",
+      "row": 0,
+      "column": 2,
+      "placement_m": [
+        11.0,
+        0.0,
+        0.0
+      ],
+      "dimensions_m": [
+        3,
+        1.5,
+        2.4
+      ],
+      "bounds_m": {
+        "min": [
+          -1.5,
+          -0.75,
+          0
+        ],
+        "max": [
+          1.5,
+          0.75,
+          2.4
+        ]
+      },
+      "parts": 3,
+      "triangles": 15884,
+      "vertices": 9592,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Cliff_Third.fbx"
+    },
+    {
+      "name": "DC_Cottage_Coarse",
+      "family": "Cottage",
+      "variant": "Coarse",
+      "row": 1,
+      "column": 0,
+      "placement_m": [
+        0.0,
+        6.0,
+        0.0
+      ],
+      "dimensions_m": [
+        2.4,
+        1.65,
+        3.4
+      ],
+      "bounds_m": {
+        "min": [
+          -1.2,
+          -0.825,
+          0
+        ],
+        "max": [
+          1.2,
+          0.825,
+          3.4
+        ]
+      },
+      "parts": 10,
+      "triangles": 1224,
+      "vertices": 816,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Cottage_Coarse.fbx"
+    },
+    {
+      "name": "DC_Cottage_Half",
+      "family": "Cottage",
+      "variant": "Half",
+      "row": 1,
+      "column": 1,
+      "placement_m": [
+        5.5,
+        6.0,
+        0.0
+      ],
+      "dimensions_m": [
+        2.4,
+        1.65,
+        3.4
+      ],
+      "bounds_m": {
+        "min": [
+          -1.2,
+          -0.825,
+          0
+        ],
+        "max": [
+          1.2,
+          0.825,
+          3.4
+        ]
+      },
+      "parts": 10,
+      "triangles": 4104,
+      "vertices": 2736,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Cottage_Half.fbx"
+    },
+    {
+      "name": "DC_Cottage_Third",
+      "family": "Cottage",
+      "variant": "Third",
+      "row": 1,
+      "column": 2,
+      "placement_m": [
+        11.0,
+        6.0,
+        0.0
+      ],
+      "dimensions_m": [
+        2.4,
+        1.65,
+        3.4
+      ],
+      "bounds_m": {
+        "min": [
+          -1.2,
+          -0.825,
+          0
+        ],
+        "max": [
+          1.2,
+          0.825,
+          3.4
+        ]
+      },
+      "parts": 10,
+      "triangles": 8784,
+      "vertices": 5856,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Cottage_Third.fbx"
+    },
+    {
+      "name": "DC_Tree_Coarse",
+      "family": "Tree",
+      "variant": "Coarse",
+      "row": 2,
+      "column": 0,
+      "placement_m": [
+        0.0,
+        12.0,
+        0.0
+      ],
+      "dimensions_m": [
+        3.3,
+        2.2,
+        3.5
+      ],
+      "bounds_m": {
+        "min": [
+          -1.65,
+          -1.1,
+          0
+        ],
+        "max": [
+          1.65,
+          1.1,
+          3.5
+        ]
+      },
+      "parts": 2,
+      "triangles": 3360,
+      "vertices": 1758,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Tree_Coarse.fbx"
+    },
+    {
+      "name": "DC_Tree_Half",
+      "family": "Tree",
+      "variant": "Half",
+      "row": 2,
+      "column": 1,
+      "placement_m": [
+        5.5,
+        12.0,
+        0.0
+      ],
+      "dimensions_m": [
+        3.3,
+        2.2,
+        3.5
+      ],
+      "bounds_m": {
+        "min": [
+          -1.65,
+          -1.1,
+          0
+        ],
+        "max": [
+          1.65,
+          1.1,
+          3.5
+        ]
+      },
+      "parts": 2,
+      "triangles": 5508,
+      "vertices": 2720,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Tree_Half.fbx"
+    },
+    {
+      "name": "DC_Tree_Third",
+      "family": "Tree",
+      "variant": "Third",
+      "row": 2,
+      "column": 2,
+      "placement_m": [
+        11.0,
+        12.0,
+        0.0
+      ],
+      "dimensions_m": [
+        3.3,
+        2.2,
+        3.5
+      ],
+      "bounds_m": {
+        "min": [
+          -1.65,
+          -1.1,
+          0
+        ],
+        "max": [
+          1.65,
+          1.1,
+          3.5
+        ]
+      },
+      "parts": 2,
+      "triangles": 9148,
+      "vertices": 4516,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Tree_Third.fbx"
+    },
+    {
+      "name": "DC_Fence_Coarse",
+      "family": "Fence",
+      "variant": "Coarse",
+      "row": 3,
+      "column": 0,
+      "placement_m": [
+        0.0,
+        18.0,
+        0.0
+      ],
+      "dimensions_m": [
+        2.8,
+        0.22,
+        1.24
+      ],
+      "bounds_m": {
+        "min": [
+          -1.4,
+          -0.11,
+          0
+        ],
+        "max": [
+          1.4,
+          0.11,
+          1.24
+        ]
+      },
+      "parts": 3,
+      "triangles": 120,
+      "vertices": 80,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Fence_Coarse.fbx"
+    },
+    {
+      "name": "DC_Fence_Half",
+      "family": "Fence",
+      "variant": "Half",
+      "row": 3,
+      "column": 1,
+      "placement_m": [
+        5.5,
+        18.0,
+        0.0
+      ],
+      "dimensions_m": [
+        2.8,
+        0.22,
+        1.24
+      ],
+      "bounds_m": {
+        "min": [
+          -1.4,
+          -0.11,
+          0
+        ],
+        "max": [
+          1.4,
+          0.11,
+          1.24
+        ]
+      },
+      "parts": 4,
+      "triangles": 192,
+      "vertices": 128,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Fence_Half.fbx"
+    },
+    {
+      "name": "DC_Fence_Third",
+      "family": "Fence",
+      "variant": "Third",
+      "row": 3,
+      "column": 2,
+      "placement_m": [
+        11.0,
+        18.0,
+        0.0
+      ],
+      "dimensions_m": [
+        2.8,
+        0.22,
+        1.24
+      ],
+      "bounds_m": {
+        "min": [
+          -1.4,
+          -0.11,
+          0
+        ],
+        "max": [
+          1.4,
+          0.11,
+          1.24
+        ]
+      },
+      "parts": 4,
+      "triangles": 192,
+      "vertices": 128,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Fence_Third.fbx"
+    },
+    {
+      "name": "DC_Bridge_Coarse",
+      "family": "Bridge",
+      "variant": "Coarse",
+      "row": 4,
+      "column": 0,
+      "placement_m": [
+        0.0,
+        24.0,
+        0.0
+      ],
+      "dimensions_m": [
+        1.42,
+        2.1,
+        1.29
+      ],
+      "bounds_m": {
+        "min": [
+          -0.71,
+          -1.05,
+          0
+        ],
+        "max": [
+          0.71,
+          1.05,
+          1.29
+        ]
+      },
+      "parts": 7,
+      "triangles": 516,
+      "vertices": 344,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Bridge_Coarse.fbx"
+    },
+    {
+      "name": "DC_Bridge_Half",
+      "family": "Bridge",
+      "variant": "Half",
+      "row": 4,
+      "column": 1,
+      "placement_m": [
+        5.5,
+        24.0,
+        0.0
+      ],
+      "dimensions_m": [
+        1.42,
+        2.1,
+        1.29
+      ],
+      "bounds_m": {
+        "min": [
+          -0.71,
+          -1.05,
+          0
+        ],
+        "max": [
+          0.71,
+          1.05,
+          1.29
+        ]
+      },
+      "parts": 7,
+      "triangles": 768,
+      "vertices": 512,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Bridge_Half.fbx"
+    },
+    {
+      "name": "DC_Bridge_Third",
+      "family": "Bridge",
+      "variant": "Third",
+      "row": 4,
+      "column": 2,
+      "placement_m": [
+        11.0,
+        24.0,
+        0.0
+      ],
+      "dimensions_m": [
+        1.42,
+        2.1,
+        1.29
+      ],
+      "bounds_m": {
+        "min": [
+          -0.71,
+          -1.05,
+          0
+        ],
+        "max": [
+          0.71,
+          1.05,
+          1.29
+        ]
+      },
+      "parts": 7,
+      "triangles": 1020,
+      "vertices": 680,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Bridge_Third.fbx"
+    },
+    {
+      "name": "DC_Person",
+      "family": "Person",
+      "variant": "Shared",
+      "row": 0,
+      "column": 3,
+      "placement_m": [
+        15,
+        0,
+        0
+      ],
+      "dimensions_m": [
+        0.75,
+        0.31,
+        1.8
+      ],
+      "bounds_m": {
+        "min": [
+          -0.375,
+          -0.155,
+          0
+        ],
+        "max": [
+          0.375,
+          0.155,
+          1.8
+        ]
+      },
+      "parts": 6,
+      "triangles": 108,
+      "vertices": 72,
+      "material_slots": [
+        "M_DC_Stone",
+        "M_DC_StoneLight",
+        "M_DC_StoneDark",
+        "M_DC_Grass",
+        "M_DC_GrassLight",
+        "M_DC_Leaf",
+        "M_DC_LeafLight",
+        "M_DC_LeafDark",
+        "M_DC_Wood",
+        "M_DC_WoodLight",
+        "M_DC_Roof",
+        "M_DC_RoofLight",
+        "M_DC_Plaster",
+        "M_DC_Teal",
+        "M_DC_Iron",
+        "M_DC_Person"
+      ],
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\DetailCalibration\\SM_DC_Person.fbx"
+    }
+  ],
+  "scope_note": "Source-informed coarse construction sections, not byte-identical copies of canonical models. Tree crown positions read from existing recipe. No texture detail has been added.",
+  "tree_envelope_note": "Provisional 3.3 x 2.2 x 3.5 m, broadened for approximately 70 px projected rectangular width at yaw135 and5.5cm/px; exact foliage projection and visual approval remain separate."
+}

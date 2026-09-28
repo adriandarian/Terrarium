@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Terrarium — Scale and detail review</title>
+<style>
+:root{color-scheme:dark;font:16px/1.6 system-ui;background:#171c19;color:#eeeade}body{max-width:1250px;margin:auto;padding:32px}h1{font-size:36px;line-height:1.15;font-weight:600;margin:10px 0}h2{font-size:23px;font-weight:550;margin-top:42px}p{max-width:850px;color:#c5cbbb}.eyebrow{color:#cdb578;text-transform:uppercase;letter-spacing:.13em;font-size:12px}.pair{display:grid;grid-template-columns:1fr 1fr;gap:22px}.frame{position:relative;aspect-ratio:481/809;overflow:hidden;background:#0c110d;border-radius:9px}.frame img{position:absolute;width:100%;height:100%;object-fit:cover}.frame .overlay{opacity:.5}figure{margin:0}figcaption{padding:8px 0;color:#c5cbbb;font-size:14px}.toolbar{display:flex;align-items:center;gap:14px;flex-wrap:wrap;margin:16px 0}input{accent-color:#cdb578;width:220px}button{font:inherit;color:#eeeade;background:#2d3930;border:1px solid #54654d;border-radius:6px;padding:6px 12px;cursor:pointer}.wide{width:100%;border-radius:9px;background:#0c110d}.note{border-left:3px solid #cdb578;padding:10px 18px;background:#222a22}.checks{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.checks article{background:#232c24;padding:18px;border-radius:9px}.checks p{margin-bottom:0}a{color:#d0c38f}@media(max-width:700px){body{padding:18px}.pair,.checks{grid-template-columns:1fr}h1{font-size:29px}}
+</style>
+<div class="eyebrow">Terrarium / an explorable world begins at home</div>
+<h1>One starting home.<br>A world of cities to come.</h1>
+<p>The homestead establishes the theme for an open-world video game. A full city will be one of many explorable settlements. Our immediate milestone is a detailed, coherent starting home that provides the art foundation for that larger world.</p>
+<h2>The shared theme, from home to city</h2>
+<p>Terraced stone, winding rivers, warm plaster and timber, terracotta roofs, teal accents and dense vegetation carry through every scale. Expansion adds streets, districts and landmarks while keeping the world built around its inhabitants.</p>
+<div class="pair">
+<figure><a href="References/settlement-growth-stage-1-homestead.png"><img class="wide" src="References/settlement-growth-stage-1-homestead.png" alt="Starting homestead concept with cottage, garden and river crossing"></a><figcaption>1 · Homestead — establish the theme and nearby detail.</figcaption></figure>
+<figure><a href="References/settlement-growth-stage-2-village.png"><img class="wide" src="References/settlement-growth-stage-2-village.png" alt="Village concept with paths, homes and shared public space"></a><figcaption>2 · Village — connect homes and shared spaces.</figcaption></figure>
+<figure><a href="References/settlement-growth-stage-3-town.png"><img class="wide" src="References/settlement-growth-stage-3-town.png" alt="Town concept with neighborhoods and civic landmarks"></a><figcaption>3 · Town — develop neighborhoods and landmarks.</figcaption></figure>
+<figure><a href="References/settlement-growth-stage-4-city.png"><img class="wide" src="References/settlement-growth-stage-4-city.png" alt="Large city concept with districts, major bridges and waterways"></a><figcaption>4 · City — one full explorable city within a much larger world.</figcaption></figure>
+</div>
+<p class="note">These references establish theme and scope. They do not yet specify an in-game settlement-growth system. The calibration studies below are early experiments, not finished art or a limit on model detail.</p>
+<h2>1. Scale and composition</h2>
+<p>Use the overlay as one comparison of the house, person, terraces and crossing. World dimensions remain working conventions. Playable scale must also be checked by moving through doors, paths, stairs and bridges; this fixed crop does not define the final gameplay camera.</p>
+<div class="toolbar"><label for="blend">Blockout opacity</label><input id="blend" type="range" min="0" max="100" value="50"><output id="value">50%</output><button onclick="setBlend(0)">Reference</button><button onclick="setBlend(100)">Blockout</button></div>
+<div class="pair">
+<figure><div class="frame"><img src="reference.png" alt="Original homestead concept"></div><figcaption>Original concept. The bottom-left inset is a reference legend, not a second building in the world.</figcaption></figure>
+<figure><div class="frame"><img src="reference.png" alt="Reference behind blockout"><img id="overlay" class="overlay" src="../ScaleCalibration/Unreal/unreal-viewport.png" alt="Measured scale blockout"></div><figcaption>Fixed-camera blockout over the reference. Colors separate forms; materials and lighting are not being matched here.</figcaption></figure>
+</div>
+<h2>2. Construction detail at fixed dimensions</h2>
+<p>These experiments isolate geometric feature size. Smaller voxels can support finer shapes while textures supply additional surface detail. Each model, and different parts within it, can use the feature sizes its appearance needs. Half-size and third-size are examples, not a fixed menu, final LODs or a ceiling on detail.</p>
+<div class="toolbar" role="group" aria-label="Specimen family"><button onclick="family('Cottage')">Roof and wall</button><button onclick="family('Cliff')">Cliff</button><button onclick="family('Tree')">Tree</button><button onclick="family('Fence')">Fence</button><button onclick="family('Bridge')">Bridge</button></div>
+<div class="checks">
+<figure><img id="coarse" class="wide" src="../DetailCalibration/DC_Cottage_Coarse.png" alt="Coarse cottage section"><figcaption>Coarse control</figcaption></figure>
+<figure><img id="half" class="wide" src="../DetailCalibration/DC_Cottage_Half.png" alt="Half-size cottage construction"><figcaption>Half-size construction features</figcaption></figure>
+<figure><img id="third" class="wide" src="../DetailCalibration/DC_Cottage_Third.png" alt="Third-size cottage construction"><figcaption>Third-size construction features</figcaption></figure>
+</div>
+<p>Matching Blender studio views; colors are held constant to isolate construction changes. The cottage specimen is a roof-and-wall section, not a complete house.</p>
+<details><summary>See the imported specimens together in Unreal</summary><figure><img class="wide" src="DetailUnreal/unreal-viewport.png" alt="Three construction detail options in Unreal"><figcaption>Left to right: coarse control, half-size, third-size. These are exploratory settings, not approved replacements.</figcaption></figure></details>
+<h2>What the next milestone must demonstrate</h2>
+<div class="checks"><article><strong>Explorable scale</strong><p>Establish the theme in a playable starting home. Check human-scale buildings, paths and crossings from several exploration views, with dimensions that can carry into larger settlements.</p></article><article><strong>Model-specific detail</strong><p>Use finer voxels where the shape needs them, with richer authored or baked textures. Tune geometry, surface detail and raster presentation separately. Different models and materials can use different block sizes.</p></article><article><strong>Working distance detail</strong><p>Build detailed nearby assets and implement LOD for more distant views. Test transitions and texture stability in motion, then measure performance. The existing calibration studies have not implemented or validated this system.</p></article></div>
+<p class="note">Next: finish a cohesive cottage, terrain, tree, fence and crossing group with textures and a working distance-detail pilot. Use that result to complete the homestead before expanding into neighborhoods, districts and multiple cities.</p>
+<p><a href="../SceneAssembly/ScaleAndDetailPlan.md">Revised world and art direction plan</a></p>
+<p><a href="../ScaleCalibration/README.md">Scale measurements and assumptions</a> · <a href="../DetailCalibration/README.md">Detail specimen notes</a> · <a href="README.md">Integration and validation</a></p>
+<script>const slider=document.getElementById('blend');function setBlend(v){slider.value=v;document.getElementById('overlay').style.opacity=v/100;document.getElementById('value').value=v+'%'}slider.addEventListener('input',()=>setBlend(slider.value));function family(name){for(const variant of ['Coarse','Half','Third']){const img=document.getElementById(variant.toLowerCase());img.src='../DetailCalibration/DC_'+name+'_'+variant+'.png';img.alt=name+' '+variant+' construction comparison';}}</script>
+</html>

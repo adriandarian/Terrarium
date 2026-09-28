@@ -1,0 +1,349 @@
+{
+  "meshes": [
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "method": "authored FBX LODs imported in Unreal",
+      "lod_count": 3,
+      "triangles": [
+        43496,
+        12516,
+        6876
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "auto_screen_sizes": false,
+      "nanite_enabled": false,
+      "material_slots": [
+        "M_HP_Roof",
+        "M_HP_Wood",
+        "M_HP_Plaster",
+        "M_HP_Stone",
+        "M_HP_Teal",
+        "M_HP_Iron",
+        "M_HP_Moss",
+        "M_HP_Brass"
+      ],
+      "materials": [
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Roof.M_HP_Roof",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Wood.M_HP_Wood",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Plaster.M_HP_Plaster",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Stone.M_HP_Stone",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Teal.M_HP_Teal",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Iron.M_HP_Iron",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Moss.M_HP_Moss",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Brass.M_HP_Brass"
+      ],
+      "collision": "complex_as_simple",
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "method": "authored FBX LODs imported in Unreal",
+      "lod_count": 3,
+      "triangles": [
+        376,
+        216,
+        120
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18000000715255737,
+        0.05999999865889549
+      ],
+      "auto_screen_sizes": false,
+      "nanite_enabled": false,
+      "material_slots": [
+        "M_HP_Wood",
+        "M_HP_Iron",
+        "M_HP_Moss"
+      ],
+      "materials": [
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Wood.M_HP_Wood",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Iron.M_HP_Iron",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Moss.M_HP_Moss"
+      ],
+      "collision": "complex_as_simple",
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Bridge.SM_Bridge",
+      "method": "authored FBX LODs imported in Unreal",
+      "lod_count": 3,
+      "triangles": [
+        2188,
+        780,
+        420
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "auto_screen_sizes": false,
+      "nanite_enabled": false,
+      "material_slots": [
+        "M_HP_Wood",
+        "M_HP_Iron"
+      ],
+      "materials": [
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Wood.M_HP_Wood",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Iron.M_HP_Iron"
+      ],
+      "collision": "complex_as_simple",
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_MossCliff4m.SM_MossCliff4m",
+      "method": "Unreal static mesh reduction",
+      "lod_count": 3,
+      "triangles": [
+        23276,
+        12802,
+        5818
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "auto_screen_sizes": false,
+      "nanite_enabled": false,
+      "material_slots": [
+        "M_PilotLandscape_StoneShade",
+        "M_PilotLandscape_StoneLight",
+        "M_PilotLandscape_Stone",
+        "M_PilotLandscape_Moss",
+        "M_PilotLandscape_Grass"
+      ],
+      "materials": [
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneShade.M_PilotLandscape_StoneShade",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Moss.M_PilotLandscape_Moss",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Grass.M_PilotLandscape_Grass"
+      ],
+      "collision": "complex_as_simple",
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m",
+      "method": "Unreal static mesh reduction",
+      "lod_count": 3,
+      "triangles": [
+        4080,
+        2244,
+        1020
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "auto_screen_sizes": false,
+      "nanite_enabled": false,
+      "material_slots": [
+        "M_PilotLandscape_StoneShade",
+        "M_PilotLandscape_Stone",
+        "M_PilotLandscape_StoneLight",
+        "M_PilotLandscape_Grass",
+        "M_PilotLandscape_Moss"
+      ],
+      "materials": [
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneShade.M_PilotLandscape_StoneShade",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Grass.M_PilotLandscape_Grass",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Moss.M_PilotLandscape_Moss"
+      ],
+      "collision": "complex_as_simple",
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "method": "Unreal static mesh reduction",
+      "lod_count": 3,
+      "triangles": [
+        11584,
+        8688,
+        5792
+      ],
+      "screen_sizes": [
+        1.0,
+        0.18000000715255737,
+        0.05999999865889549
+      ],
+      "auto_screen_sizes": false,
+      "nanite_enabled": false,
+      "material_slots": [
+        "M_PilotLandscape_Bark",
+        "M_PilotLandscape_Leaf",
+        "M_PilotLandscape_LeafLight",
+        "M_PilotLandscape_LeafShade",
+        "M_PilotLandscape_StoneShade",
+        "M_PilotLandscape_Moss"
+      ],
+      "materials": [
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Bark.M_PilotLandscape_Bark",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Leaf.M_PilotLandscape_Leaf",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_LeafLight.M_PilotLandscape_LeafLight",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_LeafShade.M_PilotLandscape_LeafShade",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneShade.M_PilotLandscape_StoneShade",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Moss.M_PilotLandscape_Moss"
+      ],
+      "collision": "complex_as_simple",
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover",
+      "method": "Unreal static mesh reduction",
+      "lod_count": 3,
+      "triangles": [
+        3284,
+        1806,
+        820
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "auto_screen_sizes": false,
+      "nanite_enabled": false,
+      "material_slots": [
+        "M_PilotLandscape_LeafLight",
+        "M_PilotLandscape_LeafShade",
+        "M_PilotLandscape_Leaf",
+        "M_PilotLandscape_Grass"
+      ],
+      "materials": [
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_LeafLight.M_PilotLandscape_LeafLight",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_LeafShade.M_PilotLandscape_LeafShade",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Leaf.M_PilotLandscape_Leaf",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Grass.M_PilotLandscape_Grass"
+      ],
+      "collision": "none",
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m",
+      "method": "Unreal static mesh reduction",
+      "lod_count": 3,
+      "triangles": [
+        616,
+        338,
+        154
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "auto_screen_sizes": false,
+      "nanite_enabled": false,
+      "material_slots": [
+        "M_PilotLandscape_Path",
+        "M_PilotLandscape_StoneLight",
+        "M_PilotLandscape_Stone"
+      ],
+      "materials": [
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Path.M_PilotLandscape_Path",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone"
+      ],
+      "collision": "complex_as_simple",
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_StoneStairs2mRise.SM_StoneStairs2mRise",
+      "method": "Unreal static mesh reduction",
+      "lod_count": 3,
+      "triangles": [
+        4532,
+        2492,
+        1132
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "auto_screen_sizes": false,
+      "nanite_enabled": false,
+      "material_slots": [
+        "M_PilotLandscape_StoneShade",
+        "M_PilotLandscape_Stone",
+        "M_PilotLandscape_StoneLight",
+        "M_PilotLandscape_Moss"
+      ],
+      "materials": [
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneShade.M_PilotLandscape_StoneShade",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Stone.M_PilotLandscape_Stone",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_StoneLight.M_PilotLandscape_StoneLight",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Moss.M_PilotLandscape_Moss"
+      ],
+      "collision": "complex_as_simple",
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WheatPatch2m.SM_WheatPatch2m",
+      "method": "Unreal static mesh reduction",
+      "lod_count": 3,
+      "triangles": [
+        32444,
+        17844,
+        8110
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "auto_screen_sizes": false,
+      "nanite_enabled": false,
+      "material_slots": [
+        "M_PilotLandscape_Soil",
+        "M_PilotLandscape_Wheat"
+      ],
+      "materials": [
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Soil.M_PilotLandscape_Soil",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Wheat.M_PilotLandscape_Wheat"
+      ],
+      "collision": "none",
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+    },
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_GardenPatch2m.SM_GardenPatch2m",
+      "method": "Unreal static mesh reduction",
+      "lod_count": 3,
+      "triangles": [
+        7700,
+        4234,
+        1924
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "auto_screen_sizes": false,
+      "nanite_enabled": false,
+      "material_slots": [
+        "M_PilotLandscape_Soil",
+        "M_PilotLandscape_LeafLight",
+        "M_PilotLandscape_Crop"
+      ],
+      "materials": [
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Soil.M_PilotLandscape_Soil",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_LeafLight.M_PilotLandscape_LeafLight",
+        "/Game/Terrarium/HomesteadPilot/Landscape/Materials/M_PilotLandscape_Crop.M_PilotLandscape_Crop"
+      ],
+      "collision": "none",
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+    }
+  ],
+  "visual_transition_validation": "Not provided by asset readback; inspect forced LODs and approach/retreat",
+  "static_collision_policy": "LOD0 per-triangle, no enclosing doorway box; pilot static meshes only"
+}

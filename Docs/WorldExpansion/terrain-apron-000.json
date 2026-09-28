@@ -1,0 +1,43 @@
+{
+  "changed_chunks_total": 5,
+  "offset": 0,
+  "records": [
+    {
+      "actor": "WX_Terrain_3_3",
+      "before": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_3.SM_Terrain_3_3",
+      "after": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_3_HomeApronV3.SM_Terrain_3_3_HomeApronV3",
+      "sha256": "11d2c2c76ca10fce5b1a870efb92a38e50eba7295e650b05e81504e2bee310d2",
+      "triangles": 2862
+    },
+    {
+      "actor": "WX_Terrain_3_4",
+      "before": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_4_GorgeV2.SM_Terrain_3_4_GorgeV2",
+      "after": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_3_4_HomeApronV3.SM_Terrain_3_4_HomeApronV3",
+      "sha256": "33201336cf41a32db585cd505b85d39bde0b0a43ec6e8e50d5b6393a5d99c515",
+      "triangles": 2862
+    },
+    {
+      "actor": "WX_Terrain_4_3",
+      "before": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_3.SM_Terrain_4_3",
+      "after": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_3_HomeApronV3.SM_Terrain_4_3_HomeApronV3",
+      "sha256": "acaeac07161ca5e688c41cc1d7c417d59293d15d461c5a44beaadf5fb52af9ba",
+      "triangles": 2862
+    },
+    {
+      "actor": "WX_Terrain_4_4",
+      "before": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_4_GorgeV2.SM_Terrain_4_4_GorgeV2",
+      "after": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_4_4_HomeApronV3.SM_Terrain_4_4_HomeApronV3",
+      "sha256": "e7aaa0ee615f8caf3d1f0ebd074b26d3bd7c2fe58dec6ce497f3a435ce9f7c05",
+      "triangles": 2862
+    },
+    {
+      "actor": "WX_HomeApron",
+      "before": null,
+      "after": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_HomeApron_HomeApronV3.SM_HomeApron_HomeApronV3",
+      "sha256": "7452af6cc897eb5e2eb0735d3eafb69577420fe0e8fadb5c7632bad67f15e8eb",
+      "triangles": 33800
+    }
+  ],
+  "roads_pads_route_samples_exactly_unchanged": true,
+  "original_meshes_retained": true
+}

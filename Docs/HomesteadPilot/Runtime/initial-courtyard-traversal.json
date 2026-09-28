@@ -1,0 +1,66 @@
+{
+  "level": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome",
+  "measurement": "Possessed PIE Character driven by AddMovementInput; real gravity and collision",
+  "physical_keyboard_input_test": "Separate manual-control receipt required",
+  "routes": [
+    {
+      "name": "courtyard_initial",
+      "start_cm": [
+        650,
+        -150,
+        652
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            400,
+            -150,
+            652
+          ],
+          "actual_cm": [
+            419.8305570689026,
+            -154.56488050797356,
+            652.1500052496156
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.2183221000004778
+        },
+        {
+          "target_cm": [
+            550,
+            -100,
+            652
+          ],
+          "actual_cm": [
+            532.7160321697211,
+            -118.88753771836808,
+            657.1500143472729
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.008939499999542
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "all_routes_passed": true,
+  "error": null,
+  "trace": [],
+  "frame_pacing": {
+    "source": "GameplayStatics.get_world_delta_seconds; one sample per unique engine frame after warmup",
+    "samples": 7,
+    "mean_ms": 333.62321768488204,
+    "median_ms": 333.649605512619,
+    "p95_ms": 333.7740898132324,
+    "max_ms": 334.2077136039734,
+    "scope": "PIE world delta including editor overhead; not GPU/CPU profiler timings"
+  },
+  "memory": {
+    "editor_process_working_set_bytes": 2821742592,
+    "editor_process_private_bytes": 13763371008,
+    "scope": "Entire editor process with PIE, not standalone game or GPU memory"
+  },
+  "wall_seconds": 5.770965200000319
+}

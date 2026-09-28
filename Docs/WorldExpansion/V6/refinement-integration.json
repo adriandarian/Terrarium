@@ -1,0 +1,10 @@
+{
+  "geometry": [
+    "CivicRamp",
+    "BellTowerStone",
+    "MillStairs",
+    "CivicPlanterStone",
+    "Bell"
+  ],
+  "planter_shrubs": 16
+}

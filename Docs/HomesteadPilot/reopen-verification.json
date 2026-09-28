@@ -1,0 +1,36 @@
+{
+  "level": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome",
+  "saved_and_reopened": true,
+  "pilot_mesh_families": 11,
+  "instances_by_mesh": {
+    "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage": 1,
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m": 2076,
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover": 618,
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m": 35,
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WheatPatch2m.SM_WheatPatch2m": 40,
+    "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence": 8,
+    "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Bridge.SM_Bridge": 2,
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_StoneStairs2mRise.SM_StoneStairs2mRise": 1,
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_GardenPatch2m.SM_GardenPatch2m": 1,
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m": 1,
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_MossCliff4m.SM_MossCliff4m": 1
+  },
+  "transform_hashes": {
+    "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage": "7f7bff97c1557152dbd63632f22f4f4cbd252c20b07c22688cce8e9c39651619",
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m": "77a9120d7d3bde7fe9b430ae5f2bc9c45e619ccf643405e371b37e3d673cd0d3",
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover": "9e9b232325292cba35d39aebee866be8aa548d120cdf09d507dc133956dfd4d7",
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m": "1fbf3a4aa13386180fac9196b80a5ab0b25e1813949cefa3b69c74e8593861a3",
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WheatPatch2m.SM_WheatPatch2m": "252f9cf5710876593d1c3025caa2af522dcc0edd70fb45b957f03b5beb7cdd7b",
+    "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence": "ad7735d401b0cd7c3d40981f69c39be7948e28b5f59dfe9a16026ac4be5d52ad",
+    "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Bridge.SM_Bridge": "0ec8fa5d05315045accf2d65d87c3b4e081c57c07ca7b382009785f9eb180d21",
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_StoneStairs2mRise.SM_StoneStairs2mRise": "3104f6b19040eb1123b87fb090389e692553771e0176637f1f49578520c282c4",
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_GardenPatch2m.SM_GardenPatch2m": "d21ba19f4650d810c21eff1390b38c3c5a3a1ba5d9bf798b5524718838b84576",
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m": "157cdb5e4ca164b8f15bad7ea103447bbf9a3ef941133e0660203b85fda72b01",
+    "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_MossCliff4m.SM_MossCliff4m": "fbedea72d277f92a64c946db263104ed56b05ec822bb69a8c9595c9c208830a4"
+  },
+  "transforms_unchanged": true,
+  "baseline_map_unchanged": true,
+  "baseline_sha256": "c536336787fa342e656c196ce05c32690af279d94437e12431002a3fb207c74c",
+  "interior_light_and_player_start_present": true,
+  "scope": "Actual map serialization and component mesh persistence, including foliage instances; runtime and visual checks reported separately"
+}

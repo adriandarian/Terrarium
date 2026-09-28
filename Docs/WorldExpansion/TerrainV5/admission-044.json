@@ -1,0 +1,99 @@
+{
+  "revision": 5,
+  "offset": 44,
+  "chunks": 4,
+  "admitted": [
+    {
+      "actor": "WX_VoxelGround_5_4",
+      "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_5_4.SM_VoxelGround_5_4",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass",
+      "triangles": 3006,
+      "source_sha256": "9152ff34eefce6f0bd509f2a8e652ae1635259b1af7bd4757663eba02d03ddf5",
+      "collision_profile": "BlockAll"
+    },
+    {
+      "actor": "WX_VoxelRock_5_4",
+      "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_5_4.SM_VoxelRock_5_4",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone",
+      "triangles": 4252,
+      "source_sha256": "7fffe4803eb9694d938e8149691a07e8ae73b3604451e9c7ed0afda15a71bb00",
+      "collision_profile": "BlockAll"
+    },
+    {
+      "actor": "WX_VoxelGround_5_5",
+      "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_5_5.SM_VoxelGround_5_5",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass",
+      "triangles": 3042,
+      "source_sha256": "b5b3e4f675e3ef3e6cd5cee4036c2e5fa31da32a003dfdabc6eb6351e668f413",
+      "collision_profile": "BlockAll"
+    },
+    {
+      "actor": "WX_VoxelRock_5_5",
+      "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_5_5.SM_VoxelRock_5_5",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone",
+      "triangles": 848,
+      "source_sha256": "47f3b21c1ba9095b908e0e91f605a50ad755bf3fbfb41045afb0dd820c1df70b",
+      "collision_profile": "BlockAll"
+    },
+    {
+      "actor": "WX_VoxelGround_5_6",
+      "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_5_6.SM_VoxelGround_5_6",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass",
+      "triangles": 2182,
+      "source_sha256": "9cc493db319377108cb6e8bff5ad9415420244f84fe3342baa6f0f552d7b16ad",
+      "collision_profile": "BlockAll"
+    },
+    {
+      "actor": "WX_VoxelRock_5_6",
+      "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_5_6.SM_VoxelRock_5_6",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone",
+      "triangles": 21386,
+      "source_sha256": "b81c84ef267c59bc96166df0307d900e6c94dc98f77e03ec38760b68ffce95ba",
+      "collision_profile": "BlockAll"
+    },
+    {
+      "actor": "WX_VoxelGround_5_7",
+      "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelGround_5_7.SM_VoxelGround_5_7",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelGrass.M_VoxelGrass",
+      "triangles": 1850,
+      "source_sha256": "fd3c7e48a099516c3c0668a08686e35820caf2d9316c2fd146e52bc3015b8dd6",
+      "collision_profile": "BlockAll"
+    },
+    {
+      "actor": "WX_VoxelRock_5_7",
+      "mesh": "/Game/Terrarium/WorldExpansion/TerrainV5/Meshes/SM_VoxelRock_5_7.SM_VoxelRock_5_7",
+      "material": "/Game/Terrarium/WorldExpansion/TerrainV5/Materials/M_VoxelStone.M_VoxelStone",
+      "triangles": 32634,
+      "source_sha256": "11caffab9078dc2a9b7663c2f6058199b0e0d74f59897387a9f02508b1009583",
+      "collision_profile": "BlockAll"
+    }
+  ],
+  "retired": [
+    {
+      "actor": "WX_Terrain_5_4",
+      "mesh_preserved": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_5_4.SM_Terrain_5_4",
+      "visible": false,
+      "collision_profile": "NoCollision"
+    },
+    {
+      "actor": "WX_Terrain_5_5",
+      "mesh_preserved": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_5_5.SM_Terrain_5_5",
+      "visible": false,
+      "collision_profile": "NoCollision"
+    },
+    {
+      "actor": "WX_Terrain_5_6",
+      "mesh_preserved": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_5_6.SM_Terrain_5_6",
+      "visible": false,
+      "collision_profile": "NoCollision"
+    },
+    {
+      "actor": "WX_Terrain_5_7",
+      "mesh_preserved": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_Terrain_5_7.SM_Terrain_5_7",
+      "visible": false,
+      "collision_profile": "NoCollision"
+    }
+  ],
+  "home_apron_outer_ring_replaced": false,
+  "roads_pads_water_and_original_home_untouched": true
+}

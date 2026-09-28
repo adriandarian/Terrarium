@@ -1,0 +1,40 @@
+{
+  "normal_source_reopened": true,
+  "original_source_unchanged": true,
+  "lod0_geometry_uv_unchanged": true,
+  "repaired_lods": [
+    {
+      "lod": 1,
+      "source_dimensions_m": [
+        5.760000228881836,
+        5.759999990463257,
+        5.394999980926514
+      ],
+      "roof_thickness_verified": true,
+      "uvs_present": true,
+      "fbx_roundtrip_dimensions_m": [
+        5.760000228881836,
+        5.760000228881836,
+        5.394999980926514
+      ],
+      "fbx_8_slots_uvs_pass": true
+    },
+    {
+      "lod": 2,
+      "source_dimensions_m": [
+        5.760000228881836,
+        5.759999990463257,
+        5.394999980926514
+      ],
+      "roof_thickness_verified": true,
+      "uvs_present": true,
+      "fbx_roundtrip_dimensions_m": [
+        5.760000228881836,
+        5.760000228881836,
+        5.394999980926514
+      ],
+      "fbx_8_slots_uvs_pass": true
+    }
+  ],
+  "limits": "Source and exported static mesh validation. Root owns Unreal import, forcedLOD screenshots and automatic distance-transition validation."
+}

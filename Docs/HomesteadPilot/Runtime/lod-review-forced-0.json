@@ -1,0 +1,254 @@
+[
+  {
+    "actor": "Reference_Cottage",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_5.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_11",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_16",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_20",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_21",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_22",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Fidelity_StaticInstances",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_23",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WheatPatch2m.SM_WheatPatch2m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_0",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_64.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_2",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_65.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_3",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_66.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_4",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_67.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_5",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_68.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_6",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_69.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_7",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_70.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_8",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_71.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_9",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_72.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_10",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_73.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_11",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_74.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_12",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_75.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_13",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_76.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_14",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_77.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_15",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_78.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_16",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_79.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_17",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_80.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_18",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_81.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_19",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_82.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_20",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_83.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "Reference_Grove_21",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_84.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_Fence_0_0",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_141.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_Fence_0_1",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_143.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_Fence_0_2",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_144.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_Fence_1_0",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_145.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_Fence_1_1",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_146.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_Fence_1_2",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_147.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_Fence_2_0",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_148.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_Fence_2_1",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_149.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_Bridge_0",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_150.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Bridge.SM_Bridge",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_Bridge_1",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_152.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Bridge.SM_Bridge",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_TerraceStairs",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_346.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_StoneStairs2mRise.SM_StoneStairs2mRise",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_KitchenGarden",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_347.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_GardenPatch2m.SM_GardenPatch2m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_EntryLanding",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_348.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m",
+    "forced_lod_model": 0
+  },
+  {
+    "actor": "HP_UpperTerraceModule",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_349.StaticMeshComponent0",
+    "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_MossCliff4m.SM_MossCliff4m",
+    "forced_lod_model": 0
+  }
+]

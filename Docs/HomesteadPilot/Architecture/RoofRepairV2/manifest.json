@@ -1,0 +1,90 @@
+{
+  "source_blend": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\RoofRepairV2\\HomesteadArchitecture_RoofV2.blend",
+  "library": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\RoofRepairV2\\ArchitectureRoofV2.library.blend",
+  "original_source": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\HomesteadArchitecture.blend",
+  "original_source_sha256": "2c95aeff2aee81f00d4b38f3e7c64e409674c746977a2bcae145e2781c8284b1",
+  "original_source_unchanged": true,
+  "lod0_geometry_uv_fingerprint": "32129415d449730328bd2ce9db0110df83ec8d5ee29ec41dac812ade09a53217",
+  "lod0_unchanged": true,
+  "lod0_fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\SM_HP_Cottage_LOD0.fbx",
+  "repairs": [
+    {
+      "level": 1,
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\RoofRepairV2\\SM_HP_Cottage_RoofV2_LOD1.fbx",
+      "triangles": 12516,
+      "bounds_m": {
+        "min": [
+          -2.880000114440918,
+          -3.0399999618530273,
+          0.0
+        ],
+        "max": [
+          2.880000114440918,
+          2.7200000286102295,
+          5.394999980926514
+        ]
+      },
+      "dimensions_m": [
+        5.760000228881836,
+        5.759999990463257,
+        5.394999980926514
+      ],
+      "roof_thickness_m": 0.17500000000000002,
+      "cross_gable_thickness_m": 0.2674220032840723,
+      "cross_gable_tiles": 29,
+      "gable_top_lowering_m": 0.1375,
+      "tile_top_vertices_preserved": true,
+      "changed_bottom_vertices": 2016,
+      "material_slots": [
+        "M_HP_Roof",
+        "M_HP_Wood",
+        "M_HP_Plaster",
+        "M_HP_Stone",
+        "M_HP_Teal",
+        "M_HP_Iron",
+        "M_HP_Moss",
+        "M_HP_Brass"
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\Architecture\\RoofRepairV2\\SM_HP_Cottage_RoofV2_LOD2.fbx",
+      "triangles": 6876,
+      "bounds_m": {
+        "min": [
+          -2.880000114440918,
+          -3.0399999618530273,
+          0.0
+        ],
+        "max": [
+          2.880000114440918,
+          2.7200000286102295,
+          5.394999980926514
+        ]
+      },
+      "dimensions_m": [
+        5.760000228881836,
+        5.759999990463257,
+        5.394999980926514
+      ],
+      "roof_thickness_m": 0.24250000000000002,
+      "cross_gable_thickness_m": 0.4073740053050398,
+      "cross_gable_tiles": 13,
+      "gable_top_lowering_m": 0.17125,
+      "tile_top_vertices_preserved": true,
+      "changed_bottom_vertices": 832,
+      "material_slots": [
+        "M_HP_Roof",
+        "M_HP_Wood",
+        "M_HP_Plaster",
+        "M_HP_Stone",
+        "M_HP_Teal",
+        "M_HP_Iron",
+        "M_HP_Moss",
+        "M_HP_Brass"
+      ]
+    }
+  ],
+  "scene": "Terrarium_ArchitectureRoofRepairV2",
+  "purpose": "Restore continuous terracotta roof surfaces at authored LOD1/2 without changing visible tile highpoints or ridge dimensions."
+}

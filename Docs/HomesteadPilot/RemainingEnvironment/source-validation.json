@@ -1,0 +1,31 @@
+{
+  "source_reopened": true,
+  "fbx_reimported": true,
+  "source": {
+    "triangles": 12,
+    "vertices": 8,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "volume_m3": 2.8820462414173913,
+    "dimensions_m": [
+      3.0199999809265137,
+      3.0199999809265137,
+      0.31599998474121094
+    ],
+    "uv_layers": 1
+  },
+  "fbx": {
+    "triangles": 12,
+    "vertices": 8,
+    "boundary_edges": 0,
+    "nonmanifold_edges": 0,
+    "volume_m3": 2.8820462414173913,
+    "dimensions_m": [
+      3.0199999809265137,
+      3.0199999809265137,
+      0.31599998474121094
+    ],
+    "uv_layers": 1
+  },
+  "scope": "Source geometry only. Unreal compile, appearance and animation remain coordinator checks."
+}

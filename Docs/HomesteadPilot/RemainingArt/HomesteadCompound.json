@@ -1,0 +1,117 @@
+{
+  "name": "HomesteadCompound",
+  "source_blend": "SourceAssets/Blender/HomesteadCompound/HomesteadCompound.blend",
+  "source_sha256": "e0190579a34096eaa2c4c3673f9cb58729d22a38e95f23f639c0200b95aa4b42",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/HomesteadCompound/HomesteadCompound.blend",
+  "blend_sha256": "f051c87e2e8cd8c4b09a0392ef0929c522a1a07dab50c50a1ec212796e2af54c",
+  "parts_retained": 4039,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/HomesteadCompound/SM_HP_HomesteadCompound_LOD0.fbx",
+      "triangles": 436212,
+      "vertices": 226184,
+      "bounds_m": {
+        "min": [
+          -4.590356826782227,
+          -3.0901083946228027,
+          -0.0003925636410713196
+        ],
+        "max": [
+          4.595394611358643,
+          3.695399522781372,
+          4.775000095367432
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "8c032b110891bfffb99d47827329a702e6aab64812998629ce3e7bd34f354a42",
+      "material_slots": [
+        "M_Cottage_Atlas.001",
+        "M_HomesteadCompound_Frame"
+      ],
+      "material_face_counts": [
+        146502,
+        71604
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/HomesteadCompound/SM_HP_HomesteadCompound_LOD1.fbx",
+      "triangles": 177716,
+      "vertices": 96936,
+      "bounds_m": {
+        "min": [
+          -4.590356826782227,
+          -3.0901083946228027,
+          -0.0003925636410713196
+        ],
+        "max": [
+          4.595394611358643,
+          3.695399522781372,
+          4.775000095367432
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "3bbfc48b142c45c717d4ae3e3ad19acfb3c6d1b8eeb5658d3d8a61ff13115ef1",
+      "material_slots": [
+        "M_Cottage_Atlas.001",
+        "M_HomesteadCompound_Frame"
+      ],
+      "material_face_counts": [
+        70538,
+        34476
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/HomesteadCompound/SM_HP_HomesteadCompound_LOD2.fbx",
+      "triangles": 48468,
+      "vertices": 32312,
+      "bounds_m": {
+        "min": [
+          -4.590356826782227,
+          -3.0901083946228027,
+          -0.0003925636410713196
+        ],
+        "max": [
+          4.595394611358643,
+          3.695399522781372,
+          4.775000095367432
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "3cfca655f42c0f2a38fbf1ab54e06ffc4f70ad9a1e7dd5d142d989c669157190",
+      "material_slots": [
+        "M_Cottage_Atlas.001",
+        "M_HomesteadCompound_Frame"
+      ],
+      "material_face_counts": [
+        16278,
+        7956
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -4.590356826782227,
+      -3.0901083946228027,
+      -0.0003925636410713196
+    ],
+    "max": [
+      4.595394611358643,
+      3.695399522781372,
+      4.775000095367432
+    ]
+  },
+  "materials": [
+    "M_Cottage_Atlas.001",
+    "M_HomesteadCompound_Frame"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/HomesteadCompound/SM_Blender_HomesteadCompound",
+  "collision": "complex_as_simple",
+  "screen_sizes": [
+    1.0,
+    0.22,
+    0.075
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "passed": true,
+  "errors": [],
+  "buildings_checked": 277,
+  "terrain_chunks": 64,
+  "foliage": [
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_Fence.FT_WX6_Fence",
+      "expected": 795,
+      "actual": 795
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_GardenPatch2m.FT_WX6_GardenPatch2m",
+      "expected": 534,
+      "actual": 534
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_BroadTree5m.FT_WX6_BroadTree5m",
+      "expected": 429,
+      "actual": 429
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_MossCliff4m.FT_WX6_MossCliff4m",
+      "expected": 539,
+      "actual": 539
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_WheatPatch2m.FT_WX6_WheatPatch2m",
+      "expected": 770,
+      "actual": 770
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_Lantern.FT_WX6_Lantern",
+      "expected": 94,
+      "actual": 94
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_WX6_ShrubGroundcover.FT_WX6_ShrubGroundcover",
+      "expected": 840,
+      "actual": 840
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_River6_Grass.FT_River6_Grass",
+      "expected": 313,
+      "actual": 313
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_River6_Bush.FT_River6_Bush",
+      "expected": 312,
+      "actual": 312
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_River6_GroundPlants.FT_River6_GroundPlants",
+      "expected": 315,
+      "actual": 315
+    },
+    {
+      "type": "/Game/Terrarium/WorldExpansion/V6/Foliage/FT_River6_ShoreOutcrop.FT_River6_ShoreOutcrop",
+      "expected": 180,
+      "actual": 180
+    }
+  ],
+  "ground": [
+    {
+      "name": "Market",
+      "expected_m": 24.07,
+      "actual_m": 24.08,
+      "passed": true,
+      "actor": "WX_EasternTradeRoad"
+    },
+    {
+      "name": "Civic ramp mid",
+      "expected_m": 24.78,
+      "actual_m": 24.815,
+      "passed": true,
+      "actor": "WX6_Alderhaven_Lanes"
+    },
+    {
+      "name": "Civic terrace",
+      "expected_m": 25.51,
+      "actual_m": 25.565,
+      "passed": true,
+      "actor": "WX6_Alderhaven_Lanes"
+    },
+    {
+      "name": "Mill platform",
+      "expected_m": 7.1,
+      "actual_m": 7.18,
+      "passed": true,
+      "actor": "WX6_RiverMillFoundation"
+    },
+    {
+      "name": "Mill stair bottom",
+      "expected_m": 1.5,
+      "actual_m": 1.5,
+      "passed": true,
+      "actor": "WX6_MillStairs"
+    },
+    {
+      "name": "Gate opening",
+      "expected_m": 35,
+      "actual_m": 35.08,
+      "passed": true,
+      "actor": "WX_StonegateRoad"
+    },
+    {
+      "name": "Home road hub",
+      "expected_m": 5.6,
+      "actual_m": 5.68,
+      "passed": true,
+      "actor": "WX_BrookmereRoad"
+    }
+  ],
+  "imagegen_source_sha256": "702e5baed876e10ece23ee11db1323a2cd62e4417eaaeac634e82be18aa86558",
+  "native_texture": "/Game/Terrarium/WorldExpansion/V6/Textures/T_LimestonePaving.T_LimestonePaving",
+  "material_textures": [
+    {
+      "material": "/Game/Terrarium/WorldExpansion/V6/Materials/M_LimestonePaving.M_LimestonePaving",
+      "textures": [
+        "/Game/Terrarium/WorldExpansion/V6/Textures/T_LimestonePaving.T_LimestonePaving"
+      ]
+    },
+    {
+      "material": "/Game/Terrarium/WorldExpansion/V6/Materials/M_CutMasonry.M_CutMasonry",
+      "textures": [
+        "/Game/Terrarium/WorldExpansion/V6/Textures/T_LimestonePaving.T_LimestonePaving"
+      ]
+    }
+  ],
+  "limits": [
+    "Full region navigation and physical held-key input not tested",
+    "New landmarks are static scenery",
+    "Terrain has one visible LOD and no streaming"
+  ]
+}

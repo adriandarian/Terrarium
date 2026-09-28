@@ -1,0 +1,515 @@
+{
+  "status": "offline source geometry passed; live editor validation separate",
+  "assets": [
+    {
+      "name": "Terrain_0_0",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_0_1",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_0_2",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_0_3",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_0_4",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_0_5",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_0_6",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_0_7",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_1_0",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_1_1",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_1_2",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_1_3",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_1_4",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_1_5",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_1_6",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_1_7",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_2_0",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_2_1",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_2_2",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_2_3",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_2_4",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_2_5",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_2_6",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_2_7",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_3_0",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_3_1",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_3_2",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_3_3",
+      "triangles": 2862,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_3_4",
+      "triangles": 2862,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_3_5",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_3_6",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_3_7",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_4_0",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_4_1",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_4_2",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_4_3",
+      "triangles": 2862,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_4_4",
+      "triangles": 2862,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_4_5",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_4_6",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_4_7",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_5_0",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_5_1",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_5_2",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_5_3",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_5_4",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_5_5",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_5_6",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_5_7",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_6_0",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_6_1",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_6_2",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_6_3",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_6_4",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_6_5",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_6_6",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_6_7",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_7_0",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_7_1",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_7_2",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_7_3",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_7_4",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_7_5",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_7_6",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "Terrain_7_7",
+      "triangles": 3200,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "HomeApproach",
+      "triangles": 26,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "CityRoad",
+      "triangles": 376,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "BrookmereRoad",
+      "triangles": 230,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "ReedbankRoad",
+      "triangles": 384,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "HighfieldRoad",
+      "triangles": 410,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "StonegateRoad",
+      "triangles": 222,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "WesternTradeRoad",
+      "triangles": 472,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "EasternTradeRoad",
+      "triangles": 618,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "AlderRiver",
+      "triangles": 1280,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "HomeTributary",
+      "triangles": 48,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "RiverStoneBridges",
+      "triangles": 1080,
+      "sha256_verified": true,
+      "nondegenerate": true
+    },
+    {
+      "name": "HomeApron",
+      "triangles": 33800,
+      "sha256_verified": true,
+      "nondegenerate": true
+    }
+  ],
+  "total_triangles": 242394,
+  "unique_terrain_vertices": 119473,
+  "watertight_chunk_seams": true,
+  "all_surface_normals_upward": true,
+  "route_grades": [
+    {
+      "road": "HomeApproach",
+      "maximum_grade_percent": 0.0
+    },
+    {
+      "road": "CityRoad",
+      "maximum_grade_percent": 9.2
+    },
+    {
+      "road": "BrookmereRoad",
+      "maximum_grade_percent": 5.68
+    },
+    {
+      "road": "ReedbankRoad",
+      "maximum_grade_percent": 3.66
+    },
+    {
+      "road": "HighfieldRoad",
+      "maximum_grade_percent": 5.53
+    },
+    {
+      "road": "StonegateRoad",
+      "maximum_grade_percent": 26.49
+    },
+    {
+      "road": "WesternTradeRoad",
+      "maximum_grade_percent": 3.68
+    },
+    {
+      "road": "EasternTradeRoad",
+      "maximum_grade_percent": 3.97
+    }
+  ],
+  "forest_instances": 2200,
+  "bridges": [
+    {
+      "road": "CityRoad",
+      "from_m": [
+        101.04651162790698,
+        74.76744186046511,
+        8.706976744186047
+      ],
+      "to_m": [
+        153.13953488372093,
+        94.30232558139535,
+        10.920930232558138
+      ]
+    }
+  ]
+}

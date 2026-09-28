@@ -1,0 +1,253 @@
+{
+  "changes": [
+    {
+      "actor": "Fidelity_StaticInstances",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_0",
+      "old_mesh": "/Game/Terrarium/Blender/MeadowShrub/SM_Blender_MeadowShrub.SM_Blender_MeadowShrub",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover",
+      "instances": 618
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_1",
+      "old_mesh": "/Game/Terrarium/Blender/CliffColumn/SM_Blender_CliffColumn.SM_Blender_CliffColumn",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m",
+      "instances": 668
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_2",
+      "old_mesh": "/Game/Terrarium/Blender/HomesteadTree/SM_Blender_HomesteadTree.SM_Blender_HomesteadTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 14
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_3",
+      "old_mesh": "/Game/Terrarium/Blender/WheatPatch/SM_Blender_WheatPatch.SM_Blender_WheatPatch",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WheatPatch2m.SM_WheatPatch2m",
+      "instances": 40
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_7",
+      "old_mesh": "/Game/Terrarium/Blender/CliffColumn/SM_Blender_CliffColumn.SM_Blender_CliffColumn",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m",
+      "instances": 665
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_8",
+      "old_mesh": "/Game/Terrarium/Blender/CliffColumn/SM_Blender_CliffColumn.SM_Blender_CliffColumn",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m",
+      "instances": 743
+    },
+    {
+      "actor": "Reference_Grove_0",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_64.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_2",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_65.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_3",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_66.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_4",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_67.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_5",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_68.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_6",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_69.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_7",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_70.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_8",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_71.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_9",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_72.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_10",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_73.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_11",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_74.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_12",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_75.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_13",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_76.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_14",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_77.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_15",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_78.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_16",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_79.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_17",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_80.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_18",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_81.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_19",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_82.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_20",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_83.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "Reference_Grove_21",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_84.StaticMeshComponent0",
+      "old_mesh": "/Game/Terrarium/Meshes/SM_VoxelTree.SM_VoxelTree",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+      "instances": 1
+    },
+    {
+      "actor": "HP_TerraceStairs",
+      "mesh": "StoneStairs2mRise",
+      "location_cm": [
+        861.2008290577744,
+        -370.14095154243125,
+        280
+      ],
+      "scale": [
+        1.25,
+        1,
+        1.3916500149706004
+      ]
+    },
+    {
+      "actor": "HP_KitchenGarden",
+      "mesh": "GardenPatch2m",
+      "location_cm": [
+        -24.93435264612168,
+        -484.53608319878583,
+        560
+      ],
+      "scale": [
+        1.15,
+        1.15,
+        1
+      ]
+    },
+    {
+      "actor": "HP_EntryLanding",
+      "mesh": "WornPath2m",
+      "location_cm": [
+        170,
+        53,
+        556
+      ],
+      "scale": [
+        1,
+        1,
+        0.5
+      ]
+    },
+    {
+      "actor": "HP_UpperTerraceModule",
+      "mesh": "MossCliff4m",
+      "location_cm": [
+        -1350,
+        850,
+        678.6
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  ],
+  "stair_riser_cm": 23.333333333333332,
+  "stair_tread_cm": 30,
+  "baseline_assets_modified": false,
+  "status": "Placed; saved reload and traversal must verify component persistence"
+}

@@ -1,0 +1,751 @@
+{
+  "level": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion",
+  "measurement": "Possessed PIE Character driven by AddMovementInput; real gravity and collision",
+  "physical_keyboard_input_test": "Separate manual-control receipt required",
+  "waypoint_approach": "Transient maximum walking speed decreases near targets to prevent frame-step overshoot; original speed restored at end",
+  "background_throttle_disabled_during_test": true,
+  "background_throttle_restored": true,
+  "routes": [
+    {
+      "name": "Home exit to regional road hub",
+      "start_cm": [
+        -1291.79,
+        2695.75,
+        660.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            -2400,
+            5200,
+            660.0
+          ],
+          "actual_cm": [
+            -2388.8343719402883,
+            5174.768749543386,
+            660.1500110626221
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 9.822562399996968
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "all_routes_passed": true,
+  "error": null,
+  "trace": [
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1296.8565929967313,
+        2707.1991075807478,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 150.11979895088237,
+      "frame_delta_ms": 16.648299992084503
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1312.7752457986194,
+        2743.1708875494614,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999847,
+      "frame_delta_ms": 17.01899990439415
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1331.6051456576197,
+        2785.721285688712,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998806,
+      "frame_delta_ms": 16.706399619579315
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1350.558406292809,
+        2828.550445275497,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998875,
+      "frame_delta_ms": 16.97930321097374
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1369.4229901973517,
+        2871.1792198245016,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000046,
+      "frame_delta_ms": 16.91409945487976
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1388.262725672956,
+        2913.7518437538865,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999991,
+      "frame_delta_ms": 16.660697758197784
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1407.146028949611,
+        2956.4229189387024,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999585,
+      "frame_delta_ms": 16.70520007610321
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1426.0197684493705,
+        2999.072382616413,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000042,
+      "frame_delta_ms": 16.724199056625366
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1444.9013376925918,
+        3041.7395393622837,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000597,
+      "frame_delta_ms": 16.73699915409088
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1463.7763350841797,
+        3084.391845529785,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000077,
+      "frame_delta_ms": 16.692698001861572
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1482.6307667886033,
+        3126.9976788969307,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999888,
+      "frame_delta_ms": 16.402199864387512
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1501.5071238008563,
+        3169.6530574334283,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000847,
+      "frame_delta_ms": 16.758300364017487
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1520.3880700077236,
+        3212.3188062883814,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000375,
+      "frame_delta_ms": 16.806699335575104
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1539.2537421153315,
+        3254.95003987721,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000705,
+      "frame_delta_ms": 16.603998839855194
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1558.1246374288053,
+        3297.5930764756577,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999992,
+      "frame_delta_ms": 16.651999205350876
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1576.9947400171593,
+        3340.234321733224,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000063,
+      "frame_delta_ms": 16.52900129556656
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1595.8872212609328,
+        3382.926136601094,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999859,
+      "frame_delta_ms": 16.659002751111984
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1614.7531082232183,
+        3425.557855702442,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000094,
+      "frame_delta_ms": 16.818899661302567
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1633.6178850326505,
+        3468.1870661634703,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999963,
+      "frame_delta_ms": 16.647398471832275
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1652.4996243867483,
+        3510.8546073131606,
+        660.0
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999363,
+      "frame_delta_ms": 16.78359881043434
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1671.383324025963,
+        3553.5265781684166,
+        668.1499786376953
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999653,
+      "frame_delta_ms": 16.716700047254562
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1690.2733236771003,
+        3596.2127853190127,
+        668.1499786376953
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998914,
+      "frame_delta_ms": 16.820300370454788
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1709.1135804602234,
+        3638.7865872601064,
+        667.2751326560974
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999994,
+      "frame_delta_ms": 16.571801155805588
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1727.984917724281,
+        3681.430622545402,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999835,
+      "frame_delta_ms": 16.663700342178345
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1746.8664531985964,
+        3724.0977029828205,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999,
+      "frame_delta_ms": 16.675099730491638
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1765.7381758503202,
+        3766.74260913831,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999994,
+      "frame_delta_ms": 16.556598246097565
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1784.6211275082196,
+        3809.4128897613814,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000027,
+      "frame_delta_ms": 16.635697335004807
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1803.5009631401215,
+        3852.0761290221603,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999966,
+      "frame_delta_ms": 16.75279811024666
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1822.3583525787865,
+        3894.688646055735,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999795,
+      "frame_delta_ms": 16.659501940011978
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1841.2348113198757,
+        3937.3442544714403,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000426,
+      "frame_delta_ms": 16.66789874434471
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1860.095996383816,
+        3979.965348574877,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999998,
+      "frame_delta_ms": 16.65779948234558
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1878.9702685881043,
+        4022.616016018397,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999873,
+      "frame_delta_ms": 16.560599207878113
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1897.8569821023705,
+        4065.294797402881,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000112,
+      "frame_delta_ms": 16.67270064353943
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1916.782470343287,
+        4108.061199012069,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999972,
+      "frame_delta_ms": 16.73389971256256
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1935.6560515512895,
+        4150.710304993918,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001285,
+      "frame_delta_ms": 16.627702862024307
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1954.545416346953,
+        4193.3950775456415,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998073,
+      "frame_delta_ms": 16.74420014023781
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1973.4070885273914,
+        4236.017272398482,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000053,
+      "frame_delta_ms": 16.668397933244705
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -1992.2814400886118,
+        4278.668119166861,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.999999999981,
+      "frame_delta_ms": 16.481399536132812
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2011.1556101419535,
+        4321.318555777317,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999899,
+      "frame_delta_ms": 16.653399914503098
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2030.0264607116248,
+        4363.961491267066,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001387,
+      "frame_delta_ms": 16.63770154118538
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2048.9085170713483,
+        4406.629748762338,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000172,
+      "frame_delta_ms": 16.782298684120178
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2067.7916502371268,
+        4449.3004395433345,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999873,
+      "frame_delta_ms": 16.75039902329445
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2086.6697180666833,
+        4491.95968405672,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998136,
+      "frame_delta_ms": 16.61829650402069
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2105.579966399358,
+        4534.69164766209,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999995,
+      "frame_delta_ms": 16.808800399303436
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2124.4290157619366,
+        4577.285318416043,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999739,
+      "frame_delta_ms": 16.694601625204086
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2143.3039679876074,
+        4619.937522520992,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000109,
+      "frame_delta_ms": 16.679901629686356
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2162.1700250607655,
+        4662.569626026161,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999907,
+      "frame_delta_ms": 16.646701842546463
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2181.0580872207984,
+        4705.251454979396,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001035,
+      "frame_delta_ms": 16.756702214479446
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2199.9255495026505,
+        4747.886733869968,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999924,
+      "frame_delta_ms": 16.70440286397934
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2218.7959914685343,
+        4790.528746027464,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001364,
+      "frame_delta_ms": 16.619697213172913
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2237.7542034698768,
+        4833.36909434084,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999911,
+      "frame_delta_ms": 16.696497797966003
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2256.631682454102,
+        4876.027008225615,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999892,
+      "frame_delta_ms": 16.605697572231293
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2275.494805009144,
+        4918.6524805264135,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999822,
+      "frame_delta_ms": 16.621898859739304
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2294.3758305729434,
+        4961.318408706227,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000165,
+      "frame_delta_ms": 16.666799783706665
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2313.249660826648,
+        5003.968077462898,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000094,
+      "frame_delta_ms": 16.58570021390915
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2332.129610006502,
+        5046.631573310844,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998346,
+      "frame_delta_ms": 16.685303300619125
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2351.0585198820404,
+        5089.4057068738,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000574,
+      "frame_delta_ms": 16.79059863090515
+    },
+    {
+      "route": "Home exit to regional road hub",
+      "waypoint": 0,
+      "position_cm": [
+        -2369.9207813299295,
+        5132.029233309105,
+        660.1500110626221
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000034,
+      "frame_delta_ms": 16.70049875974655
+    }
+  ],
+  "frame_pacing": {
+    "source": "GameplayStatics.get_world_delta_seconds; one sample per unique engine frame after warmup",
+    "samples": 588,
+    "mean_ms": 16.718129082551215,
+    "median_ms": 16.654599457979202,
+    "p95_ms": 16.89229905605316,
+    "max_ms": 50.23539811372757,
+    "scope": "PIE world delta including editor overhead; not GPU/CPU profiler timings"
+  },
+  "memory": {
+    "editor_process_working_set_bytes": 8159420416,
+    "editor_process_private_bytes": 21962493952,
+    "scope": "Entire editor process with PIE, not standalone game or GPU memory"
+  },
+  "wall_seconds": 11.332866900000226
+}

@@ -1,0 +1,59 @@
+{
+  "material": "/Game/Terrarium/WorldExpansion/Terrain/Materials/M_ValleySculpted.M_ValleySculpted",
+  "cause": "VertexColor unnamed output was addressed as RGB without checking the connection result",
+  "graph_connections_checked": [
+    [
+      "MaterialExpressionTextureSample",
+      "",
+      "MaterialExpressionMultiply",
+      "A"
+    ],
+    [
+      "MaterialExpressionConstant",
+      "",
+      "MaterialExpressionMultiply",
+      "B"
+    ],
+    [
+      "MaterialExpressionMultiply",
+      "",
+      "MaterialExpressionAdd",
+      "A"
+    ],
+    [
+      "MaterialExpressionConstant",
+      "",
+      "MaterialExpressionAdd",
+      "B"
+    ],
+    [
+      "MaterialExpressionVertexColor",
+      "",
+      "MaterialExpressionMultiply",
+      "A"
+    ],
+    [
+      "MaterialExpressionAdd",
+      "",
+      "MaterialExpressionMultiply",
+      "B"
+    ],
+    [
+      "MaterialExpressionMultiply",
+      "",
+      "<MaterialProperty.MP_BASE_COLOR: 5>"
+    ],
+    [
+      "MaterialExpressionConstant",
+      "",
+      "<MaterialProperty.MP_ROUGHNESS: 8>"
+    ],
+    [
+      "MaterialExpressionConstant",
+      "",
+      "<MaterialProperty.MP_SPECULAR: 7>"
+    ]
+  ],
+  "material_saved": true,
+  "visual_review": "requires fresh editor capture"
+}

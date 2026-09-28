@@ -1,0 +1,2791 @@
+{
+  "level": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion",
+  "measurement": "Possessed PIE Character driven by AddMovementInput; real gravity and collision",
+  "physical_keyboard_input_test": "Separate manual-control receipt required",
+  "waypoint_approach": "Transient maximum walking speed decreases near targets to prevent frame-step overshoot; original speed restored at end",
+  "background_throttle_disabled_during_test": true,
+  "background_throttle_restored": true,
+  "routes": [
+    {
+      "name": "AqueductTrail connected approach",
+      "start_cm": [
+        -22488.095238095237,
+        39020.833333333336,
+        3602.0
+      ],
+      "waypoints": [
+        {
+          "target_cm": [
+            -22202.38095238095,
+            39520.833333333336,
+            3544.6834057646047
+          ],
+          "actual_cm": [
+            -22224.11617284923,
+            39482.79669751374,
+            3553.9920196533203
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.042634800000087
+        },
+        {
+          "target_cm": [
+            -21916.666666666664,
+            40020.833333333336,
+            3430.896760978023
+          ],
+          "actual_cm": [
+            -21938.09293188403,
+            39983.33736920285,
+            3447.4128465652466
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.0657010000031732
+        },
+        {
+          "target_cm": [
+            -21630.952380952378,
+            40520.833333333336,
+            3226.7967621406
+          ],
+          "actual_cm": [
+            -21652.135107107697,
+            40483.76356256143,
+            3255.94677066803
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.065742799997679
+        },
+        {
+          "target_cm": [
+            -21345.238095238095,
+            41020.833333333336,
+            3016.796762140599
+          ],
+          "actual_cm": [
+            -21366.011788988802,
+            40984.479369269626,
+            3028.446764945984
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.0674585000015213
+        },
+        {
+          "target_cm": [
+            -21059.52380952381,
+            41520.833333333336,
+            2806.7967621405983
+          ],
+          "actual_cm": [
+            -21079.92866410959,
+            41485.12483780825,
+            2818.4469137191772
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.0658956999977818
+        },
+        {
+          "target_cm": [
+            -20773.809523809523,
+            42020.833333333336,
+            2596.7967621405974
+          ],
+          "actual_cm": [
+            -20793.83410635709,
+            41985.79031387512,
+            2608.4467344284058
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.067530100001022
+        },
+        {
+          "target_cm": [
+            -20500.0,
+            42523.80952380953,
+            2386.7967621405965
+          ],
+          "actual_cm": [
+            -20519.70603364592,
+            42487.6418254863,
+            2415.946806866073
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.04924690000189
+        },
+        {
+          "target_cm": [
+            -20500.0,
+            43095.2380952381,
+            2176.796762140596
+          ],
+          "actual_cm": [
+            -20500.366007891927,
+            43052.34102522421,
+            2205.9467382015223
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.0311163999976998
+        },
+        {
+          "target_cm": [
+            -20500.0,
+            43666.66666666667,
+            1966.7967621405949
+          ],
+          "actual_cm": [
+            -20500.00800674209,
+            43624.00457673656,
+            1995.9468144954676
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.0492118000001938
+        },
+        {
+          "target_cm": [
+            -20500.0,
+            44238.095238095244,
+            1756.7967621405942
+          ],
+          "actual_cm": [
+            -20500.000171861284,
+            44195.71377697195,
+            1785.946734386825
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.050170499998785
+        },
+        {
+          "target_cm": [
+            -20381.81818181818,
+            44783.63636363637,
+            1546.7967621405933
+          ],
+          "actual_cm": [
+            -20390.5691669693,
+            44742.34024153279,
+            1575.9467267574305
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 1.999764000000141
+        },
+        {
+          "target_cm": [
+            -20163.636363636364,
+            45307.272727272735,
+            1336.7967621405924
+          ],
+          "actual_cm": [
+            -20179.609158613675,
+            45268.517849754884,
+            1365.9467801631922
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.0335876000026474
+        },
+        {
+          "target_cm": [
+            -19945.454545454544,
+            45830.90909090909,
+            1228.641827845
+          ],
+          "actual_cm": [
+            -19961.6238955298,
+            45792.094019350814,
+            1222.6228489459986
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.0327182000000903
+        },
+        {
+          "target_cm": [
+            -19727.272727272728,
+            46354.54545454545,
+            1229.9644007457389
+          ],
+          "actual_cm": [
+            -19743.48973506099,
+            46315.62445670535,
+            1224.2568087162012
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.033298599999398
+        },
+        {
+          "target_cm": [
+            -19509.090909090908,
+            46878.181818181816,
+            1219.1566507320822
+          ],
+          "actual_cm": [
+            -19525.39211537637,
+            46839.0589193326,
+            1216.430524784469
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.031403199998749
+        },
+        {
+          "target_cm": [
+            -19500.0,
+            47448.86363636364,
+            1192.4027275308763
+          ],
+          "actual_cm": [
+            -19501.043772994573,
+            47404.437653979236,
+            1192.3255614818568
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.0331154000014067
+        },
+        {
+          "target_cm": [
+            -19500.0,
+            48021.59090909091,
+            1150.2416945873847
+          ],
+          "actual_cm": [
+            -19500.023447463547,
+            47980.888728392405,
+            1149.8037137569422
+          ],
+          "correct_height": true,
+          "grounded": true,
+          "elapsed_wall_s": 2.065386199999921
+        }
+      ],
+      "passed": true
+    }
+  ],
+  "all_routes_passed": true,
+  "error": null,
+  "trace": [
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 0,
+      "position_cm": [
+        -22481.91061615587,
+        39031.6564217272,
+        3598.6499037742615
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 149.79249999927234,
+      "frame_delta_ms": 16.479402780532837
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 0,
+      "position_cm": [
+        -22462.455930668428,
+        39065.70212133023,
+        3596.149905204773
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001959,
+      "frame_delta_ms": 16.512401401996613
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 0,
+      "position_cm": [
+        -22439.318153805136,
+        39106.19323084107,
+        3596.149905204773
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.000000000136,
+      "frame_delta_ms": 16.53660088777542
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 0,
+      "position_cm": [
+        -22416.185461509423,
+        39146.6754423586,
+        3596.149905204773
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998847,
+      "frame_delta_ms": 16.462501138448715
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 0,
+      "position_cm": [
+        -22393.01096863421,
+        39187.23080489019,
+        3596.149905204773
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999986534,
+      "frame_delta_ms": 16.75809919834137
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 0,
+      "position_cm": [
+        -22369.894154679747,
+        39227.68522931053,
+        3596.149905204773
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000607,
+      "frame_delta_ms": 16.414500772953033
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 0,
+      "position_cm": [
+        -22346.74588937561,
+        39268.19469359285,
+        3591.42041349411
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000095,
+      "frame_delta_ms": 16.746602952480316
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 0,
+      "position_cm": [
+        -22323.62165738634,
+        39308.66209957406,
+        3583.9345741271973
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998556,
+      "frame_delta_ms": 16.552500426769257
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 0,
+      "position_cm": [
+        -22300.46828008635,
+        39349.18050984896,
+        3576.4487347602844
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999981725,
+      "frame_delta_ms": 16.725700348615646
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 0,
+      "position_cm": [
+        -22277.34190869733,
+        39389.651659779716,
+        3568.9631395339966
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002154,
+      "frame_delta_ms": 16.599897295236588
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 0,
+      "position_cm": [
+        -22254.183808053986,
+        39430.178335905475,
+        3561.4773001670837
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999983646,
+      "frame_delta_ms": 16.646098345518112
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 0,
+      "position_cm": [
+        -22231.035320736613,
+        39470.68818871082,
+        3553.9920196533203
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000017377,
+      "frame_delta_ms": 16.82809740304947
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 1,
+      "position_cm": [
+        -22208.945783527786,
+        39509.34487882623,
+        3546.450028896332
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000708,
+      "frame_delta_ms": 16.582001000642776
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 1,
+      "position_cm": [
+        -22185.805992502945,
+        39549.83951311972,
+        3538.8333311080933
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999422,
+      "frame_delta_ms": 16.67020097374916
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 1,
+      "position_cm": [
+        -22162.61966358242,
+        39590.41558873064,
+        3531.2168774604797
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998426,
+      "frame_delta_ms": 16.909100115299225
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 1,
+      "position_cm": [
+        -22139.525382671967,
+        39630.830580323964,
+        3523.600423812866
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000344,
+      "frame_delta_ms": 16.726098954677582
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 1,
+      "position_cm": [
+        -22116.3822992279,
+        39671.33097635112,
+        3515.9837260246277
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002206,
+      "frame_delta_ms": 16.69689640402794
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 1,
+      "position_cm": [
+        -22093.25652504917,
+        39711.80108116388,
+        3508.253014564514
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999546,
+      "frame_delta_ms": 16.498100012540817
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 1,
+      "position_cm": [
+        -22070.106064971325,
+        39752.31438630004,
+        3498.112879753113
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998341,
+      "frame_delta_ms": 16.725599765777588
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 1,
+      "position_cm": [
+        -22046.935364433164,
+        39792.86311224186,
+        3487.973069190979
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999993344,
+      "frame_delta_ms": 16.74089953303337
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 1,
+      "position_cm": [
+        -22023.749716042545,
+        39833.43799692544,
+        3477.8326902389526
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001467,
+      "frame_delta_ms": 16.858499497175217
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 1,
+      "position_cm": [
+        -22000.615676142363,
+        39873.922566750814,
+        3467.6927995681763
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000002244,
+      "frame_delta_ms": 16.6471004486084
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 1,
+      "position_cm": [
+        -21977.49498653123,
+        39914.3837735703,
+        3457.552664756775
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001974,
+      "frame_delta_ms": 16.57930016517639
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 1,
+      "position_cm": [
+        -21954.329175975658,
+        39954.92394204252,
+        3447.4128465652466
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999990985,
+      "frame_delta_ms": 16.73479750752449
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 2,
+      "position_cm": [
+        -21932.10191403674,
+        39993.8216504356,
+        3436.646735191345
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 258.3974078481604,
+      "frame_delta_ms": 16.803503036499023
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 2,
+      "position_cm": [
+        -21909.004826546032,
+        40034.24155354431,
+        3425.0466623306274
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999992883,
+      "frame_delta_ms": 16.48860052227974
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 2,
+      "position_cm": [
+        -21885.884734145176,
+        40074.70171524581,
+        3413.446810722351
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999979553,
+      "frame_delta_ms": 16.725100576877594
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 2,
+      "position_cm": [
+        -21862.72413287789,
+        40115.232767463545,
+        3395.9468126296997
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999967,
+      "frame_delta_ms": 16.664601862430573
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 2,
+      "position_cm": [
+        -21839.57822950417,
+        40155.7380983676,
+        3378.446837425232
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000815,
+      "frame_delta_ms": 16.702700406312943
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 2,
+      "position_cm": [
+        -21816.485392973154,
+        40196.150562296854,
+        3360.9468393325806
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000013915,
+      "frame_delta_ms": 16.40690118074417
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 2,
+      "position_cm": [
+        -21793.31135861472,
+        40236.705122424195,
+        3343.446841239929
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998808,
+      "frame_delta_ms": 16.66099950671196
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 2,
+      "position_cm": [
+        -21770.174387519513,
+        40277.1948218408,
+        3325.9469423294067
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000016007,
+      "frame_delta_ms": 16.80620014667511
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 2,
+      "position_cm": [
+        -21747.054711716835,
+        40317.65425449553,
+        3308.4468183517456
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.999999999979,
+      "frame_delta_ms": 16.667302697896957
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 2,
+      "position_cm": [
+        -21723.885539395258,
+        40358.20030605828,
+        3308.4468183517456
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999733,
+      "frame_delta_ms": 16.901899129152298
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 2,
+      "position_cm": [
+        -21700.756903368278,
+        40398.67541910541,
+        3290.946831703186
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999151,
+      "frame_delta_ms": 16.665901988744736
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 2,
+      "position_cm": [
+        -21677.625086187432,
+        40439.15609917187,
+        3273.4469175338745
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000886,
+      "frame_delta_ms": 16.53509959578514
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 2,
+      "position_cm": [
+        -21654.478821589462,
+        40479.66206221833,
+        3255.94677066803
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000018184,
+      "frame_delta_ms": 16.67119935154915
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 3,
+      "position_cm": [
+        -21632.339427229326,
+        40518.406002348616,
+        3238.4467725753784
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999684,
+      "frame_delta_ms": 16.467198729515076
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 3,
+      "position_cm": [
+        -21609.136344335162,
+        40559.01139741345,
+        3220.946774482727
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000002132,
+      "frame_delta_ms": 16.62600040435791
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 3,
+      "position_cm": [
+        -21586.006555806238,
+        40599.48852733908,
+        3203.446894645691
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999980463,
+      "frame_delta_ms": 16.57239720225334
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 3,
+      "position_cm": [
+        -21562.802667143955,
+        40640.09533249811,
+        3185.946976661682
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999996703,
+      "frame_delta_ms": 16.4170004427433
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 3,
+      "position_cm": [
+        -21539.666599109383,
+        40680.583451558676,
+        3168.4467344284058
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000239,
+      "frame_delta_ms": 16.668900847434998
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 3,
+      "position_cm": [
+        -21516.51579178022,
+        40721.09736438481,
+        3150.9467630386353
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000014796,
+      "frame_delta_ms": 16.715601086616516
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 3,
+      "position_cm": [
+        -21493.346869417554,
+        40761.64297851951,
+        3133.446764945984
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999605,
+      "frame_delta_ms": 16.896702349185944
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 3,
+      "position_cm": [
+        -21470.21163509678,
+        40802.129638580845,
+        3115.9467935562134
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000162,
+      "frame_delta_ms": 16.631800681352615
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 3,
+      "position_cm": [
+        -21447.10800427461,
+        40842.56099251968,
+        3098.446852684021
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999244,
+      "frame_delta_ms": 16.592200845479965
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 3,
+      "position_cm": [
+        -21423.90538041467,
+        40883.16558427457,
+        3080.9468545913696
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000017,
+      "frame_delta_ms": 16.98639988899231
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 3,
+      "position_cm": [
+        -21400.793914959497,
+        40923.61064882102,
+        3063.446883201599
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000195,
+      "frame_delta_ms": 16.704697161912918
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 3,
+      "position_cm": [
+        -21377.564381963537,
+        40964.262331563834,
+        3045.9469537734985
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001033,
+      "frame_delta_ms": 16.811002045869827
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 4,
+      "position_cm": [
+        -21355.464347129313,
+        41002.937392523745,
+        3028.446764945984
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999093,
+      "frame_delta_ms": 16.601700335741043
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 4,
+      "position_cm": [
+        -21332.306177139246,
+        41043.46419000639,
+        3010.9467668533325
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999992315,
+      "frame_delta_ms": 16.736499965190887
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 4,
+      "position_cm": [
+        -21309.189655062266,
+        41083.91810364118,
+        2993.4467725753784
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999985624,
+      "frame_delta_ms": 16.60209894180298
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 4,
+      "position_cm": [
+        -21286.039806167613,
+        41124.430339206905,
+        2975.946774482727
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001243,
+      "frame_delta_ms": 16.797900199890137
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 4,
+      "position_cm": [
+        -21262.913837403936,
+        41164.9007845434,
+        2958.4467992782593
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000005275,
+      "frame_delta_ms": 16.56540110707283
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 4,
+      "position_cm": [
+        -21239.680053554268,
+        41205.55990628032,
+        2940.946858406067
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000006395,
+      "frame_delta_ms": 17.09810271859169
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 4,
+      "position_cm": [
+        -21216.576020624314,
+        41245.9919639078,
+        2923.4468603134155
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001588,
+      "frame_delta_ms": 16.822997480630875
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 4,
+      "position_cm": [
+        -21193.449843302747,
+        41286.46277422048,
+        2905.946972846985
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001116,
+      "frame_delta_ms": 16.499601304531097
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 4,
+      "position_cm": [
+        -21170.269849261753,
+        41327.02776379212,
+        2888.4468488693237
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000708,
+      "frame_delta_ms": 16.894899308681488
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 4,
+      "position_cm": [
+        -21147.0954531615,
+        41367.582956967504,
+        2870.9469118118286
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000002814,
+      "frame_delta_ms": 16.879502683877945
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 4,
+      "position_cm": [
+        -21123.95442579749,
+        41408.07975485446,
+        2853.4467420578003
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000432,
+      "frame_delta_ms": 16.96230098605156
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 4,
+      "position_cm": [
+        -21100.798381234265,
+        41448.60283284004,
+        2835.9467935562134
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000197,
+      "frame_delta_ms": 16.903400421142578
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 5,
+      "position_cm": [
+        -21078.07640936129,
+        41488.366283617775,
+        2818.4469137191772
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 223.99989068500923,
+      "frame_delta_ms": 16.666699200868607
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 5,
+      "position_cm": [
+        -21055.548025562483,
+        41527.790955265664,
+        2800.946789741516
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.000000000001,
+      "frame_delta_ms": 16.228798776865005
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 5,
+      "position_cm": [
+        -21032.365239020088,
+        41568.360831714854,
+        2783.4467992782593
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000039,
+      "frame_delta_ms": 16.93439856171608
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 5,
+      "position_cm": [
+        -21009.251370233473,
+        41608.810102091455,
+        2783.4467992782593
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.999999999893,
+      "frame_delta_ms": 16.73489809036255
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 5,
+      "position_cm": [
+        -20986.120734017826,
+        41649.28871546878,
+        2765.9468851089478
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000478,
+      "frame_delta_ms": 16.52909815311432
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 5,
+      "position_cm": [
+        -20962.914956432207,
+        41689.898826243625,
+        2748.446936607361
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000606,
+      "frame_delta_ms": 16.993097960948944
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 5,
+      "position_cm": [
+        -20939.74711774227,
+        41730.44254395106,
+        2730.9467401504517
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998425,
+      "frame_delta_ms": 16.903698444366455
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 5,
+      "position_cm": [
+        -20916.614828071844,
+        41770.92405087431,
+        2713.4467420578003
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999992036,
+      "frame_delta_ms": 16.816001385450363
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 5,
+      "position_cm": [
+        -20893.436250982173,
+        41811.4865607813,
+        2695.946743965149
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000008487,
+      "frame_delta_ms": 16.648098826408386
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 5,
+      "position_cm": [
+        -20870.270189950217,
+        41852.02716758725,
+        2678.446864128113
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001236,
+      "frame_delta_ms": 16.872599720954895
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 5,
+      "position_cm": [
+        -20847.114312026264,
+        41892.54995395413,
+        2660.9469652175903
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999287,
+      "frame_delta_ms": 16.972001641988754
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 5,
+      "position_cm": [
+        -20823.96444967622,
+        41933.062213066645,
+        2643.4469747543335
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999981475,
+      "frame_delta_ms": 16.598697751760483
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 5,
+      "position_cm": [
+        -20800.75969987188,
+        41973.670525224225,
+        2625.946732521057
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000642,
+      "frame_delta_ms": 16.89080148935318
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 6,
+      "position_cm": [
+        -20778.88034758524,
+        42012.41898095849,
+        2608.4467344284058
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999987597,
+      "frame_delta_ms": 16.64779707789421
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 6,
+      "position_cm": [
+        -20756.36446174732,
+        42053.38577326415,
+        2590.9467363357544
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998244,
+      "frame_delta_ms": 16.96069911122322
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 6,
+      "position_cm": [
+        -20734.018236218904,
+        42094.322680062935,
+        2573.4467573165894
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001028,
+      "frame_delta_ms": 17.101097851991653
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 6,
+      "position_cm": [
+        -20711.738794331577,
+        42135.19695352854,
+        2555.946785926819
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000019304,
+      "frame_delta_ms": 16.709599643945694
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 6,
+      "position_cm": [
+        -20689.410295702062,
+        42176.17418145212,
+        2538.4467878341675
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999996584,
+      "frame_delta_ms": 16.832899302244186
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 6,
+      "position_cm": [
+        -20667.07285975045,
+        42217.170645145605,
+        2520.946900367737
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998735,
+      "frame_delta_ms": 16.860298812389374
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 6,
+      "position_cm": [
+        -20644.759880645215,
+        42258.12284792957,
+        2503.4467306137085
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000656,
+      "frame_delta_ms": 16.950000077486038
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 6,
+      "position_cm": [
+        -20622.464831295038,
+        42299.04228369171,
+        2485.946806866073
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999962,
+      "frame_delta_ms": 16.461502760648727
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 6,
+      "position_cm": [
+        -20600.05662306436,
+        42340.16943922576,
+        2468.446930843734
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998804,
+      "frame_delta_ms": 17.09429919719696
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 6,
+      "position_cm": [
+        -20577.72527272073,
+        42381.155540467145,
+        2450.9467229427332
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998633,
+      "frame_delta_ms": 16.715500503778458
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 6,
+      "position_cm": [
+        -20555.430334811328,
+        42422.0748136303,
+        2433.446785885238
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999985306,
+      "frame_delta_ms": 16.614001244306564
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 6,
+      "position_cm": [
+        -20533.071027362806,
+        42463.1122286896,
+        2415.946806866073
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000015217,
+      "frame_delta_ms": 17.119400203227997
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 7,
+      "position_cm": [
+        -20513.457495467217,
+        42502.670096977345,
+        2398.4468812526698
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 266.44740477163185,
+      "frame_delta_ms": 16.708198934793472
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 7,
+      "position_cm": [
+        -20506.4792806191,
+        42548.66499195353,
+        2380.9469823421473
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999984067,
+      "frame_delta_ms": 16.64559915661812
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 7,
+      "position_cm": [
+        -20504.65949725288,
+        42595.27608439699,
+        2363.446766811752
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000018053,
+      "frame_delta_ms": 16.736600548028946
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 7,
+      "position_cm": [
+        -20503.95446710561,
+        42641.8962228677,
+        2345.9468411983485
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999997874,
+      "frame_delta_ms": 16.886599361896515
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 7,
+      "position_cm": [
+        -20503.489863868548,
+        42688.4794855719,
+        2328.4469499172205
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001137,
+      "frame_delta_ms": 16.61050319671631
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 7,
+      "position_cm": [
+        -20503.076801774627,
+        42735.14360429665,
+        2310.946791607284
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001755,
+      "frame_delta_ms": 16.6935995221138
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 7,
+      "position_cm": [
+        -20502.676025585653,
+        42781.72181281355,
+        2293.446896511459
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000019526,
+      "frame_delta_ms": 16.630902886390686
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 7,
+      "position_cm": [
+        -20502.27710933695,
+        42828.38451539008,
+        2275.947005230331
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001457,
+      "frame_delta_ms": 16.483601182699203
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 7,
+      "position_cm": [
+        -20501.878122932547,
+        42875.124864042824,
+        2258.446885067367
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999875,
+      "frame_delta_ms": 16.85670018196106
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 7,
+      "position_cm": [
+        -20501.480144063942,
+        42921.76349421696,
+        2240.946890789413
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999985215,
+      "frame_delta_ms": 16.783397644758224
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 7,
+      "position_cm": [
+        -20501.082470029163,
+        42968.37040156315,
+        2223.446927029037
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999666,
+      "frame_delta_ms": 16.670100390911102
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 7,
+      "position_cm": [
+        -20500.684522620573,
+        43015.010403707565,
+        2205.9467382015223
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001591,
+      "frame_delta_ms": 16.657698899507523
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 8,
+      "position_cm": [
+        -20500.305287244995,
+        43060.068389863445,
+        2188.446740108871
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 241.23503159498122,
+      "frame_delta_ms": 16.674399375915527
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 8,
+      "position_cm": [
+        -20500.146713836424,
+        43106.252827351826,
+        2170.9467687191004
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999982015,
+      "frame_delta_ms": 16.508597880601883
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 8,
+      "position_cm": [
+        -20500.1053957942,
+        43152.90867491726,
+        2153.4470529140467
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999244,
+      "frame_delta_ms": 16.699999570846558
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 8,
+      "position_cm": [
+        -20500.08963718052,
+        43199.51895645422,
+        2153.4470529140467
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999997834,
+      "frame_delta_ms": 16.67970046401024
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 8,
+      "position_cm": [
+        -20500.079350530163,
+        43246.18459489518,
+        2135.946864086532
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000016547,
+      "frame_delta_ms": 16.793198883533478
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 8,
+      "position_cm": [
+        -20500.070263900645,
+        43292.80610603505,
+        2118.4469766201014
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998652,
+      "frame_delta_ms": 16.58419892191887
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 8,
+      "position_cm": [
+        -20500.06142662374,
+        43339.49058908437,
+        2100.946833568954
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000773,
+      "frame_delta_ms": 16.74959808588028
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 8,
+      "position_cm": [
+        -20500.05266287504,
+        43386.0939569301,
+        2083.446942287826
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999978564,
+      "frame_delta_ms": 16.804199665784836
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 8,
+      "position_cm": [
+        -20500.04388426825,
+        43432.846844219195,
+        2065.9467000545496
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999980514,
+      "frame_delta_ms": 16.915399581193924
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 8,
+      "position_cm": [
+        -20500.035129202704,
+        43479.490782713816,
+        2048.4467172206873
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000014586,
+      "frame_delta_ms": 16.7555995285511
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 8,
+      "position_cm": [
+        -20500.02638480907,
+        43526.081830729934,
+        2030.946719128036
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998994,
+      "frame_delta_ms": 16.5570005774498
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 8,
+      "position_cm": [
+        -20500.017636066717,
+        43572.697069886795,
+        2013.44675536766
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000008475,
+      "frame_delta_ms": 16.407500952482224
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 8,
+      "position_cm": [
+        -20500.00887857727,
+        43619.35920910659,
+        1995.9468144954676
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999204,
+      "frame_delta_ms": 16.742002218961716
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 9,
+      "position_cm": [
+        -20500.003774363493,
+        43663.994420521994,
+        1978.4468469203944
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000721,
+      "frame_delta_ms": 16.894899308681488
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 9,
+      "position_cm": [
+        -20500.002451165077,
+        43710.59742513499,
+        1960.9467267574305
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999179,
+      "frame_delta_ms": 16.781501471996307
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 9,
+      "position_cm": [
+        -20500.00201827987,
+        43757.17730048286,
+        1943.4467591823573
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000009885,
+      "frame_delta_ms": 16.51899889111519
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 9,
+      "position_cm": [
+        -20500.00177605932,
+        43803.82084864301,
+        1925.946776348495
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998811,
+      "frame_delta_ms": 16.68110117316246
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 9,
+      "position_cm": [
+        -20500.00157484952,
+        43850.56320893643,
+        1908.4468087734217
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999981543,
+      "frame_delta_ms": 16.664501279592514
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 9,
+      "position_cm": [
+        -20500.00138290485,
+        43897.25782844265,
+        1890.9468373836512
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000015166,
+      "frame_delta_ms": 16.68749749660492
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 9,
+      "position_cm": [
+        -20500.001193151515,
+        43943.90619250936,
+        1873.4468965114588
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000014694,
+      "frame_delta_ms": 16.82649925351143
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 9,
+      "position_cm": [
+        -20500.001003814214,
+        43990.56323709852,
+        1855.9467458309168
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.000000000135,
+      "frame_delta_ms": 16.774702817201614
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 9,
+      "position_cm": [
+        -20500.000814746578,
+        44037.179512855706,
+        1838.4467477382655
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000008714,
+      "frame_delta_ms": 16.421198844909668
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 9,
+      "position_cm": [
+        -20500.000625526736,
+        44083.839468684724,
+        1820.9468106807703
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000010976,
+      "frame_delta_ms": 16.5925994515419
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 9,
+      "position_cm": [
+        -20500.00043661682,
+        44130.42455318229,
+        1803.446854549789
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001206,
+      "frame_delta_ms": 16.67630299925804
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 9,
+      "position_cm": [
+        -20500.00024745125,
+        44177.0731123052,
+        1785.946734386825
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001241,
+      "frame_delta_ms": 16.702696681022644
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 10,
+      "position_cm": [
+        -20498.253081078154,
+        44221.51651412048,
+        1768.4467362941737
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001762,
+      "frame_delta_ms": 16.792401671409607
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 10,
+      "position_cm": [
+        -20490.61493699434,
+        44267.48930714704,
+        1750.9467420162196
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999992184,
+      "frame_delta_ms": 16.508299857378006
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 10,
+      "position_cm": [
+        -20481.356377353255,
+        44313.320051062154,
+        1733.4468011440272
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001383,
+      "frame_delta_ms": 16.92109927535057
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 10,
+      "position_cm": [
+        -20471.78805994006,
+        44358.93514818326,
+        1715.9468144954676
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999986613,
+      "frame_delta_ms": 16.72140136361122
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 10,
+      "position_cm": [
+        -20462.148044514164,
+        44404.52821005947,
+        1698.4468507350916
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001943,
+      "frame_delta_ms": 16.649000346660614
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 10,
+      "position_cm": [
+        -20452.47037584039,
+        44450.220086953304,
+        1680.9467572750086
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001869,
+      "frame_delta_ms": 16.74940064549446
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 10,
+      "position_cm": [
+        -20442.817832788885,
+        44495.775839456735,
+        1663.4467782558436
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000019463,
+      "frame_delta_ms": 16.488302499055862
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 10,
+      "position_cm": [
+        -20433.14098753032,
+        44541.44233112425,
+        1645.9467153133387
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998468,
+      "frame_delta_ms": 16.62459969520569
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 10,
+      "position_cm": [
+        -20423.472210409785,
+        44587.06983289986,
+        1628.446900326156
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001086,
+      "frame_delta_ms": 16.676899045705795
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 10,
+      "position_cm": [
+        -20413.80198426655,
+        44632.70395393633,
+        1610.946806866073
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998123,
+      "frame_delta_ms": 16.845300793647766
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 10,
+      "position_cm": [
+        -20404.136651821962,
+        44678.314926376486,
+        1593.446843105697
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999985215,
+      "frame_delta_ms": 16.62430167198181
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 10,
+      "position_cm": [
+        -20394.44079593071,
+        44724.06992458205,
+        1575.9467267574305
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999991303,
+      "frame_delta_ms": 17.044801265001297
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 11,
+      "position_cm": [
+        -20383.752038050578,
+        44767.20805095686,
+        1558.4467172206873
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001725,
+      "frame_delta_ms": 16.656700521707535
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 11,
+      "position_cm": [
+        -20367.649536128705,
+        44810.98413111322,
+        1540.9467687191004
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000013347,
+      "frame_delta_ms": 16.778402030467987
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 11,
+      "position_cm": [
+        -20350.24477504573,
+        44854.22311387146,
+        1523.4467820705408
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999991917,
+      "frame_delta_ms": 16.770102083683014
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 11,
+      "position_cm": [
+        -20332.555793503754,
+        44897.36079836558,
+        1505.946833568954
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000723,
+      "frame_delta_ms": 16.767598688602448
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 11,
+      "position_cm": [
+        -20314.804822021393,
+        44940.47805193477,
+        1488.446843105697
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000752,
+      "frame_delta_ms": 16.683198511600494
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 11,
+      "position_cm": [
+        -20297.026761917496,
+        44983.623728224884,
+        1470.946719128036
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998228,
+      "frame_delta_ms": 16.481399536132812
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 11,
+      "position_cm": [
+        -20279.24873779094,
+        45026.7610607175,
+        1453.446740108871
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999878,
+      "frame_delta_ms": 16.654599457979202
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 11,
+      "position_cm": [
+        -20261.47217261532,
+        45069.89299813937,
+        1435.9467954219813
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998795,
+      "frame_delta_ms": 16.724299639463425
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 11,
+      "position_cm": [
+        -20243.701080192408,
+        45113.01123049617,
+        1418.4467744411463
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999996857,
+      "frame_delta_ms": 16.693096607923508
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 11,
+      "position_cm": [
+        -20225.91714843074,
+        45156.16051386117,
+        1400.946776348495
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000015365,
+      "frame_delta_ms": 16.61759987473488
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 11,
+      "position_cm": [
+        -20208.060004543157,
+        45199.48740702713,
+        1383.4467782558436
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000232,
+      "frame_delta_ms": 16.666799783706665
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 11,
+      "position_cm": [
+        -20190.286688274795,
+        45242.61090198347,
+        1365.9467801631922
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000008004,
+      "frame_delta_ms": 16.192100942134857
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 12,
+      "position_cm": [
+        -20173.289115393578,
+        45283.816636410964,
+        1348.4468392909998
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 273.8720488751792,
+      "frame_delta_ms": 16.564100980758667
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 12,
+      "position_cm": [
+        -20155.391672674446,
+        45326.91189119365,
+        1330.946776348495
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999002,
+      "frame_delta_ms": 16.660600900650024
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 12,
+      "position_cm": [
+        -20137.474778491534,
+        45369.95021140483,
+        1313.4467935146326
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000911,
+      "frame_delta_ms": 16.681000590324402
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 12,
+      "position_cm": [
+        -20119.53172140303,
+        45413.02922982501,
+        1295.9468259395594
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999981395,
+      "frame_delta_ms": 16.621999442577362
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 12,
+      "position_cm": [
+        -20101.59385095127,
+        45456.09102660196,
+        1278.4468583644862
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000007896,
+      "frame_delta_ms": 16.499698162078857
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 12,
+      "position_cm": [
+        -20083.658444197506,
+        45499.14587212394,
+        1260.9467458309168
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000751,
+      "frame_delta_ms": 16.621697694063187
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 12,
+      "position_cm": [
+        -20065.72100731811,
+        45542.20536246087,
+        1243.4467668117518
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999994805,
+      "frame_delta_ms": 16.76030084490776
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 12,
+      "position_cm": [
+        -20047.791810694896,
+        45585.245020572365,
+        1225.9468221248621
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999999636,
+      "frame_delta_ms": 16.649801284074783
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 12,
+      "position_cm": [
+        -20029.85530972874,
+        45628.30220129394,
+        1222.6228489459986
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998781,
+      "frame_delta_ms": 16.567301005125046
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 12,
+      "position_cm": [
+        -20011.922576602934,
+        45671.35033442474,
+        1222.6228489459986
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001346,
+      "frame_delta_ms": 16.32539927959442
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 12,
+      "position_cm": [
+        -19993.93573763087,
+        45714.528349789674,
+        1222.6228489459986
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999994986,
+      "frame_delta_ms": 16.633503139019012
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 12,
+      "position_cm": [
+        -19975.99307675009,
+        45757.60031397274,
+        1222.6228489459986
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001424,
+      "frame_delta_ms": 16.741100698709488
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 13,
+      "position_cm": [
+        -19958.655076011462,
+        45799.220646319984,
+        1222.6228489459986
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 240.99867512599403,
+      "frame_delta_ms": 16.621798276901245
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 13,
+      "position_cm": [
+        -19940.882736090938,
+        45841.87807226793,
+        1222.6228489459986
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999998425,
+      "frame_delta_ms": 16.784701496362686
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 13,
+      "position_cm": [
+        -19922.948417620595,
+        45884.92141934688,
+        1222.8763904155726
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998728,
+      "frame_delta_ms": 16.800597310066223
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 13,
+      "position_cm": [
+        -19904.997306612415,
+        45928.00445342185,
+        1222.8763904155726
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000006816,
+      "frame_delta_ms": 16.66339859366417
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 13,
+      "position_cm": [
+        -19887.056422076657,
+        45971.06281136615,
+        1222.8763904155726
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001646,
+      "frame_delta_ms": 16.21590182185173
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 13,
+      "position_cm": [
+        -19869.098307744884,
+        46014.162492291565,
+        1223.1824636043543
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000538,
+      "frame_delta_ms": 16.73300191760063
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 13,
+      "position_cm": [
+        -19851.180909693365,
+        46057.164447374314,
+        1223.5404972614283
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999990433,
+      "frame_delta_ms": 16.57489687204361
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 13,
+      "position_cm": [
+        -19833.23355075644,
+        46100.238307507585,
+        1223.8986529888148
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000007054,
+      "frame_delta_ms": 16.56309887766838
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 13,
+      "position_cm": [
+        -19815.2750243606,
+        46143.33896934445,
+        1224.2568087162012
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999984874,
+      "frame_delta_ms": 16.513898968696594
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 13,
+      "position_cm": [
+        -19797.33852090826,
+        46186.38677579846,
+        1224.2568087162012
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999985295,
+      "frame_delta_ms": 16.651298850774765
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 13,
+      "position_cm": [
+        -19779.403880545782,
+        46229.43011079798,
+        1224.2568087162012
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999013,
+      "frame_delta_ms": 16.581300646066666
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 13,
+      "position_cm": [
+        -19761.415286211468,
+        46272.60293592119,
+        1224.2568087162012
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999989683,
+      "frame_delta_ms": 17.0121006667614
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 13,
+      "position_cm": [
+        -19743.48973506099,
+        46315.62445670535,
+        1224.2568087162012
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000013773,
+      "frame_delta_ms": 16.59270003437996
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 14,
+      "position_cm": [
+        -19726.31080574966,
+        46356.853987937604,
+        1224.2568087162012
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999586,
+      "frame_delta_ms": 16.96619763970375
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 14,
+      "position_cm": [
+        -19708.404631801874,
+        46399.828831567414,
+        1224.2568087162012
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000010346,
+      "frame_delta_ms": 16.526799649000168
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 14,
+      "position_cm": [
+        -19690.451972027087,
+        46442.915223929915,
+        1224.0052232326502
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998821,
+      "frame_delta_ms": 16.569100320339203
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 14,
+      "position_cm": [
+        -19672.477697084367,
+        46486.05348897695,
+        1224.0052232326502
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998348,
+      "frame_delta_ms": 16.922999173402786
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 14,
+      "position_cm": [
+        -19654.571579990006,
+        46529.028174364925,
+        1224.0052232326502
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999989967,
+      "frame_delta_ms": 16.710400581359863
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 14,
+      "position_cm": [
+        -19636.61825057107,
+        46572.11616916691,
+        1223.6777100147242
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000017,
+      "frame_delta_ms": 16.436100006103516
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 14,
+      "position_cm": [
+        -19618.675938482742,
+        46615.177722333574,
+        1223.6777100147242
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998161,
+      "frame_delta_ms": 16.728900372982025
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 14,
+      "position_cm": [
+        -19600.752816678178,
+        46658.19321880584,
+        1222.3047866405482
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998993,
+      "frame_delta_ms": 16.642998903989792
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 14,
+      "position_cm": [
+        -19582.794813435255,
+        46701.292430736205,
+        1221.1164335788721
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001337,
+      "frame_delta_ms": 16.766201704740524
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 14,
+      "position_cm": [
+        -19564.86761037401,
+        46744.31772222292,
+        1219.5545453609461
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999495,
+      "frame_delta_ms": 16.587302088737488
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 14,
+      "position_cm": [
+        -19546.908810377285,
+        46787.418846361914,
+        1217.9925350727076
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000004997,
+      "frame_delta_ms": 16.859401017427444
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 14,
+      "position_cm": [
+        -19528.975845495937,
+        46830.45796621811,
+        1216.430524784469
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000016803,
+      "frame_delta_ms": 16.666702926158905
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 15,
+      "position_cm": [
+        -19516.961128666087,
+        46873.04084874403,
+        1214.868636566543
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999742,
+      "frame_delta_ms": 16.682200133800507
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 15,
+      "position_cm": [
+        -19513.17803038564,
+        46919.49304470367,
+        1213.3066262783045
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999996555,
+      "frame_delta_ms": 16.746599227190018
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 15,
+      "position_cm": [
+        -19511.503401623948,
+        46966.10865412576,
+        1209.6844353260035
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999643,
+      "frame_delta_ms": 16.519103199243546
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 15,
+      "position_cm": [
+        -19510.28185991177,
+        47012.751213150055,
+        1209.22911449089
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999990604,
+      "frame_delta_ms": 16.77979901432991
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 15,
+      "position_cm": [
+        -19509.15883028418,
+        47059.37712118047,
+        1208.7737936557764
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999007,
+      "frame_delta_ms": 16.246099025011063
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 15,
+      "position_cm": [
+        -19508.05724481603,
+        47106.00217014496,
+        1207.3874425472254
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999049,
+      "frame_delta_ms": 16.614899039268494
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 15,
+      "position_cm": [
+        -19506.960341503196,
+        47152.63001728576,
+        1205.9031910480494
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000000954,
+      "frame_delta_ms": 16.58950001001358
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 15,
+      "position_cm": [
+        -19505.864654701567,
+        47199.25167663796,
+        1203.8713321269984
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999997306,
+      "frame_delta_ms": 16.729403287172318
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 15,
+      "position_cm": [
+        -19504.76894810569,
+        47245.88470511981,
+        1200.9848589481348
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999295,
+      "frame_delta_ms": 16.668997704982758
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 15,
+      "position_cm": [
+        -19503.671428131973,
+        47292.59743048309,
+        1198.0985078395838
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999999567,
+      "frame_delta_ms": 16.787100583314896
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 15,
+      "position_cm": [
+        -19502.578084111705,
+        47339.133048145304,
+        1195.2120346607203
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000021436,
+      "frame_delta_ms": 16.601700335741043
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 15,
+      "position_cm": [
+        -19501.48125454044,
+        47385.81719306813,
+        1192.3255614818568
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000011573,
+      "frame_delta_ms": 16.77520200610161
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 16,
+      "position_cm": [
+        -19500.62786516029,
+        47430.331935874055,
+        1189.4392103733057
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999992946,
+      "frame_delta_ms": 16.637500375509262
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 16,
+      "position_cm": [
+        -19500.37542692454,
+        47476.9816981199,
+        1186.5527371944422
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999989836,
+      "frame_delta_ms": 16.670700162649155
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 16,
+      "position_cm": [
+        -19500.30028961283,
+        47523.581697061665,
+        1183.6662640155787
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000017985,
+      "frame_delta_ms": 16.630899161100388
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 16,
+      "position_cm": [
+        -19500.262958955158,
+        47570.23010230165,
+        1180.3514461101527
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000001023,
+      "frame_delta_ms": 16.690202057361603
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 16,
+      "position_cm": [
+        -19500.2337603751,
+        47616.94568486536,
+        1176.4639963687891
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999984726,
+      "frame_delta_ms": 16.89939945936203
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 16,
+      "position_cm": [
+        -19500.206445327553,
+        47663.4846728003,
+        1172.5766686977381
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001882,
+      "frame_delta_ms": 16.677498817443848
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 16,
+      "position_cm": [
+        -19500.179455559777,
+        47710.13706056933,
+        1168.6892189563746
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001381,
+      "frame_delta_ms": 16.62369817495346
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 16,
+      "position_cm": [
+        -19500.152553914188,
+        47756.78928149625,
+        1164.8018912853236
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.9999999998075,
+      "frame_delta_ms": 16.41550287604332
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 16,
+      "position_cm": [
+        -19500.125702601068,
+        47803.38911368601,
+        1160.91444154396
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.0000000001881,
+      "frame_delta_ms": 16.591299325227737
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 16,
+      "position_cm": [
+        -19500.098813999346,
+        47850.061913574515,
+        1157.0269774974818
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999985204,
+      "frame_delta_ms": 16.630999743938446
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 16,
+      "position_cm": [
+        -19500.071925263335,
+        47896.736982165115,
+        1153.1396498264307
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 280.00000000000784,
+      "frame_delta_ms": 16.72700047492981
+    },
+    {
+      "route": "AqueductTrail connected approach",
+      "waypoint": 16,
+      "position_cm": [
+        -19500.045006739318,
+        47943.46429764563,
+        1149.8037137569422
+      ],
+      "movement_mode": "<MovementMode.MOVE_WALKING: 1>",
+      "speed_cm_s": 279.99999999982964,
+      "frame_delta_ms": 16.57789945602417
+    }
+  ],
+  "frame_pacing": {
+    "source": "GameplayStatics.get_world_delta_seconds; one sample per unique engine frame after warmup",
+    "samples": 2088,
+    "mean_ms": 16.662198563117062,
+    "median_ms": 16.66080206632614,
+    "p95_ms": 16.96069911122322,
+    "max_ms": 18.98059993982315,
+    "scope": "PIE world delta including editor overhead; not GPU/CPU profiler timings"
+  },
+  "memory": {
+    "editor_process_working_set_bytes": 6228606976,
+    "editor_process_private_bytes": 27144298496,
+    "scope": "Entire editor process with PIE, not standalone game or GPU memory"
+  },
+  "wall_seconds": 37.083528600000136
+}

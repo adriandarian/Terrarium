@@ -1,0 +1,20 @@
+{
+  "groups": [
+    {
+      "mesh": "/Game/Terrarium/WorldExpansion/Forest/SM_WX_BroadTree5m.SM_WX_BroadTree5m",
+      "foliage_type": "/Game/Terrarium/WorldExpansion/Forest/FT_WX_BroadTree5m.FT_WX_BroadTree5m",
+      "instances": 2200,
+      "collision": true,
+      "actual_lods": 3
+    },
+    {
+      "mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover",
+      "foliage_type": "/Game/Terrarium/WorldExpansion/Forest/FT_WX_ShrubGroundcover.FT_WX_ShrubGroundcover",
+      "instances": 734,
+      "collision": false,
+      "actual_lods": 3
+    }
+  ],
+  "seed": 60117,
+  "source_meshes_modified": false
+}

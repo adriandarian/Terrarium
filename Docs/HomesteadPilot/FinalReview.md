@@ -1,0 +1,17 @@
+# Integrated pilot review
+
+**Historical initial pilot review.** The [homestead continuation review](Completion/Review.md) and [latest visual gallery](Completion/review.html) supersede the remaining-art, water and latest-performance status below. Seventeen additional art families, fourteen retained environment variants and 190 animated water tiles are integrated and saved/reopened. The original eleven families and 5,841 grass tiles are preserved.
+
+Correction after user review: the final exported LOD0 screenshot omitted the retained grass terrain even though the saved scene still contained all 5,841 visible grass instances. The exact renderer timing cause was not isolated. A fresh native capture at the same camera and LOD0 shows the floor intact without changing any terrain geometry. The rejected screenshot is retained under GrassCheck for diagnosis; the review image has been replaced and cache-versioned. LOD1 and LOD2 were inspected separately and show the grass. The reopen verifier now also checks the retained grass count, visibility and transform hash, rather than checking only the eleven new mesh families.
+
+The final StartingHome map was saved, another level was opened, and StartingHome was reopened on 2026-09-27. All eleven pilot mesh families, instance counts and transform hashes survived. The original HomesteadBlender map's SHA-256 remains unchanged. See [map persistence](reopen-verification.json) and [saved runtime readback](Runtime/saved-runtime-verification.json).
+
+Native Unreal captures in LOD0, LOD1 and LOD2 use the same detail-distance camera. Inspection caught coarse cottage roof gaps; the final authored RoofRepairV2 LOD1/2 meshes close the main-roof and cross-gable steps while preserving tile highpoints and overall bounds. The final captures show the roof coverage restored. Automatic LOD selection was restored before the last save. These static comparisons do not certify invisible transitions in motion.
+
+The new cottage, bridge, fence, stairs, fine cliff surfaces, broad trees and planting were inspected in close and wider views. All eleven families are present in the map. The remaining inherited buildings, props, character figures and water still use the existing art. This is a substantial art and traversal pilot, not final visual approval of the entire collection or the open world.
+
+Fresh default Play starts on clear ground beside the cottage and follows the explorer. The fresh-spawn check injected no movement or teleportation. The independent movement harness passed cottage entry/exit, stairs up/down and both bridge spans out/back with gravity and collision. Physical held-key control is implemented but remains unverified by the available synchronous key tool.
+
+The latest gameplay-view sample measured 23.58 ms mean, 52.40 ms p95 and 117.17 ms maximum across 848 frames. It ran in the editor while a separate Blender source worker was active. The sample does not isolate the cause of slower frames or establish shipping-game performance. The earlier concept-view sample is preserved separately. District profiling, simpler structural collision, navigation and streaming remain future work.
+
+The review page was opened in the browser. The before/after control responded, and selecting LOD2 updated the selected tab, image and triangle count. Final world and three LOD images are included. Python sources parse and the tracked diff passes whitespace validation.

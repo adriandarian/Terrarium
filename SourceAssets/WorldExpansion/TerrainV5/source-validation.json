@@ -1,0 +1,2347 @@
+{
+  "revision": 5,
+  "assets": [
+    {
+      "name": "VoxelGround_0_0",
+      "triangles": 2918,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_0_0",
+      "triangles": 12785,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_0_1",
+      "triangles": 1144,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_0_1",
+      "triangles": 46524,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_0_2",
+      "triangles": 754,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_0_2",
+      "triangles": 53178,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_0_3",
+      "triangles": 2690,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_0_3",
+      "triangles": 17942,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_0_4",
+      "triangles": 3200,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_0_4",
+      "triangles": 6320,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_0_5",
+      "triangles": 2310,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_0_5",
+      "triangles": 20492,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_0_6",
+      "triangles": 636,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_0_6",
+      "triangles": 54124,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_0_7",
+      "triangles": 1058,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_0_7",
+      "triangles": 48912,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_1_0",
+      "triangles": 902,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_1_0",
+      "triangles": 49646,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_1_1",
+      "triangles": 2650,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_1_1",
+      "triangles": 15950,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_1_2",
+      "triangles": 2424,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_1_2",
+      "triangles": 15574,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_1_3",
+      "triangles": 3166,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_1_3",
+      "triangles": 7020,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_1_4",
+      "triangles": 3200,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_1_4",
+      "triangles": 6400,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_1_5",
+      "triangles": 2822,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_1_5",
+      "triangles": 11550,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_1_6",
+      "triangles": 980,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_1_6",
+      "triangles": 50022,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_1_7",
+      "triangles": 520,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_1_7",
+      "triangles": 60303,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_2_0",
+      "triangles": 1472,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_2_0",
+      "triangles": 36500,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_2_1",
+      "triangles": 3032,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_2_1",
+      "triangles": 9796,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_2_2",
+      "triangles": 2852,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_2_2",
+      "triangles": 3473,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_2_3",
+      "triangles": 3074,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_2_3",
+      "triangles": 5479,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_2_4",
+      "triangles": 3004,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_2_4",
+      "triangles": 4584,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_2_5",
+      "triangles": 2890,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_2_5",
+      "triangles": 2887,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_2_6",
+      "triangles": 2290,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_2_6",
+      "triangles": 18450,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_2_7",
+      "triangles": 1150,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_2_7",
+      "triangles": 52054,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_3_0",
+      "triangles": 3200,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_3_0",
+      "triangles": 6648,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_3_1",
+      "triangles": 3200,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_3_1",
+      "triangles": 6356,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_3_2",
+      "triangles": 3198,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_3_2",
+      "triangles": 6358,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_3_3",
+      "triangles": 2858,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_3_3",
+      "triangles": 4468,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_3_4",
+      "triangles": 2802,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_3_4",
+      "triangles": 4189,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_3_5",
+      "triangles": 3190,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_3_5",
+      "triangles": 6114,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_3_6",
+      "triangles": 2868,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_3_6",
+      "triangles": 11410,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_3_7",
+      "triangles": 1110,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_3_7",
+      "triangles": 42728,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_4_0",
+      "triangles": 3200,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_4_0",
+      "triangles": 4982,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_4_1",
+      "triangles": 3200,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_4_1",
+      "triangles": 4902,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_4_2",
+      "triangles": 3200,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_4_2",
+      "triangles": 4867,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_4_3",
+      "triangles": 2862,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_4_3",
+      "triangles": 3555,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_4_4",
+      "triangles": 2818,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_4_4",
+      "triangles": 3269,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_4_5",
+      "triangles": 3108,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_4_5",
+      "triangles": 4344,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_4_6",
+      "triangles": 2980,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_4_6",
+      "triangles": 8156,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_4_7",
+      "triangles": 1850,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_4_7",
+      "triangles": 22236,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_5_0",
+      "triangles": 3200,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_5_0",
+      "triangles": 6319,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_5_1",
+      "triangles": 3200,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_5_1",
+      "triangles": 6400,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_5_2",
+      "triangles": 3200,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_5_2",
+      "triangles": 3011,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_5_3",
+      "triangles": 3180,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_5_3",
+      "triangles": 5969,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_5_4",
+      "triangles": 3006,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_5_4",
+      "triangles": 4252,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_5_5",
+      "triangles": 3042,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_5_5",
+      "triangles": 848,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_5_6",
+      "triangles": 2182,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_5_6",
+      "triangles": 21386,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_5_7",
+      "triangles": 1850,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_5_7",
+      "triangles": 32634,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_6_0",
+      "triangles": 2270,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_6_0",
+      "triangles": 23126,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_6_1",
+      "triangles": 1592,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_6_1",
+      "triangles": 36556,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_6_2",
+      "triangles": 3022,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_6_2",
+      "triangles": 12674,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_6_3",
+      "triangles": 3156,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_6_3",
+      "triangles": 5918,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_6_4",
+      "triangles": 2926,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_6_4",
+      "triangles": 7442,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_6_5",
+      "triangles": 2698,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_6_5",
+      "triangles": 10326,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_6_6",
+      "triangles": 1246,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_6_6",
+      "triangles": 47330,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_6_7",
+      "triangles": 594,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_6_7",
+      "triangles": 66252,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_7_0",
+      "triangles": 1456,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_7_0",
+      "triangles": 37738,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_7_1",
+      "triangles": 576,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_7_1",
+      "triangles": 54416,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_7_2",
+      "triangles": 2458,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_7_2",
+      "triangles": 21777,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_7_3",
+      "triangles": 3148,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_7_3",
+      "triangles": 8872,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_7_4",
+      "triangles": 1050,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_7_4",
+      "triangles": 44162,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_7_5",
+      "triangles": 628,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_7_5",
+      "triangles": 57844,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_7_6",
+      "triangles": 1952,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_7_6",
+      "triangles": 26988,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelGround_7_7",
+      "triangles": 1946,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelRock_7_7",
+      "triangles": 27436,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelHomeGround",
+      "triangles": 27306,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    },
+    {
+      "name": "VoxelHomeRock",
+      "triangles": 50468,
+      "source_sha_verified": true,
+      "zero_area_triangles": 0,
+      "zero_uv_triangles": 0
+    }
+  ],
+  "total_triangles": 1552357,
+  "geometry_non_degenerate": true,
+  "all_uv_faces_nonzero": true,
+  "uv_repeat_m": 2,
+  "protected_route_cells_checked": 177,
+  "protected_route_samples": [
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        35.0,
+        65.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        45.0,
+        65.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        55.0,
+        65.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        65.0,
+        65.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        75.0,
+        65.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        75.0,
+        65.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        93.28571428571428,
+        71.85714285714286
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        111.57142857142857,
+        78.71428571428571
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        129.85714285714286,
+        85.57142857142857
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        148.14285714285714,
+        92.42857142857143
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        155.0,
+        95.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        169.44444444444446,
+        96.11111111111111
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        183.88888888888889,
+        97.22222222222223
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        198.33333333333331,
+        98.33333333333333
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        212.77777777777777,
+        99.44444444444444
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        220.0,
+        100.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        240.0,
+        109.5
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        260.0,
+        119.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        280.0,
+        128.5
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        300.0,
+        138.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        300.0,
+        138.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        300.0,
+        167.87755102040816
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        300.0,
+        197.75510204081633
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        300.0,
+        227.6326530612245
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "CityRoad",
+      "xy_m": [
+        300.0,
+        257.51020408163265
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -68.19999999999999,
+        51.4
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -82.6,
+        50.2
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -85.0,
+        50.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -101.25,
+        65.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -117.5,
+        80.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -133.75,
+        95.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -150.0,
+        110.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -150.0,
+        110.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -151.93103448275863,
+        126.89655172413794
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -153.86206896551724,
+        143.79310344827587
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -155.79310344827587,
+        160.68965517241378
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -157.72413793103448,
+        177.58620689655174
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -158.0,
+        180.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -172.88,
+        180.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -187.76,
+        180.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -202.64,
+        180.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "BrookmereRoad",
+      "xy_m": [
+        -217.51999999999998,
+        180.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        155.0,
+        95.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        159.74576271186442,
+        60.59322033898305
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        164.4915254237288,
+        26.186440677966104
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        169.23728813559322,
+        -8.220338983050851
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        173.98305084745763,
+        -42.62711864406779
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        175.0,
+        -50.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        171.3265306122449,
+        -79.38775510204081
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        167.6530612244898,
+        -108.77551020408163
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        163.9795918367347,
+        -138.16326530612247
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        160.30612244897958,
+        -167.55102040816325
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        160.0,
+        -170.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        169.23076923076923,
+        -181.53846153846155
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        178.46153846153845,
+        -193.07692307692307
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        187.69230769230768,
+        -204.6153846153846
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        196.92307692307693,
+        -216.15384615384616
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        200.0,
+        -220.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        219.3939393939394,
+        -224.36363636363637
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        238.78787878787878,
+        -228.72727272727272
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        258.1818181818182,
+        -233.0909090909091
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        277.57575757575756,
+        -237.45454545454544
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        280.0,
+        -238.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        280.0,
+        -252.88
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        280.0,
+        -267.76
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        280.0,
+        -282.64
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "ReedbankRoad",
+      "xy_m": [
+        280.0,
+        -297.52
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -85.0,
+        50.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -85.0,
+        15.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -85.0,
+        -20.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -85.0,
+        -55.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -85.0,
+        -90.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -85.0,
+        -95.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -107.23404255319149,
+        -110.2127659574468
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -129.46808510638297,
+        -125.42553191489361
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -151.70212765957447,
+        -140.63829787234042
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -173.93617021276594,
+        -155.85106382978722
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -180.0,
+        -160.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -199.1304347826087,
+        -179.1304347826087
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -218.26086956521738,
+        -198.26086956521738
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -237.3913043478261,
+        -217.3913043478261
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -256.52173913043475,
+        -236.52173913043478
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -260.0,
+        -240.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -264.3448275862069,
+        -256.8965517241379
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -268.6896551724138,
+        -273.7931034482759
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -273.0344827586207,
+        -290.6896551724138
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -277.37931034482756,
+        -307.58620689655174
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -278.0,
+        -310.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -292.88,
+        -310.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -307.76,
+        -310.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -322.64,
+        -310.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "HighfieldRoad",
+      "xy_m": [
+        -337.52,
+        -310.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -220.0,
+        180.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -220.0,
+        194.88
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -220.0,
+        209.76
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -220.0,
+        224.64
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -220.0,
+        239.51999999999998
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -220.0,
+        242.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -225.35714285714286,
+        246.92857142857142
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -230.71428571428572,
+        251.85714285714286
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -236.07142857142858,
+        256.7857142857143
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -241.42857142857142,
+        261.7142857142857
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -245.0,
+        265.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -251.42857142857142,
+        268.2142857142857
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -257.85714285714283,
+        271.42857142857144
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -264.2857142857143,
+        274.64285714285717
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -270.7142857142857,
+        277.85714285714283
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -275.0,
+        280.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -286.25,
+        284.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -297.5,
+        288.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -308.75,
+        292.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -320.0,
+        296.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -320.0,
+        296.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -320.0,
+        318.2631578947368
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -320.0,
+        340.5263157894737
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -320.0,
+        362.7894736842105
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "StonegateRoad",
+      "xy_m": [
+        -320.0,
+        385.0526315789474
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -220.0,
+        180.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -234.88,
+        180.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -249.76,
+        180.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -264.64,
+        180.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -279.52,
+        180.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -282.0,
+        180.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -293.73333333333335,
+        155.55555555555554
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -305.46666666666664,
+        131.11111111111111
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -317.2,
+        106.66666666666667
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -328.93333333333334,
+        82.22222222222223
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -330.0,
+        80.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -337.2413793103448,
+        46.206896551724135
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -344.48275862068965,
+        12.41379310344827
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -351.7241379310345,
+        -21.379310344827587
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -358.9655172413793,
+        -55.17241379310346
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -360.0,
+        -60.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -366.0,
+        -88.8
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -372.0,
+        -117.6
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -378.0,
+        -146.39999999999998
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -384.0,
+        -175.2
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -385.0,
+        -180.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -374.09090909090907,
+        -196.4848484848485
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -363.1818181818182,
+        -212.96969696969697
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -352.27272727272725,
+        -229.45454545454544
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -341.3636363636364,
+        -245.93939393939394
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -340.0,
+        -248.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -340.0,
+        -262.88
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -340.0,
+        -277.76
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -340.0,
+        -292.64
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "WesternTradeRoad",
+      "xy_m": [
+        -340.0,
+        -307.52
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        300.0,
+        260.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        329.8775510204082,
+        260.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        359.7551020408163,
+        260.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        389.63265306122446,
+        260.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        419.51020408163265,
+        260.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        422.0,
+        260.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        430.94117647058823,
+        231.76470588235293
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        439.88235294117646,
+        203.52941176470588
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        448.8235294117647,
+        175.2941176470588
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        457.7647058823529,
+        147.05882352941177
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        460.0,
+        140.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        452.741935483871,
+        103.70967741935485
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        445.48387096774195,
+        67.41935483870968
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        438.2258064516129,
+        31.129032258064512
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        430.9677419354839,
+        -5.161290322580641
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        430.0,
+        -10.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        419.2857142857143,
+        -45.714285714285715
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        408.57142857142856,
+        -81.42857142857143
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        397.85714285714283,
+        -117.14285714285714
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        387.14285714285717,
+        -152.85714285714286
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        385.0,
+        -160.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        374.79661016949154,
+        -193.22033898305085
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        364.59322033898303,
+        -226.4406779661017
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        354.3898305084746,
+        -259.66101694915255
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        344.1864406779661,
+        -292.8813559322034
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        342.0,
+        -300.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        327.12,
+        -300.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        312.24,
+        -300.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        297.36,
+        -300.0
+      ],
+      "exact_source_cell_preserved": true
+    },
+    {
+      "route": "EasternTradeRoad",
+      "xy_m": [
+        282.48,
+        -300.0
+      ],
+      "exact_source_cell_preserved": true
+    }
+  ],
+  "forest_xy_order_scale_and_yaw_unchanged": true,
+  "forest_count": 2200,
+  "home_apron_opening_preserved_m": [
+    -65,
+    -65,
+    65,
+    65
+  ],
+  "live_editor_validation": "pending coordinator"
+}

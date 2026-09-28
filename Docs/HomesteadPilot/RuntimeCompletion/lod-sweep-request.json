@@ -1,0 +1,11 @@
+{
+  "capture_stills": true,
+  "output_tag": "FinalBuildings",
+  "seconds_per_actor": 16,
+  "actor_labels": [
+    "Reference_Cottage",
+    "Blender_Lodge_UpperTerrace",
+    "Blender_CivicHall_NorthPath",
+    "Blender_HomesteadCompound_WestClearing"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "key": "MossCliff4m",
+  "name": "MossCliff4m",
+  "mesh_name": "SM_Pilot_MossCliff4m",
+  "bounds_m": {
+    "min": [
+      -2.0187952518463135,
+      -2.022965669631958,
+      0.0
+    ],
+    "max": [
+      2.0188636779785156,
+      2.0187458992004395,
+      2.0139999389648438
+    ]
+  },
+  "dimensions_m": [
+    4.037658929824829,
+    4.0417115688323975,
+    2.0139999389648438
+  ],
+  "origin": "base-center, Z-up, metres",
+  "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/MossCliff4m/SM_Pilot_MossCliff4m.fbx",
+  "fbx_path": "SourceAssets/Blender/HomesteadPilot/Landscape/MossCliff4m/SM_Pilot_MossCliff4m.fbx",
+  "blend_path": "SourceAssets/Blender/HomesteadPilot/Landscape/MossCliff4m/MossCliff4m.blend",
+  "preview_path": "Docs/HomesteadPilot/Landscape/MossCliff4m.png",
+  "vertices": 12696,
+  "triangles": 23276,
+  "material_slots": [
+    {
+      "slot": 0,
+      "name": "M_PilotLandscape_StoneShade",
+      "color_hex": "69654f",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/StoneShade_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 1,
+      "name": "M_PilotLandscape_StoneLight",
+      "color_hex": "999075",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/StoneLight_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 2,
+      "name": "M_PilotLandscape_Stone",
+      "color_hex": "827b60",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/Stone_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 3,
+      "name": "M_PilotLandscape_Moss",
+      "color_hex": "66713d",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/Moss_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    },
+    {
+      "slot": 4,
+      "name": "M_PilotLandscape_Grass",
+      "color_hex": "77804b",
+      "base_color_texture": "SourceAssets/Blender/HomesteadPilot/Landscape/Textures/Grass_BaseColor.png",
+      "roughness": 0.92,
+      "specular": 0.18,
+      "texels_per_metre": 512
+    }
+  ],
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/Landscape/MossCliff4m/SM_Pilot_MossCliff4m.fbx",
+      "triangles": 23276
+    }
+  ],
+  "collision_notes": "Use simple authored-envelope collision for terrain/path; ramp proxy on stair; trunk-only on tree; no collision on foliage/crops. Runtime integration owns collision creation.",
+  "traversal": {
+    "walkable_width_m": null,
+    "stair_riser_m": null,
+    "stair_tread_m": null
+  },
+  "geometry": "Exterior-only voxel canopy surfaces; closed chamfered solids for stone and wood. No internal voxel faces.",
+  "uv_mapping": "Dominant-axis world-unit UV, repeating 1m authored surface textures",
+  "lod_status": "source LOD0 only; runtime LOD/traversal agent owns integration",
+  "validation": "exported, render saved, packaged normal Blender project; Unreal appearance pending"
+}

@@ -1,0 +1,46 @@
+{
+  "meshes": [
+    {
+      "asset": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "method": "authored FBX LODs imported in Unreal",
+      "lod_count": 3,
+      "triangles": [
+        43496,
+        12516,
+        6876
+      ],
+      "screen_sizes": [
+        1.0,
+        0.30000001192092896,
+        0.10000000149011612
+      ],
+      "material_slots": [
+        "M_HP_Roof",
+        "M_HP_Wood",
+        "M_HP_Plaster",
+        "M_HP_Stone",
+        "M_HP_Teal",
+        "M_HP_Iron",
+        "M_HP_Moss",
+        "M_HP_Brass"
+      ],
+      "materials": [
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Roof.M_HP_Roof",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Wood.M_HP_Wood",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Plaster.M_HP_Plaster",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Stone.M_HP_Stone",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Teal.M_HP_Teal",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Iron.M_HP_Iron",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Moss.M_HP_Moss",
+        "/Game/Terrarium/HomesteadPilot/Architecture/Materials/M_HP_Brass.M_HP_Brass"
+      ],
+      "auto_screen_sizes": false,
+      "nanite_enabled": false,
+      "collision": "complex_as_simple",
+      "collision_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+    }
+  ],
+  "scope": "Filtered rebuild only; run finalize_meshes.py for complete receipt",
+  "visual_transition_validation": "Not provided by asset setup; inspect in motion and forced LOD views",
+  "static_collision_policy": "LOD0 per-triangle, no enclosing doorway box; pilot static meshes only"
+}

@@ -1,0 +1,318 @@
+[
+  {
+    "actor": "Reference_BlueShed",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Environment/Meshes/SM_Env_BlueShed.SM_Env_BlueShed",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BlueShed.SM_HP_BlueShed",
+    "mesh_diffs": {
+      "collision_flag": [
+        "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+      ]
+    },
+    "component_diffs": {},
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Reference_Tower",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_7.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Environment/Meshes/SM_Env_Tower.SM_Env_Tower",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Tower.SM_HP_Tower",
+    "mesh_diffs": {
+      "collision_flag": [
+        "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+      ]
+    },
+    "component_diffs": {},
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Reference_Lantern",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_8.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/Lantern/SM_Blender_Lantern.SM_Blender_Lantern",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Lantern.SM_HP_Lantern",
+    "mesh_diffs": {
+      "collision_flag": [
+        "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+      ]
+    },
+    "component_diffs": {},
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_Sign_Courtyard",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_85.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/Sign/SM_Blender_Sign.SM_Blender_Sign",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Sign.SM_HP_Sign",
+    "mesh_diffs": {
+      "collision_flag": [
+        "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+      ]
+    },
+    "component_diffs": {},
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_MarketStall_UpperPath",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_86.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/MarketStall/SM_Blender_MarketStall.SM_Blender_MarketStall",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_MarketStall.SM_HP_MarketStall",
+    "mesh_diffs": {},
+    "component_diffs": {},
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_Lodge_UpperTerrace",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_87.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/Lodge/SM_Blender_Lodge.SM_Blender_Lodge",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Lodge.SM_HP_Lodge",
+    "mesh_diffs": {},
+    "component_diffs": {},
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_CivicHall_NorthPath",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_88.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/CivicHall/SM_Blender_CivicHall.SM_Blender_CivicHall",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_CivicHall.SM_HP_CivicHall",
+    "mesh_diffs": {},
+    "component_diffs": {},
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_BridgeThreshold_South",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_117.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/BridgeThreshold/SM_Blender_BridgeThreshold.SM_Blender_BridgeThreshold",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BridgeThreshold.SM_HP_BridgeThreshold",
+    "mesh_diffs": {},
+    "component_diffs": {},
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_MossTonic_MarketCounter",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_90.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/MossTonic/SM_Blender_MossTonic.SM_Blender_MossTonic",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_MossTonic.SM_HP_MossTonic",
+    "mesh_diffs": {},
+    "component_diffs": {
+      "collision_enabled": [
+        "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "<CollisionEnabled.NO_COLLISION: 0>"
+      ],
+      "collision_profile": [
+        "BlockAll",
+        "NoCollision"
+      ]
+    },
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_TrailPrism_MarketCounter",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_115.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/TrailPrism/SM_Blender_TrailPrism.SM_Blender_TrailPrism",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_TrailPrism.SM_HP_TrailPrism",
+    "mesh_diffs": {},
+    "component_diffs": {
+      "collision_enabled": [
+        "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "<CollisionEnabled.NO_COLLISION: 0>"
+      ],
+      "collision_profile": [
+        "BlockAll",
+        "NoCollision"
+      ]
+    },
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_EmberCrest_MarketFront",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_119.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/EmberCrest/SM_Blender_EmberCrest.SM_Blender_EmberCrest",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_EmberCrest.SM_HP_EmberCrest",
+    "mesh_diffs": {},
+    "component_diffs": {
+      "collision_enabled": [
+        "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "<CollisionEnabled.NO_COLLISION: 0>"
+      ],
+      "collision_profile": [
+        "BlockAll",
+        "NoCollision"
+      ]
+    },
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_DeepDelverMark_MarketFront",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_120.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/DeepDelverMark/SM_Blender_DeepDelverMark.SM_Blender_DeepDelverMark",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_DeepDelverMark.SM_HP_DeepDelverMark",
+    "mesh_diffs": {},
+    "component_diffs": {
+      "collision_enabled": [
+        "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "<CollisionEnabled.NO_COLLISION: 0>"
+      ],
+      "collision_profile": [
+        "BlockAll",
+        "NoCollision"
+      ]
+    },
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_Grove_MarketCounter",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_122.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/Grove/SM_Blender_Grove.SM_Blender_Grove",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Grove.SM_HP_Grove",
+    "mesh_diffs": {},
+    "component_diffs": {
+      "collision_enabled": [
+        "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "<CollisionEnabled.NO_COLLISION: 0>"
+      ],
+      "collision_profile": [
+        "BlockAll",
+        "NoCollision"
+      ]
+    },
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_Tide_MarketCounter",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_123.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/Tide/SM_Blender_Tide.SM_Blender_Tide",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Tide.SM_HP_Tide",
+    "mesh_diffs": {
+      "collision_flag": [
+        "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+      ]
+    },
+    "component_diffs": {
+      "collision_enabled": [
+        "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "<CollisionEnabled.NO_COLLISION: 0>"
+      ],
+      "collision_profile": [
+        "BlockAll",
+        "NoCollision"
+      ]
+    },
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_Ember_MarketCounter",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_124.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/Ember/SM_Blender_Ember.SM_Blender_Ember",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Ember.SM_HP_Ember",
+    "mesh_diffs": {
+      "collision_flag": [
+        "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+      ]
+    },
+    "component_diffs": {
+      "collision_enabled": [
+        "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "<CollisionEnabled.NO_COLLISION: 0>"
+      ],
+      "collision_profile": [
+        "BlockAll",
+        "NoCollision"
+      ]
+    },
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_Storm_MarketCounter",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_128.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/Storm/SM_Blender_Storm.SM_Blender_Storm",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Storm.SM_HP_Storm",
+    "mesh_diffs": {
+      "collision_flag": [
+        "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+      ]
+    },
+    "component_diffs": {
+      "collision_enabled": [
+        "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "<CollisionEnabled.NO_COLLISION: 0>"
+      ],
+      "collision_profile": [
+        "BlockAll",
+        "NoCollision"
+      ]
+    },
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  },
+  {
+    "actor": "Blender_HomesteadCompound_WestClearing",
+    "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_135.StaticMeshComponent0",
+    "source": "/Game/Terrarium/Blender/HomesteadCompound/SM_Blender_HomesteadCompound.SM_Blender_HomesteadCompound",
+    "target": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_HomesteadCompound.SM_HP_HomesteadCompound",
+    "mesh_diffs": {
+      "collision_flag": [
+        "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>"
+      ]
+    },
+    "component_diffs": {},
+    "prior_simple_primitives": 0,
+    "prior_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+    "prior_profile": "BlockAll",
+    "prior_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>"
+  }
+]

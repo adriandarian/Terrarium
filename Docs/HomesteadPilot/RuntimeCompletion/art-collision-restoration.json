@@ -1,0 +1,517 @@
+{
+  "restored_components": 17,
+  "all_match_inherited": true,
+  "rows": [
+    {
+      "actor": "Reference_BlueShed",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_6.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BlueShed.SM_HP_BlueShed",
+      "source": "/Game/Terrarium/Environment/Meshes/SM_Env_BlueShed.SM_Env_BlueShed",
+      "source_sha256": "12960a772660190639172092a36718ac63c7491253d65109c134bcb64e733570",
+      "source_disk_unchanged": true,
+      "mesh_saved": true,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "True"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Reference_Tower",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_7.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Tower.SM_HP_Tower",
+      "source": "/Game/Terrarium/Environment/Meshes/SM_Env_Tower.SM_Env_Tower",
+      "source_sha256": "a82d4580c367401fa57ab45a41aa6f424ff52d8b61ad294cac6feb6326743bc9",
+      "source_disk_unchanged": true,
+      "mesh_saved": true,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "True"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Reference_Lantern",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_8.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Lantern.SM_HP_Lantern",
+      "source": "/Game/Terrarium/Blender/Lantern/SM_Blender_Lantern.SM_Blender_Lantern",
+      "source_sha256": "8a1be8ffe493f8c49898cf5094a351aa0df50ae9cd81d9d2673eb080ef7dec6f",
+      "source_disk_unchanged": true,
+      "mesh_saved": true,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "True"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_Sign_Courtyard",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_85.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Sign.SM_HP_Sign",
+      "source": "/Game/Terrarium/Blender/Sign/SM_Blender_Sign.SM_Blender_Sign",
+      "source_sha256": "5149dea0dfd03e31043991ea66c61496cbe6ad3a714932573cb4f5c88690fa49",
+      "source_disk_unchanged": true,
+      "mesh_saved": true,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "True"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_MarketStall_UpperPath",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_86.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_MarketStall.SM_HP_MarketStall",
+      "source": "/Game/Terrarium/Blender/MarketStall/SM_Blender_MarketStall.SM_Blender_MarketStall",
+      "source_sha256": "8b4e9793bb7d3fc855c60aee30342c0075af1d023f50303c2cff3172a7c888d1",
+      "source_disk_unchanged": true,
+      "mesh_saved": true,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "True"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_Lodge_UpperTerrace",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_87.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Lodge.SM_HP_Lodge",
+      "source": "/Game/Terrarium/Blender/Lodge/SM_Blender_Lodge.SM_Blender_Lodge",
+      "source_sha256": "0ec3c9f1f3fef19352d77a9732c54d9c57ec9468e8cd83fd30e5dd3816dcb09c",
+      "source_disk_unchanged": true,
+      "mesh_saved": true,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "True"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_CivicHall_NorthPath",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_88.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_CivicHall.SM_HP_CivicHall",
+      "source": "/Game/Terrarium/Blender/CivicHall/SM_Blender_CivicHall.SM_Blender_CivicHall",
+      "source_sha256": "f43616ca814779b3e7e6398879fd24ff8b0640c44d47d28c1d6d4144f5aa383a",
+      "source_disk_unchanged": true,
+      "mesh_saved": true,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "True"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_BridgeThreshold_South",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_117.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BridgeThreshold.SM_HP_BridgeThreshold",
+      "source": "/Game/Terrarium/Blender/BridgeThreshold/SM_Blender_BridgeThreshold.SM_Blender_BridgeThreshold",
+      "source_sha256": "ccabfcf64f3e3d0fb056a0e280999bfea01478a42a25eb3f0e73b829bc18f9c4",
+      "source_disk_unchanged": true,
+      "mesh_saved": true,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "True"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_MossTonic_MarketCounter",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_90.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_MossTonic.SM_HP_MossTonic",
+      "source": "/Game/Terrarium/Blender/MossTonic/SM_Blender_MossTonic.SM_Blender_MossTonic",
+      "source_sha256": "84cd27629db9268f1e7d30299d218a58d0ee2a00633af13468a842781406de9f",
+      "source_disk_unchanged": true,
+      "mesh_saved": false,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "NoCollision",
+        "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_TrailPrism_MarketCounter",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_115.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_TrailPrism.SM_HP_TrailPrism",
+      "source": "/Game/Terrarium/Blender/TrailPrism/SM_Blender_TrailPrism.SM_Blender_TrailPrism",
+      "source_sha256": "340f1d8d3c6e74e3226d6456a4ce554d3dd9b46b7d20d767ef098b5c0485a72d",
+      "source_disk_unchanged": true,
+      "mesh_saved": false,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "NoCollision",
+        "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_EmberCrest_MarketFront",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_119.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_EmberCrest.SM_HP_EmberCrest",
+      "source": "/Game/Terrarium/Blender/EmberCrest/SM_Blender_EmberCrest.SM_Blender_EmberCrest",
+      "source_sha256": "b0695286c939a49715a9d3e38a4833a6591a02d005cfd625d775c392c469730d",
+      "source_disk_unchanged": true,
+      "mesh_saved": false,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "NoCollision",
+        "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_DeepDelverMark_MarketFront",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_120.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_DeepDelverMark.SM_HP_DeepDelverMark",
+      "source": "/Game/Terrarium/Blender/DeepDelverMark/SM_Blender_DeepDelverMark.SM_Blender_DeepDelverMark",
+      "source_sha256": "563950041dc951924943ecb9051f453b756eddc707675fb26cf7abe107da1d4a",
+      "source_disk_unchanged": true,
+      "mesh_saved": false,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "NoCollision",
+        "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_Grove_MarketCounter",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_122.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Grove.SM_HP_Grove",
+      "source": "/Game/Terrarium/Blender/Grove/SM_Blender_Grove.SM_Blender_Grove",
+      "source_sha256": "bd684d3c9817bbab52d63cefe596401f89b38bd2278d92d4d7e49a484cad701b",
+      "source_disk_unchanged": true,
+      "mesh_saved": false,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "NoCollision",
+        "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_Tide_MarketCounter",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_123.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Tide.SM_HP_Tide",
+      "source": "/Game/Terrarium/Blender/Tide/SM_Blender_Tide.SM_Blender_Tide",
+      "source_sha256": "893346363af5cec99accabe862cd33cae14ab50b244f0e4307cc867467633aeb",
+      "source_disk_unchanged": true,
+      "mesh_saved": true,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "NoCollision",
+        "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_Ember_MarketCounter",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_124.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Ember.SM_HP_Ember",
+      "source": "/Game/Terrarium/Blender/Ember/SM_Blender_Ember.SM_Blender_Ember",
+      "source_sha256": "db558b9f1b363a935dbf8856e79aad4a0e351f382e5e75dc6bb3beb54ac51ddd",
+      "source_disk_unchanged": true,
+      "mesh_saved": true,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "NoCollision",
+        "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_Storm_MarketCounter",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_128.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Storm.SM_HP_Storm",
+      "source": "/Game/Terrarium/Blender/Storm/SM_Blender_Storm.SM_Blender_Storm",
+      "source_sha256": "0190365244025b378bf414d6ecdf0d441f3d8c850249ead2e032504efd8b1a95",
+      "source_disk_unchanged": true,
+      "mesh_saved": true,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "NoCollision",
+        "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    },
+    {
+      "actor": "Blender_HomesteadCompound_WestClearing",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.StaticMeshActor_135.StaticMeshComponent0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_HomesteadCompound.SM_HP_HomesteadCompound",
+      "source": "/Game/Terrarium/Blender/HomesteadCompound/SM_Blender_HomesteadCompound.SM_Blender_HomesteadCompound",
+      "source_sha256": "c9686af5b920072870c9b290c8a166a56d406af23e105d427b9a21f3b9533fe0",
+      "source_disk_unchanged": true,
+      "mesh_saved": true,
+      "body_before": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+        "double_sided_geometry": "True"
+      },
+      "body_after": {
+        "collision_trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+        "double_sided_geometry": "False"
+      },
+      "collision_lod": 0,
+      "simple_collision_primitives": 0,
+      "component_before": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "component_after": {
+        "collision_profile": "BlockAll",
+        "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+        "overlaps": false
+      },
+      "matches_inherited_policy": true
+    }
+  ],
+  "scope": "Restores source BodySetup flags/collision LOD and pre-integration component profiles/enabled/overlap flags on private art copies. All original and target simple collision counts are zero. No simplification, baseline save or visual LOD changes."
+}

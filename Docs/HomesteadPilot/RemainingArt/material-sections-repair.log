@@ -1,0 +1,92 @@
+00:02.172  blend            | Read blend: "C:\Users\hello\Projects\Terrarium\SourceAssets\Blender\HomesteadCompound\HomesteadCompound.blend"
+C:\Users\hello\Projects\Terrarium\Scripts\HomesteadPilot\RemainingArt\build_remaining_art.py:92: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  images = {n.image for m in materials if m.use_nodes for n in m.node_tree.nodes if n.type == 'TEX_IMAGE' and n.image}
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\HomesteadCompound\\SM_HP_HomesteadCompound_LOD0.fbx'
+export finished in 0.4167 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\HomesteadCompound\\SM_HP_HomesteadCompound_LOD1.fbx'
+export finished in 0.1685 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\HomesteadCompound\\SM_HP_HomesteadCompound_LOD2.fbx'
+export finished in 0.0462 sec.
+Info: Saved as "HomesteadCompound.blend"
+PILOT_ASSET_COMPLETE HomesteadCompound [436212, 177716, 48468]
+00:18.078  blend            | Read blend: "C:\Users\hello\Projects\Terrarium\SourceAssets\Blender\MossTonic\MossTonic.blend"
+C:\Users\hello\Projects\Terrarium\Scripts\HomesteadPilot\RemainingArt\build_remaining_art.py:92: DeprecationWarning: 'Material.use_nodes' is expected to be removed in Blender 6.0
+  images = {n.image for m in materials if m.use_nodes for n in m.node_tree.nodes if n.type == 'TEX_IMAGE' and n.image}
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\MossTonic\\SM_HP_MossTonic_LOD0.fbx'
+export finished in 0.0447 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\MossTonic\\SM_HP_MossTonic_LOD1.fbx'
+export finished in 0.0253 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\MossTonic\\SM_HP_MossTonic_LOD2.fbx'
+export finished in 0.0145 sec.
+Info: Saved as "MossTonic.blend"
+PILOT_ASSET_COMPLETE MossTonic [47396, 21684, 7940]
+00:20.015  blend            | Read blend: "C:\Users\hello\Projects\Terrarium\SourceAssets\Blender\TrailPrism\TrailPrism.blend"
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\TrailPrism\\SM_HP_TrailPrism_LOD0.fbx'
+export finished in 0.0200 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\TrailPrism\\SM_HP_TrailPrism_LOD1.fbx'
+export finished in 0.0162 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\TrailPrism\\SM_HP_TrailPrism_LOD2.fbx'
+export finished in 0.0109 sec.
+Info: Saved as "TrailPrism.blend"
+PILOT_ASSET_COMPLETE TrailPrism [17432, 7816, 2584]
+00:20.781  blend            | Read blend: "C:\Users\hello\Projects\Terrarium\SourceAssets\Blender\EmberCrest\EmberCrest.blend"
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\EmberCrest\\SM_HP_EmberCrest_LOD0.fbx'
+export finished in 0.0598 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\EmberCrest\\SM_HP_EmberCrest_LOD1.fbx'
+export finished in 0.0296 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\EmberCrest\\SM_HP_EmberCrest_LOD2.fbx'
+export finished in 0.0136 sec.
+Info: Saved as "EmberCrest.blend"
+PILOT_ASSET_COMPLETE EmberCrest [65624, 26820, 7400]
+00:23.093  blend            | Read blend: "C:\Users\hello\Projects\Terrarium\SourceAssets\Blender\DeepDelverMark\DeepDelverMark.blend"
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\DeepDelverMark\\SM_HP_DeepDelverMark_LOD0.fbx'
+export finished in 0.0657 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\DeepDelverMark\\SM_HP_DeepDelverMark_LOD1.fbx'
+export finished in 0.0274 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\DeepDelverMark\\SM_HP_DeepDelverMark_LOD2.fbx'
+export finished in 0.0145 sec.
+Info: Saved as "DeepDelverMark.blend"
+PILOT_ASSET_COMPLETE DeepDelverMark [64948, 26532, 7304]
+00:25.359  blend            | Read blend: "C:\Users\hello\Projects\Terrarium\SourceAssets\Blender\Grove\Grove.blend"
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\Grove\\SM_HP_Grove_LOD0.fbx'
+export finished in 0.0168 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\Grove\\SM_HP_Grove_LOD1.fbx'
+export finished in 0.0140 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\Grove\\SM_HP_Grove_LOD2.fbx'
+export finished in 0.0082 sec.
+Info: Saved as "Grove.blend"
+PILOT_ASSET_COMPLETE Grove [11772, 4796, 1308]
+00:25.906  blend            | Read blend: "C:\Users\hello\Projects\Terrarium\SourceAssets\Blender\Storm\Storm.blend"
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\Storm\\SM_HP_Storm_LOD0.fbx'
+export finished in 0.0149 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\Storm\\SM_HP_Storm_LOD1.fbx'
+export finished in 0.0113 sec.
+
+FBX export starting... 'C:\\Users\\hello\\Projects\\Terrarium\\SourceAssets\\Blender\\HomesteadPilot\\RemainingArt\\Storm\\SM_HP_Storm_LOD2.fbx'
+export finished in 0.0084 sec.
+Info: Saved as "Storm.blend"
+PILOT_ASSET_COMPLETE Storm [8796, 4002, 1338]
+REMAINING_ART_BATCH_COMPLETE 15
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+
+Blender quit

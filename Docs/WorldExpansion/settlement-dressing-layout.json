@@ -1,0 +1,10198 @@
+{
+  "map": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion",
+  "assets": {
+    "Cottage": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Cottage.SM_WX_Cottage",
+    "Fence": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+    "Bridge": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Bridge.SM_Bridge",
+    "MossCliff4m": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_MossCliff4m.SM_MossCliff4m",
+    "FineCliffColumn1m": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_FineCliffColumn1m.SM_FineCliffColumn1m",
+    "BroadTree5m": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+    "ShrubGroundcover": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_ShrubGroundcover.SM_ShrubGroundcover",
+    "WornPath2m": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WornPath2m.SM_WornPath2m",
+    "StoneStairs2mRise": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_StoneStairs2mRise.SM_StoneStairs2mRise",
+    "WheatPatch2m": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_WheatPatch2m.SM_WheatPatch2m",
+    "GardenPatch2m": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_GardenPatch2m.SM_GardenPatch2m",
+    "Lodge": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Lodge.SM_WX_Lodge",
+    "CivicHall": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_CivicHall.SM_WX_CivicHall",
+    "HomesteadCompound": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_HomesteadCompound.SM_WX_HomesteadCompound",
+    "MarketStall": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_MarketStall.SM_WX_MarketStall",
+    "Sign": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Sign.SM_HP_Sign",
+    "Lantern": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Lantern.SM_HP_Lantern",
+    "MossTonic": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_MossTonic.SM_HP_MossTonic",
+    "TrailPrism": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_TrailPrism.SM_HP_TrailPrism",
+    "EmberCrest": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_EmberCrest.SM_HP_EmberCrest",
+    "DeepDelverMark": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_DeepDelverMark.SM_HP_DeepDelverMark",
+    "Grove": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Grove.SM_HP_Grove",
+    "Tide": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Tide.SM_HP_Tide",
+    "Ember": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Ember.SM_HP_Ember",
+    "Storm": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Storm.SM_HP_Storm",
+    "BridgeThreshold": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BridgeThreshold.SM_HP_BridgeThreshold",
+    "BlueShed": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BlueShed.SM_HP_BlueShed",
+    "Tower": "/Game/Terrarium/WorldExpansion/Architecture/Meshes/SM_WX_Tower.SM_WX_Tower",
+    "GardenWell": "/Game/Terrarium/Meshes/SM_GardenWell_v2_Detail"
+  },
+  "placements": [
+    {
+      "label": "WX_Dressing_Lodge_00000",
+      "asset": "Lodge",
+      "location_m": [
+        222,
+        250,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00002",
+      "asset": "Cottage",
+      "location_m": [
+        232,
+        250,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00004",
+      "asset": "Cottage",
+      "location_m": [
+        246,
+        250,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00006",
+      "asset": "Cottage",
+      "location_m": [
+        260,
+        250,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Lodge_00008",
+      "asset": "Lodge",
+      "location_m": [
+        274,
+        250,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00010",
+      "asset": "Cottage",
+      "location_m": [
+        326,
+        250,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00012",
+      "asset": "Cottage",
+      "location_m": [
+        340,
+        250,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00014",
+      "asset": "Cottage",
+      "location_m": [
+        354,
+        250,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Lodge_00016",
+      "asset": "Lodge",
+      "location_m": [
+        368,
+        250,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00018",
+      "asset": "Cottage",
+      "location_m": [
+        378,
+        250,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00020",
+      "asset": "Cottage",
+      "location_m": [
+        202,
+        270,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00022",
+      "asset": "Cottage",
+      "location_m": [
+        222,
+        270,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Lodge_00024",
+      "asset": "Lodge",
+      "location_m": [
+        378,
+        270,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00026",
+      "asset": "Cottage",
+      "location_m": [
+        398,
+        270,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00028",
+      "asset": "Cottage",
+      "location_m": [
+        290,
+        230,
+        24
+      ],
+      "yaw_deg": -90,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00030",
+      "asset": "Cottage",
+      "location_m": [
+        290,
+        202,
+        24
+      ],
+      "yaw_deg": -90,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Lodge_00032",
+      "asset": "Lodge",
+      "location_m": [
+        310,
+        230,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00034",
+      "asset": "Cottage",
+      "location_m": [
+        310,
+        202,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00036",
+      "asset": "Cottage",
+      "location_m": [
+        285,
+        316,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00038",
+      "asset": "Cottage",
+      "location_m": [
+        285,
+        360,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Lodge_00040",
+      "asset": "Lodge",
+      "location_m": [
+        315,
+        316,
+        24
+      ],
+      "yaw_deg": -90,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00042",
+      "asset": "Cottage",
+      "location_m": [
+        315,
+        360,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00044",
+      "asset": "Cottage",
+      "location_m": [
+        199,
+        246,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_Cottage_00046",
+      "asset": "Cottage",
+      "location_m": [
+        401,
+        246,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.96,
+        0.96,
+        0.96
+      ],
+      "kind": "infill_building"
+    },
+    {
+      "label": "WX_Dressing_GardenWell_00624",
+      "asset": "GardenWell",
+      "location_m": [
+        300,
+        271,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.18,
+        1.18,
+        1.18
+      ],
+      "kind": "market_focal"
+    },
+    {
+      "label": "WX_Dressing_MarketStall_00625",
+      "asset": "MarketStall",
+      "location_m": [
+        295,
+        273,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        0.92,
+        0.92,
+        0.92
+      ],
+      "kind": "market_stall"
+    },
+    {
+      "label": "WX_Dressing_MarketStall_00627",
+      "asset": "MarketStall",
+      "location_m": [
+        305,
+        273,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        0.92,
+        0.92,
+        0.92
+      ],
+      "kind": "market_stall"
+    }
+  ],
+  "instances": [
+    {
+      "label": "WX_Dressing_WornPath2m_00001",
+      "asset": "WornPath2m",
+      "location_m": [
+        222.0,
+        253.8,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00003",
+      "asset": "WornPath2m",
+      "location_m": [
+        232.0,
+        253.8,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00005",
+      "asset": "WornPath2m",
+      "location_m": [
+        246.0,
+        253.8,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00007",
+      "asset": "WornPath2m",
+      "location_m": [
+        260.0,
+        253.8,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00009",
+      "asset": "WornPath2m",
+      "location_m": [
+        274.0,
+        253.8,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00011",
+      "asset": "WornPath2m",
+      "location_m": [
+        326.0,
+        253.8,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00013",
+      "asset": "WornPath2m",
+      "location_m": [
+        340.0,
+        253.8,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00015",
+      "asset": "WornPath2m",
+      "location_m": [
+        354.0,
+        253.8,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00017",
+      "asset": "WornPath2m",
+      "location_m": [
+        368.0,
+        253.8,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00019",
+      "asset": "WornPath2m",
+      "location_m": [
+        378.0,
+        253.8,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00021",
+      "asset": "WornPath2m",
+      "location_m": [
+        202.0,
+        266.2,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00023",
+      "asset": "WornPath2m",
+      "location_m": [
+        222.0,
+        266.2,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00025",
+      "asset": "WornPath2m",
+      "location_m": [
+        378.0,
+        266.2,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00027",
+      "asset": "WornPath2m",
+      "location_m": [
+        398.0,
+        266.2,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00029",
+      "asset": "WornPath2m",
+      "location_m": [
+        293.8,
+        230.0,
+        24
+      ],
+      "yaw_deg": -90,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00031",
+      "asset": "WornPath2m",
+      "location_m": [
+        293.8,
+        202.0,
+        24
+      ],
+      "yaw_deg": -90,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00033",
+      "asset": "WornPath2m",
+      "location_m": [
+        306.2,
+        230.0,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00035",
+      "asset": "WornPath2m",
+      "location_m": [
+        306.2,
+        202.0,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00037",
+      "asset": "WornPath2m",
+      "location_m": [
+        281.2,
+        316.0,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00039",
+      "asset": "WornPath2m",
+      "location_m": [
+        285.0,
+        356.2,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00041",
+      "asset": "WornPath2m",
+      "location_m": [
+        318.8,
+        316.0,
+        24
+      ],
+      "yaw_deg": -90,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00043",
+      "asset": "WornPath2m",
+      "location_m": [
+        315.0,
+        356.2,
+        24
+      ],
+      "yaw_deg": 180,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00045",
+      "asset": "WornPath2m",
+      "location_m": [
+        199.0,
+        249.8,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_WornPath2m_00047",
+      "asset": "WornPath2m",
+      "location_m": [
+        401.0,
+        249.8,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.4
+      ],
+      "kind": "landing"
+    },
+    {
+      "label": "WX_Dressing_Fence_00048",
+      "asset": "Fence",
+      "location_m": [
+        267,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00049",
+      "asset": "Fence",
+      "location_m": [
+        270,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00050",
+      "asset": "Fence",
+      "location_m": [
+        273,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00051",
+      "asset": "Fence",
+      "location_m": [
+        265.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00052",
+      "asset": "Fence",
+      "location_m": [
+        274.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00053",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        267.3,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00054",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        270,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00055",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        272.7,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00056",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        267.4,
+        226.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00057",
+      "asset": "Fence",
+      "location_m": [
+        267,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00058",
+      "asset": "Fence",
+      "location_m": [
+        270,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00059",
+      "asset": "Fence",
+      "location_m": [
+        273,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00060",
+      "asset": "Fence",
+      "location_m": [
+        265.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00061",
+      "asset": "Fence",
+      "location_m": [
+        274.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00062",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        267.3,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00063",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        270,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00064",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        272.7,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00065",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        267.4,
+        212.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00066",
+      "asset": "Fence",
+      "location_m": [
+        267,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00067",
+      "asset": "Fence",
+      "location_m": [
+        270,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00068",
+      "asset": "Fence",
+      "location_m": [
+        273,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00069",
+      "asset": "Fence",
+      "location_m": [
+        265.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00070",
+      "asset": "Fence",
+      "location_m": [
+        274.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00071",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        267.3,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00072",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        270,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00073",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        272.7,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00074",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        267.4,
+        198.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00075",
+      "asset": "Fence",
+      "location_m": [
+        267,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00076",
+      "asset": "Fence",
+      "location_m": [
+        270,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00077",
+      "asset": "Fence",
+      "location_m": [
+        273,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00078",
+      "asset": "Fence",
+      "location_m": [
+        265.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00079",
+      "asset": "Fence",
+      "location_m": [
+        274.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00080",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        267.3,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00081",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        270,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00082",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        272.7,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00083",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        267.4,
+        184.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00084",
+      "asset": "Fence",
+      "location_m": [
+        253,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00085",
+      "asset": "Fence",
+      "location_m": [
+        256,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00086",
+      "asset": "Fence",
+      "location_m": [
+        259,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00087",
+      "asset": "Fence",
+      "location_m": [
+        251.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00088",
+      "asset": "Fence",
+      "location_m": [
+        260.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00089",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        253.3,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00090",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        256,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00091",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        258.7,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00092",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        253.4,
+        226.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00093",
+      "asset": "Fence",
+      "location_m": [
+        253,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00094",
+      "asset": "Fence",
+      "location_m": [
+        256,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00095",
+      "asset": "Fence",
+      "location_m": [
+        259,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00096",
+      "asset": "Fence",
+      "location_m": [
+        251.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00097",
+      "asset": "Fence",
+      "location_m": [
+        260.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00098",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        253.3,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00099",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        256,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00100",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        258.7,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00101",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        253.4,
+        212.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00102",
+      "asset": "Fence",
+      "location_m": [
+        253,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00103",
+      "asset": "Fence",
+      "location_m": [
+        256,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00104",
+      "asset": "Fence",
+      "location_m": [
+        259,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00105",
+      "asset": "Fence",
+      "location_m": [
+        251.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00106",
+      "asset": "Fence",
+      "location_m": [
+        260.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00107",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        253.3,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00108",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        256,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00109",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        258.7,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00110",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        253.4,
+        198.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00111",
+      "asset": "Fence",
+      "location_m": [
+        253,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00112",
+      "asset": "Fence",
+      "location_m": [
+        256,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00113",
+      "asset": "Fence",
+      "location_m": [
+        259,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00114",
+      "asset": "Fence",
+      "location_m": [
+        251.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00115",
+      "asset": "Fence",
+      "location_m": [
+        260.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00116",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        253.3,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00117",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        256,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00118",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        258.7,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00119",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        253.4,
+        184.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00120",
+      "asset": "Fence",
+      "location_m": [
+        239,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00121",
+      "asset": "Fence",
+      "location_m": [
+        242,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00122",
+      "asset": "Fence",
+      "location_m": [
+        245,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00123",
+      "asset": "Fence",
+      "location_m": [
+        237.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00124",
+      "asset": "Fence",
+      "location_m": [
+        246.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00125",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        239.3,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00126",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        242,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00127",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        244.7,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00128",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        239.4,
+        226.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00129",
+      "asset": "Fence",
+      "location_m": [
+        239,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00130",
+      "asset": "Fence",
+      "location_m": [
+        242,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00131",
+      "asset": "Fence",
+      "location_m": [
+        245,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00132",
+      "asset": "Fence",
+      "location_m": [
+        237.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00133",
+      "asset": "Fence",
+      "location_m": [
+        246.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00134",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        239.3,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00135",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        242,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00136",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        244.7,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00137",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        239.4,
+        212.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00138",
+      "asset": "Fence",
+      "location_m": [
+        239,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00139",
+      "asset": "Fence",
+      "location_m": [
+        242,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00140",
+      "asset": "Fence",
+      "location_m": [
+        245,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00141",
+      "asset": "Fence",
+      "location_m": [
+        237.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00142",
+      "asset": "Fence",
+      "location_m": [
+        246.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00143",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        239.3,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00144",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        242,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00145",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        244.7,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00146",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        239.4,
+        198.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00147",
+      "asset": "Fence",
+      "location_m": [
+        239,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00148",
+      "asset": "Fence",
+      "location_m": [
+        242,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00149",
+      "asset": "Fence",
+      "location_m": [
+        245,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00150",
+      "asset": "Fence",
+      "location_m": [
+        237.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00151",
+      "asset": "Fence",
+      "location_m": [
+        246.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00152",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        239.3,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00153",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        242,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00154",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        244.7,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00155",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        239.4,
+        184.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00156",
+      "asset": "Fence",
+      "location_m": [
+        225,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00157",
+      "asset": "Fence",
+      "location_m": [
+        228,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00158",
+      "asset": "Fence",
+      "location_m": [
+        231,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00159",
+      "asset": "Fence",
+      "location_m": [
+        223.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00160",
+      "asset": "Fence",
+      "location_m": [
+        232.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00161",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        225.3,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00162",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        228,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00163",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        230.7,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00164",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        225.4,
+        226.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00165",
+      "asset": "Fence",
+      "location_m": [
+        225,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00166",
+      "asset": "Fence",
+      "location_m": [
+        228,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00167",
+      "asset": "Fence",
+      "location_m": [
+        231,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00168",
+      "asset": "Fence",
+      "location_m": [
+        223.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00169",
+      "asset": "Fence",
+      "location_m": [
+        232.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00170",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        225.3,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00171",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        228,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00172",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        230.7,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00173",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        225.4,
+        212.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00174",
+      "asset": "Fence",
+      "location_m": [
+        225,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00175",
+      "asset": "Fence",
+      "location_m": [
+        228,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00176",
+      "asset": "Fence",
+      "location_m": [
+        231,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00177",
+      "asset": "Fence",
+      "location_m": [
+        223.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00178",
+      "asset": "Fence",
+      "location_m": [
+        232.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00179",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        225.3,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00180",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        228,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00181",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        230.7,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00182",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        225.4,
+        198.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00183",
+      "asset": "Fence",
+      "location_m": [
+        225,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00184",
+      "asset": "Fence",
+      "location_m": [
+        228,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00185",
+      "asset": "Fence",
+      "location_m": [
+        231,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00186",
+      "asset": "Fence",
+      "location_m": [
+        223.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00187",
+      "asset": "Fence",
+      "location_m": [
+        232.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00188",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        225.3,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00189",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        228,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00190",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        230.7,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00191",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        225.4,
+        184.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00192",
+      "asset": "Fence",
+      "location_m": [
+        267,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00193",
+      "asset": "Fence",
+      "location_m": [
+        270,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00194",
+      "asset": "Fence",
+      "location_m": [
+        273,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00195",
+      "asset": "Fence",
+      "location_m": [
+        265.5,
+        292.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00196",
+      "asset": "Fence",
+      "location_m": [
+        274.5,
+        292.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00197",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        267.3,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00198",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        270,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00199",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        272.7,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00200",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        267.4,
+        293.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00201",
+      "asset": "Fence",
+      "location_m": [
+        267,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00202",
+      "asset": "Fence",
+      "location_m": [
+        270,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00203",
+      "asset": "Fence",
+      "location_m": [
+        273,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00204",
+      "asset": "Fence",
+      "location_m": [
+        265.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00205",
+      "asset": "Fence",
+      "location_m": [
+        274.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00206",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        267.3,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00207",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        270,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00208",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        272.7,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00209",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        267.4,
+        307.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00210",
+      "asset": "Fence",
+      "location_m": [
+        267,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00211",
+      "asset": "Fence",
+      "location_m": [
+        270,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00212",
+      "asset": "Fence",
+      "location_m": [
+        273,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00213",
+      "asset": "Fence",
+      "location_m": [
+        265.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00214",
+      "asset": "Fence",
+      "location_m": [
+        274.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00215",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        267.3,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00216",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        270,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00217",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        272.7,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00218",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        267.4,
+        321.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00219",
+      "asset": "Fence",
+      "location_m": [
+        267,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00220",
+      "asset": "Fence",
+      "location_m": [
+        270,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00221",
+      "asset": "Fence",
+      "location_m": [
+        273,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00222",
+      "asset": "Fence",
+      "location_m": [
+        265.5,
+        334.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00223",
+      "asset": "Fence",
+      "location_m": [
+        274.5,
+        334.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00224",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        267.3,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00225",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        270,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00226",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        272.7,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00227",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        267.4,
+        335.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00228",
+      "asset": "Fence",
+      "location_m": [
+        253,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00229",
+      "asset": "Fence",
+      "location_m": [
+        256,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00230",
+      "asset": "Fence",
+      "location_m": [
+        259,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00231",
+      "asset": "Fence",
+      "location_m": [
+        251.5,
+        292.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00232",
+      "asset": "Fence",
+      "location_m": [
+        260.5,
+        292.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00233",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        253.3,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00234",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        256,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00235",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        258.7,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00236",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        253.4,
+        293.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00237",
+      "asset": "Fence",
+      "location_m": [
+        253,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00238",
+      "asset": "Fence",
+      "location_m": [
+        256,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00239",
+      "asset": "Fence",
+      "location_m": [
+        259,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00240",
+      "asset": "Fence",
+      "location_m": [
+        251.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00241",
+      "asset": "Fence",
+      "location_m": [
+        260.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00242",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        253.3,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00243",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        256,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00244",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        258.7,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00245",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        253.4,
+        307.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00246",
+      "asset": "Fence",
+      "location_m": [
+        253,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00247",
+      "asset": "Fence",
+      "location_m": [
+        256,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00248",
+      "asset": "Fence",
+      "location_m": [
+        259,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00249",
+      "asset": "Fence",
+      "location_m": [
+        251.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00250",
+      "asset": "Fence",
+      "location_m": [
+        260.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00251",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        253.3,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00252",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        256,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00253",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        258.7,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00254",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        253.4,
+        321.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00255",
+      "asset": "Fence",
+      "location_m": [
+        253,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00256",
+      "asset": "Fence",
+      "location_m": [
+        256,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00257",
+      "asset": "Fence",
+      "location_m": [
+        259,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00258",
+      "asset": "Fence",
+      "location_m": [
+        251.5,
+        334.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00259",
+      "asset": "Fence",
+      "location_m": [
+        260.5,
+        334.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00260",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        253.3,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00261",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        256,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00262",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        258.7,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00263",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        253.4,
+        335.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00264",
+      "asset": "Fence",
+      "location_m": [
+        239,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00265",
+      "asset": "Fence",
+      "location_m": [
+        242,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00266",
+      "asset": "Fence",
+      "location_m": [
+        245,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00267",
+      "asset": "Fence",
+      "location_m": [
+        237.5,
+        292.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00268",
+      "asset": "Fence",
+      "location_m": [
+        246.5,
+        292.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00269",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        239.3,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00270",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        242,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00271",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        244.7,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00272",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        239.4,
+        293.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00273",
+      "asset": "Fence",
+      "location_m": [
+        239,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00274",
+      "asset": "Fence",
+      "location_m": [
+        242,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00275",
+      "asset": "Fence",
+      "location_m": [
+        245,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00276",
+      "asset": "Fence",
+      "location_m": [
+        237.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00277",
+      "asset": "Fence",
+      "location_m": [
+        246.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00278",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        239.3,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00279",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        242,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00280",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        244.7,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00281",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        239.4,
+        307.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00282",
+      "asset": "Fence",
+      "location_m": [
+        239,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00283",
+      "asset": "Fence",
+      "location_m": [
+        242,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00284",
+      "asset": "Fence",
+      "location_m": [
+        245,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00285",
+      "asset": "Fence",
+      "location_m": [
+        237.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00286",
+      "asset": "Fence",
+      "location_m": [
+        246.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00287",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        239.3,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00288",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        242,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00289",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        244.7,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00290",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        239.4,
+        321.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00291",
+      "asset": "Fence",
+      "location_m": [
+        239,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00292",
+      "asset": "Fence",
+      "location_m": [
+        242,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00293",
+      "asset": "Fence",
+      "location_m": [
+        245,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00294",
+      "asset": "Fence",
+      "location_m": [
+        237.5,
+        334.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00295",
+      "asset": "Fence",
+      "location_m": [
+        246.5,
+        334.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00296",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        239.3,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00297",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        242,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00298",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        244.7,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00299",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        239.4,
+        335.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00300",
+      "asset": "Fence",
+      "location_m": [
+        225,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00301",
+      "asset": "Fence",
+      "location_m": [
+        228,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00302",
+      "asset": "Fence",
+      "location_m": [
+        231,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00303",
+      "asset": "Fence",
+      "location_m": [
+        223.5,
+        292.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00304",
+      "asset": "Fence",
+      "location_m": [
+        232.5,
+        292.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00305",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        225.3,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00306",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        228,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00307",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        230.7,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00308",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        225.4,
+        293.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00309",
+      "asset": "Fence",
+      "location_m": [
+        225,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00310",
+      "asset": "Fence",
+      "location_m": [
+        228,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00311",
+      "asset": "Fence",
+      "location_m": [
+        231,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00312",
+      "asset": "Fence",
+      "location_m": [
+        223.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00313",
+      "asset": "Fence",
+      "location_m": [
+        232.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00314",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        225.3,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00315",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        228,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00316",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        230.7,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00317",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        225.4,
+        307.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00318",
+      "asset": "Fence",
+      "location_m": [
+        225,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00319",
+      "asset": "Fence",
+      "location_m": [
+        228,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00320",
+      "asset": "Fence",
+      "location_m": [
+        231,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00321",
+      "asset": "Fence",
+      "location_m": [
+        223.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00322",
+      "asset": "Fence",
+      "location_m": [
+        232.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00323",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        225.3,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00324",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        228,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00325",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        230.7,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00326",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        225.4,
+        321.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00327",
+      "asset": "Fence",
+      "location_m": [
+        225,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00328",
+      "asset": "Fence",
+      "location_m": [
+        228,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00329",
+      "asset": "Fence",
+      "location_m": [
+        231,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00330",
+      "asset": "Fence",
+      "location_m": [
+        223.5,
+        334.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00331",
+      "asset": "Fence",
+      "location_m": [
+        232.5,
+        334.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00332",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        225.3,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00333",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        228,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00334",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        230.7,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00335",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        225.4,
+        335.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00336",
+      "asset": "Fence",
+      "location_m": [
+        327,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00337",
+      "asset": "Fence",
+      "location_m": [
+        330,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00338",
+      "asset": "Fence",
+      "location_m": [
+        333,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00339",
+      "asset": "Fence",
+      "location_m": [
+        325.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00340",
+      "asset": "Fence",
+      "location_m": [
+        334.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00341",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        327.3,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00342",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        330,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00343",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        332.7,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00344",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        327.4,
+        226.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00345",
+      "asset": "Fence",
+      "location_m": [
+        327,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00346",
+      "asset": "Fence",
+      "location_m": [
+        330,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00347",
+      "asset": "Fence",
+      "location_m": [
+        333,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00348",
+      "asset": "Fence",
+      "location_m": [
+        325.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00349",
+      "asset": "Fence",
+      "location_m": [
+        334.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00350",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        327.3,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00351",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        330,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00352",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        332.7,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00353",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        327.4,
+        212.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00354",
+      "asset": "Fence",
+      "location_m": [
+        327,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00355",
+      "asset": "Fence",
+      "location_m": [
+        330,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00356",
+      "asset": "Fence",
+      "location_m": [
+        333,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00357",
+      "asset": "Fence",
+      "location_m": [
+        325.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00358",
+      "asset": "Fence",
+      "location_m": [
+        334.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00359",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        327.3,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00360",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        330,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00361",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        332.7,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00362",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        327.4,
+        198.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00363",
+      "asset": "Fence",
+      "location_m": [
+        327,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00364",
+      "asset": "Fence",
+      "location_m": [
+        330,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00365",
+      "asset": "Fence",
+      "location_m": [
+        333,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00366",
+      "asset": "Fence",
+      "location_m": [
+        325.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00367",
+      "asset": "Fence",
+      "location_m": [
+        334.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00368",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        327.3,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00369",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        330,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00370",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        332.7,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00371",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        327.4,
+        184.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00372",
+      "asset": "Fence",
+      "location_m": [
+        341,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00373",
+      "asset": "Fence",
+      "location_m": [
+        344,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00374",
+      "asset": "Fence",
+      "location_m": [
+        347,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00375",
+      "asset": "Fence",
+      "location_m": [
+        339.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00376",
+      "asset": "Fence",
+      "location_m": [
+        348.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00377",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        341.3,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00378",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        344,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00379",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        346.7,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00380",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        341.4,
+        226.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00381",
+      "asset": "Fence",
+      "location_m": [
+        341,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00382",
+      "asset": "Fence",
+      "location_m": [
+        344,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00383",
+      "asset": "Fence",
+      "location_m": [
+        347,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00384",
+      "asset": "Fence",
+      "location_m": [
+        339.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00385",
+      "asset": "Fence",
+      "location_m": [
+        348.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00386",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        341.3,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00387",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        344,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00388",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        346.7,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00389",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        341.4,
+        212.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00390",
+      "asset": "Fence",
+      "location_m": [
+        341,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00391",
+      "asset": "Fence",
+      "location_m": [
+        344,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00392",
+      "asset": "Fence",
+      "location_m": [
+        347,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00393",
+      "asset": "Fence",
+      "location_m": [
+        339.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00394",
+      "asset": "Fence",
+      "location_m": [
+        348.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00395",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        341.3,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00396",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        344,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00397",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        346.7,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00398",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        341.4,
+        198.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00399",
+      "asset": "Fence",
+      "location_m": [
+        341,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00400",
+      "asset": "Fence",
+      "location_m": [
+        344,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00401",
+      "asset": "Fence",
+      "location_m": [
+        347,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00402",
+      "asset": "Fence",
+      "location_m": [
+        339.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00403",
+      "asset": "Fence",
+      "location_m": [
+        348.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00404",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        341.3,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00405",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        344,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00406",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        346.7,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00407",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        341.4,
+        184.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00408",
+      "asset": "Fence",
+      "location_m": [
+        355,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00409",
+      "asset": "Fence",
+      "location_m": [
+        358,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00410",
+      "asset": "Fence",
+      "location_m": [
+        361,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00411",
+      "asset": "Fence",
+      "location_m": [
+        353.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00412",
+      "asset": "Fence",
+      "location_m": [
+        362.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00413",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        355.3,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00414",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        358,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00415",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        360.7,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00416",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        355.4,
+        226.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00417",
+      "asset": "Fence",
+      "location_m": [
+        355,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00418",
+      "asset": "Fence",
+      "location_m": [
+        358,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00419",
+      "asset": "Fence",
+      "location_m": [
+        361,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00420",
+      "asset": "Fence",
+      "location_m": [
+        353.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00421",
+      "asset": "Fence",
+      "location_m": [
+        362.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00422",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        355.3,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00423",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        358,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00424",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        360.7,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00425",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        355.4,
+        212.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00426",
+      "asset": "Fence",
+      "location_m": [
+        355,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00427",
+      "asset": "Fence",
+      "location_m": [
+        358,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00428",
+      "asset": "Fence",
+      "location_m": [
+        361,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00429",
+      "asset": "Fence",
+      "location_m": [
+        353.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00430",
+      "asset": "Fence",
+      "location_m": [
+        362.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00431",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        355.3,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00432",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        358,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00433",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        360.7,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00434",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        355.4,
+        198.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00435",
+      "asset": "Fence",
+      "location_m": [
+        355,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00436",
+      "asset": "Fence",
+      "location_m": [
+        358,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00437",
+      "asset": "Fence",
+      "location_m": [
+        361,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00438",
+      "asset": "Fence",
+      "location_m": [
+        353.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00439",
+      "asset": "Fence",
+      "location_m": [
+        362.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00440",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        355.3,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00441",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        358,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00442",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        360.7,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00443",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        355.4,
+        184.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00444",
+      "asset": "Fence",
+      "location_m": [
+        369,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00445",
+      "asset": "Fence",
+      "location_m": [
+        372,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00446",
+      "asset": "Fence",
+      "location_m": [
+        375,
+        225.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00447",
+      "asset": "Fence",
+      "location_m": [
+        367.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00448",
+      "asset": "Fence",
+      "location_m": [
+        376.5,
+        227.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00449",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        369.3,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00450",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        372,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00451",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        374.7,
+        226.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00452",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        369.4,
+        226.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00453",
+      "asset": "Fence",
+      "location_m": [
+        369,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00454",
+      "asset": "Fence",
+      "location_m": [
+        372,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00455",
+      "asset": "Fence",
+      "location_m": [
+        375,
+        211.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00456",
+      "asset": "Fence",
+      "location_m": [
+        367.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00457",
+      "asset": "Fence",
+      "location_m": [
+        376.5,
+        213.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00458",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        369.3,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00459",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        372,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00460",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        374.7,
+        212.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00461",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        369.4,
+        212.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00462",
+      "asset": "Fence",
+      "location_m": [
+        369,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00463",
+      "asset": "Fence",
+      "location_m": [
+        372,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00464",
+      "asset": "Fence",
+      "location_m": [
+        375,
+        197.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00465",
+      "asset": "Fence",
+      "location_m": [
+        367.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00466",
+      "asset": "Fence",
+      "location_m": [
+        376.5,
+        199.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00467",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        369.3,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00468",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        372,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00469",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        374.7,
+        198.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00470",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        369.4,
+        198.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00471",
+      "asset": "Fence",
+      "location_m": [
+        369,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00472",
+      "asset": "Fence",
+      "location_m": [
+        372,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00473",
+      "asset": "Fence",
+      "location_m": [
+        375,
+        183.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00474",
+      "asset": "Fence",
+      "location_m": [
+        367.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00475",
+      "asset": "Fence",
+      "location_m": [
+        376.5,
+        185.9,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00476",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        369.3,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00477",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        372,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00478",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        374.7,
+        184.3,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00479",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        369.4,
+        184.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00480",
+      "asset": "Fence",
+      "location_m": [
+        327,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00481",
+      "asset": "Fence",
+      "location_m": [
+        330,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00482",
+      "asset": "Fence",
+      "location_m": [
+        333,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00483",
+      "asset": "Fence",
+      "location_m": [
+        325.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00484",
+      "asset": "Fence",
+      "location_m": [
+        334.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00485",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        327.3,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00486",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        330,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00487",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        332.7,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00488",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        327.4,
+        307.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00489",
+      "asset": "Fence",
+      "location_m": [
+        327,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00490",
+      "asset": "Fence",
+      "location_m": [
+        330,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00491",
+      "asset": "Fence",
+      "location_m": [
+        333,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00492",
+      "asset": "Fence",
+      "location_m": [
+        325.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00493",
+      "asset": "Fence",
+      "location_m": [
+        334.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00494",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        327.3,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00495",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        330,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00496",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        332.7,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00497",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        327.4,
+        321.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00498",
+      "asset": "Fence",
+      "location_m": [
+        341,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00499",
+      "asset": "Fence",
+      "location_m": [
+        344,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00500",
+      "asset": "Fence",
+      "location_m": [
+        347,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00501",
+      "asset": "Fence",
+      "location_m": [
+        339.5,
+        292.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00502",
+      "asset": "Fence",
+      "location_m": [
+        348.5,
+        292.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00503",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        341.3,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00504",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        344,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00505",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        346.7,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00506",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        341.4,
+        293.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00507",
+      "asset": "Fence",
+      "location_m": [
+        341,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00508",
+      "asset": "Fence",
+      "location_m": [
+        344,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00509",
+      "asset": "Fence",
+      "location_m": [
+        347,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00510",
+      "asset": "Fence",
+      "location_m": [
+        339.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00511",
+      "asset": "Fence",
+      "location_m": [
+        348.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00512",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        341.3,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00513",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        344,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00514",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        346.7,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00515",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        341.4,
+        307.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00516",
+      "asset": "Fence",
+      "location_m": [
+        341,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00517",
+      "asset": "Fence",
+      "location_m": [
+        344,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00518",
+      "asset": "Fence",
+      "location_m": [
+        347,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00519",
+      "asset": "Fence",
+      "location_m": [
+        339.5,
+        334.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00520",
+      "asset": "Fence",
+      "location_m": [
+        348.5,
+        334.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00521",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        341.3,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00522",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        344,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00523",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        346.7,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00524",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        341.4,
+        335.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00525",
+      "asset": "Fence",
+      "location_m": [
+        355,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00526",
+      "asset": "Fence",
+      "location_m": [
+        358,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00527",
+      "asset": "Fence",
+      "location_m": [
+        361,
+        294.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00528",
+      "asset": "Fence",
+      "location_m": [
+        353.5,
+        292.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00529",
+      "asset": "Fence",
+      "location_m": [
+        362.5,
+        292.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00530",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        355.3,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00531",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        358,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00532",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        360.7,
+        293.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00533",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        355.4,
+        293.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00534",
+      "asset": "Fence",
+      "location_m": [
+        355,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00535",
+      "asset": "Fence",
+      "location_m": [
+        358,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00536",
+      "asset": "Fence",
+      "location_m": [
+        361,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00537",
+      "asset": "Fence",
+      "location_m": [
+        353.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00538",
+      "asset": "Fence",
+      "location_m": [
+        362.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00539",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        355.3,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00540",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        358,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00541",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        360.7,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00542",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        355.4,
+        321.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00543",
+      "asset": "Fence",
+      "location_m": [
+        355,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00544",
+      "asset": "Fence",
+      "location_m": [
+        358,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00545",
+      "asset": "Fence",
+      "location_m": [
+        361,
+        336.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00546",
+      "asset": "Fence",
+      "location_m": [
+        353.5,
+        334.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00547",
+      "asset": "Fence",
+      "location_m": [
+        362.5,
+        334.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00548",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        355.3,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00549",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        358,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00550",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        360.7,
+        335.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00551",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        355.4,
+        335.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00552",
+      "asset": "Fence",
+      "location_m": [
+        369,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00553",
+      "asset": "Fence",
+      "location_m": [
+        372,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00554",
+      "asset": "Fence",
+      "location_m": [
+        375,
+        308.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00555",
+      "asset": "Fence",
+      "location_m": [
+        367.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00556",
+      "asset": "Fence",
+      "location_m": [
+        376.5,
+        306.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00557",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        369.3,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00558",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        372,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00559",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        374.7,
+        307.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00560",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        369.4,
+        307.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_Fence_00561",
+      "asset": "Fence",
+      "location_m": [
+        369,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00562",
+      "asset": "Fence",
+      "location_m": [
+        372,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00563",
+      "asset": "Fence",
+      "location_m": [
+        375,
+        322.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00564",
+      "asset": "Fence",
+      "location_m": [
+        367.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_Fence_00565",
+      "asset": "Fence",
+      "location_m": [
+        376.5,
+        320.1,
+        24
+      ],
+      "yaw_deg": 90,
+      "scale": [
+        1.4,
+        1,
+        0.74
+      ],
+      "kind": "courtyard_boundary"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00566",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        369.3,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00567",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        372,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00568",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        374.7,
+        321.7,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1,
+        0.7,
+        0.75
+      ],
+      "kind": "courtyard_hedge"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00569",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        369.4,
+        321.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.65,
+        0.65,
+        0.65
+      ],
+      "kind": "courtyard_garden"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00570",
+      "asset": "MossCliff4m",
+      "location_m": [
+        224,
+        244,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00571",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        224,
+        244.9,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00572",
+      "asset": "MossCliff4m",
+      "location_m": [
+        240,
+        244,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00573",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        240,
+        244.9,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00574",
+      "asset": "MossCliff4m",
+      "location_m": [
+        254,
+        244,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00575",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        254,
+        244.9,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00576",
+      "asset": "MossCliff4m",
+      "location_m": [
+        268,
+        244,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00577",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        268,
+        244.9,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00578",
+      "asset": "MossCliff4m",
+      "location_m": [
+        332,
+        244,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00579",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        332,
+        244.9,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00580",
+      "asset": "MossCliff4m",
+      "location_m": [
+        346,
+        244,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00581",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        346,
+        244.9,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00582",
+      "asset": "MossCliff4m",
+      "location_m": [
+        360,
+        244,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00583",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        360,
+        244.9,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00584",
+      "asset": "MossCliff4m",
+      "location_m": [
+        376,
+        244,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00585",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        376,
+        244.9,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00586",
+      "asset": "MossCliff4m",
+      "location_m": [
+        224,
+        276,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00587",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        224,
+        275.1,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00588",
+      "asset": "MossCliff4m",
+      "location_m": [
+        240,
+        276,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00589",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        240,
+        275.1,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00590",
+      "asset": "MossCliff4m",
+      "location_m": [
+        254,
+        276,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00591",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        254,
+        275.1,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00592",
+      "asset": "MossCliff4m",
+      "location_m": [
+        268,
+        276,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00593",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        268,
+        275.1,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00594",
+      "asset": "MossCliff4m",
+      "location_m": [
+        332,
+        276,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00595",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        332,
+        275.1,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00596",
+      "asset": "MossCliff4m",
+      "location_m": [
+        346,
+        276,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00597",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        346,
+        275.1,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00598",
+      "asset": "MossCliff4m",
+      "location_m": [
+        360,
+        276,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00599",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        360,
+        275.1,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_MossCliff4m_00600",
+      "asset": "MossCliff4m",
+      "location_m": [
+        376,
+        276,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.78,
+        0.18,
+        0.3
+      ],
+      "kind": "avenue_wall"
+    },
+    {
+      "label": "WX_Dressing_ShrubGroundcover_00601",
+      "asset": "ShrubGroundcover",
+      "location_m": [
+        376,
+        275.1,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.25,
+        0.65,
+        0.7
+      ],
+      "kind": "avenue_hedge"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00602",
+      "asset": "BroadTree5m",
+      "location_m": [
+        210,
+        193,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00603",
+      "asset": "BroadTree5m",
+      "location_m": [
+        210,
+        222,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00604",
+      "asset": "BroadTree5m",
+      "location_m": [
+        210,
+        298,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00605",
+      "asset": "BroadTree5m",
+      "location_m": [
+        210,
+        327,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00606",
+      "asset": "BroadTree5m",
+      "location_m": [
+        390,
+        193,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00607",
+      "asset": "BroadTree5m",
+      "location_m": [
+        390,
+        222,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00608",
+      "asset": "BroadTree5m",
+      "location_m": [
+        390,
+        298,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00609",
+      "asset": "BroadTree5m",
+      "location_m": [
+        390,
+        327,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.98,
+        0.98,
+        0.98
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00610",
+      "asset": "BroadTree5m",
+      "location_m": [
+        293.7,
+        172,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00611",
+      "asset": "BroadTree5m",
+      "location_m": [
+        293.7,
+        180,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00612",
+      "asset": "BroadTree5m",
+      "location_m": [
+        293.7,
+        209,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00613",
+      "asset": "BroadTree5m",
+      "location_m": [
+        293.7,
+        237,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00614",
+      "asset": "BroadTree5m",
+      "location_m": [
+        306.3,
+        172,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00615",
+      "asset": "BroadTree5m",
+      "location_m": [
+        306.3,
+        180,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00616",
+      "asset": "BroadTree5m",
+      "location_m": [
+        306.3,
+        209,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00617",
+      "asset": "BroadTree5m",
+      "location_m": [
+        306.3,
+        237,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.95,
+        0.95,
+        0.95
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00618",
+      "asset": "BroadTree5m",
+      "location_m": [
+        225,
+        253.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00619",
+      "asset": "BroadTree5m",
+      "location_m": [
+        243,
+        253.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00620",
+      "asset": "BroadTree5m",
+      "location_m": [
+        257,
+        253.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00621",
+      "asset": "BroadTree5m",
+      "location_m": [
+        343,
+        253.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00622",
+      "asset": "BroadTree5m",
+      "location_m": [
+        357,
+        253.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_BroadTree5m_00623",
+      "asset": "BroadTree5m",
+      "location_m": [
+        375,
+        253.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.9,
+        0.9,
+        0.9
+      ],
+      "kind": "avenue_tree"
+    },
+    {
+      "label": "WX_Dressing_Lantern_00626",
+      "asset": "Lantern",
+      "location_m": [
+        295,
+        266.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.85,
+        0.85,
+        0.85
+      ],
+      "kind": "market_lantern"
+    },
+    {
+      "label": "WX_Dressing_Lantern_00628",
+      "asset": "Lantern",
+      "location_m": [
+        305,
+        266.5,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.85,
+        0.85,
+        0.85
+      ],
+      "kind": "market_lantern"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00629",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        287,
+        247,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.3,
+        1.3,
+        1.3
+      ],
+      "kind": "square_planter"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00630",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        287,
+        273,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.3,
+        1.3,
+        1.3
+      ],
+      "kind": "square_planter"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00631",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        313,
+        247,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.3,
+        1.3,
+        1.3
+      ],
+      "kind": "square_planter"
+    },
+    {
+      "label": "WX_Dressing_GardenPatch2m_00632",
+      "asset": "GardenPatch2m",
+      "location_m": [
+        313,
+        273,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        1.3,
+        1.3,
+        1.3
+      ],
+      "kind": "square_planter"
+    },
+    {
+      "label": "WX_Dressing_Sign_00633",
+      "asset": "Sign",
+      "location_m": [
+        296,
+        268,
+        24
+      ],
+      "yaw_deg": 0,
+      "scale": [
+        0.8,
+        0.8,
+        0.8
+      ],
+      "kind": "market_wayfinding"
+    }
+  ],
+  "summary": {
+    "infill_buildings": 24,
+    "actors": 27,
+    "instances": 607,
+    "instances_by_asset": {
+      "WornPath2m": 24,
+      "Fence": 290,
+      "ShrubGroundcover": 190,
+      "GardenPatch2m": 62,
+      "MossCliff4m": 16,
+      "BroadTree5m": 22,
+      "Lantern": 2,
+      "Sign": 1
+    }
+  },
+  "preservation": "Additive WX_Dressing actors and private foliage only; original settlement and home actors are untouched"
+}

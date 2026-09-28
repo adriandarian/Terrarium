@@ -1,0 +1,263 @@
+{
+  "changes": [
+    {
+      "actor": "Reference_Cottage",
+      "previous_mesh": "/Game/Terrarium/Blender/Cottage/SM_Blender_Cottage.SM_Blender_Cottage",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Cottage.SM_Cottage",
+      "location_cm": [
+        -204.95055056829824,
+        53.27614600378365,
+        560.0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "actor": "HP_Fence_0_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "location_cm": [
+        -100.81963081664027,
+        -726.2596009112248,
+        560
+      ],
+      "yaw": -171.05873553488507,
+      "scale": [
+        0.7634976776020368,
+        1,
+        1
+      ]
+    },
+    {
+      "actor": "HP_Fence_0_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "location_cm": [
+        -327.0855697996827,
+        -761.8588732276005,
+        560
+      ],
+      "yaw": -171.05873553488507,
+      "scale": [
+        0.7634976776020368,
+        1,
+        1
+      ]
+    },
+    {
+      "actor": "HP_Fence_0_2",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "location_cm": [
+        -553.3515087827251,
+        -797.4581455439762,
+        560
+      ],
+      "yaw": -171.05873553488507,
+      "scale": [
+        0.7634976776020368,
+        1,
+        1
+      ]
+    },
+    {
+      "actor": "HP_Fence_1_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "location_cm": [
+        -636.6378844609717,
+        -688.2445212222228,
+        560
+      ],
+      "yaw": 76.77609962389111,
+      "scale": [
+        0.8698195853802736,
+        1,
+        1
+      ]
+    },
+    {
+      "actor": "HP_Fence_1_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "location_cm": [
+        -576.9446968344225,
+        -434.2180002623404,
+        560
+      ],
+      "yaw": 76.77609962389111,
+      "scale": [
+        0.8698195853802736,
+        1,
+        1
+      ]
+    },
+    {
+      "actor": "HP_Fence_1_2",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "location_cm": [
+        -517.2515092078734,
+        -180.191479302458,
+        560
+      ],
+      "yaw": 76.77609962389111,
+      "scale": [
+        0.8698195853802736,
+        1,
+        1
+      ]
+    },
+    {
+      "actor": "HP_Fence_2_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "location_cm": [
+        164.70817908430297,
+        461.4348756563849,
+        560
+      ],
+      "yaw": -168.5408997319527,
+      "scale": [
+        0.7038663067499238,
+        1,
+        1
+      ]
+    },
+    {
+      "actor": "HP_Fence_2_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Fence.SM_Fence",
+      "location_cm": [
+        -42.24261440452938,
+        419.4840821675525,
+        560
+      ],
+      "yaw": -168.5408997319527,
+      "scale": [
+        0.7038663067499238,
+        1,
+        1
+      ]
+    },
+    {
+      "actor": "HP_Bridge_0",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Bridge.SM_Bridge",
+      "location_cm": [
+        881.7266901288888,
+        -1567.758471108403,
+        248
+      ],
+      "yaw": -4.0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "actor": "HP_Bridge_1",
+      "mesh": "/Game/Terrarium/HomesteadPilot/Architecture/Meshes/SM_Bridge.SM_Bridge",
+      "location_cm": [
+        906.839020676774,
+        -1208.6354130148663,
+        248
+      ],
+      "yaw": -4.0,
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "actor": "HP_BridgePile_0_-1",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "location_cm": [
+        777.1434159741259,
+        -1715.823790366728,
+        108
+      ],
+      "yaw": -4.0,
+      "scale": [
+        0.16,
+        0.16,
+        3.2
+      ]
+    },
+    {
+      "actor": "HP_BridgePile_0_1",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "location_cm": [
+        964.6854574229728,
+        -1728.9380074306234,
+        108
+      ],
+      "yaw": -4.0,
+      "scale": [
+        0.16,
+        0.16,
+        3.2
+      ]
+    },
+    {
+      "actor": "HP_BridgePile_1_-1",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "location_cm": [
+        800.5118346784079,
+        -1381.639833529687,
+        108
+      ],
+      "yaw": -4.0,
+      "scale": [
+        0.16,
+        0.16,
+        3.2
+      ]
+    },
+    {
+      "actor": "HP_BridgePile_1_1",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "location_cm": [
+        988.0538761272549,
+        -1394.7540505935824,
+        108
+      ],
+      "yaw": -4.0,
+      "scale": [
+        0.16,
+        0.16,
+        3.2
+      ]
+    },
+    {
+      "actor": "HP_BridgePile_2_-1",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "location_cm": [
+        823.88025338269,
+        -1047.455876692646,
+        108
+      ],
+      "yaw": -4.0,
+      "scale": [
+        0.16,
+        0.16,
+        3.2
+      ]
+    },
+    {
+      "actor": "HP_BridgePile_2_1",
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "location_cm": [
+        1011.4222948315369,
+        -1060.5700937565414,
+        108
+      ],
+      "yaw": -4.0,
+      "scale": [
+        0.16,
+        0.16,
+        3.2
+      ]
+    }
+  ],
+  "cottage_floor_cm": 584,
+  "bridge_deck_cm": 280,
+  "baseline_assets_modified": false,
+  "status": "Placed; traversal and visual verification follow"
+}

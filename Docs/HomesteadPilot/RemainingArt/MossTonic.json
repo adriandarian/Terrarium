@@ -1,0 +1,124 @@
+{
+  "name": "MossTonic",
+  "source_blend": "SourceAssets/Blender/MossTonic/MossTonic.blend",
+  "source_sha256": "147fac5a7a6db55a007939b87b06a3f9884dc2a0fb7b1f28886b2d69eb3d026f",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MossTonic/MossTonic.blend",
+  "blend_sha256": "b47a9e2314d21ff651a86e6144e6e5599b4107041fec53d3ed723b9ac3ceae9d",
+  "parts_retained": 351,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MossTonic/SM_HP_MossTonic_LOD0.fbx",
+      "triangles": 47396,
+      "vertices": 24400,
+      "bounds_m": {
+        "min": [
+          -0.23549999296665192,
+          -0.2045000046491623,
+          0.01900000125169754
+        ],
+        "max": [
+          0.3933461904525757,
+          0.20395000278949738,
+          0.8550000190734863
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "0552f4fb70107c3114802240dab8725c369157891d1030f751c91fcb42798937",
+      "material_slots": [
+        "M_MossTonic_Glass.001",
+        "M_MossTonic_Liquid.006",
+        "M_MossTonic_Trim.006"
+      ],
+      "material_face_counts": [
+        4514,
+        290,
+        18846
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MossTonic/SM_HP_MossTonic_LOD1.fbx",
+      "triangles": 21684,
+      "vertices": 11544,
+      "bounds_m": {
+        "min": [
+          -0.23549999296665192,
+          -0.2045000046491623,
+          0.01900000125169754
+        ],
+        "max": [
+          0.39302030205726624,
+          0.20395000278949738,
+          0.8550000190734863
+        ]
+      },
+      "max_bounds_delta_m": 0.00032588839530944824,
+      "sha256": "05bcf32b5adf9255f15ab4c210708e182424b98df859fb42e40ecc2627406e2e",
+      "material_slots": [
+        "M_MossTonic_Glass.001",
+        "M_MossTonic_Liquid.006",
+        "M_MossTonic_Trim.006"
+      ],
+      "material_face_counts": [
+        3078,
+        138,
+        9074
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/MossTonic/SM_HP_MossTonic_LOD2.fbx",
+      "triangles": 7940,
+      "vertices": 4672,
+      "bounds_m": {
+        "min": [
+          -0.23549999296665192,
+          -0.2045000046491623,
+          0.01900000125169754
+        ],
+        "max": [
+          0.3943999409675598,
+          0.20395000278949738,
+          0.8550000190734863
+        ]
+      },
+      "max_bounds_delta_m": 0.0010537505149841309,
+      "sha256": "7dbc068f7ff980b53a8d8baed0a7ae0588e74e4ddf374bc5a7a0cd4c866af064",
+      "material_slots": [
+        "M_MossTonic_Glass.001",
+        "M_MossTonic_Liquid.006",
+        "M_MossTonic_Trim.006"
+      ],
+      "material_face_counts": [
+        1802,
+        34,
+        2094
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -0.23549999296665192,
+      -0.2045000046491623,
+      0.01900000125169754
+    ],
+    "max": [
+      0.3933461904525757,
+      0.20395000278949738,
+      0.8550000190734863
+    ]
+  },
+  "materials": [
+    "M_MossTonic_Glass.001",
+    "M_MossTonic_Liquid.006",
+    "M_MossTonic_Trim.006"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/MossTonic/SM_Blender_MossTonic",
+  "collision": "none",
+  "screen_sizes": [
+    1.0,
+    0.16,
+    0.045
+  ]
+}

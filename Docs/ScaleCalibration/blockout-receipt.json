@@ -1,0 +1,821 @@
+{
+  "level": "/Game/Terrarium/Calibration/Maps/ConceptScaleBlockout",
+  "previous_level": "<Object '/Game/Terrarium/Blender/Maps/HomesteadBlender.HomesteadBlender:PersistentLevel' (0x0000015591F17800) Class 'Level'>",
+  "camera_actor": "/Game/Terrarium/Calibration/Maps/ConceptScaleBlockout.ConceptScaleBlockout:PersistentLevel.CameraActor_0",
+  "camera_location": [
+    3250,
+    -3250,
+    4596.1940777
+  ],
+  "camera_rotation": [
+    -45,
+    135,
+    0
+  ],
+  "projection": "orthographic",
+  "ortho_width": 2645.5,
+  "aspect_ratio": 0.5945611866501854,
+  "capture_size": [
+    481,
+    809
+  ],
+  "person_height_convention": 180,
+  "saved": true,
+  "visual_approval": "pending",
+  "actor_count": 98,
+  "generated_meshes": [
+    {
+      "label": "Water",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        -180.0,
+        -180.0000000000001,
+        660.0000000000002,
+        993.8569460791995
+      ]
+    },
+    {
+      "label": "Terrace_upper",
+      "triangles": 60,
+      "closed": true,
+      "projected_bounds_px": [
+        169.99999999999994,
+        -80.00000000000017,
+        620.0,
+        321.01219330881975
+      ]
+    },
+    {
+      "label": "Turf_upper",
+      "triangles": 60,
+      "closed": true,
+      "projected_bounds_px": [
+        170.0,
+        -80.0,
+        620.0,
+        280.38569460791996
+      ]
+    },
+    {
+      "label": "Terrace_main",
+      "triangles": 88,
+      "closed": true,
+      "projected_bounds_px": [
+        -100.00000000000006,
+        -80.0,
+        600.0,
+        515.8677619424145
+      ]
+    },
+    {
+      "label": "Turf_main",
+      "triangles": 88,
+      "closed": true,
+      "projected_bounds_px": [
+        -100.00000000000006,
+        -80.00000000000006,
+        600.0,
+        444.38569460791996
+      ]
+    },
+    {
+      "label": "Terrace_landing",
+      "triangles": 88,
+      "closed": true,
+      "projected_bounds_px": [
+        120.99999999999999,
+        347.0,
+        560.0,
+        596.8695985365539
+      ]
+    },
+    {
+      "label": "Turf_landing",
+      "triangles": 88,
+      "closed": true,
+      "projected_bounds_px": [
+        121.0,
+        347.0,
+        560.0,
+        561.38569460792
+      ]
+    },
+    {
+      "label": "Terrace_south",
+      "triangles": 84,
+      "closed": true,
+      "projected_bounds_px": [
+        -100.00000000000006,
+        550.0,
+        600.0,
+        985.8695985365541
+      ]
+    },
+    {
+      "label": "Turf_south",
+      "triangles": 84,
+      "closed": true,
+      "projected_bounds_px": [
+        -100.00000000000006,
+        550.0,
+        600.0,
+        950.3856946079201
+      ]
+    },
+    {
+      "label": "Path_north_main_0",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        53.74185787043626,
+        -22.078918676186674,
+        100.25814212956371,
+        29.821788937573217
+      ]
+    },
+    {
+      "label": "Path_north_main_1",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        82.19439405491946,
+        15.346161267518994,
+        120.80560594508052,
+        55.396708993867605
+      ]
+    },
+    {
+      "label": "Path_north_main_2",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        104.46829880819482,
+        39.05244580930389,
+        149.5317011918052,
+        82.69042445208288
+      ]
+    },
+    {
+      "label": "Path_north_main_3",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        107.02312059874245,
+        65.4591878062347,
+        149.97687940125752,
+        108.28368245515196
+      ]
+    },
+    {
+      "label": "Path_north_main_4",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        67.81600695312409,
+        90.76287895279188,
+        122.18399304687587,
+        140.97999130859483
+      ]
+    },
+    {
+      "label": "Path_north_main_5",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        33.74782204627434,
+        123.7334034239471,
+        83.25217795372558,
+        174.00946683743953
+      ]
+    },
+    {
+      "label": "Path_north_main_6",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        27.61558082289659,
+        164.1165246646576,
+        53.384419177103354,
+        188.62634559672904
+      ]
+    },
+    {
+      "label": "Path_north_main_7",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        32.56163977030309,
+        177.21409712143534,
+        82.43836022969683,
+        221.52877313995134
+      ]
+    },
+    {
+      "label": "Path_north_main_8",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        69.44044819080347,
+        202.29711565614377,
+        118.55955180919645,
+        246.44575460524294
+      ]
+    },
+    {
+      "label": "Path_north_main_9",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        103.40479283513793,
+        229.10268611484264,
+        136.59520716486207,
+        262.640184146544
+      ]
+    },
+    {
+      "label": "Path_north_main_10",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        101.0789733438769,
+        248.9270960146939,
+        137.92102665612305,
+        289.81577424669285
+      ]
+    },
+    {
+      "label": "Path_north_main_11",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        67.22916677205049,
+        275.26559764907813,
+        118.77083322794947,
+        325.4772726123085
+      ]
+    },
+    {
+      "label": "Path_north_main_12",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        39.58321929403948,
+        308.90655719032003,
+        83.41678070596046,
+        353.8363130710667
+      ]
+    },
+    {
+      "label": "Path_north_main_13",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        36.872401367436225,
+        342.8400184441962,
+        65.12759863256372,
+        371.90285181719054
+      ]
+    },
+    {
+      "label": "Path_north_main_14",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        47.99523061415687,
+        358.9350802645097,
+        109.00476938584305,
+        408.80778999687703
+      ]
+    },
+    {
+      "label": "Path_north_main_15",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        97.77684435443737,
+        388.4974495720139,
+        159.22315564556257,
+        435.24542068937285
+      ]
+    },
+    {
+      "label": "Path_door_link_0",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        88.23396465006437,
+        367.65446839731254,
+        139.76603534993558,
+        400.08840186407417
+      ]
+    },
+    {
+      "label": "Path_door_link_1",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        132.99355787770196,
+        348.1290196984459,
+        184.00644212229807,
+        385.6138505629408
+      ]
+    },
+    {
+      "label": "Path_door_link_2",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        175.66035549257003,
+        329.2919835890231,
+        221.33964450742997,
+        365.4508866723636
+      ]
+    },
+    {
+      "label": "Path_door_link_3",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        209.62691699889547,
+        315.7522403229893,
+        237.37308300110453,
+        343.99062993839743
+      ]
+    },
+    {
+      "label": "Path_courtyard_link_0",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        212.8828800733064,
+        331.3751322528382,
+        245.1171199266936,
+        357.3677380085485
+      ]
+    },
+    {
+      "label": "Path_courtyard_link_1",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        241.4090265158775,
+        341.76472822573305,
+        269.5909734841225,
+        359.97814203565366
+      ]
+    },
+    {
+      "label": "Path_landing_link_0",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        179.2155798292745,
+        461.15986643877716,
+        220.7844201707255,
+        502.58300382260967
+      ]
+    },
+    {
+      "label": "Path_landing_link_1",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        202.98265806814368,
+        483.37870748599744,
+        248.01734193185632,
+        528.3641627753892
+      ]
+    },
+    {
+      "label": "Path_landing_link_2",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        229.21650296881057,
+        510.18231035909605,
+        276.7834970311894,
+        559.5605599022907
+      ]
+    },
+    {
+      "label": "Path_south_link_0",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        344.141335917495,
+        596.5202490229143,
+        392.85866408250513,
+        646.2226212384725
+      ]
+    },
+    {
+      "label": "Path_south_link_1",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        344.1584377313592,
+        626.5410676437242,
+        391.8415622686409,
+        673.2018026176626
+      ]
+    },
+    {
+      "label": "Path_south_link_2",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        301.3949528673396,
+        651.5888011334848,
+        360.6050471326604,
+        704.154069127902
+      ]
+    },
+    {
+      "label": "Path_south_link_3",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        259.8580382892314,
+        681.9744692890799,
+        317.1419617107685,
+        734.7684009723068
+      ]
+    },
+    {
+      "label": "Path_south_link_4",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        226.60676458633534,
+        714.0466272537328,
+        277.3932354136647,
+        764.696243007654
+      ]
+    },
+    {
+      "label": "Path_south_link_5",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        203.51422703564958,
+        747.6487163716408,
+        247.48577296435042,
+        796.0941538897459
+      ]
+    },
+    {
+      "label": "Path_south_link_6",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        190.73643192185617,
+        786.2273659707043,
+        228.26356807814392,
+        849.5155042906824
+      ]
+    },
+    {
+      "label": "cottage_walls",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        208.0,
+        249.57313398027227,
+        298.0,
+        333.0
+      ]
+    },
+    {
+      "label": "cottage_roof",
+      "triangles": 8,
+      "closed": true,
+      "projected_bounds_px": [
+        202.15,
+        231.59886273281037,
+        303.85,
+        302.8231339802723
+      ]
+    },
+    {
+      "label": "cottage_chimney",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        226.0,
+        218.07474100014431,
+        244.0,
+        293.0
+      ]
+    },
+    {
+      "label": "shed_walls",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        108.99999999999997,
+        307.71526960400325,
+        158.0,
+        355.0
+      ]
+    },
+    {
+      "label": "shed_roof",
+      "triangles": 8,
+      "closed": true,
+      "projected_bounds_px": [
+        105.81500000000003,
+        302.95508005947164,
+        161.185,
+        337.53526960400325
+      ]
+    },
+    {
+      "label": "wheat",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        235.0,
+        75.92893218813447,
+        494.0,
+        190.0
+      ]
+    },
+    {
+      "label": "garden",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        274.0,
+        342.6858323524804,
+        351.0,
+        389.00000000000006
+      ]
+    },
+    {
+      "label": "bridge",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        252.0,
+        544.4572215683203,
+        368.0,
+        614.0000000000001
+      ]
+    },
+    {
+      "label": "Fence_0",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        145.5914702560105,
+        259.6219591350943,
+        241.4085297439895,
+        308.02132435997385
+      ]
+    },
+    {
+      "label": "Fence_1",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        240.61495311705764,
+        259.6128763435321,
+        431.38504688294245,
+        341.030407151536
+      ]
+    },
+    {
+      "label": "Fence_2",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        428.9007536828566,
+        331.6025706685072,
+        432.09924631714347,
+        367.04071282656093
+      ]
+    },
+    {
+      "label": "Fence_3",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        337.5431784154514,
+        357.64262669081876,
+        430.4568215845486,
+        410.0006568042494
+      ]
+    },
+    {
+      "label": "BridgeRail0_0",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        251.59923114057347,
+        554.5091104522533,
+        339.40076885942653,
+        614.6339434685474
+      ]
+    },
+    {
+      "label": "BridgeRail1_0",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        280.6207103752157,
+        541.4960304432274,
+        368.3792896247843,
+        597.6470234775733
+      ]
+    },
+    {
+      "label": "Stair_0",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        145.0,
+        417.0,
+        178.625,
+        466.7519578494347
+      ]
+    },
+    {
+      "label": "Stair_1",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        148.625,
+        421.875,
+        182.25,
+        467.37718742370214
+      ]
+    },
+    {
+      "label": "Stair_2",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        152.25,
+        426.75,
+        185.875,
+        468.0024169979696
+      ]
+    },
+    {
+      "label": "Stair_3",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        155.875,
+        431.625,
+        189.5,
+        468.627646572237
+      ]
+    },
+    {
+      "label": "Stair_4",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        159.5,
+        436.5,
+        193.125,
+        469.25287614650443
+      ]
+    },
+    {
+      "label": "Stair_5",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        163.125,
+        441.375,
+        196.75,
+        469.8781057207718
+      ]
+    },
+    {
+      "label": "Stair_6",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        166.75,
+        446.25,
+        200.375,
+        470.5033352950392
+      ]
+    },
+    {
+      "label": "Stair_7",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        170.375,
+        451.125,
+        204.0,
+        471.1285648693067
+      ]
+    },
+    {
+      "label": "Person_body",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        172.0,
+        370.3580939505365,
+        181.99999999999997,
+        395.00000000000006
+      ]
+    },
+    {
+      "label": "Person_head",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        172.0,
+        365.85832352480395,
+        182.0,
+        376.35809395053656
+      ]
+    },
+    {
+      "label": "Tree_north_left_trunk",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        53.0,
+        50.25999999999999,
+        57.0,
+        82.99999999999994
+      ]
+    },
+    {
+      "label": "Tree_north_middle_trunk",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        301.0,
+        25.880000000000052,
+        305.0,
+        65.0
+      ]
+    },
+    {
+      "label": "Tree_east_courtyard_trunk",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        447.0,
+        264.26,
+        451.0,
+        297.0
+      ]
+    },
+    {
+      "label": "Tree_east_landing_trunk",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        455.0,
+        397.62,
+        459.0,
+        435.0
+      ]
+    },
+    {
+      "label": "Tree_southwest_bank_trunk",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        22.0,
+        641.26,
+        26.0,
+        674.0
+      ]
+    },
+    {
+      "label": "Tree_southeast_trunk",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        443.0000000000001,
+        707.4000000000001,
+        447.0,
+        750.0
+      ]
+    },
+    {
+      "label": "Tree_foreground_trunk",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        340.0,
+        766.72,
+        344.0,
+        807.0000000000002
+      ]
+    }
+  ],
+  "scope": "new calibration level and its own primitive assets only"
+}

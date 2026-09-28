@@ -1,0 +1,880 @@
+{
+  "assets": [
+    {
+      "name": "Lodge",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Lodge.SM_HP_Lodge",
+      "lod_count": 3,
+      "triangles": [
+        327564,
+        133452,
+        36396
+      ],
+      "screen_sizes": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "complex_as_simple",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/Lodge/M_Lodge.M_Lodge",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Lodge_0_M_Lodge.Lodge_0_M_Lodge"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_Lodge_UpperTerrace",
+          "transform": {
+            "location": [
+              -2170.0,
+              -140.0,
+              880.0
+            ],
+            "scale": [
+              0.85,
+              0.85,
+              0.85
+            ],
+            "quaternion": [
+              -0.0,
+              0.0,
+              -0.7071067811865476,
+              0.7071067811865477
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "CivicHall",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_CivicHall.SM_HP_CivicHall",
+      "lod_count": 3,
+      "triangles": [
+        624240,
+        254448,
+        69552
+      ],
+      "screen_sizes": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "complex_as_simple",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/CivicHall/M_CivicHall.M_CivicHall",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/CivicHall_0_M_CivicHall.CivicHall_0_M_CivicHall"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_CivicHall_NorthPath",
+          "transform": {
+            "location": [
+              -1765.962564408368,
+              2936.577840662698,
+              559.6771514892578
+            ],
+            "scale": [
+              0.72,
+              0.72,
+              0.72
+            ],
+            "quaternion": [
+              -0.0,
+              0.0,
+              -0.7071067811865476,
+              0.7071067811865477
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "HomesteadCompound",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_HomesteadCompound.SM_HP_HomesteadCompound",
+      "lod_count": 3,
+      "triangles": [
+        436212,
+        177716,
+        48468
+      ],
+      "screen_sizes": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "complex_as_simple",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/Cottage/M_Cottage.M_Cottage",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/HomesteadCompound_0_M_Cottage.HomesteadCompound_0_M_Cottage"
+        },
+        {
+          "index": 1,
+          "source": "/Game/Terrarium/Blender/HomesteadCompound/M_HomesteadCompound.M_HomesteadCompound",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/HomesteadCompound_1_M_HomesteadCompound.HomesteadCompound_1_M_HomesteadCompound"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_HomesteadCompound_WestClearing",
+          "transform": {
+            "location": [
+              103.22791117475299,
+              2000.7683162458193,
+              559.7902066737413
+            ],
+            "scale": [
+              0.9,
+              0.9,
+              0.9
+            ],
+            "quaternion": [
+              -0.0,
+              0.0,
+              -0.7071067811865476,
+              0.7071067811865477
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "MarketStall",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_MarketStall.SM_HP_MarketStall",
+      "lod_count": 3,
+      "triangles": [
+        68472,
+        27896,
+        7608
+      ],
+      "screen_sizes": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "complex_as_simple",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/MarketStall/M_MarketStall.M_MarketStall",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MarketStall_0_M_MarketStall.MarketStall_0_M_MarketStall"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_MarketStall_UpperPath",
+          "transform": {
+            "location": [
+              275.0,
+              550.0,
+              560.0
+            ],
+            "scale": [
+              0.8,
+              0.8,
+              0.8
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "Sign",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Sign.SM_HP_Sign",
+      "lod_count": 3,
+      "triangles": [
+        8208,
+        3344,
+        912
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "complex_as_simple",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/Sign/M_Sign.M_Sign",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Sign_0_M_Sign.Sign_0_M_Sign"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_Sign_Courtyard",
+          "transform": {
+            "location": [
+              257.0,
+              -490.0,
+              560.0
+            ],
+            "scale": [
+              0.62,
+              0.62,
+              0.62
+            ],
+            "quaternion": [
+              -0.0,
+              0.0,
+              -0.7071067811865476,
+              0.7071067811865477
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "Lantern",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Lantern.SM_HP_Lantern",
+      "lod_count": 3,
+      "triangles": [
+        10260,
+        4180,
+        1140
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "complex_as_simple",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/Lantern/M_Lantern.M_Lantern",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Lantern_0_M_Lantern.Lantern_0_M_Lantern"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Reference_Lantern",
+          "transform": {
+            "location": [
+              122.0,
+              -350.0,
+              560.0
+            ],
+            "scale": [
+              0.64,
+              0.64,
+              0.64
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "MossTonic",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_MossTonic.SM_HP_MossTonic",
+      "lod_count": 3,
+      "triangles": [
+        47396,
+        21684,
+        7940
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Glass.M_MossTonic_Glass",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MossTonic_0_M_MossTonic_Glass.MossTonic_0_M_MossTonic_Glass"
+        },
+        {
+          "index": 1,
+          "source": "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Liquid.M_MossTonic_Liquid",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MossTonic_1_M_MossTonic_Liquid.MossTonic_1_M_MossTonic_Liquid"
+        },
+        {
+          "index": 2,
+          "source": "/Game/Terrarium/Blender/MossTonic/M_MossTonic_Trim.M_MossTonic_Trim",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/MossTonic_2_M_MossTonic_Trim.MossTonic_2_M_MossTonic_Trim"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_MossTonic_MarketCounter",
+          "transform": {
+            "location": [
+              241.4,
+              623.0,
+              634.5939962673187
+            ],
+            "scale": [
+              0.22,
+              0.22,
+              0.22
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "TrailPrism",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_TrailPrism.SM_HP_TrailPrism",
+      "lod_count": 3,
+      "triangles": [
+        17432,
+        7816,
+        2584
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Crystal.M_TrailPrism_Crystal",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/TrailPrism_0_M_TrailPrism_Crystal.TrailPrism_0_M_TrailPrism_Crystal"
+        },
+        {
+          "index": 1,
+          "source": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Core.M_TrailPrism_Core",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/TrailPrism_1_M_TrailPrism_Core.TrailPrism_1_M_TrailPrism_Core"
+        },
+        {
+          "index": 2,
+          "source": "/Game/Terrarium/Blender/TrailPrism/M_TrailPrism_Frame.M_TrailPrism_Frame",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/TrailPrism_2_M_TrailPrism_Frame.TrailPrism_2_M_TrailPrism_Frame"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_TrailPrism_MarketCounter",
+          "transform": {
+            "location": [
+              307.0,
+              623.0,
+              635.0119962882995
+            ],
+            "scale": [
+              0.19,
+              0.19,
+              0.19
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "EmberCrest",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_EmberCrest.SM_HP_EmberCrest",
+      "lod_count": 3,
+      "triangles": [
+        65624,
+        26820,
+        7400
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Field.M_EmberCrest_Field",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/EmberCrest_0_M_EmberCrest_Field.EmberCrest_0_M_EmberCrest_Field"
+        },
+        {
+          "index": 1,
+          "source": "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Frame.M_EmberCrest_Frame",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/EmberCrest_1_M_EmberCrest_Frame.EmberCrest_1_M_EmberCrest_Frame"
+        },
+        {
+          "index": 2,
+          "source": "/Game/Terrarium/Blender/EmberCrest/M_EmberCrest_Enamel.M_EmberCrest_Enamel",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/EmberCrest_2_M_EmberCrest_Enamel.EmberCrest_2_M_EmberCrest_Enamel"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_EmberCrest_MarketFront",
+          "transform": {
+            "location": [
+              184.0,
+              628.1750094509125,
+              592.0
+            ],
+            "scale": [
+              0.24,
+              0.24,
+              0.24
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "DeepDelverMark",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_DeepDelverMark.SM_HP_DeepDelverMark",
+      "lod_count": 3,
+      "triangles": [
+        64904,
+        26516,
+        7304
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Frame.M_DeepDelverMark_Frame",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/DeepDelverMark_0_M_DeepDelverMark_Frame.DeepDelverMark_0_M_DeepDelverMark_Frame"
+        },
+        {
+          "index": 1,
+          "source": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Cavern.M_DeepDelverMark_Cavern",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/DeepDelverMark_1_M_DeepDelverMark_Cavern.DeepDelverMark_1_M_DeepDelverMark_Cavern"
+        },
+        {
+          "index": 2,
+          "source": "/Game/Terrarium/Blender/DeepDelverMark/M_DeepDelverMark_Crystal.M_DeepDelverMark_Crystal",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/DeepDelverMark_2_M_DeepDelverMark_Crystal.DeepDelverMark_2_M_DeepDelverMark_Crystal"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_DeepDelverMark_MarketFront",
+          "transform": {
+            "location": [
+              355.0,
+              627.988996720314,
+              590.0
+            ],
+            "scale": [
+              0.23,
+              0.23,
+              0.23
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "Grove",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Grove.SM_HP_Grove",
+      "lod_count": 3,
+      "triangles": [
+        11772,
+        4796,
+        1308
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/Grove/M_Grove_Leaf.M_Grove_Leaf",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Grove_0_M_Grove_Leaf.Grove_0_M_Grove_Leaf"
+        },
+        {
+          "index": 1,
+          "source": "/Game/Terrarium/Blender/Grove/M_Grove_Stem.M_Grove_Stem",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Grove_1_M_Grove_Stem.Grove_1_M_Grove_Stem"
+        },
+        {
+          "index": 2,
+          "source": "/Game/Terrarium/Blender/Grove/M_Grove_Soil.M_Grove_Soil",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Grove_2_M_Grove_Soil.Grove_2_M_Grove_Soil"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_Grove_MarketCounter",
+          "transform": {
+            "location": [
+              371.75,
+              624.0,
+              635.0436862301826
+            ],
+            "scale": [
+              0.24,
+              0.24,
+              0.24
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "Tide",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Tide.SM_HP_Tide",
+      "lod_count": 3,
+      "triangles": [
+        16740,
+        6820,
+        1860
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/Tide/M_Tide_Wave.M_Tide_Wave",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Tide_0_M_Tide_Wave.Tide_0_M_Tide_Wave"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_Tide_MarketCounter",
+          "transform": {
+            "location": [
+              199.0,
+              624.0,
+              635.4504285144806
+            ],
+            "scale": [
+              0.24,
+              0.24,
+              0.24
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "Ember",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Ember.SM_HP_Ember",
+      "lod_count": 3,
+      "triangles": [
+        60156,
+        24508,
+        6684
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/Ember/M_Ember_Flame.M_Ember_Flame",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Ember_0_M_Ember_Flame.Ember_0_M_Ember_Flame"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_Ember_MarketCounter",
+          "transform": {
+            "location": [
+              337.5,
+              626.3,
+              635.040996293053
+            ],
+            "scale": [
+              0.145,
+              0.145,
+              0.145
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "Storm",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Storm.SM_HP_Storm",
+      "lod_count": 3,
+      "triangles": [
+        8791,
+        4001,
+        1338
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "none",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/Storm/M_Storm_Lightning.M_Storm_Lightning",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Storm_0_M_Storm_Lightning.Storm_0_M_Storm_Lightning"
+        },
+        {
+          "index": 1,
+          "source": "/Game/Terrarium/Blender/Storm/M_Storm_Cloud.M_Storm_Cloud",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Storm_1_M_Storm_Cloud.Storm_1_M_Storm_Cloud"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_Storm_MarketCounter",
+          "transform": {
+            "location": [
+              397.0,
+              626.0,
+              635.5572565947473
+            ],
+            "scale": [
+              0.11,
+              0.11,
+              0.11
+            ],
+            "quaternion": [
+              -0.0,
+              0.0,
+              -0.7071067811865476,
+              0.7071067811865477
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "BridgeThreshold",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BridgeThreshold.SM_HP_BridgeThreshold",
+      "lod_count": 3,
+      "triangles": [
+        1512,
+        616,
+        168
+      ],
+      "screen_sizes": [
+        1.0,
+        0.1599999964237213,
+        0.04500000178813934
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "complex_as_simple",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Blender/BridgeThreshold/M_BridgeThreshold.M_BridgeThreshold",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/BridgeThreshold_0_M_BridgeThreshold.BridgeThreshold_0_M_BridgeThreshold"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Blender_BridgeThreshold_South",
+          "transform": {
+            "location": [
+              868.4032036437609,
+              -1758.2932047080294,
+              280.0
+            ],
+            "scale": [
+              1.0,
+              1.0,
+              1.0
+            ],
+            "quaternion": [
+              -0.0,
+              0.0,
+              -0.03489949670250097,
+              0.9993908270190959
+            ]
+          }
+        }
+      ],
+      "lod_method": "Three actual Blender FBX meshes"
+    },
+    {
+      "name": "BlueShed",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_BlueShed.SM_HP_BlueShed",
+      "lod_count": 3,
+      "triangles": [
+        8140,
+        5860,
+        3418
+      ],
+      "screen_sizes": [
+        1.0,
+        0.20000000298023224,
+        0.06499999761581421
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "complex_as_simple",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Environment/Materials/M_EnvironmentPigment.M_EnvironmentPigment",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/BlueShed_0_M_EnvironmentPigment.BlueShed_0_M_EnvironmentPigment"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Reference_BlueShed",
+          "transform": {
+            "location": [
+              529.3526233870311,
+              314.57931995911304,
+              560.0
+            ],
+            "scale": [
+              1.2,
+              1.2,
+              1.2
+            ],
+            "quaternion": [
+              0.0,
+              0.0,
+              0.0,
+              1.0
+            ]
+          }
+        }
+      ],
+      "lod_method": "Unreal reduction of preserved source mesh"
+    },
+    {
+      "name": "Tower",
+      "mesh": "/Game/Terrarium/HomesteadPilot/RemainingArt/Meshes/SM_HP_Tower.SM_HP_Tower",
+      "lod_count": 3,
+      "triangles": [
+        5148,
+        3706,
+        2162
+      ],
+      "screen_sizes": [
+        1.0,
+        0.20000000298023224,
+        0.06499999761581421
+      ],
+      "bounds_error_cm": 0.0,
+      "collision": "complex_as_simple",
+      "materials": [
+        {
+          "index": 0,
+          "source": "/Game/Terrarium/Environment/Materials/M_EnvironmentPigment.M_EnvironmentPigment",
+          "pilot": "/Game/Terrarium/HomesteadPilot/RemainingArt/Materials/Tower_0_M_EnvironmentPigment.Tower_0_M_EnvironmentPigment"
+        }
+      ],
+      "placements": [
+        {
+          "actor": "Reference_Tower",
+          "transform": {
+            "location": [
+              -344.3574945521653,
+              -515.1307979800832,
+              560.0
+            ],
+            "scale": [
+              1.0,
+              1.0,
+              1.0
+            ],
+            "quaternion": [
+              0.0,
+              -0.0,
+              0.7071067811865475,
+              0.7071067811865477
+            ]
+          }
+        }
+      ],
+      "lod_method": "Unreal reduction of preserved source mesh"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "manifest_sha256": "884dc02af87157fb8bde3f370bfddbce7fce61d6e8dadec932aeaee093684d0c",
+  "importer_sha256": "743ffc0e3b2336602eb62f47440b994618970444c7f1c199ff876b2441bdddd3",
+  "provenance": "Captured during initial coordinator import; source manifest and importer remained unchanged since that import began.",
+  "original_manifest_sha256": "374caa49a9c21be50ebc554f1ccf6f40d12778294cd5177813867e95b54848ae",
+  "authorized_revision": "Restored per-face material indices for seven not-yet-imported multi-material assets; exact vertex and polygon topology equivalence asserted. Lodge and CivicHall specs unchanged.",
+  "historical_importer_sha256": "8579a5e4c6e617ed51283b1bca02ff69cf462d47a4978c9f821c64d648e09c63",
+  "importer_revision": "Collision policy correction approved by coordinator: future imports inherit baseline body flags/LOD/aggregate primitives and preserve component profile/enabled/overlap settings; no current native asset edits."
+}

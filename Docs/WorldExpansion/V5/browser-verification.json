@@ -1,0 +1,9 @@
+{
+  "url": "http://127.0.0.1:8770/WorldExpansion/V5/review.html",
+  "http_status": 200,
+  "current_v5_visible": true,
+  "previous_terrain_toggle_verified": true,
+  "returned_to_current_v5": true,
+  "native_comparison_views": 9,
+  "old_preview_server": "8769 returned empty responses; new local server uses 8770"
+}

@@ -1,0 +1,150 @@
+{
+  "level": "/Game/Terrarium/Calibration/Maps/ConceptScaleBlockout",
+  "saved": true,
+  "correction_pass": 1,
+  "scope": "main terrace stair corridor plus cottage and person measured horizontal widths",
+  "camera_unchanged": true,
+  "original_assets_retained": true,
+  "convex_parts": 34,
+  "removed_ground_area_world_units_squared": 11979.818380376324,
+  "corridor_projected_at_main_height": [
+    [
+      141.45999999999998,
+      430.5398898043516
+    ],
+    [
+      175.06,
+      415.97988980435167
+    ],
+    [
+      207.54,
+      419.34194678978776
+    ],
+    [
+      173.94,
+      436.14194678978777
+    ]
+  ],
+  "size_changes": [
+    {
+      "object": "cottage",
+      "anchor_x_px": 251,
+      "screen_horizontal_factor": 1.150442477876106,
+      "before_width_px": 101.70000000000002,
+      "after_width_px": 117,
+      "height_and_contact_preserved": true,
+      "before_bounds_px": [
+        202.15,
+        218.07474100014431,
+        303.85,
+        333.0
+      ],
+      "after_bounds_px": [
+        194.80088495575222,
+        218.07474100014431,
+        311.8008849557522,
+        333.0
+      ]
+    },
+    {
+      "object": "Person",
+      "anchor_x_px": 177,
+      "screen_horizontal_factor": 1.8,
+      "before_width_px": 10.0,
+      "after_width_px": 18,
+      "height_and_contact_preserved": true,
+      "before_bounds_px": [
+        172.0,
+        365.85832352480395,
+        182.0,
+        395.00000000000006
+      ],
+      "after_bounds_px": [
+        168.0,
+        365.85832352480395,
+        186.0,
+        395.00000000000006
+      ]
+    }
+  ],
+  "generated_meshes": [
+    {
+      "label": "Terrace_main_notched",
+      "triangles": 328,
+      "closed": true,
+      "projected_bounds_px": [
+        -100.00000000000006,
+        -79.74287026138683,
+        600.0,
+        516.1248916810279
+      ]
+    },
+    {
+      "label": "Turf_main_notched",
+      "triangles": 328,
+      "closed": true,
+      "projected_bounds_px": [
+        -100.00000000000006,
+        -80.00000000000006,
+        600.0,
+        444.38569460791996
+      ]
+    },
+    {
+      "label": "cottage_walls_measured",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        201.53097345132744,
+        249.57313398027227,
+        305.070796460177,
+        333.0
+      ]
+    },
+    {
+      "label": "cottage_roof_measured",
+      "triangles": 8,
+      "closed": true,
+      "projected_bounds_px": [
+        194.80088495575222,
+        231.59886273281037,
+        311.8008849557522,
+        302.8231339802723
+      ]
+    },
+    {
+      "label": "cottage_chimney_measured",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        222.23893805309734,
+        218.07474100014431,
+        242.94690265486724,
+        293.0
+      ]
+    },
+    {
+      "label": "Person_body_measured",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        168.0,
+        370.3580939505365,
+        185.99999999999994,
+        395.00000000000006
+      ]
+    },
+    {
+      "label": "Person_head_measured",
+      "triangles": 12,
+      "closed": true,
+      "projected_bounds_px": [
+        168.0,
+        365.85832352480395,
+        186.0,
+        376.35809395053656
+      ]
+    }
+  ],
+  "visual_review": "pending native recapture"
+}

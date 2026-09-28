@@ -1,0 +1,55 @@
+00:04.516  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Cliff_Coarse.png'
+RENDERED DC_Cliff_Coarse
+00:06.625  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Cliff_Half.png'
+RENDERED DC_Cliff_Half
+00:08.719  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Cliff_Third.png'
+RENDERED DC_Cliff_Third
+00:10.813  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Cottage_Coarse.png'
+RENDERED DC_Cottage_Coarse
+00:13.016  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Cottage_Half.png'
+RENDERED DC_Cottage_Half
+00:15.157  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Cottage_Third.png'
+RENDERED DC_Cottage_Third
+00:17.219  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Tree_Coarse.png'
+RENDERED DC_Tree_Coarse
+00:19.219  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Tree_Half.png'
+RENDERED DC_Tree_Half
+00:21.157  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Tree_Third.png'
+RENDERED DC_Tree_Third
+00:22.891  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Fence_Coarse.png'
+RENDERED DC_Fence_Coarse
+00:24.625  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Fence_Half.png'
+RENDERED DC_Fence_Half
+00:26.360  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Fence_Third.png'
+RENDERED DC_Fence_Third
+00:28.141  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Bridge_Coarse.png'
+RENDERED DC_Bridge_Coarse
+00:29.969  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Bridge_Half.png'
+RENDERED DC_Bridge_Half
+00:31.875  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Bridge_Third.png'
+RENDERED DC_Bridge_Third
+00:34.641  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Cottage_Coarse_roof-close.png'
+00:37.469  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Cottage_Half_roof-close.png'
+00:40.297  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\DC_Cottage_Third_roof-close.png'
+00:45.860  render           | Saved: 'C:\Users\hello\Projects\Terrarium\Docs\DetailCalibration\overview.png'
+Info: Saved as "DetailCalibration.blend"
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+FBX version: 7400
+DETAIL_CALIBRATION_REVIEW_COMPLETE
+Blender 5.2.1 LTS (hash 9e2066aef7ef built 2026-08-25 02:38:20)
+
+Blender quit

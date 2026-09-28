@@ -1,0 +1,124 @@
+{
+  "name": "Grove",
+  "source_blend": "SourceAssets/Blender/Grove/Grove.blend",
+  "source_sha256": "f9eb0d4c092e0c319c425381da7b8062ca2299092ebc3df46c90cbef1ae1d2d4",
+  "blend": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Grove/Grove.blend",
+  "blend_sha256": "242e396b78765fa56292da2e25af301db1f5ebba891619eb571b44e969a0a443",
+  "parts_retained": 109,
+  "lods": [
+    {
+      "level": 0,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Grove/SM_HP_Grove_LOD0.fbx",
+      "triangles": 11772,
+      "vertices": 6104,
+      "bounds_m": {
+        "min": [
+          -0.5062721967697144,
+          -0.008099999278783798,
+          -0.0013204142451286316
+        ],
+        "max": [
+          0.5581201314926147,
+          0.2928299903869629,
+          1.1291286945343018
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "ced16288ffb38f9db5bafb9d181fdc9036a0c277f89f60e1fef44099e69cf431",
+      "material_slots": [
+        "M_Grove_Leaf.001",
+        "M_Grove_Stem.006",
+        "M_Grove_Soil.006"
+      ],
+      "material_face_counts": [
+        4320,
+        648,
+        918
+      ]
+    },
+    {
+      "level": 1,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Grove/SM_HP_Grove_LOD1.fbx",
+      "triangles": 4796,
+      "vertices": 2616,
+      "bounds_m": {
+        "min": [
+          -0.5062721967697144,
+          -0.008099999278783798,
+          -0.0013204142451286316
+        ],
+        "max": [
+          0.5581201314926147,
+          0.2928299903869629,
+          1.1291286945343018
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "f0def18d72c76052ae7c875f2e11cd248c9738518c04185c9e45552477aa75fc",
+      "material_slots": [
+        "M_Grove_Leaf.001",
+        "M_Grove_Stem.006",
+        "M_Grove_Soil.006"
+      ],
+      "material_face_counts": [
+        2080,
+        312,
+        442
+      ]
+    },
+    {
+      "level": 2,
+      "fbx": "SourceAssets/Blender/HomesteadPilot/RemainingArt/Grove/SM_HP_Grove_LOD2.fbx",
+      "triangles": 1308,
+      "vertices": 872,
+      "bounds_m": {
+        "min": [
+          -0.5062721967697144,
+          -0.008099999278783798,
+          -0.0013204142451286316
+        ],
+        "max": [
+          0.5581201314926147,
+          0.2928299903869629,
+          1.1291286945343018
+        ]
+      },
+      "max_bounds_delta_m": 0.0,
+      "sha256": "e47d70c3661130138f9d52814e0d02d80334af1b4bb2dca7a9140a02278f256c",
+      "material_slots": [
+        "M_Grove_Leaf.001",
+        "M_Grove_Stem.006",
+        "M_Grove_Soil.006"
+      ],
+      "material_face_counts": [
+        480,
+        72,
+        102
+      ]
+    }
+  ],
+  "bounds_m": {
+    "min": [
+      -0.5062721967697144,
+      -0.008099999278783798,
+      -0.0013204142451286316
+    ],
+    "max": [
+      0.5581201314926147,
+      0.2928299903869629,
+      1.1291286945343018
+    ]
+  },
+  "materials": [
+    "M_Grove_Leaf.001",
+    "M_Grove_Stem.006",
+    "M_Grove_Soil.006"
+  ],
+  "baseline_mesh": "/Game/Terrarium/Blender/Grove/SM_Blender_Grove",
+  "collision": "none",
+  "screen_sizes": [
+    1.0,
+    0.16,
+    0.045
+  ]
+}

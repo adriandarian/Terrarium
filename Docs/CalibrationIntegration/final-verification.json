@@ -1,0 +1,30 @@
+{
+  "scale_level_saved_reopened": true,
+  "patched_actors_verified": [
+    "Scale_Terrace_main_notched",
+    "Scale_Turf_main_notched",
+    "Scale_cottage_walls_measured",
+    "Scale_cottage_roof_measured",
+    "Scale_cottage_chimney_measured",
+    "Scale_Person_body_measured",
+    "Scale_Person_head_measured"
+  ],
+  "stair_actors": 8,
+  "person_height_cm": 180.0,
+  "camera_matches_fixed_reference": true,
+  "detail_level_saved_reopened": true,
+  "imported_detail_meshes": 16,
+  "saved_blender_reopened": true,
+  "baseline_unchanged": true,
+  "baseline_sha256": "c536336787fa342e656c196ce05c32690af279d94437e12431002a3fb207c74c",
+  "remaining_visual_gaps": [
+    "Bridge blockout projected width about8.8percent below manual target; annotations and hidden depth uncertain.",
+    "Flat-color calibration and prototype geometry do not constitute finished concept fidelity."
+  ],
+  "not_tested": [
+    "gameplay",
+    "animation",
+    "navigation",
+    "performance budgets"
+  ]
+}

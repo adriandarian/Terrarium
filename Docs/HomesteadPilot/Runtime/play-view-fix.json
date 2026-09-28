@@ -1,0 +1,13 @@
+{
+  "level": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome",
+  "changes": [
+    {
+      "actor": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.CameraActor_0",
+      "label": "Baseline_Orthographic_Review",
+      "before": "<AutoReceiveInput.PLAYER0: 1>",
+      "after": "DISABLED"
+    }
+  ],
+  "reason": "Inherited baseline review camera auto-activated for Player0 and overrode the possessed explorer view",
+  "PIE_view_target_validation": "Start a new PIE session and run inspect_play_view.py"
+}

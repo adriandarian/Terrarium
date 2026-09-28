@@ -1,0 +1,83 @@
+{
+  "world": "/Game/Terrarium/WorldExpansion/Maps/ValleyRegion",
+  "meshes": [
+    {
+      "actor": "WX_HomeApproach",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_HomeApproach.SM_HomeApproach",
+      "triangles": 26,
+      "collision": true,
+      "source_sha256": "6e24ed661f7de9a689b51e8e1e2bd820087f35fd9d0ac46e5276112e913ec3a6"
+    },
+    {
+      "actor": "WX_CityRoad",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_CityRoad.SM_CityRoad",
+      "triangles": 376,
+      "collision": true,
+      "source_sha256": "4462242844cf6372f528cb01b0426f0056e0401b1f245c0e7cee4dfdf637f038"
+    },
+    {
+      "actor": "WX_BrookmereRoad",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_BrookmereRoad.SM_BrookmereRoad",
+      "triangles": 230,
+      "collision": true,
+      "source_sha256": "9d36a029d87ab332f0132ab4b426d308999506d1ba059e92dad279f2b54bfd76"
+    },
+    {
+      "actor": "WX_ReedbankRoad",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_ReedbankRoad.SM_ReedbankRoad",
+      "triangles": 384,
+      "collision": true,
+      "source_sha256": "b3c6a3e0a5dc07aa3778f1bb80a0dabd9d290dfb97cab9fb71bf0aafd21c95c6"
+    },
+    {
+      "actor": "WX_HighfieldRoad",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_HighfieldRoad.SM_HighfieldRoad",
+      "triangles": 410,
+      "collision": true,
+      "source_sha256": "16a9e99aec4bd5c873215f5fb0f94181724164d8dc2445526868638ce6e753b8"
+    },
+    {
+      "actor": "WX_StonegateRoad",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_StonegateRoad.SM_StonegateRoad",
+      "triangles": 222,
+      "collision": true,
+      "source_sha256": "8a741c27bc0524d331c7518632d2d179c1496a7b5958b0afb1def9c684e1d800"
+    },
+    {
+      "actor": "WX_WesternTradeRoad",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_WesternTradeRoad.SM_WesternTradeRoad",
+      "triangles": 472,
+      "collision": true,
+      "source_sha256": "306f55fa0209af60ad28c6e0122cec668ecdf7285d8498c7e4bb1b834f691f79"
+    },
+    {
+      "actor": "WX_EasternTradeRoad",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_EasternTradeRoad.SM_EasternTradeRoad",
+      "triangles": 618,
+      "collision": true,
+      "source_sha256": "7e647b9f8e6759d90d7fc6dbebfb44f356cbed3de30ca4d7356f10f5bf1326b7"
+    },
+    {
+      "actor": "WX_AlderRiver",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_AlderRiver.SM_AlderRiver",
+      "triangles": 1280,
+      "collision": false,
+      "source_sha256": "51b3df0e35ffb71198f68391ad2752350bcf4285d12b4a0545a126dd6e9bfb39"
+    },
+    {
+      "actor": "WX_HomeTributary",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_HomeTributary.SM_HomeTributary",
+      "triangles": 48,
+      "collision": false,
+      "source_sha256": "2c519f178ec5db5bf9529452aaf7d3fd79caf971511ea4f13b9eb1070f36a22e"
+    },
+    {
+      "actor": "WX_RiverStoneBridges",
+      "mesh": "/Game/Terrarium/WorldExpansion/Terrain/Meshes/SM_RiverStoneBridges.SM_RiverStoneBridges",
+      "triangles": 1080,
+      "collision": true,
+      "source_sha256": "dd23fa4032054c1f4db8440ac88126c247baab8477d17bbe2f97fcf15557d9de"
+    }
+  ],
+  "validation": "native triangle counts and upward terrain normal checked; visual and traversal validation separate"
+}

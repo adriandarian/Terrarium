@@ -1,0 +1,50 @@
+{
+  "world": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome",
+  "PIE": false,
+  "grass_components": [
+    {
+      "actor": "Fidelity_StaticInstances",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_5",
+      "mesh": "/Game/Terrarium/Blender/GrassTerrain/SM_Blender_GrassTerrain.SM_Blender_GrassTerrain",
+      "count": 755,
+      "actor_hidden": "False",
+      "temporarily_hidden": false,
+      "properties": {
+        "visible": "True",
+        "hidden_in_game": "False",
+        "forced_lod_model": "0",
+        "min_draw_distance": "0.0",
+        "ld_max_draw_distance": "0.0",
+        "cached_max_draw_distance": "0.0",
+        "instance_start_cull_distance": "0",
+        "instance_end_cull_distance": "0",
+        "render_in_main_pass": "True"
+      },
+      "materials": [
+        "<Object '/Game/Terrarium/Blender/GrassTerrain/M_GrassTerrain.M_GrassTerrain' (0x00000155338DEE00) Class 'Material'>"
+      ]
+    },
+    {
+      "actor": "Fidelity_StaticInstances",
+      "component": "/Game/Terrarium/HomesteadPilot/Maps/StartingHome.StartingHome:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_6",
+      "mesh": "/Game/Terrarium/Blender/GrassTerrain/SM_Blender_GrassTerrain.SM_Blender_GrassTerrain",
+      "count": 5086,
+      "actor_hidden": "False",
+      "temporarily_hidden": false,
+      "properties": {
+        "visible": "True",
+        "hidden_in_game": "False",
+        "forced_lod_model": "0",
+        "min_draw_distance": "0.0",
+        "ld_max_draw_distance": "0.0",
+        "cached_max_draw_distance": "0.0",
+        "instance_start_cull_distance": "0",
+        "instance_end_cull_distance": "0",
+        "render_in_main_pass": "True"
+      },
+      "materials": [
+        "<Object '/Game/Terrarium/Blender/GrassTerrain/M_GrassTerrain.M_GrassTerrain' (0x00000155338DEE00) Class 'Material'>"
+      ]
+    }
+  ]
+}

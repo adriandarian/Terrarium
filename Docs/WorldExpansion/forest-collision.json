@@ -1,0 +1,26 @@
+{
+  "private_mesh": "/Game/Terrarium/WorldExpansion/Forest/SM_WX_BroadTree5m.SM_WX_BroadTree5m",
+  "source_mesh": "/Game/Terrarium/HomesteadPilot/Landscape/Meshes/SM_BroadTree5m.SM_BroadTree5m",
+  "source_sha256": "8709e2e57eb7bd176af12506a5dc942b09b6cb70f8534b53e913585ce277c117",
+  "source_disk_unchanged": true,
+  "actual_visual_lod_triangles": [
+    11584,
+    8688,
+    5792
+  ],
+  "visual_lods_and_materials_preserved": true,
+  "simple_collision_primitives": 1,
+  "capsule_center_cm": [
+    0,
+    0,
+    130
+  ],
+  "capsule_radius_cm": 30,
+  "capsule_cylinder_length_cm": 200,
+  "capsule_total_height_cm": 260,
+  "trace_policy": "<CollisionTraceFlag.CTF_USE_SIMPLE_AND_COMPLEX: 1>",
+  "complex_collision_lod": 2,
+  "private_foliage_type": "/Game/Terrarium/WorldExpansion/Forest/FT_WX_BroadTree5m.FT_WX_BroadTree5m",
+  "rebuild": "Native StaticMeshEditorSubsystem identical LOD0 build-settings round-trip; region private forest instances recreated.",
+  "limits": "Native shape/property/source preservation evidence. Run forest simple traces and pawn collision checks; this receipt alone does not assert cooked collision success."
+}

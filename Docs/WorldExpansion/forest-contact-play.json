@@ -1,0 +1,866 @@
+{
+  "world": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion",
+  "playing": true,
+  "sampled_trees": 12,
+  "rows": [
+    {
+      "source_index": 0,
+      "planned_ground_cm": [
+        14738.7,
+        -45527.3,
+        653.2
+      ],
+      "matched_instances": 1,
+      "ground_traces": [
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            14738.7,
+            -45527.3,
+            661.2356708984375
+          ],
+          "impact_normal": [
+            -0.03144142148099583,
+            -0.014051596434747727,
+            0.9994068188945328
+          ],
+          "actor": "WX_Terrain_4_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_788.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": false,
+          "root_to_terrain_cm": -8.035670898437502,
+          "within_30cm_contact_tolerance": true
+        },
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            14738.7,
+            -45527.3,
+            661.2356708984375
+          ],
+          "impact_normal": [
+            -0.03144142148099583,
+            -0.014051596434747727,
+            0.9994068188945328
+          ],
+          "actor": "WX_Terrain_4_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_788.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": true,
+          "root_to_terrain_cm": -8.035670898437502,
+          "within_30cm_contact_tolerance": true
+        }
+      ],
+      "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+      "instance_index": 0,
+      "visual_bottom_z_cm": 653.2,
+      "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "simple_trunk_ray": {
+        "blocking_hit": true,
+        "impact_point_cm": [
+          14707.319995891268,
+          -45527.3,
+          753.2
+        ],
+        "impact_normal": [
+          -1.0,
+          0.0,
+          0.0
+        ],
+        "actor": "Fidelity_StaticInstances",
+        "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+        "instance_index": 0,
+        "matched_tree_instance": true
+      }
+    },
+    {
+      "source_index": 200,
+      "planned_ground_cm": [
+        67044.2,
+        -29025.0,
+        3071.3999999999996
+      ],
+      "matched_instances": 1,
+      "ground_traces": [
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            67044.2,
+            -29025.0,
+            3079.4241708984373
+          ],
+          "impact_normal": [
+            -0.0017052601861131255,
+            0.3997255197207726,
+            0.9166332968923048
+          ],
+          "actor": "WX_Terrain_7_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_813.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": false,
+          "root_to_terrain_cm": -8.02417089843766,
+          "within_30cm_contact_tolerance": true
+        },
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            67044.2,
+            -29025.0,
+            3079.4241708984373
+          ],
+          "impact_normal": [
+            -0.0017052601861131255,
+            0.3997255197207726,
+            0.9166332968923048
+          ],
+          "actor": "WX_Terrain_7_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_813.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": true,
+          "root_to_terrain_cm": -8.02417089843766,
+          "within_30cm_contact_tolerance": true
+        }
+      ],
+      "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+      "instance_index": 200,
+      "visual_bottom_z_cm": 3071.3999999999996,
+      "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "simple_trunk_ray": {
+        "blocking_hit": true,
+        "impact_point_cm": [
+          67011.58999767197,
+          -29025.0,
+          3171.3999999999996
+        ],
+        "impact_normal": [
+          -1.0,
+          0.0,
+          0.0
+        ],
+        "actor": "Fidelity_StaticInstances",
+        "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+        "instance_index": 200,
+        "matched_tree_instance": true
+      }
+    },
+    {
+      "source_index": 400,
+      "planned_ground_cm": [
+        58901.4,
+        -25010.0,
+        1438.8
+      ],
+      "matched_instances": 1,
+      "ground_traces": [
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            58901.4,
+            -25010.0,
+            1446.8231138183594
+          ],
+          "impact_normal": [
+            -0.028367881220502756,
+            0.23531776877621013,
+            0.9715044060699086
+          ],
+          "actor": "WX_Terrain_6_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_805.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": false,
+          "root_to_terrain_cm": -8.023113818359434,
+          "within_30cm_contact_tolerance": true
+        },
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            58901.4,
+            -25010.0,
+            1446.8231138183594
+          ],
+          "impact_normal": [
+            -0.028367881220502756,
+            0.23531776877621013,
+            0.9715044060699086
+          ],
+          "actor": "WX_Terrain_6_2",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_805.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": true,
+          "root_to_terrain_cm": -8.023113818359434,
+          "within_30cm_contact_tolerance": true
+        }
+      ],
+      "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+      "instance_index": 400,
+      "visual_bottom_z_cm": 1438.8,
+      "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "simple_trunk_ray": {
+        "blocking_hit": true,
+        "impact_point_cm": [
+          58872.269999826145,
+          -25010.0,
+          1538.8
+        ],
+        "impact_normal": [
+          -1.0,
+          1.1102230587076555e-16,
+          0.0
+        ],
+        "actor": "Fidelity_StaticInstances",
+        "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+        "instance_index": 400,
+        "matched_tree_instance": true
+      }
+    },
+    {
+      "source_index": 600,
+      "planned_ground_cm": [
+        44706.200000000004,
+        -6106.900000000001,
+        511.4
+      ],
+      "matched_instances": 1,
+      "ground_traces": [
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            44706.200000000004,
+            -6106.900000000001,
+            519.4065372314453
+          ],
+          "impact_normal": [
+            0.009598801330541386,
+            0.013338286544481763,
+            0.9998649674456417
+          ],
+          "actor": "WX_Terrain_6_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_806.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": false,
+          "root_to_terrain_cm": -8.00653723144535,
+          "within_30cm_contact_tolerance": true
+        },
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            44706.200000000004,
+            -6106.900000000001,
+            519.4065372314453
+          ],
+          "impact_normal": [
+            0.009598801330541386,
+            0.013338286544481763,
+            0.9998649674456417
+          ],
+          "actor": "WX_Terrain_6_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_806.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": true,
+          "root_to_terrain_cm": -8.00653723144535,
+          "within_30cm_contact_tolerance": true
+        }
+      ],
+      "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+      "instance_index": 600,
+      "visual_bottom_z_cm": 511.4,
+      "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "simple_trunk_ray": {
+        "blocking_hit": true,
+        "impact_point_cm": [
+          44670.08000279125,
+          -6106.900000000001,
+          611.4
+        ],
+        "impact_normal": [
+          -1.0,
+          0.0,
+          0.0
+        ],
+        "actor": "Fidelity_StaticInstances",
+        "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+        "instance_index": 600,
+        "matched_tree_instance": true
+      }
+    },
+    {
+      "source_index": 800,
+      "planned_ground_cm": [
+        -93.8,
+        -46690.9,
+        935.1000000000001
+      ],
+      "matched_instances": 1,
+      "ground_traces": [
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            -93.8,
+            -46690.9,
+            943.0959983276368
+          ],
+          "impact_normal": [
+            -0.008659642933143492,
+            0.003919866843973852,
+            0.9999548215935538
+          ],
+          "actor": "WX_Terrain_3_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_780.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": false,
+          "root_to_terrain_cm": -7.995998327636698,
+          "within_30cm_contact_tolerance": true
+        },
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            -93.8,
+            -46690.9,
+            943.0959983276368
+          ],
+          "impact_normal": [
+            -0.008659642933143492,
+            0.003919866843973852,
+            0.9999548215935538
+          ],
+          "actor": "WX_Terrain_3_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_780.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": true,
+          "root_to_terrain_cm": -7.995998327636698,
+          "within_30cm_contact_tolerance": true
+        }
+      ],
+      "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+      "instance_index": 800,
+      "visual_bottom_z_cm": 935.1000000000001,
+      "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "simple_trunk_ray": {
+        "blocking_hit": true,
+        "impact_point_cm": [
+          -133.63999856908634,
+          -46690.9,
+          1035.1000000000001
+        ],
+        "impact_normal": [
+          -1.0,
+          1.1102230687526654e-16,
+          0.0
+        ],
+        "actor": "Fidelity_StaticInstances",
+        "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+        "instance_index": 800,
+        "matched_tree_instance": true
+      }
+    },
+    {
+      "source_index": 1000,
+      "planned_ground_cm": [
+        -49035.4,
+        -53549.0,
+        1679.7999999999997
+      ],
+      "matched_instances": 1,
+      "ground_traces": [
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            -49035.4,
+            -53549.0,
+            1687.8350907226563
+          ],
+          "impact_normal": [
+            0.0036557285736235445,
+            0.27273135065573123,
+            0.9620832843460574
+          ],
+          "actor": "WX_Terrain_1_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_764.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": false,
+          "root_to_terrain_cm": -8.035090722656605,
+          "within_30cm_contact_tolerance": true
+        },
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            -49035.4,
+            -53549.0,
+            1687.8350907226563
+          ],
+          "impact_normal": [
+            0.0036557285736235445,
+            0.27273135065573123,
+            0.9620832843460574
+          ],
+          "actor": "WX_Terrain_1_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_764.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": true,
+          "root_to_terrain_cm": -8.035090722656605,
+          "within_30cm_contact_tolerance": true
+        }
+      ],
+      "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+      "instance_index": 1000,
+      "visual_bottom_z_cm": 1679.7999999999997,
+      "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "simple_trunk_ray": {
+        "blocking_hit": true,
+        "impact_point_cm": [
+          -49072.56999968863,
+          -53549.0,
+          1779.7999999999997
+        ],
+        "impact_normal": [
+          -1.0,
+          0.0,
+          0.0
+        ],
+        "actor": "Fidelity_StaticInstances",
+        "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+        "instance_index": 1000,
+        "matched_tree_instance": true
+      }
+    },
+    {
+      "source_index": 1199,
+      "planned_ground_cm": [
+        -64290.9,
+        -13175.0,
+        3272.5
+      ],
+      "matched_instances": 1,
+      "ground_traces": [
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            -64290.9,
+            -13175.0,
+            3280.5328937988284
+          ],
+          "impact_normal": [
+            0.22129509555677265,
+            0.30445475114945425,
+            0.9264641305442121
+          ],
+          "actor": "WX_Terrain_0_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_758.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": false,
+          "root_to_terrain_cm": -8.032893798828354,
+          "within_30cm_contact_tolerance": true
+        },
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            -64290.9,
+            -13175.0,
+            3280.5328937988284
+          ],
+          "impact_normal": [
+            0.22129509555677265,
+            0.30445475114945425,
+            0.9264641305442121
+          ],
+          "actor": "WX_Terrain_0_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_758.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": true,
+          "root_to_terrain_cm": -8.032893798828354,
+          "within_30cm_contact_tolerance": true
+        }
+      ],
+      "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+      "instance_index": 1199,
+      "visual_bottom_z_cm": 3272.5,
+      "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "simple_trunk_ray": {
+        "blocking_hit": true,
+        "impact_point_cm": [
+          -64320.20999933282,
+          -13175.0,
+          3372.5
+        ],
+        "impact_normal": [
+          -1.0,
+          0.0,
+          0.0
+        ],
+        "actor": "Fidelity_StaticInstances",
+        "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+        "instance_index": 1199,
+        "matched_tree_instance": true
+      }
+    },
+    {
+      "source_index": 1399,
+      "planned_ground_cm": [
+        -1556.3,
+        60947.2,
+        6118.9
+      ],
+      "matched_instances": 1,
+      "ground_traces": [
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            -1556.3,
+            60947.2,
+            6126.92840439453
+          ],
+          "impact_normal": [
+            -0.14222223451829014,
+            -0.4470144745684238,
+            0.8831482862662084
+          ],
+          "actor": "WX_Terrain_3_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_786.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": false,
+          "root_to_terrain_cm": -8.028404394530298,
+          "within_30cm_contact_tolerance": true
+        },
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            -1556.3,
+            60947.2,
+            6126.92840439453
+          ],
+          "impact_normal": [
+            -0.14222223451829014,
+            -0.4470144745684238,
+            0.8831482862662084
+          ],
+          "actor": "WX_Terrain_3_7",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_786.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": true,
+          "root_to_terrain_cm": -8.028404394530298,
+          "within_30cm_contact_tolerance": true
+        }
+      ],
+      "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+      "instance_index": 1399,
+      "visual_bottom_z_cm": 6118.9,
+      "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "simple_trunk_ray": {
+        "blocking_hit": true,
+        "impact_point_cm": [
+          -1593.2300009459836,
+          60947.2,
+          6218.9
+        ],
+        "impact_normal": [
+          -1.0,
+          -1.1102230053606098e-16,
+          0.0
+        ],
+        "actor": "Fidelity_StaticInstances",
+        "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+        "instance_index": 1399,
+        "matched_tree_instance": true
+      }
+    },
+    {
+      "source_index": 1599,
+      "planned_ground_cm": [
+        19940.600000000002,
+        -12256.8,
+        1165.0
+      ],
+      "matched_instances": 1,
+      "ground_traces": [
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            19940.600000000002,
+            -12256.8,
+            1172.9689485351564
+          ],
+          "impact_normal": [
+            -0.020245451661378977,
+            -0.05452740209037017,
+            0.9983070089447944
+          ],
+          "actor": "WX_Terrain_4_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_790.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": false,
+          "root_to_terrain_cm": -7.968948535156414,
+          "within_30cm_contact_tolerance": true
+        },
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            19940.600000000002,
+            -12256.8,
+            1172.9689485351564
+          ],
+          "impact_normal": [
+            -0.020245451661378977,
+            -0.05452740209037017,
+            0.9983070089447944
+          ],
+          "actor": "WX_Terrain_4_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_790.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": true,
+          "root_to_terrain_cm": -7.968948535156414,
+          "within_30cm_contact_tolerance": true
+        }
+      ],
+      "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+      "instance_index": 1599,
+      "visual_bottom_z_cm": 1165.0,
+      "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "simple_trunk_ray": {
+        "blocking_hit": true,
+        "impact_point_cm": [
+          19902.619997838414,
+          -12256.8,
+          1265.0
+        ],
+        "impact_normal": [
+          -1.0,
+          0.0,
+          0.0
+        ],
+        "actor": "Fidelity_StaticInstances",
+        "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+        "instance_index": 1599,
+        "matched_tree_instance": true
+      }
+    },
+    {
+      "source_index": 1799,
+      "planned_ground_cm": [
+        46855.700000000004,
+        -47154.2,
+        3334.7999999999997
+      ],
+      "matched_instances": 1,
+      "ground_traces": [
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            46855.700000000004,
+            -47154.2,
+            3342.776670117189
+          ],
+          "impact_normal": [
+            -0.33065285433454994,
+            0.026697321532188734,
+            0.943374762723395
+          ],
+          "actor": "WX_Terrain_6_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_804.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": false,
+          "root_to_terrain_cm": -7.976670117189315,
+          "within_30cm_contact_tolerance": true
+        },
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            46855.700000000004,
+            -47154.2,
+            3342.776670117189
+          ],
+          "impact_normal": [
+            -0.33065285433454994,
+            0.026697321532188734,
+            0.943374762723395
+          ],
+          "actor": "WX_Terrain_6_1",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_804.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": true,
+          "root_to_terrain_cm": -7.976670117189315,
+          "within_30cm_contact_tolerance": true
+        }
+      ],
+      "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+      "instance_index": 1799,
+      "visual_bottom_z_cm": 3334.7999999999997,
+      "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "simple_trunk_ray": {
+        "blocking_hit": true,
+        "impact_point_cm": [
+          46820.899999438334,
+          -47154.2,
+          3434.7999999999997
+        ],
+        "impact_normal": [
+          -1.0,
+          0.0,
+          0.0
+        ],
+        "actor": "Fidelity_StaticInstances",
+        "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+        "instance_index": 1799,
+        "matched_tree_instance": true
+      }
+    },
+    {
+      "source_index": 1999,
+      "planned_ground_cm": [
+        -13176.2,
+        17444.0,
+        920.3
+      ],
+      "matched_instances": 1,
+      "ground_traces": [
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            -13176.2,
+            17444.0,
+            928.2871233154299
+          ],
+          "impact_normal": [
+            0.25441842082361155,
+            -0.060998608734831726,
+            0.9651686054146367
+          ],
+          "actor": "WX_Terrain_3_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_783.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": false,
+          "root_to_terrain_cm": -7.987123315429926,
+          "within_30cm_contact_tolerance": true
+        },
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            -13176.2,
+            17444.0,
+            928.2871233154299
+          ],
+          "impact_normal": [
+            0.25441842082361155,
+            -0.060998608734831726,
+            0.9651686054146367
+          ],
+          "actor": "WX_Terrain_3_4",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_783.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": true,
+          "root_to_terrain_cm": -7.987123315429926,
+          "within_30cm_contact_tolerance": true
+        }
+      ],
+      "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+      "instance_index": 1999,
+      "visual_bottom_z_cm": 920.3,
+      "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "simple_trunk_ray": {
+        "blocking_hit": true,
+        "impact_point_cm": [
+          -13224.079992187992,
+          17444.0,
+          1020.3
+        ],
+        "impact_normal": [
+          -1.0,
+          0.0,
+          0.0
+        ],
+        "actor": "Fidelity_StaticInstances",
+        "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+        "instance_index": 1999,
+        "matched_tree_instance": true
+      }
+    },
+    {
+      "source_index": 2199,
+      "planned_ground_cm": [
+        -46057.4,
+        -19273.8,
+        593.3
+      ],
+      "matched_instances": 1,
+      "ground_traces": [
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            -46057.4,
+            -19273.8,
+            601.3135268798828
+          ],
+          "impact_normal": [
+            -0.013203742708693952,
+            -0.04774125061074305,
+            0.9987724636615714
+          ],
+          "actor": "WX_Terrain_1_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_766.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": false,
+          "root_to_terrain_cm": -8.013526879882875,
+          "within_30cm_contact_tolerance": true
+        },
+        {
+          "blocking_hit": true,
+          "impact_point_cm": [
+            -46057.4,
+            -19273.8,
+            601.3135268798828
+          ],
+          "impact_normal": [
+            -0.013203742708693952,
+            -0.04774125061074305,
+            0.9987724636615714
+          ],
+          "actor": "WX_Terrain_1_3",
+          "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.StaticMeshActor_766.StaticMeshComponent0",
+          "instance_index": -1,
+          "trace_complex": true,
+          "root_to_terrain_cm": -8.013526879882875,
+          "within_30cm_contact_tolerance": true
+        }
+      ],
+      "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+      "instance_index": 2199,
+      "visual_bottom_z_cm": 593.3,
+      "pawn_response": "<CollisionResponseType.ECR_BLOCK: 2>",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "simple_trunk_ray": {
+        "blocking_hit": true,
+        "impact_point_cm": [
+          -46094.210002340544,
+          -19273.8,
+          693.3
+        ],
+        "impact_normal": [
+          -1.0,
+          -5.5511149772594725e-17,
+          0.0
+        ],
+        "actor": "Fidelity_StaticInstances",
+        "component": "/Game/Terrarium/WorldExpansion/Maps/UEDPIE_0_ValleyRegion.ValleyRegion:PersistentLevel.InstancedFoliageActor_0.FoliageInstancedStaticMeshComponent_31",
+        "instance_index": 2199,
+        "matched_tree_instance": true
+      }
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "instance_matches_passed": true,
+  "all_sampled_ground_contacts_within_30cm": true,
+  "all_sampled_simple_trunk_rays_hit_expected_instance": true,
+  "scope": "Twelve deterministic tree samples distributed through the forest manifest. Terrain queries ignore all foliage. Separate simple Visibility rays cross the trunk at one metre above visual mesh bounds bottom.",
+  "limits": "Root bounds and sampled terrain heights do not prove complete slope contact. Trunk rays do not prove capsule traversal or complete branch/canopy collision. No actors, transforms, meshes, or saves are changed."
+}
